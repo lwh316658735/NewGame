@@ -396,7 +396,7 @@
       "Width": 189,
       "Height": 131,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": false,
+      "IsLockedInEditor": true,
       "ZIndex": 9,
       "Text": "",
       "FontFamily": "NSimSun",
@@ -553,7 +553,7 @@
       "Width": 189,
       "Height": 131,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": false,
+      "IsLockedInEditor": true,
       "ZIndex": 9,
       "Text": "",
       "FontFamily": "NSimSun",
@@ -710,7 +710,7 @@
       "Width": 189,
       "Height": 131,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": false,
+      "IsLockedInEditor": true,
       "ZIndex": 9,
       "Text": "",
       "FontFamily": "NSimSun",
@@ -1415,7 +1415,7 @@
       "ControlId": "image4",
       "DisplayName": "图片 12",
       "Kind": "Image",
-      "X": 627,
+      "X": 632,
       "Y": 0,
       "Width": 657,
       "Height": 179,
@@ -1428,9 +1428,9 @@
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
-      "AssetId": "Asset.Asset_2",
+      "AssetId": "Asset.Asset_21",
       "AssetIds": [
-        "Asset.Asset_2"
+        "Asset.Asset_21"
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -1663,6 +1663,134 @@
       "ButtonClickAreaY": 0,
       "ButtonClickAreaWidth": 406,
       "ButtonClickAreaHeight": 91,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "image5",
+      "DisplayName": "图片 13",
+      "Kind": "Image",
+      "X": 661,
+      "Y": 12,
+      "Width": 599,
+      "Height": 163,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 13,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "Asset.Asset_20",
+      "AssetIds": [
+        "Asset.Asset_20"
+      ],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
       "IsVisibleByDefault": true
     }
   ]
