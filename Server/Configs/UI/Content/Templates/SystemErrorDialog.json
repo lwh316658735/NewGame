@@ -1,0 +1,18 @@
+{
+  "Version": 1,
+  "TemplateId": "SystemErrorDialog",
+  "DisplayName": "系统错误弹窗",
+  "Actions": [
+    {
+      "ActionId": "ok",
+      "DisplayName": "确定动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": "",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

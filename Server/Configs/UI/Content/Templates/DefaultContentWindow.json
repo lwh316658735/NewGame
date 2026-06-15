@@ -1,0 +1,18 @@
+{
+  "Version": 1,
+  "TemplateId": "DefaultContentWindow",
+  "DisplayName": "默认内容窗口",
+  "Actions": [
+    {
+      "ActionId": "action",
+      "DisplayName": "按钮 2动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": "",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

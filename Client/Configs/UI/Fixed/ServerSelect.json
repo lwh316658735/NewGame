@@ -1,0 +1,824 @@
+{
+  "Version": 1,
+  "ScreenId": "ServerSelect",
+  "DisplayName": "区服选择",
+  "Controls": [
+    {
+      "ControlId": "image",
+      "DisplayName": "图片 5",
+      "Kind": "Image",
+      "X": 0,
+      "Y": 0,
+      "Width": 1920,
+      "Height": 1080,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 1,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "Asset.3840x2160",
+      "AssetIds": [
+        "Asset.3840x2160"
+      ],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "image2",
+      "DisplayName": "图片 6",
+      "Kind": "Image",
+      "X": 416,
+      "Y": 260,
+      "Width": 1040,
+      "Height": 572,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 2,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "Asset.3840x2160_5",
+      "AssetIds": [
+        "Asset.3840x2160_5"
+      ],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "serverSelectServerList",
+      "DisplayName": "区服列表控件",
+      "Kind": "ServerList",
+      "X": 578,
+      "Y": 390,
+      "Width": 718,
+      "Height": 291,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 10,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 20,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "Asset.0_2",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "Asset.02",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "Asset.01",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [
+        {
+          "ElementId": "serverNameText",
+          "DisplayName": "区服名称文本",
+          "Kind": "Text",
+          "X": 28,
+          "Y": 0,
+          "Width": 340,
+          "Height": 76,
+          "ZIndex": 1,
+          "Text": "一区 苍月",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleLeft",
+          "IsTextWrapEnabled": false,
+          "AssetId": "",
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "BackgroundColor": ""
+        },
+        {
+          "ElementId": "serverStatusText",
+          "DisplayName": "区服状态文本",
+          "Kind": "Text",
+          "X": 430,
+          "Y": 0,
+          "Width": 120,
+          "Height": 76,
+          "ZIndex": 2,
+          "Text": "流畅",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleLeft",
+          "IsTextWrapEnabled": false,
+          "AssetId": "",
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "BackgroundColor": ""
+        }
+      ],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "serverSelectEnterGameButton",
+      "DisplayName": "进入游戏按钮",
+      "Kind": "Button",
+      "X": 706,
+      "Y": 708,
+      "Width": 220,
+      "Height": 47,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 20,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "EnterServer",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "#00000080",
+        "HotAreaFeedbackOpacity": 0.5,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 220,
+      "ButtonClickAreaHeight": 47,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "serverSelectRefreshListButton",
+      "DisplayName": "刷新列表按钮",
+      "Kind": "Button",
+      "X": 312,
+      "Y": 951,
+      "Width": 222,
+      "Height": 74,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 21,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "RefreshServerList",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "#00000080",
+        "HotAreaFeedbackOpacity": 0.5,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 222,
+      "ButtonClickAreaHeight": 74,
+      "IsVisibleByDefault": false
+    },
+    {
+      "ControlId": "serverSelectExitGameButton",
+      "DisplayName": "返回登录按钮",
+      "Kind": "Button",
+      "X": 950,
+      "Y": 707,
+      "Width": 211,
+      "Height": 48,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 22,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "BackToLogin",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "#00000080",
+        "HotAreaFeedbackOpacity": 0.5,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 211,
+      "ButtonClickAreaHeight": 48,
+      "IsVisibleByDefault": true
+    }
+  ]
+}

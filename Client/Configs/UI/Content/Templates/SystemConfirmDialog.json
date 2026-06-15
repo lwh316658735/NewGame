@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "TemplateId": "SystemConfirmDialog",
+  "DisplayName": "系统确认弹窗",
+  "X": 700,
+  "Y": 400,
+  "Width": 520,
+  "Height": 280,
+  "DisplayMode": "FixedPosition",
+  "Controls": [
+    {
+      "ControlId": "image",
+      "DisplayName": "图片 5",
+      "Kind": "Image",
+      "X": 700,
+      "Y": 400,
+      "Width": 520,
+      "Height": 280,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 0,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "Asset.Asset_18",
+      "AssetIds": [
+        "Asset.Asset_18"
+      ],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "InputId": "",
+      "SlotId": ""
+    },
+    {
+      "ControlId": "titleText",
+      "DisplayName": "标题文本",
+      "Kind": "Text",
+      "X": 731,
+      "Y": 468,
+      "Width": 456,
+      "Height": 36,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 1,
+      "Text": "请确认",
+      "FontFamily": "NSimSun",
+      "FontSize": 22,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": true,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "InputId": "",
+      "SlotId": ""
+    },
+    {
+      "ControlId": "bodyText",
+      "DisplayName": "正文文本",
+      "Kind": "Text",
+      "X": 740,
+      "Y": 482,
+      "Width": 439,
+      "Height": 119,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 2,
+      "Text": "请确认是否继续执行当前操作。",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#DDE7F2",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": true,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "InputId": "",
+      "SlotId": ""
+    },
+    {
+      "ControlId": "dragHandle",
+      "DisplayName": "拖动控件 6",
+      "Kind": "DragHandle",
+      "X": 708,
+      "Y": 421,
+      "Width": 506,
+      "Height": 40,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 6,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "InputId": "",
+      "SlotId": ""
+    },
+    {
+      "ControlId": "confirmButton",
+      "DisplayName": "确定按钮",
+      "Kind": "Button",
+      "X": 949,
+      "Y": 614,
+      "Width": 106,
+      "Height": 37,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 10,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "confirm",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "#00000080",
+        "HotAreaFeedbackOpacity": 0.5,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 106,
+      "ButtonClickAreaHeight": 37,
+      "InputId": "",
+      "SlotId": ""
+    },
+    {
+      "ControlId": "cancelButton",
+      "DisplayName": "取消按钮",
+      "Kind": "Button",
+      "X": 1069,
+      "Y": 614,
+      "Width": 98,
+      "Height": 35,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 11,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "cancel",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "#00000080",
+        "HotAreaFeedbackOpacity": 0.5,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 98,
+      "ButtonClickAreaHeight": 35,
+      "InputId": "",
+      "SlotId": ""
+    }
+  ]
+}

@@ -1,0 +1,2026 @@
+{
+  "Version": 2,
+  "Category": "游戏加载界面",
+  "Assets": [
+    {
+      "AssetId": "Asset.0001",
+      "DisplayName": "加载进度条_0001",
+      "SortOrder": 6852,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0001.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 1573,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0320158+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0002",
+      "DisplayName": "加载进度条_0002",
+      "SortOrder": 6853,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0002.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 3637,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0325144+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0003",
+      "DisplayName": "加载进度条_0003",
+      "SortOrder": 6854,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0003.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 3868,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0330161+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0004",
+      "DisplayName": "加载进度条_0004",
+      "SortOrder": 6855,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0004.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4181,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0330161+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0005",
+      "DisplayName": "加载进度条_0005",
+      "SortOrder": 6856,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0005.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4351,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0335156+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0006",
+      "DisplayName": "加载进度条_0006",
+      "SortOrder": 6857,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0006.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4354,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0335156+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0007",
+      "DisplayName": "加载进度条_0007",
+      "SortOrder": 6858,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0007.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4354,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0340163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0008",
+      "DisplayName": "加载进度条_0008",
+      "SortOrder": 6859,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0008.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4346,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0340163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0009",
+      "DisplayName": "加载进度条_0009",
+      "SortOrder": 6860,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0009.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4345,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0345159+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0010",
+      "DisplayName": "加载进度条_0010",
+      "SortOrder": 6861,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0010.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4361,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0345159+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0011",
+      "DisplayName": "加载进度条_0011",
+      "SortOrder": 6862,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0011.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4394,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0350152+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0012",
+      "DisplayName": "加载进度条_0012",
+      "SortOrder": 6863,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0012.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4436,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0350152+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0013",
+      "DisplayName": "加载进度条_0013",
+      "SortOrder": 6864,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0013.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4699,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0350152+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0014",
+      "DisplayName": "加载进度条_0014",
+      "SortOrder": 6865,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0014.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4744,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0355158+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0015",
+      "DisplayName": "加载进度条_0015",
+      "SortOrder": 6866,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0015.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4926,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0355158+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0016",
+      "DisplayName": "加载进度条_0016",
+      "SortOrder": 6867,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0016.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4970,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0360164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0017",
+      "DisplayName": "加载进度条_0017",
+      "SortOrder": 6868,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0017.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4933,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0360164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0018",
+      "DisplayName": "加载进度条_0018",
+      "SortOrder": 6869,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0018.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4910,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0360164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0019",
+      "DisplayName": "加载进度条_0019",
+      "SortOrder": 6870,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0019.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4911,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0365173+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0020",
+      "DisplayName": "加载进度条_0020",
+      "SortOrder": 6871,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0020.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4912,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0365173+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0021",
+      "DisplayName": "加载进度条_0021",
+      "SortOrder": 6872,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0021.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4914,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0370165+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0022",
+      "DisplayName": "加载进度条_0022",
+      "SortOrder": 6873,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0022.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4922,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0370165+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0023",
+      "DisplayName": "加载进度条_0023",
+      "SortOrder": 6874,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0023.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4950,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0370165+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0024",
+      "DisplayName": "加载进度条_0024",
+      "SortOrder": 6875,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0024.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4958,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0375161+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0025",
+      "DisplayName": "加载进度条_0025",
+      "SortOrder": 6876,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0025.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5272,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0380157+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0026",
+      "DisplayName": "加载进度条_0026",
+      "SortOrder": 6877,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0026.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5241,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0385163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0027",
+      "DisplayName": "加载进度条_0027",
+      "SortOrder": 6878,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0027.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5457,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0385163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0028",
+      "DisplayName": "加载进度条_0028",
+      "SortOrder": 6879,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0028.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5052,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0390166+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0029",
+      "DisplayName": "加载进度条_0029",
+      "SortOrder": 6880,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0029.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4987,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0390166+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0030",
+      "DisplayName": "加载进度条_0030",
+      "SortOrder": 6881,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0030.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4945,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0395164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0031",
+      "DisplayName": "加载进度条_0031",
+      "SortOrder": 6882,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0031.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4938,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0395164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0032",
+      "DisplayName": "加载进度条_0032",
+      "SortOrder": 6883,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0032.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4941,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0395164+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0033",
+      "DisplayName": "加载进度条_0033",
+      "SortOrder": 6884,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0033.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4928,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0405212+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0034",
+      "DisplayName": "加载进度条_0034",
+      "SortOrder": 6885,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0034.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4934,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0405212+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0035",
+      "DisplayName": "加载进度条_0035",
+      "SortOrder": 6886,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0035.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4946,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0410263+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0036",
+      "DisplayName": "加载进度条_0036",
+      "SortOrder": 6887,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0036.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4976,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.041527+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0037",
+      "DisplayName": "加载进度条_0037",
+      "SortOrder": 6888,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0037.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5278,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.041527+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0038",
+      "DisplayName": "加载进度条_0038",
+      "SortOrder": 6889,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0038.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5230,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.041527+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0039",
+      "DisplayName": "加载进度条_0039",
+      "SortOrder": 6890,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0039.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5395,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0420248+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0040",
+      "DisplayName": "加载进度条_0040",
+      "SortOrder": 6891,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0040.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5041,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0420248+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0041",
+      "DisplayName": "加载进度条_0041",
+      "SortOrder": 6892,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0041.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4982,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0425257+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0042",
+      "DisplayName": "加载进度条_0042",
+      "SortOrder": 6893,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0042.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4934,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0425257+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0043",
+      "DisplayName": "加载进度条_0043",
+      "SortOrder": 6894,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0043.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4929,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0425257+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0044",
+      "DisplayName": "加载进度条_0044",
+      "SortOrder": 6895,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0044.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4934,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0430272+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0045",
+      "DisplayName": "加载进度条_0045",
+      "SortOrder": 6896,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0045.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4948,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0435287+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0046",
+      "DisplayName": "加载进度条_0046",
+      "SortOrder": 6897,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0046.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4953,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0435287+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0047",
+      "DisplayName": "加载进度条_0047",
+      "SortOrder": 6898,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0047.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4960,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0440265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0048",
+      "DisplayName": "加载进度条_0048",
+      "SortOrder": 6899,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0048.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4962,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0440265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0049",
+      "DisplayName": "加载进度条_0049",
+      "SortOrder": 6900,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0049.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5002,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0445267+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0050",
+      "DisplayName": "加载进度条_0050",
+      "SortOrder": 6901,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0050.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5263,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0445267+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0051",
+      "DisplayName": "加载进度条_0051",
+      "SortOrder": 6902,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0051.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5297,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0450271+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0052",
+      "DisplayName": "加载进度条_0052",
+      "SortOrder": 6903,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0052.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5102,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0450271+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0053",
+      "DisplayName": "加载进度条_0053",
+      "SortOrder": 6904,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0053.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5014,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0455249+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0054",
+      "DisplayName": "加载进度条_0054",
+      "SortOrder": 6905,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0054.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4977,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0460249+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0055",
+      "DisplayName": "加载进度条_0055",
+      "SortOrder": 6906,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0055.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4955,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0460249+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0056",
+      "DisplayName": "加载进度条_0056",
+      "SortOrder": 6907,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0056.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4952,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0465254+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0057",
+      "DisplayName": "加载进度条_0057",
+      "SortOrder": 6908,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0057.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4952,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0465254+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0058",
+      "DisplayName": "加载进度条_0058",
+      "SortOrder": 6909,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0058.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4942,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0465254+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0059",
+      "DisplayName": "加载进度条_0059",
+      "SortOrder": 6910,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0059.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4953,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.047026+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0060",
+      "DisplayName": "加载进度条_0060",
+      "SortOrder": 6911,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0060.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4964,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.047026+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0061",
+      "DisplayName": "加载进度条_0061",
+      "SortOrder": 6912,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0061.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4979,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0475252+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0062",
+      "DisplayName": "加载进度条_0062",
+      "SortOrder": 6913,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0062.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5276,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0475252+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0063",
+      "DisplayName": "加载进度条_0063",
+      "SortOrder": 6914,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0063.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5223,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0475252+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0064",
+      "DisplayName": "加载进度条_0064",
+      "SortOrder": 6915,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0064.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5477,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0480258+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0065",
+      "DisplayName": "加载进度条_0065",
+      "SortOrder": 6916,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0065.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5017,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0480258+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0066",
+      "DisplayName": "加载进度条_0066",
+      "SortOrder": 6917,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0066.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4954,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0485261+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0067",
+      "DisplayName": "加载进度条_0067",
+      "SortOrder": 6918,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0067.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4925,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0485261+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0068",
+      "DisplayName": "加载进度条_0068",
+      "SortOrder": 6919,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0068.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4932,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0490265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0069",
+      "DisplayName": "加载进度条_0069",
+      "SortOrder": 6920,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0069.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4945,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0490265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0070",
+      "DisplayName": "加载进度条_0070",
+      "SortOrder": 6921,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0070.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4942,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0490265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0071",
+      "DisplayName": "加载进度条_0071",
+      "SortOrder": 6922,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0071.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4960,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.049528+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0072",
+      "DisplayName": "加载进度条_0072",
+      "SortOrder": 6923,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0072.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4953,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0500274+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0073",
+      "DisplayName": "加载进度条_0073",
+      "SortOrder": 6924,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0073.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4960,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0500274+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0074",
+      "DisplayName": "加载进度条_0074",
+      "SortOrder": 6925,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0074.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5290,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0500274+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0075",
+      "DisplayName": "加载进度条_0075",
+      "SortOrder": 6926,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0075.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5267,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.050527+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0076",
+      "DisplayName": "加载进度条_0076",
+      "SortOrder": 6927,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0076.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5407,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0510265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0077",
+      "DisplayName": "加载进度条_0077",
+      "SortOrder": 6928,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0077.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5103,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0510265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0078",
+      "DisplayName": "加载进度条_0078",
+      "SortOrder": 6929,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0078.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5030,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0515259+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0079",
+      "DisplayName": "加载进度条_0079",
+      "SortOrder": 6930,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0079.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4980,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0520268+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0080",
+      "DisplayName": "加载进度条_0080",
+      "SortOrder": 6931,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0080.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4996,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0520268+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0081",
+      "DisplayName": "加载进度条_0081",
+      "SortOrder": 6932,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0081.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5000,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0525334+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0082",
+      "DisplayName": "加载进度条_0082",
+      "SortOrder": 6933,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0082.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4997,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0525334+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0083",
+      "DisplayName": "加载进度条_0083",
+      "SortOrder": 6934,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0083.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4993,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0525334+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0084",
+      "DisplayName": "加载进度条_0084",
+      "SortOrder": 6935,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0084.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5001,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0530326+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0085",
+      "DisplayName": "加载进度条_0085",
+      "SortOrder": 6936,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0085.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5015,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0530326+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0086",
+      "DisplayName": "加载进度条_0086",
+      "SortOrder": 6937,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0086.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5024,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0535323+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0087",
+      "DisplayName": "加载进度条_0087",
+      "SortOrder": 6938,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0087.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5211,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0535323+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0088",
+      "DisplayName": "加载进度条_0088",
+      "SortOrder": 6939,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0088.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5233,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0540313+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0089",
+      "DisplayName": "加载进度条_0089",
+      "SortOrder": 6940,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0089.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 5076,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0540313+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0090",
+      "DisplayName": "加载进度条_0090",
+      "SortOrder": 6941,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0090.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4975,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0545323+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0091",
+      "DisplayName": "加载进度条_0091",
+      "SortOrder": 6942,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0091.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4904,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0545323+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0092",
+      "DisplayName": "加载进度条_0092",
+      "SortOrder": 6943,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0092.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4887,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0550321+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0093",
+      "DisplayName": "加载进度条_0093",
+      "SortOrder": 6944,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0093.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4892,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0550321+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0094",
+      "DisplayName": "加载进度条_0094",
+      "SortOrder": 6945,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0094.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4908,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0555314+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0095",
+      "DisplayName": "加载进度条_0095",
+      "SortOrder": 6946,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0095.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4908,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0555314+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0096",
+      "DisplayName": "加载进度条_0096",
+      "SortOrder": 6947,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0096.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4913,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0560319+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0097",
+      "DisplayName": "加载进度条_0097",
+      "SortOrder": 6948,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0097.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4856,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0565348+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0098",
+      "DisplayName": "加载进度条_0098",
+      "SortOrder": 6949,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0098.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4652,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0565348+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0099",
+      "DisplayName": "加载进度条_0099",
+      "SortOrder": 6950,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0099.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4620,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0565348+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0100",
+      "DisplayName": "加载进度条_0100",
+      "SortOrder": 6951,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载进度条_0100.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 4554,
+      "Width": 760,
+      "Height": 54,
+      "LastModifiedAt": "2026-06-08T12:52:25.0570333+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset",
+      "DisplayName": "加载背景_深渊法阵_重设计无麻点_含加载文字无进度条",
+      "SortOrder": 6978,
+      "Category": "游戏加载界面",
+      "RelativePath": "Client/Assets/游戏加载界面/加载背景_深渊法阵_重设计无麻点_含加载文字无进度条.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 2522773,
+      "Width": 1672,
+      "Height": 941,
+      "LastModifiedAt": "2026-06-14T06:13:09.0092144+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

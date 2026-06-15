@@ -1,0 +1,18 @@
+{
+  "Version": 1,
+  "TemplateId": "SystemMessageDialog",
+  "DisplayName": "系统提示弹窗",
+  "Actions": [
+    {
+      "ActionId": "ok",
+      "DisplayName": "确定动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": "",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

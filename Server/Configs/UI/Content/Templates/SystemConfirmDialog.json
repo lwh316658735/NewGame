@@ -1,0 +1,27 @@
+{
+  "Version": 1,
+  "TemplateId": "SystemConfirmDialog",
+  "DisplayName": "系统确认弹窗",
+  "Actions": [
+    {
+      "ActionId": "cancel",
+      "DisplayName": "取消动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": "",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "confirm",
+      "DisplayName": "确认动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": "",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

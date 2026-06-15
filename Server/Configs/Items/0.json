@@ -1,0 +1,31 @@
+{
+  "ItemId": "0",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 0,
+  "Rarity": 100,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "RequiredCharacterLevel": 0,
+    "RequiredRebirthLevel": 0,
+    "MaxDurability": 0,
+    "EquipLocations": [],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "QualityRule": {
+      "IsEnabled": false
+    },
+    "FixedAttributes": [],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

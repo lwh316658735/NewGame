@@ -1,0 +1,1872 @@
+{
+  "Models": [
+    {
+      "ModelId": "Male",
+      "DisplayName": "男性默认外观",
+      "Animations": [
+        {
+          "Action": "Idle",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0000",
+                "Character.Hum_0001",
+                "Character.Hum_0002",
+                "Character.Hum_0003"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0008",
+                "Character.Hum_0009",
+                "Character.Hum_0010",
+                "Character.Hum_0011"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0016",
+                "Character.Hum_0017",
+                "Character.Hum_0018",
+                "Character.Hum_0019"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0024",
+                "Character.Hum_0025",
+                "Character.Hum_0026",
+                "Character.Hum_0027"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0032",
+                "Character.Hum_0033",
+                "Character.Hum_0034",
+                "Character.Hum_0035"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0040",
+                "Character.Hum_0041",
+                "Character.Hum_0042",
+                "Character.Hum_0043"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0048",
+                "Character.Hum_0049",
+                "Character.Hum_0050",
+                "Character.Hum_0051"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0056",
+                "Character.Hum_0057",
+                "Character.Hum_0058",
+                "Character.Hum_0059"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Walk",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0064",
+                "Character.Hum_0065",
+                "Character.Hum_0066",
+                "Character.Hum_0067",
+                "Character.Hum_0068",
+                "Character.Hum_0069"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0072",
+                "Character.Hum_0073",
+                "Character.Hum_0074",
+                "Character.Hum_0075",
+                "Character.Hum_0076",
+                "Character.Hum_0077"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0080",
+                "Character.Hum_0081",
+                "Character.Hum_0082",
+                "Character.Hum_0083",
+                "Character.Hum_0084",
+                "Character.Hum_0085"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0088",
+                "Character.Hum_0089",
+                "Character.Hum_0090",
+                "Character.Hum_0091",
+                "Character.Hum_0092",
+                "Character.Hum_0093"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0096",
+                "Character.Hum_0097",
+                "Character.Hum_0098",
+                "Character.Hum_0099",
+                "Character.Hum_0100",
+                "Character.Hum_0101"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0104",
+                "Character.Hum_0105",
+                "Character.Hum_0106",
+                "Character.Hum_0107",
+                "Character.Hum_0108",
+                "Character.Hum_0109"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0112",
+                "Character.Hum_0113",
+                "Character.Hum_0114",
+                "Character.Hum_0115",
+                "Character.Hum_0116",
+                "Character.Hum_0117"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0120",
+                "Character.Hum_0121",
+                "Character.Hum_0122",
+                "Character.Hum_0123",
+                "Character.Hum_0124",
+                "Character.Hum_0125"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Run",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0128",
+                "Character.Hum_0129",
+                "Character.Hum_0130",
+                "Character.Hum_0131",
+                "Character.Hum_0132",
+                "Character.Hum_0133"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0136",
+                "Character.Hum_0137",
+                "Character.Hum_0138",
+                "Character.Hum_0139",
+                "Character.Hum_0140",
+                "Character.Hum_0141"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0144",
+                "Character.Hum_0145",
+                "Character.Hum_0146",
+                "Character.Hum_0147",
+                "Character.Hum_0148",
+                "Character.Hum_0149"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0152",
+                "Character.Hum_0153",
+                "Character.Hum_0154",
+                "Character.Hum_0155",
+                "Character.Hum_0156",
+                "Character.Hum_0157"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0160",
+                "Character.Hum_0161",
+                "Character.Hum_0162",
+                "Character.Hum_0163",
+                "Character.Hum_0164",
+                "Character.Hum_0165"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0168",
+                "Character.Hum_0169",
+                "Character.Hum_0170",
+                "Character.Hum_0171",
+                "Character.Hum_0172",
+                "Character.Hum_0173"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0176",
+                "Character.Hum_0177",
+                "Character.Hum_0178",
+                "Character.Hum_0179",
+                "Character.Hum_0180",
+                "Character.Hum_0181"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0184",
+                "Character.Hum_0185",
+                "Character.Hum_0186",
+                "Character.Hum_0187",
+                "Character.Hum_0188",
+                "Character.Hum_0189"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Attack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0200",
+                "Character.Hum_0201",
+                "Character.Hum_0202",
+                "Character.Hum_0203",
+                "Character.Hum_0204",
+                "Character.Hum_0205"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0208",
+                "Character.Hum_0209",
+                "Character.Hum_0210",
+                "Character.Hum_0211",
+                "Character.Hum_0212",
+                "Character.Hum_0213"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0216",
+                "Character.Hum_0217",
+                "Character.Hum_0218",
+                "Character.Hum_0219",
+                "Character.Hum_0220",
+                "Character.Hum_0221"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0224",
+                "Character.Hum_0225",
+                "Character.Hum_0226",
+                "Character.Hum_0227",
+                "Character.Hum_0228",
+                "Character.Hum_0229"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0232",
+                "Character.Hum_0233",
+                "Character.Hum_0234",
+                "Character.Hum_0235",
+                "Character.Hum_0236",
+                "Character.Hum_0237"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0240",
+                "Character.Hum_0241",
+                "Character.Hum_0242",
+                "Character.Hum_0243",
+                "Character.Hum_0244",
+                "Character.Hum_0245"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0248",
+                "Character.Hum_0249",
+                "Character.Hum_0250",
+                "Character.Hum_0251",
+                "Character.Hum_0252",
+                "Character.Hum_0253"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0256",
+                "Character.Hum_0257",
+                "Character.Hum_0258",
+                "Character.Hum_0259",
+                "Character.Hum_0260",
+                "Character.Hum_0261"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "AttackStance",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0192"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0193"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0194"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0195"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0196"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0197"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0198"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0199"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0392",
+                "Character.Hum_0393",
+                "Character.Hum_0394",
+                "Character.Hum_0395",
+                "Character.Hum_0396",
+                "Character.Hum_0397"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0400",
+                "Character.Hum_0401",
+                "Character.Hum_0402",
+                "Character.Hum_0403",
+                "Character.Hum_0404",
+                "Character.Hum_0405"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0408",
+                "Character.Hum_0409",
+                "Character.Hum_0410",
+                "Character.Hum_0411",
+                "Character.Hum_0412",
+                "Character.Hum_0413"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0416",
+                "Character.Hum_0417",
+                "Character.Hum_0418",
+                "Character.Hum_0419",
+                "Character.Hum_0420",
+                "Character.Hum_0421"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0424",
+                "Character.Hum_0425",
+                "Character.Hum_0426",
+                "Character.Hum_0427",
+                "Character.Hum_0428",
+                "Character.Hum_0429"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0432",
+                "Character.Hum_0433",
+                "Character.Hum_0434",
+                "Character.Hum_0435",
+                "Character.Hum_0436",
+                "Character.Hum_0437"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0440",
+                "Character.Hum_0441",
+                "Character.Hum_0442",
+                "Character.Hum_0443",
+                "Character.Hum_0444",
+                "Character.Hum_0445"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0448",
+                "Character.Hum_0449",
+                "Character.Hum_0450",
+                "Character.Hum_0451",
+                "Character.Hum_0452",
+                "Character.Hum_0453"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0472",
+                "Character.Hum_0473",
+                "Character.Hum_0474"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0480",
+                "Character.Hum_0481",
+                "Character.Hum_0482"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0488",
+                "Character.Hum_0489",
+                "Character.Hum_0490"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0496",
+                "Character.Hum_0497",
+                "Character.Hum_0498"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0504",
+                "Character.Hum_0505",
+                "Character.Hum_0506"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0512",
+                "Character.Hum_0513",
+                "Character.Hum_0514"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0520",
+                "Character.Hum_0521",
+                "Character.Hum_0522"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0528",
+                "Character.Hum_0529",
+                "Character.Hum_0530"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0536",
+                "Character.Hum_0537",
+                "Character.Hum_0538",
+                "Character.Hum_0539"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0544",
+                "Character.Hum_0545",
+                "Character.Hum_0546",
+                "Character.Hum_0547"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0552",
+                "Character.Hum_0553",
+                "Character.Hum_0554",
+                "Character.Hum_0555"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0560",
+                "Character.Hum_0561",
+                "Character.Hum_0562",
+                "Character.Hum_0563"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0568",
+                "Character.Hum_0569",
+                "Character.Hum_0570",
+                "Character.Hum_0571"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0576",
+                "Character.Hum_0577",
+                "Character.Hum_0578",
+                "Character.Hum_0579"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0584",
+                "Character.Hum_0585",
+                "Character.Hum_0586",
+                "Character.Hum_0587"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0592",
+                "Character.Hum_0593",
+                "Character.Hum_0594",
+                "Character.Hum_0595"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Mining",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0264",
+                "Character.Hum_0265",
+                "Character.Hum_0266",
+                "Character.Hum_0267",
+                "Character.Hum_0268",
+                "Character.Hum_0269"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0272",
+                "Character.Hum_0273",
+                "Character.Hum_0274",
+                "Character.Hum_0275",
+                "Character.Hum_0276",
+                "Character.Hum_0277"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0280",
+                "Character.Hum_0281",
+                "Character.Hum_0282",
+                "Character.Hum_0283",
+                "Character.Hum_0284",
+                "Character.Hum_0285"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0288",
+                "Character.Hum_0289",
+                "Character.Hum_0290",
+                "Character.Hum_0291",
+                "Character.Hum_0292",
+                "Character.Hum_0293"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0296",
+                "Character.Hum_0297",
+                "Character.Hum_0298",
+                "Character.Hum_0299",
+                "Character.Hum_0300",
+                "Character.Hum_0301"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0304",
+                "Character.Hum_0305",
+                "Character.Hum_0306",
+                "Character.Hum_0307",
+                "Character.Hum_0308",
+                "Character.Hum_0309"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0312",
+                "Character.Hum_0313",
+                "Character.Hum_0314",
+                "Character.Hum_0315",
+                "Character.Hum_0316",
+                "Character.Hum_0317"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0320",
+                "Character.Hum_0321",
+                "Character.Hum_0322",
+                "Character.Hum_0323",
+                "Character.Hum_0324",
+                "Character.Hum_0325"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0456",
+                "Character.Hum_0457"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0458",
+                "Character.Hum_0459"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0460",
+                "Character.Hum_0461"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0462",
+                "Character.Hum_0463"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0464",
+                "Character.Hum_0465"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0466",
+                "Character.Hum_0467"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0468",
+                "Character.Hum_0469"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0470",
+                "Character.Hum_0471"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "StationaryAttack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0328",
+                "Character.Hum_0329",
+                "Character.Hum_0330",
+                "Character.Hum_0331",
+                "Character.Hum_0332",
+                "Character.Hum_0333",
+                "Character.Hum_0334",
+                "Character.Hum_0335"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0336",
+                "Character.Hum_0337",
+                "Character.Hum_0338",
+                "Character.Hum_0339",
+                "Character.Hum_0340",
+                "Character.Hum_0341",
+                "Character.Hum_0342",
+                "Character.Hum_0343"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0344",
+                "Character.Hum_0345",
+                "Character.Hum_0346",
+                "Character.Hum_0347",
+                "Character.Hum_0348",
+                "Character.Hum_0349",
+                "Character.Hum_0350",
+                "Character.Hum_0351"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0352",
+                "Character.Hum_0353",
+                "Character.Hum_0354",
+                "Character.Hum_0355",
+                "Character.Hum_0356",
+                "Character.Hum_0357",
+                "Character.Hum_0358",
+                "Character.Hum_0359"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0360",
+                "Character.Hum_0361",
+                "Character.Hum_0362",
+                "Character.Hum_0363",
+                "Character.Hum_0364",
+                "Character.Hum_0365",
+                "Character.Hum_0366",
+                "Character.Hum_0367"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0368",
+                "Character.Hum_0369",
+                "Character.Hum_0370",
+                "Character.Hum_0371",
+                "Character.Hum_0372",
+                "Character.Hum_0373",
+                "Character.Hum_0374",
+                "Character.Hum_0375"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0376",
+                "Character.Hum_0377",
+                "Character.Hum_0378",
+                "Character.Hum_0379",
+                "Character.Hum_0380",
+                "Character.Hum_0381",
+                "Character.Hum_0382",
+                "Character.Hum_0383"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0384",
+                "Character.Hum_0385",
+                "Character.Hum_0386",
+                "Character.Hum_0387",
+                "Character.Hum_0388",
+                "Character.Hum_0389",
+                "Character.Hum_0390",
+                "Character.Hum_0391"
+              ]
+            }
+          ]
+        }
+      ],
+      "HitBox": {
+        "OffsetX": -1,
+        "OffsetY": -48,
+        "Width": 54,
+        "Height": 71
+      }
+    },
+    {
+      "ModelId": "Female",
+      "DisplayName": "女性默认外观",
+      "Animations": [
+        {
+          "Action": "Idle",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0600",
+                "Character.Hum_0601",
+                "Character.Hum_0602",
+                "Character.Hum_0603"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0608",
+                "Character.Hum_0609",
+                "Character.Hum_0610",
+                "Character.Hum_0611"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0616",
+                "Character.Hum_0617",
+                "Character.Hum_0618",
+                "Character.Hum_0619"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0624",
+                "Character.Hum_0625",
+                "Character.Hum_0626",
+                "Character.Hum_0627"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0632",
+                "Character.Hum_0633",
+                "Character.Hum_0634",
+                "Character.Hum_0635"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0640",
+                "Character.Hum_0641",
+                "Character.Hum_0642",
+                "Character.Hum_0643"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0648",
+                "Character.Hum_0649",
+                "Character.Hum_0650",
+                "Character.Hum_0651"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0656",
+                "Character.Hum_0657",
+                "Character.Hum_0658",
+                "Character.Hum_0659"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Walk",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0664",
+                "Character.Hum_0665",
+                "Character.Hum_0666",
+                "Character.Hum_0667",
+                "Character.Hum_0668",
+                "Character.Hum_0669"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0672",
+                "Character.Hum_0673",
+                "Character.Hum_0674",
+                "Character.Hum_0675",
+                "Character.Hum_0676",
+                "Character.Hum_0677"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0680",
+                "Character.Hum_0681",
+                "Character.Hum_0682",
+                "Character.Hum_0683",
+                "Character.Hum_0684",
+                "Character.Hum_0685"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0688",
+                "Character.Hum_0689",
+                "Character.Hum_0690",
+                "Character.Hum_0691",
+                "Character.Hum_0692",
+                "Character.Hum_0693"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0696",
+                "Character.Hum_0697",
+                "Character.Hum_0698",
+                "Character.Hum_0699",
+                "Character.Hum_0700",
+                "Character.Hum_0701"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0704",
+                "Character.Hum_0705",
+                "Character.Hum_0706",
+                "Character.Hum_0707",
+                "Character.Hum_0708",
+                "Character.Hum_0709"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0712",
+                "Character.Hum_0713",
+                "Character.Hum_0714",
+                "Character.Hum_0715",
+                "Character.Hum_0716",
+                "Character.Hum_0717"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0720",
+                "Character.Hum_0721",
+                "Character.Hum_0722",
+                "Character.Hum_0723",
+                "Character.Hum_0724",
+                "Character.Hum_0725"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Run",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0728",
+                "Character.Hum_0729",
+                "Character.Hum_0730",
+                "Character.Hum_0731",
+                "Character.Hum_0732",
+                "Character.Hum_0733"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0736",
+                "Character.Hum_0737",
+                "Character.Hum_0738",
+                "Character.Hum_0739",
+                "Character.Hum_0740",
+                "Character.Hum_0741"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0744",
+                "Character.Hum_0745",
+                "Character.Hum_0746",
+                "Character.Hum_0747",
+                "Character.Hum_0748",
+                "Character.Hum_0749"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0752",
+                "Character.Hum_0753",
+                "Character.Hum_0754",
+                "Character.Hum_0755",
+                "Character.Hum_0756",
+                "Character.Hum_0757"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0760",
+                "Character.Hum_0761",
+                "Character.Hum_0762",
+                "Character.Hum_0763",
+                "Character.Hum_0764",
+                "Character.Hum_0765"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0768",
+                "Character.Hum_0769",
+                "Character.Hum_0770",
+                "Character.Hum_0771",
+                "Character.Hum_0772",
+                "Character.Hum_0773"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0776",
+                "Character.Hum_0777",
+                "Character.Hum_0778",
+                "Character.Hum_0779",
+                "Character.Hum_0780",
+                "Character.Hum_0781"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0784",
+                "Character.Hum_0785",
+                "Character.Hum_0786",
+                "Character.Hum_0787",
+                "Character.Hum_0788",
+                "Character.Hum_0789"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Attack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0800",
+                "Character.Hum_0801",
+                "Character.Hum_0802",
+                "Character.Hum_0803",
+                "Character.Hum_0804",
+                "Character.Hum_0805"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0808",
+                "Character.Hum_0809",
+                "Character.Hum_0810",
+                "Character.Hum_0811",
+                "Character.Hum_0812",
+                "Character.Hum_0813"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0816",
+                "Character.Hum_0817",
+                "Character.Hum_0818",
+                "Character.Hum_0819",
+                "Character.Hum_0820",
+                "Character.Hum_0821"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0824",
+                "Character.Hum_0825",
+                "Character.Hum_0826",
+                "Character.Hum_0827",
+                "Character.Hum_0828",
+                "Character.Hum_0829"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0832",
+                "Character.Hum_0833",
+                "Character.Hum_0834",
+                "Character.Hum_0835",
+                "Character.Hum_0836",
+                "Character.Hum_0837"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0840",
+                "Character.Hum_0841",
+                "Character.Hum_0842",
+                "Character.Hum_0843",
+                "Character.Hum_0844",
+                "Character.Hum_0845"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0848",
+                "Character.Hum_0849",
+                "Character.Hum_0850",
+                "Character.Hum_0851",
+                "Character.Hum_0852",
+                "Character.Hum_0853"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0856",
+                "Character.Hum_0857",
+                "Character.Hum_0858",
+                "Character.Hum_0859",
+                "Character.Hum_0860",
+                "Character.Hum_0861"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "AttackStance",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0792"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0793"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0794"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0795"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0796"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0797"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0798"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0799"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0992",
+                "Character.Hum_0993",
+                "Character.Hum_0994",
+                "Character.Hum_0995",
+                "Character.Hum_0996",
+                "Character.Hum_0997"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_1000",
+                "Character.Hum_1001",
+                "Character.Hum_1002",
+                "Character.Hum_1003",
+                "Character.Hum_1004",
+                "Character.Hum_1005"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_1008",
+                "Character.Hum_1009",
+                "Character.Hum_1010",
+                "Character.Hum_1011",
+                "Character.Hum_1012",
+                "Character.Hum_1013"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_1016",
+                "Character.Hum_1017",
+                "Character.Hum_1018",
+                "Character.Hum_1019",
+                "Character.Hum_1020",
+                "Character.Hum_1021"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_1024",
+                "Character.Hum_1025",
+                "Character.Hum_1026",
+                "Character.Hum_1027",
+                "Character.Hum_1028",
+                "Character.Hum_1029"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1032",
+                "Character.Hum_1033",
+                "Character.Hum_1034",
+                "Character.Hum_1035",
+                "Character.Hum_1036",
+                "Character.Hum_1037"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_1040",
+                "Character.Hum_1041",
+                "Character.Hum_1042",
+                "Character.Hum_1043",
+                "Character.Hum_1044",
+                "Character.Hum_1045"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1048",
+                "Character.Hum_1049",
+                "Character.Hum_1050",
+                "Character.Hum_1051",
+                "Character.Hum_1052",
+                "Character.Hum_1053"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_1072",
+                "Character.Hum_1073",
+                "Character.Hum_1074"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_1080",
+                "Character.Hum_1081",
+                "Character.Hum_1082"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_1088",
+                "Character.Hum_1089",
+                "Character.Hum_1090"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_1096",
+                "Character.Hum_1097",
+                "Character.Hum_1098"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_1104",
+                "Character.Hum_1105",
+                "Character.Hum_1106"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1112",
+                "Character.Hum_1113",
+                "Character.Hum_1114"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_1120",
+                "Character.Hum_1121",
+                "Character.Hum_1122"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1128",
+                "Character.Hum_1129",
+                "Character.Hum_1130"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_1136",
+                "Character.Hum_1137",
+                "Character.Hum_1138",
+                "Character.Hum_1139"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_1144",
+                "Character.Hum_1145",
+                "Character.Hum_1146",
+                "Character.Hum_1147"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_1152",
+                "Character.Hum_1153",
+                "Character.Hum_1154",
+                "Character.Hum_1155"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_1160",
+                "Character.Hum_1161",
+                "Character.Hum_1162",
+                "Character.Hum_1163"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_1168",
+                "Character.Hum_1169",
+                "Character.Hum_1170",
+                "Character.Hum_1171"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1176",
+                "Character.Hum_1177",
+                "Character.Hum_1178",
+                "Character.Hum_1179"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_1184",
+                "Character.Hum_1185",
+                "Character.Hum_1186",
+                "Character.Hum_1187"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1192",
+                "Character.Hum_1193",
+                "Character.Hum_1194",
+                "Character.Hum_1195"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Mining",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0864",
+                "Character.Hum_0865",
+                "Character.Hum_0866",
+                "Character.Hum_0867",
+                "Character.Hum_0868",
+                "Character.Hum_0869"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0872",
+                "Character.Hum_0873",
+                "Character.Hum_0874",
+                "Character.Hum_0875",
+                "Character.Hum_0876",
+                "Character.Hum_0877"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0880",
+                "Character.Hum_0881",
+                "Character.Hum_0882",
+                "Character.Hum_0883",
+                "Character.Hum_0884",
+                "Character.Hum_0885"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0888",
+                "Character.Hum_0889",
+                "Character.Hum_0890",
+                "Character.Hum_0891",
+                "Character.Hum_0892",
+                "Character.Hum_0893"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0896",
+                "Character.Hum_0897",
+                "Character.Hum_0898",
+                "Character.Hum_0899",
+                "Character.Hum_0900",
+                "Character.Hum_0901"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0904",
+                "Character.Hum_0905",
+                "Character.Hum_0906",
+                "Character.Hum_0907",
+                "Character.Hum_0908",
+                "Character.Hum_0909"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0912",
+                "Character.Hum_0913",
+                "Character.Hum_0914",
+                "Character.Hum_0915",
+                "Character.Hum_0916",
+                "Character.Hum_0917"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0920",
+                "Character.Hum_0921",
+                "Character.Hum_0922",
+                "Character.Hum_0923",
+                "Character.Hum_0924",
+                "Character.Hum_0925"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_1056",
+                "Character.Hum_1057"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_1058",
+                "Character.Hum_1059"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_1060",
+                "Character.Hum_1061"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_1062",
+                "Character.Hum_1063"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_1064",
+                "Character.Hum_1065"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1066",
+                "Character.Hum_1067"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_1068",
+                "Character.Hum_1069"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_1070",
+                "Character.Hum_1071"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "StationaryAttack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Character.Hum_0928",
+                "Character.Hum_0929",
+                "Character.Hum_0930",
+                "Character.Hum_0931",
+                "Character.Hum_0932",
+                "Character.Hum_0933",
+                "Character.Hum_0934",
+                "Character.Hum_0935"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Character.Hum_0936",
+                "Character.Hum_0937",
+                "Character.Hum_0938",
+                "Character.Hum_0939",
+                "Character.Hum_0940",
+                "Character.Hum_0941",
+                "Character.Hum_0942",
+                "Character.Hum_0943"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Character.Hum_0944",
+                "Character.Hum_0945",
+                "Character.Hum_0946",
+                "Character.Hum_0947",
+                "Character.Hum_0948",
+                "Character.Hum_0949",
+                "Character.Hum_0950",
+                "Character.Hum_0951"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Character.Hum_0952",
+                "Character.Hum_0953",
+                "Character.Hum_0954",
+                "Character.Hum_0955",
+                "Character.Hum_0956",
+                "Character.Hum_0957",
+                "Character.Hum_0958",
+                "Character.Hum_0959"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Character.Hum_0960",
+                "Character.Hum_0961",
+                "Character.Hum_0962",
+                "Character.Hum_0963",
+                "Character.Hum_0964",
+                "Character.Hum_0965",
+                "Character.Hum_0966",
+                "Character.Hum_0967"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0968",
+                "Character.Hum_0969",
+                "Character.Hum_0970",
+                "Character.Hum_0971",
+                "Character.Hum_0972",
+                "Character.Hum_0973",
+                "Character.Hum_0974",
+                "Character.Hum_0975"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Character.Hum_0976",
+                "Character.Hum_0977",
+                "Character.Hum_0978",
+                "Character.Hum_0979",
+                "Character.Hum_0980",
+                "Character.Hum_0981",
+                "Character.Hum_0982",
+                "Character.Hum_0983"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Character.Hum_0984",
+                "Character.Hum_0985",
+                "Character.Hum_0986",
+                "Character.Hum_0987",
+                "Character.Hum_0988",
+                "Character.Hum_0989",
+                "Character.Hum_0990",
+                "Character.Hum_0991"
+              ]
+            }
+          ]
+        }
+      ],
+      "HitBox": {
+        "OffsetX": 10,
+        "OffsetY": -48,
+        "Width": 32,
+        "Height": 71
+      }
+    }
+  ]
+}

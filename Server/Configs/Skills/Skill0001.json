@@ -1,0 +1,58 @@
+{
+  "SkillId": "Skill0001",
+  "DisplayName": "火球术",
+  "Category": "Active",
+  "SkillType": "Attack",
+  "TargetType": "Target",
+  "Range": {
+    "RangeType": "SingleTarget",
+    "CastRangeCells": 1,
+    "LengthCells": 0,
+    "WidthCells": 1,
+    "RadiusCells": 0,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 0,
+  "PostSwingMilliseconds": 0,
+  "CooldownMilliseconds": 1000,
+  "CooldownGroupId": "0",
+  "ManaCost": 0,
+  "HealthCost": 0,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "PassiveRadiusCells": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      1900
+    ],
+    "MaxExpLevel": 20,
+    "MaxLevel": 20,
+    "KillExperiencePercent": 10
+  },
+  "ActiveEffects": [],
+  "PassiveEffects": [],
+  "ComboNextSkillId": "",
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": "",
+  "TagIds": [
+    "SkillTag001"
+  ]
+}

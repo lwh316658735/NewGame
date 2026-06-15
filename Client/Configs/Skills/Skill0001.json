@@ -1,0 +1,309 @@
+{
+  "SkillId": "Skill0001",
+  "DisplayName": "火球术",
+  "Description": "填写技能用途、释放方式和客户端展示说明。",
+  "IconAssetId": "Asset.MagIcon_0014",
+  "Visual": {
+    "AttackEffect": {
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "CastEffect": {
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.Magic_0000",
+            "Asset.Magic_0001",
+            "Asset.Magic_0002",
+            "Asset.Magic_0003",
+            "Asset.Magic_0004",
+            "Asset.Magic_0005",
+            "Asset.Magic_0006",
+            "Asset.Magic_0007",
+            "Asset.Magic_0008",
+            "Asset.Magic_0009"
+          ]
+        }
+      ]
+    },
+    "ProjectileEffect": {
+      "DirectionSet": "Sixteen",
+      "FramesPerSecond": 8,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.Magic_0010",
+            "Asset.Magic_0011",
+            "Asset.Magic_0012",
+            "Asset.Magic_0013",
+            "Asset.Magic_0014",
+            "Asset.Magic_0015"
+          ]
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": [
+            "Asset.Magic_0020",
+            "Asset.Magic_0021",
+            "Asset.Magic_0022",
+            "Asset.Magic_0023",
+            "Asset.Magic_0024",
+            "Asset.Magic_0025"
+          ]
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": [
+            "Asset.Magic_0030",
+            "Asset.Magic_0031",
+            "Asset.Magic_0032",
+            "Asset.Magic_0033",
+            "Asset.Magic_0034",
+            "Asset.Magic_0035"
+          ]
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": [
+            "Asset.Magic_0040",
+            "Asset.Magic_0041",
+            "Asset.Magic_0042",
+            "Asset.Magic_0043",
+            "Asset.Magic_0044",
+            "Asset.Magic_0045"
+          ]
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": [
+            "Asset.Magic_0050",
+            "Asset.Magic_0051",
+            "Asset.Magic_0052",
+            "Asset.Magic_0053",
+            "Asset.Magic_0054",
+            "Asset.Magic_0055"
+          ]
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": [
+            "Asset.Magic_0060",
+            "Asset.Magic_0061",
+            "Asset.Magic_0062",
+            "Asset.Magic_0063",
+            "Asset.Magic_0064",
+            "Asset.Magic_0065"
+          ]
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": [
+            "Asset.Magic_0070",
+            "Asset.Magic_0071",
+            "Asset.Magic_0072",
+            "Asset.Magic_0073",
+            "Asset.Magic_0074",
+            "Asset.Magic_0075"
+          ]
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": [
+            "Asset.Magic_0080",
+            "Asset.Magic_0081",
+            "Asset.Magic_0082",
+            "Asset.Magic_0083",
+            "Asset.Magic_0084",
+            "Asset.Magic_0085"
+          ]
+        },
+        {
+          "DirectionIndex": 8,
+          "FrameAssetIds": [
+            "Asset.Magic_0090",
+            "Asset.Magic_0091",
+            "Asset.Magic_0092",
+            "Asset.Magic_0093",
+            "Asset.Magic_0094",
+            "Asset.Magic_0095"
+          ]
+        },
+        {
+          "DirectionIndex": 9,
+          "FrameAssetIds": [
+            "Asset.Magic_0100",
+            "Asset.Magic_0101",
+            "Asset.Magic_0102",
+            "Asset.Magic_0103",
+            "Asset.Magic_0104",
+            "Asset.Magic_0105"
+          ]
+        },
+        {
+          "DirectionIndex": 10,
+          "FrameAssetIds": [
+            "Asset.Magic_0110",
+            "Asset.Magic_0111",
+            "Asset.Magic_0112",
+            "Asset.Magic_0113",
+            "Asset.Magic_0114",
+            "Asset.Magic_0115"
+          ]
+        },
+        {
+          "DirectionIndex": 11,
+          "FrameAssetIds": [
+            "Asset.Magic_0120",
+            "Asset.Magic_0121",
+            "Asset.Magic_0122",
+            "Asset.Magic_0123",
+            "Asset.Magic_0124",
+            "Asset.Magic_0125"
+          ]
+        },
+        {
+          "DirectionIndex": 12,
+          "FrameAssetIds": [
+            "Asset.Magic_0130",
+            "Asset.Magic_0131",
+            "Asset.Magic_0132",
+            "Asset.Magic_0133",
+            "Asset.Magic_0134",
+            "Asset.Magic_0135"
+          ]
+        },
+        {
+          "DirectionIndex": 13,
+          "FrameAssetIds": [
+            "Asset.Magic_0140",
+            "Asset.Magic_0141",
+            "Asset.Magic_0142",
+            "Asset.Magic_0143",
+            "Asset.Magic_0144",
+            "Asset.Magic_0145"
+          ]
+        },
+        {
+          "DirectionIndex": 14,
+          "FrameAssetIds": [
+            "Asset.Magic_0150",
+            "Asset.Magic_0151",
+            "Asset.Magic_0152",
+            "Asset.Magic_0153",
+            "Asset.Magic_0154",
+            "Asset.Magic_0155"
+          ]
+        },
+        {
+          "DirectionIndex": 15,
+          "FrameAssetIds": [
+            "Asset.Magic_0160",
+            "Asset.Magic_0161",
+            "Asset.Magic_0162",
+            "Asset.Magic_0163",
+            "Asset.Magic_0164",
+            "Asset.Magic_0165"
+          ]
+        }
+      ]
+    },
+    "HitEffect": {
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.Magic_0170",
+            "Asset.Magic_0171",
+            "Asset.Magic_0172",
+            "Asset.Magic_0173",
+            "Asset.Magic_0174",
+            "Asset.Magic_0175",
+            "Asset.Magic_0176",
+            "Asset.Magic_0177",
+            "Asset.Magic_0178",
+            "Asset.Magic_0179"
+          ]
+        }
+      ]
+    },
+    "AreaEffect": {
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "SoundAssetIds": []
+  }
+}
