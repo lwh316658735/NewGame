@@ -1,0 +1,29 @@
+{
+  "Version": 2,
+  "Category": "界面",
+  "Assets": [
+    {
+      "AssetId": "UI.LegacyMinimap.0",
+      "DisplayName": "0 小地图",
+      "SortOrder": 11753,
+      "Category": "界面",
+      "RelativePath": "Client/Assets/界面/LegacyMinimap/0/0_generated.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 558371,
+      "Width": 1050,
+      "Height": 700,
+      "LastModifiedAt": "2026-06-15T05:57:06.7418219+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMinimap",
+        "MapId.0"
+      ],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,962 @@
+{
+  "GameRules": {
+    "MaxCharacterLevel": 80,
+    "MaxRebirthLevel": 12
+  },
+  "LevelExperienceRules": {
+    "ManualEntries": [
+      {
+        "Level": 1,
+        "RequiredExperience": "100"
+      },
+      {
+        "Level": 2,
+        "RequiredExperience": "150"
+      },
+      {
+        "Level": 3,
+        "RequiredExperience": "200"
+      },
+      {
+        "Level": 4,
+        "RequiredExperience": "250"
+      },
+      {
+        "Level": 5,
+        "RequiredExperience": "300"
+      },
+      {
+        "Level": 6,
+        "RequiredExperience": "350"
+      },
+      {
+        "Level": 7,
+        "RequiredExperience": "400"
+      },
+      {
+        "Level": 8,
+        "RequiredExperience": "450"
+      },
+      {
+        "Level": 9,
+        "RequiredExperience": "500"
+      },
+      {
+        "Level": 10,
+        "RequiredExperience": "550"
+      },
+      {
+        "Level": 11,
+        "RequiredExperience": "600"
+      },
+      {
+        "Level": 12,
+        "RequiredExperience": "650"
+      },
+      {
+        "Level": 13,
+        "RequiredExperience": "700"
+      },
+      {
+        "Level": 14,
+        "RequiredExperience": "750"
+      },
+      {
+        "Level": 15,
+        "RequiredExperience": "800"
+      },
+      {
+        "Level": 16,
+        "RequiredExperience": "850"
+      },
+      {
+        "Level": 17,
+        "RequiredExperience": "900"
+      },
+      {
+        "Level": 18,
+        "RequiredExperience": "950"
+      },
+      {
+        "Level": 19,
+        "RequiredExperience": "1000"
+      },
+      {
+        "Level": 20,
+        "RequiredExperience": "1050"
+      },
+      {
+        "Level": 21,
+        "RequiredExperience": "1100"
+      },
+      {
+        "Level": 22,
+        "RequiredExperience": "1150"
+      },
+      {
+        "Level": 23,
+        "RequiredExperience": "1200"
+      },
+      {
+        "Level": 24,
+        "RequiredExperience": "1250"
+      },
+      {
+        "Level": 25,
+        "RequiredExperience": "1300"
+      },
+      {
+        "Level": 26,
+        "RequiredExperience": "1350"
+      },
+      {
+        "Level": 27,
+        "RequiredExperience": "1400"
+      },
+      {
+        "Level": 28,
+        "RequiredExperience": "1450"
+      },
+      {
+        "Level": 29,
+        "RequiredExperience": "1500"
+      },
+      {
+        "Level": 30,
+        "RequiredExperience": "1550"
+      },
+      {
+        "Level": 31,
+        "RequiredExperience": "1600"
+      },
+      {
+        "Level": 32,
+        "RequiredExperience": "1650"
+      },
+      {
+        "Level": 33,
+        "RequiredExperience": "1700"
+      },
+      {
+        "Level": 34,
+        "RequiredExperience": "1750"
+      },
+      {
+        "Level": 35,
+        "RequiredExperience": "1800"
+      },
+      {
+        "Level": 36,
+        "RequiredExperience": "1850"
+      },
+      {
+        "Level": 37,
+        "RequiredExperience": "1900"
+      },
+      {
+        "Level": 38,
+        "RequiredExperience": "1950"
+      },
+      {
+        "Level": 39,
+        "RequiredExperience": "2000"
+      },
+      {
+        "Level": 40,
+        "RequiredExperience": "2050"
+      },
+      {
+        "Level": 41,
+        "RequiredExperience": "2100"
+      },
+      {
+        "Level": 42,
+        "RequiredExperience": "2150"
+      },
+      {
+        "Level": 43,
+        "RequiredExperience": "2200"
+      },
+      {
+        "Level": 44,
+        "RequiredExperience": "2250"
+      },
+      {
+        "Level": 45,
+        "RequiredExperience": "2300"
+      },
+      {
+        "Level": 46,
+        "RequiredExperience": "2350"
+      },
+      {
+        "Level": 47,
+        "RequiredExperience": "2400"
+      },
+      {
+        "Level": 48,
+        "RequiredExperience": "2450"
+      },
+      {
+        "Level": 49,
+        "RequiredExperience": "2500"
+      },
+      {
+        "Level": 50,
+        "RequiredExperience": "2550"
+      },
+      {
+        "Level": 51,
+        "RequiredExperience": "2600"
+      },
+      {
+        "Level": 52,
+        "RequiredExperience": "2650"
+      },
+      {
+        "Level": 53,
+        "RequiredExperience": "2700"
+      },
+      {
+        "Level": 54,
+        "RequiredExperience": "2750"
+      },
+      {
+        "Level": 55,
+        "RequiredExperience": "2800"
+      },
+      {
+        "Level": 56,
+        "RequiredExperience": "2850"
+      },
+      {
+        "Level": 57,
+        "RequiredExperience": "2900"
+      },
+      {
+        "Level": 58,
+        "RequiredExperience": "2950"
+      },
+      {
+        "Level": 59,
+        "RequiredExperience": "3000"
+      },
+      {
+        "Level": 60,
+        "RequiredExperience": "3050"
+      },
+      {
+        "Level": 61,
+        "RequiredExperience": "3100"
+      },
+      {
+        "Level": 62,
+        "RequiredExperience": "3150"
+      },
+      {
+        "Level": 63,
+        "RequiredExperience": "3200"
+      },
+      {
+        "Level": 64,
+        "RequiredExperience": "3250"
+      },
+      {
+        "Level": 65,
+        "RequiredExperience": "3300"
+      },
+      {
+        "Level": 66,
+        "RequiredExperience": "3350"
+      },
+      {
+        "Level": 67,
+        "RequiredExperience": "3400"
+      },
+      {
+        "Level": 68,
+        "RequiredExperience": "3450"
+      },
+      {
+        "Level": 69,
+        "RequiredExperience": "3500"
+      },
+      {
+        "Level": 70,
+        "RequiredExperience": "3550"
+      },
+      {
+        "Level": 71,
+        "RequiredExperience": "3600"
+      },
+      {
+        "Level": 72,
+        "RequiredExperience": "3650"
+      },
+      {
+        "Level": 73,
+        "RequiredExperience": "3700"
+      },
+      {
+        "Level": 74,
+        "RequiredExperience": "3750"
+      },
+      {
+        "Level": 75,
+        "RequiredExperience": "3800"
+      },
+      {
+        "Level": 76,
+        "RequiredExperience": "3850"
+      },
+      {
+        "Level": 77,
+        "RequiredExperience": "3900"
+      },
+      {
+        "Level": 78,
+        "RequiredExperience": "3950"
+      },
+      {
+        "Level": 79,
+        "RequiredExperience": "4000"
+      }
+    ],
+    "HighLevelFormula": {
+      "Mode": "Linear",
+      "LinearStepExperience": "5000",
+      "MultiplierRate": 10000
+    }
+  },
+  "DropRules": {
+    "ExperienceRate": 10000,
+    "GoldDropRate": 10000,
+    "ItemDropQuantityRate": 10000,
+    "ItemRarityRate": 10000
+  },
+  "CharacterCreation": {
+    "DefaultLevel": 71,
+    "DefaultRebirthLevel": 0,
+    "DefaultMapId": "0",
+    "DefaultSpawnColumn": 100,
+    "DefaultSpawnRow": 100,
+    "DefaultAttackMode": "Peace"
+  },
+  "AttackModeRules": {
+    "DefaultAttackMode": "Peace",
+    "EnabledModes": [
+      "Peace",
+      "Team",
+      "Guild",
+      "Spouse",
+      "Mentor",
+      "Justice",
+      "All"
+    ]
+  },
+  "CurrencyRules": {
+    "Currencies": {
+      "Gold": {
+        "IsEnabled": true,
+        "Alias": "金币",
+        "CarryLimit": 0
+      },
+      "Yuanbao": {
+        "IsEnabled": true,
+        "Alias": "元宝",
+        "CarryLimit": 0
+      },
+      "CustomCurrency01": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency02": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency03": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency04": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency05": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency06": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency07": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency08": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency09": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency10": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency11": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency12": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency13": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency14": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency15": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency16": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency17": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency18": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency19": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      },
+      "CustomCurrency20": {
+        "IsEnabled": false,
+        "Alias": "",
+        "CarryLimit": 0
+      }
+    }
+  },
+  "ItemSlotRules": {
+    "CustomEquipSlots": {
+      "CustomEquipSlot01": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot02": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot03": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot04": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot05": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot06": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot07": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot08": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot09": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot10": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot11": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot12": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot13": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot14": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot15": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot16": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot17": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot18": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot19": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot20": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot21": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot22": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot23": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot24": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot25": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot26": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot27": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot28": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot29": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot30": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot31": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot32": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot33": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot34": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot35": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot36": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot37": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot38": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot39": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot40": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot41": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot42": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot43": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot44": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot45": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot46": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot47": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot48": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot49": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      },
+      "CustomEquipSlot50": {
+        "IsEnabled": false,
+        "DisplayName": ""
+      }
+    }
+  },
+  "InventoryRules": {
+    "DefaultBagSlots": 40,
+    "DefaultWarehouseSlots": 80
+  },
+  "GroundItemRules": {
+    "MaxDiscardRange": 0,
+    "MaxItemStacksPerCell": 20
+  },
+  "AttributeConversions": {
+    "Strength": {
+      "WristStrength": 0,
+      "MaxHealth": 0,
+      "MaxMana": 0,
+      "HealthRecovery": 0,
+      "ManaRecovery": 0,
+      "MaxCarryWeight": 0,
+      "MinPhysicalAttack": 0,
+      "MaxPhysicalAttack": 0,
+      "MinMagicAttack": 0,
+      "MaxMagicAttack": 0,
+      "MinTaoismAttack": 0,
+      "MaxTaoismAttack": 0,
+      "MinPhysicalDefense": 0,
+      "MaxPhysicalDefense": 0,
+      "MinMagicDefense": 0,
+      "MaxMagicDefense": 0,
+      "MinFrostDamage": 0,
+      "MaxFrostDamage": 0,
+      "MinFireDamage": 0,
+      "MaxFireDamage": 0,
+      "MinLightningDamage": 0,
+      "MaxLightningDamage": 0,
+      "Hit": 0,
+      "Dodge": 0,
+      "MagicHit": 0,
+      "MagicDodge": 0,
+      "MoveSpeed": 0,
+      "AttackSpeed": 0,
+      "CastSpeed": 0,
+      "Lucky": 0,
+      "PhysicalResistance": 0,
+      "MagicResistance": 0,
+      "FrostResistance": 0,
+      "FireResistance": 0,
+      "LightningResistance": 0,
+      "CooldownReduction": 0,
+      "CriticalChance": 0,
+      "CriticalDamage": 0,
+      "CriticalResistance": 0,
+      "PhysicalPenetration": 0,
+      "MagicPenetration": 0,
+      "FrostPenetration": 0,
+      "FirePenetration": 0,
+      "LightningPenetration": 0,
+      "DamageIncrease": 0,
+      "DamageReduction": 0,
+      "HealthLeech": 0,
+      "ManaLeech": 0,
+      "DropQuantity": 0,
+      "DropRarity": 0
+    },
+    "Agility": {
+      "WristStrength": 0,
+      "MaxHealth": 0,
+      "MaxMana": 0,
+      "HealthRecovery": 0,
+      "ManaRecovery": 0,
+      "MaxCarryWeight": 0,
+      "MinPhysicalAttack": 0,
+      "MaxPhysicalAttack": 0,
+      "MinMagicAttack": 0,
+      "MaxMagicAttack": 0,
+      "MinTaoismAttack": 0,
+      "MaxTaoismAttack": 0,
+      "MinPhysicalDefense": 0,
+      "MaxPhysicalDefense": 0,
+      "MinMagicDefense": 0,
+      "MaxMagicDefense": 0,
+      "MinFrostDamage": 0,
+      "MaxFrostDamage": 0,
+      "MinFireDamage": 0,
+      "MaxFireDamage": 0,
+      "MinLightningDamage": 0,
+      "MaxLightningDamage": 0,
+      "Hit": 0,
+      "Dodge": 0,
+      "MagicHit": 0,
+      "MagicDodge": 0,
+      "MoveSpeed": 0,
+      "AttackSpeed": 0,
+      "CastSpeed": 0,
+      "Lucky": 0,
+      "PhysicalResistance": 0,
+      "MagicResistance": 0,
+      "FrostResistance": 0,
+      "FireResistance": 0,
+      "LightningResistance": 0,
+      "CooldownReduction": 0,
+      "CriticalChance": 0,
+      "CriticalDamage": 0,
+      "CriticalResistance": 0,
+      "PhysicalPenetration": 0,
+      "MagicPenetration": 0,
+      "FrostPenetration": 0,
+      "FirePenetration": 0,
+      "LightningPenetration": 0,
+      "DamageIncrease": 0,
+      "DamageReduction": 0,
+      "HealthLeech": 0,
+      "ManaLeech": 0,
+      "DropQuantity": 0,
+      "DropRarity": 0
+    },
+    "Intelligence": {
+      "WristStrength": 0,
+      "MaxHealth": 0,
+      "MaxMana": 0,
+      "HealthRecovery": 0,
+      "ManaRecovery": 0,
+      "MaxCarryWeight": 0,
+      "MinPhysicalAttack": 0,
+      "MaxPhysicalAttack": 0,
+      "MinMagicAttack": 0,
+      "MaxMagicAttack": 0,
+      "MinTaoismAttack": 0,
+      "MaxTaoismAttack": 0,
+      "MinPhysicalDefense": 0,
+      "MaxPhysicalDefense": 0,
+      "MinMagicDefense": 0,
+      "MaxMagicDefense": 0,
+      "MinFrostDamage": 0,
+      "MaxFrostDamage": 0,
+      "MinFireDamage": 0,
+      "MaxFireDamage": 0,
+      "MinLightningDamage": 0,
+      "MaxLightningDamage": 0,
+      "Hit": 0,
+      "Dodge": 0,
+      "MagicHit": 0,
+      "MagicDodge": 0,
+      "MoveSpeed": 0,
+      "AttackSpeed": 0,
+      "CastSpeed": 0,
+      "Lucky": 0,
+      "PhysicalResistance": 0,
+      "MagicResistance": 0,
+      "FrostResistance": 0,
+      "FireResistance": 0,
+      "LightningResistance": 0,
+      "CooldownReduction": 0,
+      "CriticalChance": 0,
+      "CriticalDamage": 0,
+      "CriticalResistance": 0,
+      "PhysicalPenetration": 0,
+      "MagicPenetration": 0,
+      "FrostPenetration": 0,
+      "FirePenetration": 0,
+      "LightningPenetration": 0,
+      "DamageIncrease": 0,
+      "DamageReduction": 0,
+      "HealthLeech": 0,
+      "ManaLeech": 0,
+      "DropQuantity": 0,
+      "DropRarity": 0
+    },
+    "Spirit": {
+      "WristStrength": 0,
+      "MaxHealth": 0,
+      "MaxMana": 0,
+      "HealthRecovery": 0,
+      "ManaRecovery": 0,
+      "MaxCarryWeight": 0,
+      "MinPhysicalAttack": 0,
+      "MaxPhysicalAttack": 0,
+      "MinMagicAttack": 0,
+      "MaxMagicAttack": 0,
+      "MinTaoismAttack": 0,
+      "MaxTaoismAttack": 0,
+      "MinPhysicalDefense": 0,
+      "MaxPhysicalDefense": 0,
+      "MinMagicDefense": 0,
+      "MaxMagicDefense": 0,
+      "MinFrostDamage": 0,
+      "MaxFrostDamage": 0,
+      "MinFireDamage": 0,
+      "MaxFireDamage": 0,
+      "MinLightningDamage": 0,
+      "MaxLightningDamage": 0,
+      "Hit": 0,
+      "Dodge": 0,
+      "MagicHit": 0,
+      "MagicDodge": 0,
+      "MoveSpeed": 0,
+      "AttackSpeed": 0,
+      "CastSpeed": 0,
+      "Lucky": 0,
+      "PhysicalResistance": 0,
+      "MagicResistance": 0,
+      "FrostResistance": 0,
+      "FireResistance": 0,
+      "LightningResistance": 0,
+      "CooldownReduction": 0,
+      "CriticalChance": 0,
+      "CriticalDamage": 0,
+      "CriticalResistance": 0,
+      "PhysicalPenetration": 0,
+      "MagicPenetration": 0,
+      "FrostPenetration": 0,
+      "FirePenetration": 0,
+      "LightningPenetration": 0,
+      "DamageIncrease": 0,
+      "DamageReduction": 0,
+      "HealthLeech": 0,
+      "ManaLeech": 0,
+      "DropQuantity": 0,
+      "DropRarity": 0
+    },
+    "Constitution": {
+      "WristStrength": 0,
+      "MaxHealth": 0,
+      "MaxMana": 0,
+      "HealthRecovery": 0,
+      "ManaRecovery": 0,
+      "MaxCarryWeight": 0,
+      "MinPhysicalAttack": 0,
+      "MaxPhysicalAttack": 0,
+      "MinMagicAttack": 0,
+      "MaxMagicAttack": 0,
+      "MinTaoismAttack": 0,
+      "MaxTaoismAttack": 0,
+      "MinPhysicalDefense": 0,
+      "MaxPhysicalDefense": 0,
+      "MinMagicDefense": 0,
+      "MaxMagicDefense": 0,
+      "MinFrostDamage": 0,
+      "MaxFrostDamage": 0,
+      "MinFireDamage": 0,
+      "MaxFireDamage": 0,
+      "MinLightningDamage": 0,
+      "MaxLightningDamage": 0,
+      "Hit": 0,
+      "Dodge": 0,
+      "MagicHit": 0,
+      "MagicDodge": 0,
+      "MoveSpeed": 0,
+      "AttackSpeed": 0,
+      "CastSpeed": 0,
+      "Lucky": 0,
+      "PhysicalResistance": 0,
+      "MagicResistance": 0,
+      "FrostResistance": 0,
+      "FireResistance": 0,
+      "LightningResistance": 0,
+      "CooldownReduction": 0,
+      "CriticalChance": 0,
+      "CriticalDamage": 0,
+      "CriticalResistance": 0,
+      "PhysicalPenetration": 0,
+      "MagicPenetration": 0,
+      "FrostPenetration": 0,
+      "FirePenetration": 0,
+      "LightningPenetration": 0,
+      "DamageIncrease": 0,
+      "DamageReduction": 0,
+      "HealthLeech": 0,
+      "ManaLeech": 0,
+      "DropQuantity": 0,
+      "DropRarity": 0
+    }
+  },
+  "AttributeLimits": {
+    "LuckyMin": -10000,
+    "LuckyMax": 10000,
+    "PhysicalResistanceMin": -10000,
+    "PhysicalResistanceMax": 9000,
+    "MagicResistanceMin": -10000,
+    "MagicResistanceMax": 9000,
+    "FrostResistanceMin": -10000,
+    "FrostResistanceMax": 9000,
+    "FireResistanceMin": -10000,
+    "FireResistanceMax": 9000,
+    "LightningResistanceMin": -10000,
+    "LightningResistanceMax": 9000,
+    "CooldownReductionMax": 5000,
+    "CriticalChanceMax": 10000,
+    "DamageReductionMax": 9000
+  }
+}

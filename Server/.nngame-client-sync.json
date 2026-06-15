@@ -2,8 +2,20 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-06-15T02:08:25.063Z",
+  "GeneratedAt": "2026-06-15T09:51:08.183Z",
   "Files": [
+    {
+      "RelativePath": "Configs/Characters/Classes/Warrior.json",
+      "Length": 1253,
+      "LastWriteTimeUtc": "2026-06-15T05:52:07.735Z",
+      "Sha256": "903375a71e7da91570ee6a4d015dfb1f22ffc98e4cbcf1a22600d320e285d315"
+    },
+    {
+      "RelativePath": "Configs/Game/global.json",
+      "Length": 22260,
+      "LastWriteTimeUtc": "2026-06-15T06:58:28.486Z",
+      "Sha256": "10478d9d070413ee784e5b6d9d69c22bbf250a6a7326b055937c292fe514ea02"
+    },
     {
       "RelativePath": "Configs/Items/0.json",
       "Length": 668,
@@ -15,6 +27,12 @@
       "Length": 668,
       "LastWriteTimeUtc": "2026-06-15T01:09:57.590Z",
       "Sha256": "5ac67f5e1fce4f28f598b47301d9e377976a395c4fd7b160489c96c64fab458c"
+    },
+    {
+      "RelativePath": "Configs/Maps/0.json",
+      "Length": 37954,
+      "LastWriteTimeUtc": "2026-06-15T02:46:26.472Z",
+      "Sha256": "adb9478ce987675c332155dc36ff4f5159476c676094c87cab6f784c4c25e334"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/Monster0001.json",
@@ -67,8 +85,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 40960,
-      "LastWriteTimeUtc": "2026-06-15T02:08:09.994Z",
-      "Sha256": "08ebdd70e7a809e50b10084739e82b6138c34c42b6f9b24b631a2cd45039b552"
+      "LastWriteTimeUtc": "2026-06-15T07:13:47.487Z",
+      "Sha256": "2c6356816e5617fffcf17a7e5e98e98a0f79b073dff2d83ef8e2fef5a984defe"
     }
   ]
 }
