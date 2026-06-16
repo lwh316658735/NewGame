@@ -35,7 +35,7 @@
     "MaxMagicDefense": 2,
     "Hit": 500,
     "Dodge": 300,
-    "MoveSpeed": 20000,
+    "MoveSpeed": 5000,
     "AttackSpeed": 1000,
     "CastSpeed": 1000
   },

@@ -338,13 +338,8 @@
     "DefaultLevel": 71,
     "DefaultRebirthLevel": 0,
     "DefaultMapId": "0",
-<<<<<<< HEAD
     "DefaultSpawnColumn": 300,
     "DefaultSpawnRow": 300,
-=======
-    "DefaultSpawnColumn": 260,
-    "DefaultSpawnRow": 190,
->>>>>>> 54cb1b228e76be222273d976eab2c9e4c9716fdb
     "DefaultAttackMode": "Peace"
   },
   "AttackModeRules": {
@@ -678,7 +673,7 @@
     }
   },
   "InventoryRules": {
-    "DefaultBagSlots": 40,
+    "DefaultBagSlots": 77,
     "DefaultWarehouseSlots": 80
   },
   "GroundItemRules": {
