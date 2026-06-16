@@ -140,7 +140,7 @@
       "Width": 760,
       "Height": 54,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 10,
       "Text": "",
       "FontFamily": "NSimSun",
@@ -260,7 +260,7 @@
         "Right": 0,
         "Bottom": 0
       },
-      "BackgroundColor": "",
+      "BackgroundColor": "#00000000",
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",

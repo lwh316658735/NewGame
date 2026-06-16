@@ -338,8 +338,8 @@
     "DefaultLevel": 71,
     "DefaultRebirthLevel": 0,
     "DefaultMapId": "0",
-    "DefaultSpawnColumn": 100,
-    "DefaultSpawnRow": 100,
+    "DefaultSpawnColumn": 300,
+    "DefaultSpawnRow": 300,
     "DefaultAttackMode": "Peace"
   },
   "AttackModeRules": {
