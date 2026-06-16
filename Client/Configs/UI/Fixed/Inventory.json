@@ -277,15 +277,15 @@
     },
     {
       "ControlId": "button",
-      "DisplayName": "关闭",
+      "DisplayName": "透明点击区域按钮 9",
       "Kind": "Button",
-      "X": 846,
-      "Y": 42,
-      "Width": 40,
-      "Height": 37,
+      "X": 852,
+      "Y": 47,
+      "Width": 33,
+      "Height": 31,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
-      "ZIndex": 8,
+      "IsLockedInEditor": false,
+      "ZIndex": 9,
       "Text": "",
       "FontFamily": "NSimSun",
       "FontSize": 16,
@@ -387,7 +387,7 @@
         },
         "BackgroundColor": "",
         "HotAreaFeedbackColor": "#00000080",
-        "HotAreaFeedbackOpacity": 0.51,
+        "HotAreaFeedbackOpacity": 0.5,
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
@@ -406,8 +406,8 @@
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
-      "ButtonClickAreaWidth": 40,
-      "ButtonClickAreaHeight": 37,
+      "ButtonClickAreaWidth": 33,
+      "ButtonClickAreaHeight": 31,
       "IsVisibleByDefault": true
     },
     {

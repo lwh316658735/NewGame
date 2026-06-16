@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "J:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-06-16T14:48:13.315Z",
+  "GeneratedAt": "2026-06-16T15:08:50.162Z",
   "Files": [
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
@@ -85,8 +85,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 57344,
-      "LastWriteTimeUtc": "2026-06-16T13:55:46.545Z",
-      "Sha256": "7d411331a05ab17dd44ac362bcb3afe480208f49e150ba8681d6058f0bd536da"
+      "LastWriteTimeUtc": "2026-06-16T15:05:53.234Z",
+      "Sha256": "40aec6d8f6aa8488a6089437515684c0eb493079b43335e468884bf612803754"
     }
   ]
 }
