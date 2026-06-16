@@ -4,11 +4,7 @@
     "HealthBarConfigId": "PlayerFixed",
     "DisplayName": "角色血条",
     "Width": 50,
-<<<<<<< HEAD
     "Height": 5,
-=======
-    "Height": 4,
->>>>>>> 54cb1b228e76be222273d976eab2c9e4c9716fdb
     "OffsetX": 0,
     "OffsetY": -46,
     "BackgroundColor": "#00000000",
