@@ -78,6 +78,11 @@
         }
       },
       "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "",
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
@@ -305,6 +310,11 @@
         }
       },
       "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "",
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",

@@ -338,8 +338,8 @@
     "DefaultLevel": 71,
     "DefaultRebirthLevel": 0,
     "DefaultMapId": "0",
-    "DefaultSpawnColumn": 100,
-    "DefaultSpawnRow": 100,
+    "DefaultSpawnColumn": 260,
+    "DefaultSpawnRow": 190,
     "DefaultAttackMode": "Peace"
   },
   "AttackModeRules": {
@@ -367,8 +367,8 @@
         "CarryLimit": 0
       },
       "CustomCurrency01": {
-        "IsEnabled": false,
-        "Alias": "",
+        "IsEnabled": true,
+        "Alias": "钻石",
         "CarryLimit": 0
       },
       "CustomCurrency02": {

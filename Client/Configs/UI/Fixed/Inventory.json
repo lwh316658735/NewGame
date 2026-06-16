@@ -2,5 +2,661 @@
   "Version": 1,
   "ScreenId": "Inventory",
   "DisplayName": "背包",
-  "Controls": []
+  "Controls": [
+    {
+      "ControlId": "inventoryGrid",
+      "DisplayName": "背包网格控件",
+      "Kind": "InventoryGrid",
+      "X": 307,
+      "Y": 296,
+      "Width": 728,
+      "Height": 341,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 10,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 48,
+      "InventoryGridCellHeight": 48,
+      "InventoryGridColumnSpacing": 8,
+      "InventoryGridRowSpacing": 8,
+      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "inventoryGoldText",
+      "DisplayName": "金币显示文本",
+      "Kind": "CurrencyText",
+      "X": 680,
+      "Y": 230,
+      "Width": 220,
+      "Height": 32,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 11,
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleLeft",
+      "IsTextWrapEnabled": true,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "Gold",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "inventoryRefreshButton",
+      "DisplayName": "刷新背包按钮",
+      "Kind": "Button",
+      "X": 1050,
+      "Y": 760,
+      "Width": 180,
+      "Height": 52,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 20,
+      "Text": "刷新背包",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "RefreshInventory",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "#223344",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 180,
+      "ButtonClickAreaHeight": 52,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "inventoryPreviousPageButton",
+      "DisplayName": "上一页按钮",
+      "Kind": "Button",
+      "X": 680,
+      "Y": 730,
+      "Width": 180,
+      "Height": 52,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 21,
+      "Text": "上一页",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "PreviousInventoryPage",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "#223344",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 180,
+      "ButtonClickAreaHeight": 52,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "inventoryNextPageButton",
+      "DisplayName": "下一页按钮",
+      "Kind": "Button",
+      "X": 900,
+      "Y": 730,
+      "Width": 180,
+      "Height": 52,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 22,
+      "Text": "下一页",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "NextInventoryPage",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "#223344",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 180,
+      "ButtonClickAreaHeight": 52,
+      "IsVisibleByDefault": true
+    }
+  ]
 }
