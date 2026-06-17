@@ -673,8 +673,8 @@
     }
   },
   "InventoryRules": {
-    "DefaultBagSlots": 77,
-    "DefaultWarehouseSlots": 80
+    "DefaultBagSlots": 168,
+    "DefaultWarehouseSlots": 60000
   },
   "GroundItemRules": {
     "MaxDiscardRange": 0,

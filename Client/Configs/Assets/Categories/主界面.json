@@ -5,14 +5,34 @@
     {
       "AssetId": "Asset.1346x1169",
       "DisplayName": "背包窗口_透明整窗_刷新右下_原始去底修边_1346x1169",
-      "SortOrder": 11754,
+      "SortOrder": 9706,
       "Category": "主界面",
       "RelativePath": "Client/Assets/主界面/背包窗口_透明整窗_刷新右下_原始去底修边_1346x1169.png",
       "FileExtension": ".png",
       "FileSizeBytes": 2723189,
       "Width": 1322,
       "Height": 1109,
-      "LastModifiedAt": "2026-06-16T14:03:50.9974034+00:00",
+      "LastModifiedAt": "2026-06-17T00:52:59.5463364+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_2",
+      "DisplayName": "背包窗口_透明整窗_去绿底",
+      "SortOrder": 9707,
+      "Category": "主界面",
+      "RelativePath": "Client/Assets/主界面/背包窗口_透明整窗_去绿底.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 1514730,
+      "Width": 1448,
+      "Height": 1086,
+      "LastModifiedAt": "2026-06-17T01:48:34.0626448+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

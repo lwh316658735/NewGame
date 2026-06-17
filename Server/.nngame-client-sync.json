@@ -1,92 +1,92 @@
 {
   "Version": 1,
-  "SourceClientPath": "J:\\NewGame\\Server",
+  "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-06-16T15:08:50.162Z",
+  "GeneratedAt": "2026-06-17T09:51:08.596Z",
   "Files": [
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
       "Length": 1266,
-      "LastWriteTimeUtc": "2026-06-16T12:56:19.498Z",
+      "LastWriteTimeUtc": "2026-06-17T00:52:59.580Z",
       "Sha256": "2f0daf7a3aab7bfcc062d50b2b00199f3abc89f620cdc80d8a162675268cb24f"
     },
     {
       "RelativePath": "Configs/Game/global.json",
-      "Length": 22265,
-      "LastWriteTimeUtc": "2026-06-16T14:21:02.239Z",
-      "Sha256": "607934b9dfe69b5245752dac4d46c9702612cd87bf051cba8a3149f63a2a74b7"
+      "Length": 22269,
+      "LastWriteTimeUtc": "2026-06-17T06:05:56.305Z",
+      "Sha256": "7438df60389f6fcccdc76ddbdd40b05798961a1ce7098d3897d228cf3da3e5d0"
     },
     {
       "RelativePath": "Configs/Items/0.json",
       "Length": 668,
-      "LastWriteTimeUtc": "2026-06-04T15:04:22.223Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.589Z",
       "Sha256": "1a07c380b68c4c3c025bddf8a22ef149927e67140d9c6cff83dbce69f3fc7c4f"
     },
     {
       "RelativePath": "Configs/Items/1.json",
       "Length": 668,
-      "LastWriteTimeUtc": "2026-06-04T15:04:47.092Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.590Z",
       "Sha256": "5ac67f5e1fce4f28f598b47301d9e377976a395c4fd7b160489c96c64fab458c"
     },
     {
       "RelativePath": "Configs/Maps/0.json",
       "Length": 37954,
-      "LastWriteTimeUtc": "2026-06-15T12:10:48.985Z",
+      "LastWriteTimeUtc": "2026-06-15T02:46:26.472Z",
       "Sha256": "adb9478ce987675c332155dc36ff4f5159476c676094c87cab6f784c4c25e334"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/Monster0001.json",
       "Length": 718,
-      "LastWriteTimeUtc": "2026-06-07T03:40:13.381Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.590Z",
       "Sha256": "8eace4781f8dd434f73d1f8c99864b14792f150ca6378f168a79cf0f4b0d4f41"
     },
     {
       "RelativePath": "Configs/Monsters/Types/types.json",
       "Length": 158,
-      "LastWriteTimeUtc": "2026-06-07T07:30:33.063Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.592Z",
       "Sha256": "402af5d64756369d505d19a66f1d901a6591632d572f7628efc6a33eaf1f100b"
     },
     {
       "RelativePath": "Configs/Skills/Skill0001.json",
       "Length": 1105,
-      "LastWriteTimeUtc": "2026-06-05T13:55:08.528Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.621Z",
       "Sha256": "8d7c8de7a91b4dead72c21ec5e96e2564638b0c13ff7a7228fffbe4e61f0374d"
     },
     {
       "RelativePath": "Configs/SkillTags/SkillTag001.json",
       "Length": 181,
-      "LastWriteTimeUtc": "2026-06-05T13:55:08.529Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.592Z",
       "Sha256": "a4c8609ae131ab90eb7689daa978ffc9079165f7c7114e3d7cbab5b176c2c6f3"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/DefaultContentWindow.json",
       "Length": 403,
-      "LastWriteTimeUtc": "2026-06-14T02:19:14.551Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.622Z",
       "Sha256": "b9cc6ce44cce1992de0907b4b35ba95c64b75a222cef34b0cfc6f4d07775a21d"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/SystemConfirmDialog.json",
       "Length": 643,
-      "LastWriteTimeUtc": "2026-06-14T02:19:14.551Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.622Z",
       "Sha256": "2cc9c16433796105faaabfc2925b7b60609448c2902597b6cded12ed18dce738"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/SystemErrorDialog.json",
       "Length": 394,
-      "LastWriteTimeUtc": "2026-06-14T02:19:14.552Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.622Z",
       "Sha256": "140cd8d13de1d41d7356f031c6f5a60be061ad03bb93bf152416f8da164ae06a"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/SystemMessageDialog.json",
       "Length": 396,
-      "LastWriteTimeUtc": "2026-06-14T02:19:14.552Z",
+      "LastWriteTimeUtc": "2026-06-15T01:09:57.622Z",
       "Sha256": "ce3aea278f26c58804684a531b4859736210e19f21d97a036ab2ba39384ca42c"
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 57344,
-      "LastWriteTimeUtc": "2026-06-16T15:05:53.234Z",
-      "Sha256": "40aec6d8f6aa8488a6089437515684c0eb493079b43335e468884bf612803754"
+      "Length": 61440,
+      "LastWriteTimeUtc": "2026-06-17T09:46:11.509Z",
+      "Sha256": "7014c06a9768169d248a868b87ea3dbd9ccbb0e746f86b2d056c55cdc6a241e3"
     }
   ]
 }
