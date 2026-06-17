@@ -23,6 +23,16 @@
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
       "AssetId": "Asset.Asset",
       "AssetIds": [
         "Asset.Asset"
@@ -89,7 +99,6 @@
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
-      "CurrencyId": "",
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
@@ -163,6 +172,16 @@
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
       "AssetId": "Asset.0001",
       "AssetIds": [
         "Asset.0001",
@@ -328,7 +347,6 @@
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
-      "CurrencyId": "",
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",

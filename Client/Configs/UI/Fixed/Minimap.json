@@ -12,17 +12,29 @@
       "Width": 821,
       "Height": 529,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 10,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
-      "MinimapCompanionControlIds": [],
+      "MinimapCompanionControlIds": [
+        "text"
+      ],
       "Text": "",
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
       "AssetId": "UI.LegacyMinimap.0",
       "AssetIds": [
         "UI.LegacyMinimap.0"
@@ -89,7 +101,153 @@
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
-      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "text",
+      "DisplayName": "大地图坐标",
+      "Kind": "Text",
+      "X": 1304,
+      "Y": 790,
+      "Width": 67,
+      "Height": 16,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 12,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "{{Minimap.MousePosition}}",
+      "FontFamily": "NSimSun",
+      "FontSize": 12,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": false,
+        "ShadowColor": "#00000073",
+        "ShadowOffsetX": 0,
+        "ShadowOffsetY": 0,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
@@ -156,13 +314,25 @@
       "ZIndex": 21,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
-      "MinimapCompanionControlIds": [],
+      "MinimapCompanionControlIds": [
+        "text2"
+      ],
       "Text": "",
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
       "AssetId": "UI.LegacyMinimap.0",
       "AssetIds": [
         "UI.LegacyMinimap.0"
@@ -229,7 +399,6 @@
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
-      "CurrencyId": "",
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
@@ -296,13 +465,25 @@
       "ZIndex": 30,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 0.55,
-      "MinimapCompanionControlIds": [],
+      "MinimapCompanionControlIds": [
+        "text22"
+      ],
       "Text": "",
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
       "AssetId": "UI.LegacyMinimap.0",
       "AssetIds": [
         "UI.LegacyMinimap.0"
@@ -369,7 +550,300 @@
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
-      "CurrencyId": "",
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "text2",
+      "DisplayName": "中地图坐标",
+      "Kind": "Text",
+      "X": 1870,
+      "Y": 187,
+      "Width": 63,
+      "Height": 16,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 31,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "{{Minimap.MousePosition}}",
+      "FontFamily": "NSimSun",
+      "FontSize": 12,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
+      "ContentTemplate": null,
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "text22",
+      "DisplayName": "小地图坐标",
+      "Kind": "Text",
+      "X": 1873,
+      "Y": 107,
+      "Width": 63,
+      "Height": 16,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 32,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "{{Minimap.MousePosition}}",
+      "FontFamily": "NSimSun",
+      "FontSize": 12,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
       "ContentTemplate": null,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
