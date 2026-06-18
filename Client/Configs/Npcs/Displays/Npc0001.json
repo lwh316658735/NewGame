@@ -1,0 +1,23 @@
+{
+  "NpcId": "Npc0001",
+  "NpcModelId": "NpcModel0001",
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 14,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#ffffff",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": true,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": true,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  }
+}

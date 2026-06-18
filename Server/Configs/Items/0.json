@@ -16,10 +16,13 @@
     "RequiredCharacterLevel": 0,
     "RequiredRebirthLevel": 0,
     "MaxDurability": 0,
-    "EquipLocations": [],
+    "EquipLocations": [
+      "Ring"
+    ],
     "FashionLocations": [],
     "AllowedSlotIds": [],
     "IsSideSpecific": false,
+    "EquipSide": "None",
     "QualityRule": {
       "IsEnabled": false
     },

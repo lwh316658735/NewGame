@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MapId": "0",
+  "NpcPlacements": [
+    {
+      "PlacementId": "MapNpc0001",
+      "NpcId": "Npc0001",
+      "IsEnabled": true,
+      "Column": 329,
+      "Row": 268,
+      "OffsetX": 24,
+      "OffsetY": 32
+    }
+  ]
+}

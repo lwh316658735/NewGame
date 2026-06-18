@@ -1,0 +1,21 @@
+{
+  "NpcModelId": "NpcModel0001",
+  "DisplayName": "小姐姐模型",
+  "FrameAssetIds": [
+    "NPC.npc2_0000",
+    "NPC.npc2_0001",
+    "NPC.npc2_0002",
+    "NPC.npc2_0003"
+  ],
+  "FramesPerSecond": 4,
+  "DefaultScaleX": 1,
+  "DefaultScaleY": 1,
+  "DefaultOffsetX": 0,
+  "DefaultOffsetY": 0,
+  "HitBox": {
+    "OffsetX": 2,
+    "OffsetY": -55,
+    "Width": 46,
+    "Height": 86
+  }
+}
