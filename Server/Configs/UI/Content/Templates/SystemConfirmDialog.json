@@ -10,6 +10,8 @@
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
       "TargetTemplateId": "",
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false
     },
     {
@@ -19,6 +21,8 @@
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
       "TargetTemplateId": "",
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false
     }
   ],

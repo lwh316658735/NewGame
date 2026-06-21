@@ -1,4 +1,5 @@
 {
   "ProfessionId": "Warrior",
-  "RunMoveSpeed": 5000
+  "RunMoveSpeed": 5000,
+  "AttackSpeed": 20000
 }

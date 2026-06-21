@@ -23,8 +23,8 @@
   "BaseCombatAttributes": {
     "MaxHealth": 100000,
     "MaxMana": 20,
-    "MinPhysicalAttack": 1,
-    "MaxPhysicalAttack": 3,
+    "MinPhysicalAttack": 1000,
+    "MaxPhysicalAttack": 10000,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 2,
     "MinTaoismAttack": 0,
@@ -33,10 +33,10 @@
     "MaxPhysicalDefense": 2,
     "MinMagicDefense": 0,
     "MaxMagicDefense": 2,
-    "Hit": 500,
+    "Hit": 5000,
     "Dodge": 300,
     "MoveSpeed": 5000,
-    "AttackSpeed": 1000,
+    "AttackSpeed": 20000,
     "CastSpeed": 1000
   },
   "GrowthPerLevel": {
@@ -47,7 +47,7 @@
     "TaoismAttack": 1,
     "PhysicalDefense": 1,
     "MagicDefense": 1,
-    "Hit": 100,
+    "Hit": 0,
     "Dodge": 0
   },
   "SkillUnlocks": [

@@ -1,0 +1,437 @@
+{
+  "MonsterModelId": "MonsterModel0001",
+  "DisplayName": "刀卫",
+  "Animations": [
+    {
+      "Action": "Idle",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": [
+            "Asset.Mon1_0000",
+            "Asset.Mon1_0001",
+            "Asset.Mon1_0002",
+            "Asset.Mon1_0003"
+          ]
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0008",
+            "Asset.Mon1_0009",
+            "Asset.Mon1_0010",
+            "Asset.Mon1_0011"
+          ]
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": [
+            "Asset.Mon1_0016",
+            "Asset.Mon1_0017",
+            "Asset.Mon1_0018",
+            "Asset.Mon1_0019"
+          ]
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0024",
+            "Asset.Mon1_0025",
+            "Asset.Mon1_0026",
+            "Asset.Mon1_0027"
+          ]
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": [
+            "Asset.Mon1_0032",
+            "Asset.Mon1_0033",
+            "Asset.Mon1_0034",
+            "Asset.Mon1_0035"
+          ]
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0040",
+            "Asset.Mon1_0041",
+            "Asset.Mon1_0042",
+            "Asset.Mon1_0043"
+          ]
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": [
+            "Asset.Mon1_0048",
+            "Asset.Mon1_0049",
+            "Asset.Mon1_0050",
+            "Asset.Mon1_0051"
+          ]
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0056",
+            "Asset.Mon1_0057",
+            "Asset.Mon1_0058",
+            "Asset.Mon1_0059"
+          ]
+        }
+      ]
+    },
+    {
+      "Action": "Move",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": [
+            "Asset.Mon1_0064",
+            "Asset.Mon1_0065",
+            "Asset.Mon1_0066",
+            "Asset.Mon1_0067",
+            "Asset.Mon1_0068",
+            "Asset.Mon1_0069"
+          ]
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0072",
+            "Asset.Mon1_0073",
+            "Asset.Mon1_0074",
+            "Asset.Mon1_0075",
+            "Asset.Mon1_0076",
+            "Asset.Mon1_0077"
+          ]
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": [
+            "Asset.Mon1_0080",
+            "Asset.Mon1_0081",
+            "Asset.Mon1_0082",
+            "Asset.Mon1_0083",
+            "Asset.Mon1_0084",
+            "Asset.Mon1_0085"
+          ]
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0088",
+            "Asset.Mon1_0089",
+            "Asset.Mon1_0090",
+            "Asset.Mon1_0091",
+            "Asset.Mon1_0092",
+            "Asset.Mon1_0093"
+          ]
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": [
+            "Asset.Mon1_0096",
+            "Asset.Mon1_0097",
+            "Asset.Mon1_0098",
+            "Asset.Mon1_0099",
+            "Asset.Mon1_0100",
+            "Asset.Mon1_0101"
+          ]
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0104",
+            "Asset.Mon1_0105",
+            "Asset.Mon1_0106",
+            "Asset.Mon1_0107",
+            "Asset.Mon1_0108",
+            "Asset.Mon1_0109"
+          ]
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": [
+            "Asset.Mon1_0112",
+            "Asset.Mon1_0113",
+            "Asset.Mon1_0114",
+            "Asset.Mon1_0115",
+            "Asset.Mon1_0116",
+            "Asset.Mon1_0117"
+          ]
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0120",
+            "Asset.Mon1_0121",
+            "Asset.Mon1_0122",
+            "Asset.Mon1_0123",
+            "Asset.Mon1_0124",
+            "Asset.Mon1_0125"
+          ]
+        }
+      ]
+    },
+    {
+      "Action": "Attack",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": [
+            "Asset.Mon1_0128",
+            "Asset.Mon1_0129",
+            "Asset.Mon1_0130",
+            "Asset.Mon1_0131",
+            "Asset.Mon1_0132",
+            "Asset.Mon1_0133"
+          ]
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0136",
+            "Asset.Mon1_0137",
+            "Asset.Mon1_0138",
+            "Asset.Mon1_0139",
+            "Asset.Mon1_0140",
+            "Asset.Mon1_0141"
+          ]
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": [
+            "Asset.Mon1_0144",
+            "Asset.Mon1_0145",
+            "Asset.Mon1_0146",
+            "Asset.Mon1_0147",
+            "Asset.Mon1_0148",
+            "Asset.Mon1_0149"
+          ]
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": [
+            "Asset.Mon1_0152",
+            "Asset.Mon1_0153",
+            "Asset.Mon1_0154",
+            "Asset.Mon1_0155",
+            "Asset.Mon1_0156",
+            "Asset.Mon1_0157"
+          ]
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": [
+            "Asset.Mon1_0160",
+            "Asset.Mon1_0161",
+            "Asset.Mon1_0162",
+            "Asset.Mon1_0163",
+            "Asset.Mon1_0164",
+            "Asset.Mon1_0165"
+          ]
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0168",
+            "Asset.Mon1_0169",
+            "Asset.Mon1_0170",
+            "Asset.Mon1_0171",
+            "Asset.Mon1_0172",
+            "Asset.Mon1_0173"
+          ]
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": [
+            "Asset.Mon1_0176",
+            "Asset.Mon1_0177",
+            "Asset.Mon1_0178",
+            "Asset.Mon1_0179",
+            "Asset.Mon1_0180",
+            "Asset.Mon1_0181"
+          ]
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": [
+            "Asset.Mon1_0184",
+            "Asset.Mon1_0185",
+            "Asset.Mon1_0186",
+            "Asset.Mon1_0187",
+            "Asset.Mon1_0188",
+            "Asset.Mon1_0189"
+          ]
+        }
+      ]
+    },
+    {
+      "Action": "Cast",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    {
+      "Action": "Hit",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    {
+      "Action": "Death",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    {
+      "Action": "Revive",
+      "FramesPerSecond": 5,
+      "Directions": [
+        {
+          "Direction": "Up",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Right",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownRight",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Down",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "DownLeft",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "Left",
+          "FrameAssetIds": []
+        },
+        {
+          "Direction": "UpLeft",
+          "FrameAssetIds": []
+        }
+      ]
+    }
+  ],
+  "DefaultScaleX": 1,
+  "DefaultScaleY": 1,
+  "DefaultOffsetX": 0,
+  "DefaultOffsetY": 0,
+  "HitBox": {
+    "OffsetX": -8,
+    "OffsetY": -63,
+    "Width": 60,
+    "Height": 95
+  },
+  "AttackSoundAssetId": "",
+  "HitSoundAssetId": "",
+  "DeathSoundAssetId": ""
+}

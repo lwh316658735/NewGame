@@ -1,0 +1,23 @@
+{
+  "MonsterId": "Monster0001",
+  "MonsterModelId": "MonsterModel0001",
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 12,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#E55757",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": true,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": true,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  }
+}

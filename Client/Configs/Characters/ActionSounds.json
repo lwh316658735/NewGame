@@ -1,0 +1,84 @@
+{
+  "Models": [
+    {
+      "ModelId": "Male",
+      "DisplayName": "男性默认外观",
+      "ActionSounds": [
+        {
+          "Action": "Walk",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Run",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Attack",
+          "SoundAssetIds": [
+            "Asset.Asset_22"
+          ]
+        },
+        {
+          "Action": "Cast",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Hit",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Death",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Mining",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Explore",
+          "SoundAssetIds": []
+        }
+      ]
+    },
+    {
+      "ModelId": "Female",
+      "DisplayName": "女性默认外观",
+      "ActionSounds": [
+        {
+          "Action": "Walk",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Run",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Attack",
+          "SoundAssetIds": [
+            "Asset.Asset_22"
+          ]
+        },
+        {
+          "Action": "Cast",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Hit",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Death",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Mining",
+          "SoundAssetIds": []
+        },
+        {
+          "Action": "Explore",
+          "SoundAssetIds": []
+        }
+      ]
+    }
+  ]
+}

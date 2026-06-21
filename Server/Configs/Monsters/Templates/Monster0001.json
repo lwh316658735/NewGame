@@ -1,34 +1,34 @@
 {
   "MonsterId": "Monster0001",
-  "DisplayName": "新怪物",
+  "DisplayName": "刀卫",
   "Level": 1,
   "MonsterTypeIds": [
     "Boss"
   ],
   "FixedAffixRules": [],
   "Combat": {
-    "MaxHealth": 100,
+    "MaxHealth": 10000000,
     "MaxMana": 0,
-    "MinPhysicalAttack": 1,
-    "MaxPhysicalAttack": 3,
+    "MinPhysicalAttack": 200,
+    "MaxPhysicalAttack": 5000,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,
     "MaxTaoismAttack": 0,
-    "MinPhysicalDefense": 0,
-    "MaxPhysicalDefense": 1,
+    "MinPhysicalDefense": 1000,
+    "MaxPhysicalDefense": 2000,
     "MinMagicDefense": 0,
     "MaxMagicDefense": 1,
     "Hit": 10000,
     "Dodge": 0,
-    "MoveSpeed": 1000,
-    "AttackSpeed": 1000,
+    "MoveSpeed": 3000,
+    "AttackSpeed": 10000,
     "CastSpeed": 1000
   },
-  "MonsterAiId": "",
+  "MonsterAiId": "MonsterAi0001",
   "Reward": {
     "IsRewardDisabled": false,
-    "Experience": 0,
+    "Experience": 50000,
     "DropTableIds": []
   }
 }

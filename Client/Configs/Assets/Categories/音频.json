@@ -1,0 +1,66 @@
+{
+  "Version": 2,
+  "Category": "音频",
+  "Assets": [
+    {
+      "AssetId": "Asset.log_in_long2",
+      "DisplayName": "log-in-long2",
+      "SortOrder": 33228,
+      "Category": "音频",
+      "RelativePath": "Client/Assets/音频/log-in-long2.wav",
+      "FileExtension": ".wav",
+      "FileSizeBytes": 6043692,
+      "Width": 0,
+      "Height": 0,
+      "LastModifiedAt": "2012-07-05T10:21:04+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.main_theme",
+      "DisplayName": "main_theme",
+      "SortOrder": 33229,
+      "Category": "音频",
+      "RelativePath": "Client/Assets/音频/main_theme.wav",
+      "FileExtension": ".wav",
+      "FileSizeBytes": 6345596,
+      "Width": 0,
+      "Height": 0,
+      "LastModifiedAt": "2012-07-05T10:20:56+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_22",
+      "DisplayName": "攻击",
+      "SortOrder": 33230,
+      "Category": "音频",
+      "RelativePath": "Client/Assets/音频/攻击.wav",
+      "FileExtension": ".wav",
+      "FileSizeBytes": 35912,
+      "Width": 0,
+      "Height": 0,
+      "LastModifiedAt": "2012-07-05T10:21:00+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

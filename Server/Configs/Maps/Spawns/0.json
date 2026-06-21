@@ -6,17 +6,17 @@
       "SpawnGroupId": "Spawn0001",
       "DisplayName": "新刷怪组",
       "IsEnabled": true,
-      "Mode": "MaintainPopulation",
-      "CenterColumn": 367,
-      "CenterRow": 361,
-      "RadiusCells": 11,
+      "Mode": "TimedWave",
+      "CenterColumn": 331,
+      "CenterRow": 266,
+      "RadiusCells": 9,
       "InitialDelaySeconds": 0,
-      "IntervalSeconds": 60,
+      "IntervalSeconds": 5,
       "Entries": [
         {
           "MonsterId": "Monster0001",
           "SpawnCount": 1,
-          "MaxAliveCount": 1
+          "MaxAliveCount": 10
         }
       ]
     }
