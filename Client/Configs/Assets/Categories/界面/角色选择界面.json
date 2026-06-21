@@ -1,0 +1,511 @@
+{
+  "Version": 4,
+  "Category": "界面",
+  "Subcategory": "角色选择界面",
+  "Assets": [
+    {
+      "AssetId": "Asset.Asset_4",
+      "DisplayName": "男道士_展示待机_正面_静态展示",
+      "SortOrder": 12472,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/男道士_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 578967,
+      "Width": 518,
+      "Height": 827,
+      "LastModifiedAt": "2026-06-13T02:28:57.9436738+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 0.9,
+        "ScaleY": 0.9,
+        "OffsetX": 24,
+        "OffsetY": 23
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_5",
+      "DisplayName": "男法师_展示待机_正面_静态展示",
+      "SortOrder": 12473,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/男法师_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 554932,
+      "Width": 497,
+      "Height": 829,
+      "LastModifiedAt": "2026-06-13T02:27:00.491089+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 0.9,
+        "ScaleY": 0.9,
+        "OffsetX": 53,
+        "OffsetY": 10
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_6",
+      "DisplayName": "男战士_展示待机_正面_静态展示",
+      "SortOrder": 12474,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/男战士_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 605484,
+      "Width": 593,
+      "Height": 828,
+      "LastModifiedAt": "2026-06-13T02:28:57.7971519+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_7",
+      "DisplayName": "女道士_展示待机_正面_静态展示",
+      "SortOrder": 12475,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/女道士_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 522729,
+      "Width": 467,
+      "Height": 828,
+      "LastModifiedAt": "2026-06-13T02:28:57.7021521+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 0.85,
+        "ScaleY": 0.85,
+        "OffsetX": 25,
+        "OffsetY": 41
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_8",
+      "DisplayName": "女法师_展示待机_正面_静态展示",
+      "SortOrder": 12476,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/女法师_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 521354,
+      "Width": 438,
+      "Height": 828,
+      "LastModifiedAt": "2026-06-13T02:27:00.935948+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 0.9,
+        "ScaleY": 0.9,
+        "OffsetX": 17,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_9",
+      "DisplayName": "女战士_展示待机_正面_静态展示",
+      "SortOrder": 12477,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/女战士_展示待机_正面_静态展示.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 573703,
+      "Width": 600,
+      "Height": 829,
+      "LastModifiedAt": "2026-06-13T05:00:33.7962907+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.12",
+      "DisplayName": "图层 12",
+      "SortOrder": 12478,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/图层 12.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 46629,
+      "Width": 278,
+      "Height": 82,
+      "LastModifiedAt": "2026-06-13T07:04:54.7677433+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0",
+      "DisplayName": "图层 0",
+      "SortOrder": 12479,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/图层 0.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 78984,
+      "Width": 406,
+      "Height": 113,
+      "LastModifiedAt": "2026-06-13T07:09:50.1808874+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.13",
+      "DisplayName": "图层 13",
+      "SortOrder": 12480,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/图层 13.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 34011,
+      "Width": 278,
+      "Height": 82,
+      "LastModifiedAt": "2026-06-13T07:17:21.1951612+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.1_2",
+      "DisplayName": "图层1-2",
+      "SortOrder": 12481,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/图层1-2.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 58059,
+      "Width": 406,
+      "Height": 113,
+      "LastModifiedAt": "2026-06-13T07:16:31.7185791+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_16",
+      "DisplayName": "职业_战士_选中",
+      "SortOrder": 12482,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_战士_选中.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 124968,
+      "Width": 458,
+      "Height": 194,
+      "LastModifiedAt": "2026-06-13T07:18:25.7608064+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_11",
+      "DisplayName": "职业_战士_默认",
+      "SortOrder": 12483,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_战士_默认.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 98400,
+      "Width": 458,
+      "Height": 194,
+      "LastModifiedAt": "2026-06-13T07:22:04.809228+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_12",
+      "DisplayName": "职业_道士_默认",
+      "SortOrder": 12484,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_道士_默认.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 96915,
+      "Width": 457,
+      "Height": 192,
+      "LastModifiedAt": "2026-06-13T07:37:44.4668468+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_13",
+      "DisplayName": "职业_道士_选中",
+      "SortOrder": 12485,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_道士_选中.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 122543,
+      "Width": 457,
+      "Height": 192,
+      "LastModifiedAt": "2026-06-13T07:18:25.8038592+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_14",
+      "DisplayName": "职业_法师_默认",
+      "SortOrder": 12486,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_法师_默认.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 99196,
+      "Width": 458,
+      "Height": 193,
+      "LastModifiedAt": "2026-06-13T07:36:28.6975808+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_15",
+      "DisplayName": "职业_法师_选中",
+      "SortOrder": 12487,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/职业_法师_选中.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 125262,
+      "Width": 458,
+      "Height": 193,
+      "LastModifiedAt": "2026-06-13T07:18:25.7818343+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.3840x2160_6",
+      "DisplayName": "角色选择_纯背景_无斑点_清晰优化版_3840x2160",
+      "SortOrder": 12500,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_纯背景_无斑点_清晰优化版_3840x2160.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 14698117,
+      "Width": 3840,
+      "Height": 2160,
+      "LastModifiedAt": "2026-06-14T14:04:06.9517717+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_3",
+      "DisplayName": "角色选择_右侧按钮栏_无斑点_高清设计",
+      "SortOrder": 12501,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_右侧按钮栏_无斑点_高清设计.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 399648,
+      "Width": 438,
+      "Height": 456,
+      "LastModifiedAt": "2026-06-14T14:34:39.458475+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.0_2_2",
+      "DisplayName": "图层 0-2",
+      "SortOrder": 12502,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/图层 0-2.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 540131,
+      "Width": 409,
+      "Height": 734,
+      "LastModifiedAt": "2026-06-14T14:35:04.0131464+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.2",
+      "DisplayName": "2",
+      "SortOrder": 12503,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/2.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 629560,
+      "Width": 488,
+      "Height": 767,
+      "LastModifiedAt": "2026-06-14T15:01:30.6936578+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.3",
+      "DisplayName": "3",
+      "SortOrder": 12504,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/3.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 2496442,
+      "Width": 967,
+      "Height": 1485,
+      "LastModifiedAt": "2026-06-14T15:19:59.4121813+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_10",
+      "DisplayName": "角色选择_标题文案_创建角色_透明",
+      "SortOrder": 12505,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_标题文案_创建角色_透明.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 107882,
+      "Width": 955,
+      "Height": 260,
+      "LastModifiedAt": "2026-06-15T02:41:20.5539074+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_20",
+      "DisplayName": "角色选择_标题文案_选择角色_透明",
+      "SortOrder": 12506,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_标题文案_选择角色_透明.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 110239,
+      "Width": 955,
+      "Height": 260,
+      "LastModifiedAt": "2026-06-15T02:41:20.554908+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_21",
+      "DisplayName": "角色选择_顶部标题牌_无斑点_无文字_高清设计",
+      "SortOrder": 12507,
+      "Category": "界面",
+      "Subcategory": "角色选择界面",
+      "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_顶部标题牌_无斑点_无文字_高清设计.png",
+      "FileExtension": ".png",
+      "FileSizeBytes": 281545,
+      "Width": 955,
+      "Height": 260,
+      "LastModifiedAt": "2026-06-15T02:41:20.555908+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

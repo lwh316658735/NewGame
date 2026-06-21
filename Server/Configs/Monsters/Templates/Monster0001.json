@@ -21,8 +21,8 @@
     "MaxMagicDefense": 1,
     "Hit": 10000,
     "Dodge": 0,
-    "MoveSpeed": 3000,
-    "AttackSpeed": 10000,
+    "MoveSpeed": 2000,
+    "AttackSpeed": 1000,
     "CastSpeed": 1000
   },
   "MonsterAiId": "MonsterAi0001",

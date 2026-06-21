@@ -1,7 +1,9 @@
 {
   "GameRules": {
     "MaxCharacterLevel": 80,
-    "MaxRebirthLevel": 12
+    "MaxRebirthLevel": 12,
+    "AllowRunThroughPlayers": true,
+    "AllowRunThroughMonsters": true
   },
   "LevelExperienceRules": {
     "ManualEntries": [
