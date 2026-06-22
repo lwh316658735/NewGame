@@ -344,6 +344,13 @@
     "DefaultSpawnRow": 300,
     "DefaultAttackMode": "Peace"
   },
+  "DeathRespawnRules": {
+    "HealthRestoreMode": "Percent",
+    "HealthRestorePercent": 10000,
+    "HealthRestoreValue": 1,
+    "RespawnMapId": "0",
+    "RespawnSafeZoneId": "SafeZone0001"
+  },
   "AttackModeRules": {
     "DefaultAttackMode": "Peace",
     "EnabledModes": [
@@ -710,7 +717,6 @@
       "Dodge": 0,
       "MagicHit": 0,
       "MagicDodge": 0,
-      "MoveSpeed": 0,
       "AttackSpeed": 0,
       "CastSpeed": 0,
       "Lucky": 0,
@@ -762,7 +768,6 @@
       "Dodge": 0,
       "MagicHit": 0,
       "MagicDodge": 0,
-      "MoveSpeed": 0,
       "AttackSpeed": 0,
       "CastSpeed": 0,
       "Lucky": 0,
@@ -814,7 +819,6 @@
       "Dodge": 0,
       "MagicHit": 0,
       "MagicDodge": 0,
-      "MoveSpeed": 0,
       "AttackSpeed": 0,
       "CastSpeed": 0,
       "Lucky": 0,
@@ -866,7 +870,6 @@
       "Dodge": 0,
       "MagicHit": 0,
       "MagicDodge": 0,
-      "MoveSpeed": 0,
       "AttackSpeed": 0,
       "CastSpeed": 0,
       "Lucky": 0,
@@ -918,7 +921,6 @@
       "Dodge": 0,
       "MagicHit": 0,
       "MagicDodge": 0,
-      "MoveSpeed": 0,
       "AttackSpeed": 0,
       "CastSpeed": 0,
       "Lucky": 0,
