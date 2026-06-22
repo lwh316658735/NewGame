@@ -2,7 +2,7 @@
   "MonsterAiId": "MonsterAi0001",
   "DisplayName": "主动攻击通用AI",
   "BehaviorKind": "Aggressive",
-  "AggroRange": 6,
-  "ChaseRange": 8,
-  "ReturnRange": 12
+  "AggroRange": 10,
+  "ChaseRange": 10,
+  "ReturnRange": 10
 }

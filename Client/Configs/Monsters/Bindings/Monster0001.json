@@ -1,11 +1,12 @@
 {
   "MonsterId": "Monster0001",
   "MonsterModelId": "MonsterModel0001",
+  "MoveIntervalMilliseconds": 400,
   "NameStyle": {
     "FontFamily": "NSimSun",
     "FontSize": 12,
     "ColorMode": "FixedColor",
-    "FixedColor": "#E55757",
+    "FixedColor": "#FFFFFF",
     "GradientStartColor": "#ffffff",
     "GradientMiddleColor": "#ffffff",
     "GradientEndColor": "#ffffff",

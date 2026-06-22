@@ -1,13 +1,13 @@
 {
   "MonsterId": "Monster0001",
-  "DisplayName": "刀卫",
+  "DisplayName": "地狱守卫",
   "Level": 1,
   "MonsterTypeIds": [
     "Boss"
   ],
   "FixedAffixRules": [],
   "Combat": {
-    "MaxHealth": 10000000,
+    "MaxHealth": 50000,
     "MaxMana": 0,
     "MinPhysicalAttack": 200,
     "MaxPhysicalAttack": 5000,
@@ -21,9 +21,12 @@
     "MaxMagicDefense": 1,
     "Hit": 10000,
     "Dodge": 0,
-    "MoveSpeed": 2000,
-    "AttackSpeed": 1000,
+    "AttackSpeed": 2000,
     "CastSpeed": 1000
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 600,
+    "MoveIntervalMilliseconds": 400
   },
   "MonsterAiId": "MonsterAi0001",
   "Reward": {
