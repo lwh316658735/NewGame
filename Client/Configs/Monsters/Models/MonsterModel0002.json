@@ -350,35 +350,75 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0488",
+            "Asset.Mon1_0489",
+            "Asset.Mon1_0490",
+            "Asset.Mon1_0491"
+          ]
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0496",
+            "Asset.Mon1_0497",
+            "Asset.Mon1_0498",
+            "Asset.Mon1_0499"
+          ]
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0504",
+            "Asset.Mon1_0505",
+            "Asset.Mon1_0506",
+            "Asset.Mon1_0507"
+          ]
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0512",
+            "Asset.Mon1_0513",
+            "Asset.Mon1_0514",
+            "Asset.Mon1_0515"
+          ]
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0520",
+            "Asset.Mon1_0521",
+            "Asset.Mon1_0522",
+            "Asset.Mon1_0523"
+          ]
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0528",
+            "Asset.Mon1_0529",
+            "Asset.Mon1_0530",
+            "Asset.Mon1_0531"
+          ]
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0536",
+            "Asset.Mon1_0537",
+            "Asset.Mon1_0538",
+            "Asset.Mon1_0539"
+          ]
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.Mon1_0544",
+            "Asset.Mon1_0545",
+            "Asset.Mon1_0546",
+            "Asset.Mon1_0547"
+          ]
         }
       ]
     },
