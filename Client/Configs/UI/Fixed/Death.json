@@ -329,8 +329,8 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
-        "HotAreaFeedbackColor": "",
-        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackColor": "#00000085",
+        "HotAreaFeedbackOpacity": 0.55,
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
