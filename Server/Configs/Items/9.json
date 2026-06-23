@@ -1,0 +1,17 @@
+{
+  "ItemId": "9",
+  "Kind": "Material",
+  "MaxStack": 99,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 0,
+  "Rarity": 300,
+  "IsCharacterBound": false,
+  "AttributeItem": null,
+  "ConsumableItem": null,
+  "MaterialItem": {}
+}

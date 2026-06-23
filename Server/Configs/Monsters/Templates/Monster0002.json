@@ -1,0 +1,39 @@
+{
+  "MonsterId": "Monster0002",
+  "DisplayName": "测试掉落怪物",
+  "Level": 50,
+  "MonsterTypeIds": [
+    "Boss"
+  ],
+  "FixedAffixRules": [],
+  "Combat": {
+    "MaxHealth": 3000,
+    "MaxMana": 0,
+    "MinPhysicalAttack": 1,
+    "MaxPhysicalAttack": 3,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
+    "MinTaoismAttack": 0,
+    "MaxTaoismAttack": 0,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 1,
+    "MinMagicDefense": 0,
+    "MaxMagicDefense": 1,
+    "Hit": 10000,
+    "Dodge": 0,
+    "AttackSpeed": 1000,
+    "CastSpeed": 1000
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 600,
+    "MoveIntervalMilliseconds": 1200
+  },
+  "MonsterAiId": "MonsterAi0001",
+  "Reward": {
+    "IsRewardDisabled": false,
+    "Experience": 6000,
+    "DropTableIds": [
+      "DropTable0001"
+    ]
+  }
+}

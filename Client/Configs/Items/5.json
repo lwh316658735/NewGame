@@ -1,0 +1,13 @@
+{
+  "ItemId": "5",
+  "DisplayName": "物品1",
+  "Alias": "",
+  "Description": "",
+  "NameStyle": {
+    "ColorMode": "FixedColor",
+    "FixedColor": "#ffffff",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff"
+  }
+}

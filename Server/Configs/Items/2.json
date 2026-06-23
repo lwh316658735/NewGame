@@ -1,0 +1,65 @@
+{
+  "ItemId": "2",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 0,
+  "Rarity": 4000,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "RequiredCharacterLevel": 30,
+    "RequiredRebirthLevel": 0,
+    "MaxDurability": 0,
+    "EquipLocations": [
+      "Helmet"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalDefense",
+        "Operation": "Add",
+        "Value": 3
+      },
+      {
+        "AttributeId": "MaxPhysicalDefense",
+        "Operation": "Add",
+        "Value": 4
+      },
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 1
+      },
+      {
+        "AttributeId": "MinMagicDefense",
+        "Operation": "Add",
+        "Value": 2
+      },
+      {
+        "AttributeId": "MaxMagicDefense",
+        "Operation": "Add",
+        "Value": 3
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

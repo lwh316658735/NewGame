@@ -1,0 +1,244 @@
+{
+  "Qualities": [
+    {
+      "Rarity": 0,
+      "IsEnabled": true,
+      "Weight": 200,
+      "AttributeBonuses": [],
+      "MaxPrefixCount": 0,
+      "MaxSuffixCount": 0
+    },
+    {
+      "Rarity": 1,
+      "IsEnabled": true,
+      "Weight": 100,
+      "AttributeBonuses": [
+        {
+          "Target": "MaxHealth",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MaxMana",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalAttack",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicAttack",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "TaoismAttack",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalDefense",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicDefense",
+          "FlatMin": 1,
+          "FlatMax": 10,
+          "PercentMin": 1,
+          "PercentMax": 5
+        }
+      ],
+      "MaxPrefixCount": 1,
+      "MaxSuffixCount": 1
+    },
+    {
+      "Rarity": 2,
+      "IsEnabled": true,
+      "Weight": 100,
+      "AttributeBonuses": [
+        {
+          "Target": "MaxHealth",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MaxMana",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalAttack",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicAttack",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "TaoismAttack",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalDefense",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicDefense",
+          "FlatMin": 5,
+          "FlatMax": 15,
+          "PercentMin": 1,
+          "PercentMax": 5
+        }
+      ],
+      "MaxPrefixCount": 2,
+      "MaxSuffixCount": 2
+    },
+    {
+      "Rarity": 3,
+      "IsEnabled": true,
+      "Weight": 50,
+      "AttributeBonuses": [
+        {
+          "Target": "MaxHealth",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MaxMana",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalAttack",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicAttack",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "TaoismAttack",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "PhysicalDefense",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        },
+        {
+          "Target": "MagicDefense",
+          "FlatMin": 10,
+          "FlatMax": 20,
+          "PercentMin": 1,
+          "PercentMax": 5
+        }
+      ],
+      "MaxPrefixCount": 3,
+      "MaxSuffixCount": 3
+    },
+    {
+      "Rarity": 4,
+      "IsEnabled": true,
+      "Weight": 5,
+      "AttributeBonuses": [
+        {
+          "Target": "MaxHealth",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "MaxMana",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "PhysicalAttack",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "MagicAttack",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "TaoismAttack",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "PhysicalDefense",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        },
+        {
+          "Target": "MagicDefense",
+          "FlatMin": 20,
+          "FlatMax": 40,
+          "PercentMin": 3,
+          "PercentMax": 10
+        }
+      ],
+      "MaxPrefixCount": 4,
+      "MaxSuffixCount": 4
+    }
+  ]
+}

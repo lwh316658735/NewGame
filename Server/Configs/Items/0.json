@@ -9,11 +9,11 @@
     "CanSellToNpc": true
   },
   "Weight": 0,
-  "Rarity": 100,
+  "Rarity": 8000000000,
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 0,
+    "RequiredCharacterLevel": 43,
     "RequiredRebirthLevel": 0,
     "MaxDurability": 0,
     "EquipLocations": [
@@ -24,9 +24,20 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": false
+      "IsEnabled": true
     },
-    "FixedAttributes": [],
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 7
+      }
+    ],
     "FixedAffixRules": []
   },
   "ConsumableItem": null,

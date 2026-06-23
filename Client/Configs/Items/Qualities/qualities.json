@@ -1,0 +1,59 @@
+{
+  "Qualities": [
+    {
+      "Rarity": 0,
+      "DisplayName": "普通",
+      "NameStyle": {
+        "ColorMode": "FixedColor",
+        "FixedColor": "#ffffff",
+        "GradientStartColor": "#ffffff",
+        "GradientMiddleColor": "#ffffff",
+        "GradientEndColor": "#ffffff"
+      }
+    },
+    {
+      "Rarity": 1,
+      "DisplayName": "魔法",
+      "NameStyle": {
+        "ColorMode": "FixedColor",
+        "FixedColor": "#543dff",
+        "GradientStartColor": "#ffffff",
+        "GradientMiddleColor": "#ffffff",
+        "GradientEndColor": "#ffffff"
+      }
+    },
+    {
+      "Rarity": 2,
+      "DisplayName": "稀有",
+      "NameStyle": {
+        "ColorMode": "FixedColor",
+        "FixedColor": "#e1fe06",
+        "GradientStartColor": "#ffffff",
+        "GradientMiddleColor": "#ffffff",
+        "GradientEndColor": "#ffffff"
+      }
+    },
+    {
+      "Rarity": 3,
+      "DisplayName": "传说",
+      "NameStyle": {
+        "ColorMode": "FixedColor",
+        "FixedColor": "#ffae00",
+        "GradientStartColor": "#ffffff",
+        "GradientMiddleColor": "#ffffff",
+        "GradientEndColor": "#ffffff"
+      }
+    },
+    {
+      "Rarity": 4,
+      "DisplayName": "天使",
+      "NameStyle": {
+        "ColorMode": "Gradient",
+        "FixedColor": "#ffae00",
+        "GradientStartColor": "#5318f7",
+        "GradientMiddleColor": "#faf31e",
+        "GradientEndColor": "#ff8800"
+      }
+    }
+  ]
+}
