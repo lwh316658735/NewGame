@@ -1,6 +1,271 @@
 {
-  "Version": 4,
+  "Version": 5,
   "Category": "地图",
   "Subcategory": "Object2c",
-  "Assets": []
+  "Assets": [
+    {
+      "AssetId": "Asset.img_7837",
+      "DisplayName": "img_7837",
+      "SortOrder": 3314,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7837.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 833,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8320165+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7838",
+      "DisplayName": "img_7838",
+      "SortOrder": 3315,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7838.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3729,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8320165+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7843",
+      "DisplayName": "img_7843",
+      "SortOrder": 3316,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7843.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 819,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8326677+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7844",
+      "DisplayName": "img_7844",
+      "SortOrder": 3317,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7844.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3725,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8326677+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7845",
+      "DisplayName": "img_7845",
+      "SortOrder": 3318,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7845.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3949,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8326677+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7846",
+      "DisplayName": "img_7846",
+      "SortOrder": 3319,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7846.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3644,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8326677+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7847",
+      "DisplayName": "img_7847",
+      "SortOrder": 3320,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7847.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3421,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.833186+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7850",
+      "DisplayName": "img_7850",
+      "SortOrder": 3321,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7850.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 933,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.833186+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7851",
+      "DisplayName": "img_7851",
+      "SortOrder": 3322,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7851.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3721,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8337008+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7852",
+      "DisplayName": "img_7852",
+      "SortOrder": 3323,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7852.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4068,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8337008+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7853",
+      "DisplayName": "img_7853",
+      "SortOrder": 3324,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7853.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4225,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8337008+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.img_7854",
+      "DisplayName": "img_7854",
+      "SortOrder": 3325,
+      "Category": "地图",
+      "Subcategory": "Object2c",
+      "RelativePath": "Client/Assets/地图/Object2c/img_7854.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4459,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-06-22T00:57:57.8342215+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "ScaleX": 1,
+        "ScaleY": 1,
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
 }

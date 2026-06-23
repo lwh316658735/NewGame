@@ -2,13 +2,13 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-06-23T02:12:34.456Z",
+  "GeneratedAt": "2026-06-23T08:45:06.567Z",
   "Files": [
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
       "Length": 1304,
-      "LastWriteTimeUtc": "2026-06-23T00:45:50.451Z",
-      "Sha256": "7ede135759714d48d63fa6a1bb2f9991a8b3f5946fcdbf8f739f589b4a0caf02"
+      "LastWriteTimeUtc": "2026-06-23T06:41:05.688Z",
+      "Sha256": "77c9528efe60a01431f78d3662949fdb309c456104034c86998bebbddd053e7b"
     },
     {
       "RelativePath": "Configs/Game/global.json",
@@ -48,14 +48,14 @@
     },
     {
       "RelativePath": "Configs/Monsters/Ai/MonsterAi0001.json",
-      "Length": 177,
-      "LastWriteTimeUtc": "2026-06-22T06:35:01.589Z",
-      "Sha256": "e65319e0c481a1bc9569ad6bca7a14ee2a5f6bac41142bb9ea2ae9badd309e70"
+      "Length": 377,
+      "LastWriteTimeUtc": "2026-06-23T06:40:09.477Z",
+      "Sha256": "a3ff66aa0a76edaedf6cd831194732575fead67f0b708ab89d0ba466d33337ff"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/Monster0001.json",
       "Length": 829,
-      "LastWriteTimeUtc": "2026-06-22T08:49:09.957Z",
+      "LastWriteTimeUtc": "2026-06-23T06:39:05.699Z",
       "Sha256": "34da0a67e0da87d7c087d43a9973e230339371ae5d781e9242cee1ca168c276f"
     },
     {
@@ -67,7 +67,7 @@
     {
       "RelativePath": "Configs/Npcs/Templates/Npc0001.json",
       "Length": 57,
-      "LastWriteTimeUtc": "2026-06-18T06:36:56.727Z",
+      "LastWriteTimeUtc": "2026-06-23T06:14:39.049Z",
       "Sha256": "d4154918b701a9232da44f72183e9622626d8c33211d2056825f31c5d9d99f91"
     },
     {
@@ -109,8 +109,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 102400,
-      "LastWriteTimeUtc": "2026-06-23T02:03:14.364Z",
-      "Sha256": "b92c0083795237fdf7f3d40b1d34181f618c8b502fe2679fa0260162ef1f2dbe"
+      "LastWriteTimeUtc": "2026-06-23T08:42:25.578Z",
+      "Sha256": "55703d2fe2046bdf6bda41ad74d49f4a865053922c65e20ef59b8e11b39e9435"
     }
   ]
 }

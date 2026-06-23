@@ -1,5 +1,6 @@
 {
   "MonsterId": "Monster0001",
+  "DisplayName": "地狱守卫",
   "MonsterModelId": "MonsterModel0002",
   "MoveIntervalMilliseconds": 400,
   "NameStyle": {
@@ -20,5 +21,6 @@
       "ShadowOffsetY": 1,
       "ShadowBlur": 0
     }
-  }
+  },
+  "HealthBarConfigId": ""
 }

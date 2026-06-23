@@ -5,10 +5,186 @@
   "BackgroundMusicAssetId": "",
   "Controls": [
     {
+      "ControlId": "image",
+      "DisplayName": "图片 2",
+      "Kind": "Image",
+      "X": 560,
+      "Y": 0,
+      "Width": 800,
+      "Height": 600,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 1,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "Asset.Asset_43",
+      "AssetIds": [
+        "Asset.Asset_43"
+      ],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "ResourceValueKind": "None",
+      "ResourceFillMode": "VerticalOrb",
+      "ResourcePreviewRatio": 0.75,
+      "BackgroundColor": "",
+      "InputBorderColor": "",
+      "InputBorderWidth": 0,
+      "InputCornerRadius": 0,
+      "InputCaretColor": "",
+      "InputTextOffsetX": 0,
+      "InputTextOffsetY": 0,
+      "InputCaretOffsetX": 0,
+      "InputCaretOffsetY": 0,
+      "CanHaveScrollbar": false,
+      "ScrollTargetControlId": "",
+      "ScrollbarButtonHeight": 18,
+      "ScrollbarMinimumThumbHeight": 24,
+      "ScrollbarTrackColor": "",
+      "ScrollbarThumbColor": "",
+      "ScrollbarButtonColor": "",
+      "ScrollbarTrackAssetId": "",
+      "ScrollbarThumbAssetId": "",
+      "ScrollbarUpButtonAssetId": "",
+      "ScrollbarDownButtonAssetId": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "InputMaxLength": 0,
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        }
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
+      "ContentTemplate": null,
+      "ClickSoundAssetId": "",
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonOpenTargetKind": "ContentTemplate",
+      "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaCornerRadius": 0,
+      "IsVisibleByDefault": true
+    },
+    {
       "ControlId": "deathNormalRespawnButton",
       "DisplayName": "普通复活按钮",
       "Kind": "Button",
-      "X": 710,
+      "X": 870,
       "Y": 558,
       "Width": 180,
       "Height": 52,
@@ -18,7 +194,7 @@
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
-      "Text": "普通复活",
+      "Text": "",
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
@@ -34,7 +210,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": "Asset.Asset_44",
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -130,7 +306,7 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": "Asset.Asset_44",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -138,7 +314,7 @@
           "Right": 0,
           "Bottom": 0
         },
-        "BackgroundColor": "#223344",
+        "BackgroundColor": "",
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -171,10 +347,10 @@
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
       },
-      "ButtonClickAreaX": 0,
-      "ButtonClickAreaY": 0,
-      "ButtonClickAreaWidth": 180,
-      "ButtonClickAreaHeight": 52,
+      "ButtonClickAreaX": 28,
+      "ButtonClickAreaY": 7,
+      "ButtonClickAreaWidth": 122,
+      "ButtonClickAreaHeight": 38,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true
     }

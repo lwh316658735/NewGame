@@ -1,20 +1,21 @@
 {
-  "Version": 4,
+  "Version": 5,
   "Category": "小地图",
   "Subcategory": "默认",
   "Assets": [
     {
       "AssetId": "UI.LegacyMinimap.0",
       "DisplayName": "0 小地图",
-      "SortOrder": 12508,
+      "SortOrder": 12452,
       "Category": "小地图",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/小地图/默认/LegacyMinimap/0/0_generated.png",
       "FileExtension": ".png",
+      "AudioUsage": null,
       "FileSizeBytes": 4844307,
       "Width": 2100,
       "Height": 1400,
-      "LastModifiedAt": "2026-06-17T12:29:33.1425984+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:00.4023685+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMinimap",
