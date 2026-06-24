@@ -34,6 +34,11 @@
     "Experience": 6000,
     "DropTableIds": [
       "DropTable0001"
-    ]
+    ],
+    "DropChanceBonus": {
+      "IsEnabled": false,
+      "Mode": "Add",
+      "Value": 2000000
+    }
   }
 }

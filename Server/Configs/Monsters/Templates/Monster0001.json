@@ -10,7 +10,7 @@
     "MaxHealth": 50000,
     "MaxMana": 0,
     "MinPhysicalAttack": 200,
-    "MaxPhysicalAttack": 5000,
+    "MaxPhysicalAttack": 300,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,
@@ -32,6 +32,13 @@
   "Reward": {
     "IsRewardDisabled": false,
     "Experience": 50000,
-    "DropTableIds": []
+    "DropTableIds": [
+      "DropTable0001"
+    ],
+    "DropChanceBonus": {
+      "IsEnabled": false,
+      "Mode": "Add",
+      "Value": 0
+    }
   }
 }
