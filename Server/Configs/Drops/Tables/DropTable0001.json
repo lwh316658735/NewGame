@@ -1,51 +1,52 @@
 {
   "DropTableId": "DropTable0001",
-  "DisplayName": "测试掉落文件",
-  "Description": "嘻嘻嘻嘻嘻嘻嘻嘻",
+  "DisplayName": "新掉落表",
+  "Description": "填写该掉落表的用途、适用场景和维护边界。",
   "Items": [
     {
+      "ItemId": "0",
+      "BaseDropChance": 1000000
+    },
+    {
+      "ItemId": "1",
+      "BaseDropChance": 1000000
+    },
+    {
+      "ItemId": "2",
+      "BaseDropChance": 1000000
+    },
+    {
+      "ItemId": "3",
+      "BaseDropChance": 1000000
+    },
+    {
+      "ItemId": "4",
+      "BaseDropChance": 1000000
+    },
+    {
       "ItemId": "5",
-      "BaseDropChance": 100000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     },
     {
       "ItemId": "6",
-      "BaseDropChance": 100000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     },
     {
       "ItemId": "7",
-      "BaseDropChance": 100000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     },
     {
       "ItemId": "8",
-      "BaseDropChance": 100000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     },
     {
       "ItemId": "9",
-      "BaseDropChance": 100000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     },
     {
       "ItemId": "10",
-      "BaseDropChance": 10000,
-      "MinDropCount": 1,
-      "MaxDropCount": 1
+      "BaseDropChance": 1000000
     }
   ],
-  "ReferencedDropTables": [
-    {
-      "DropTableId": "DropTable0002",
-      "BaseDropChance": 1000000,
-      "MutexGroupId": "",
-      "ItemPickMode": "PickOneAfterHit"
-    }
-  ]
+  "ReferencedDropTables": []
 }

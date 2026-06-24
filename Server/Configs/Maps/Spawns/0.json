@@ -7,11 +7,14 @@
       "DisplayName": "新刷怪组",
       "IsEnabled": true,
       "Mode": "TimedWave",
-      "CenterColumn": 331,
-      "CenterRow": 266,
-      "RadiusCells": 9,
+      "Area": {
+        "StartColumn": 322,
+        "StartRow": 257,
+        "EndColumn": 340,
+        "EndRow": 275
+      },
       "InitialDelaySeconds": 0,
-      "IntervalSeconds": 5,
+      "IntervalSeconds": 1,
       "Entries": [
         {
           "MonsterId": "Monster0001",
