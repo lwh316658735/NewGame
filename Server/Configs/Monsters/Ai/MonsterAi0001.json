@@ -6,10 +6,10 @@
   "ChaseRange": 10,
   "ReturnRange": 10,
   "Patrol": {
-    "CheckIntervalMilliseconds": 3000,
-    "TriggerChance": 3500,
-    "RangeMode": "SpawnArea",
-    "SpawnAreaWidthMultiplier": 10000,
-    "SpawnAreaHeightMultiplier": 10000
+    "CheckIntervalMilliseconds": 1000,
+    "TriggerChance": 10000,
+    "RangeMode": "WholeMap",
+    "SpawnAreaWidthMultiplier": 30000,
+    "SpawnAreaHeightMultiplier": 30000
   }
 }

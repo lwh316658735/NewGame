@@ -3,7 +3,8 @@
     "MaxCharacterLevel": 80,
     "MaxRebirthLevel": 12,
     "AllowRunThroughPlayers": true,
-    "AllowRunThroughMonsters": true
+    "AllowRunThroughMonsters": true,
+    "MonsterCorpseDurationSeconds": 5
   },
   "LevelExperienceRules": {
     "ManualEntries": [
@@ -333,8 +334,7 @@
   "DropRules": {
     "ExperienceRate": 10000,
     "GoldDropRate": 10000,
-    "ItemDropQuantityRate": 10000,
-    "ItemRarityRate": 10000
+    "ItemDropRate": 10000
   },
   "CharacterCreation": {
     "DefaultLevel": 71,
@@ -738,8 +738,7 @@
       "DamageReduction": 0,
       "HealthLeech": 0,
       "ManaLeech": 0,
-      "DropQuantity": 0,
-      "DropRarity": 0
+      "DropRate": 0
     },
     "Agility": {
       "WristStrength": 0,
@@ -789,8 +788,7 @@
       "DamageReduction": 0,
       "HealthLeech": 0,
       "ManaLeech": 0,
-      "DropQuantity": 0,
-      "DropRarity": 0
+      "DropRate": 0
     },
     "Intelligence": {
       "WristStrength": 0,
@@ -840,8 +838,7 @@
       "DamageReduction": 0,
       "HealthLeech": 0,
       "ManaLeech": 0,
-      "DropQuantity": 0,
-      "DropRarity": 0
+      "DropRate": 0
     },
     "Spirit": {
       "WristStrength": 0,
@@ -891,8 +888,7 @@
       "DamageReduction": 0,
       "HealthLeech": 0,
       "ManaLeech": 0,
-      "DropQuantity": 0,
-      "DropRarity": 0
+      "DropRate": 0
     },
     "Constitution": {
       "WristStrength": 0,
@@ -942,8 +938,7 @@
       "DamageReduction": 0,
       "HealthLeech": 0,
       "ManaLeech": 0,
-      "DropQuantity": 0,
-      "DropRarity": 0
+      "DropRate": 0
     }
   },
   "AttributeLimits": {

@@ -1,7 +1,7 @@
 {
   "ProfessionId": "Warrior",
   "MovementTiming": {
-    "MoveActionMilliseconds": 600
+    "MoveActionMilliseconds": 200
   },
-  "AttackSpeed": 20000
+  "AttackSpeed": 3000
 }

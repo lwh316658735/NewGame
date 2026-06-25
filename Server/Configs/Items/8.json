@@ -1,5 +1,6 @@
 {
   "ItemId": "8",
+  "DisplayName": "物品4",
   "Kind": "Material",
   "MaxStack": 99,
   "Price": {
@@ -8,8 +9,7 @@
     "SellPrice": 0,
     "CanSellToNpc": true
   },
-  "Weight": 0,
-  "Rarity": 600,
+  "Weight": 2,
   "IsCharacterBound": false,
   "AttributeItem": null,
   "ConsumableItem": null,

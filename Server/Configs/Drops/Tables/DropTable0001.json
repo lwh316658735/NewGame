@@ -4,49 +4,54 @@
   "Description": "填写该掉落表的用途、适用场景和维护边界。",
   "Items": [
     {
-      "ItemId": "0",
-      "BaseDropChance": 1000000
-    },
-    {
-      "ItemId": "1",
-      "BaseDropChance": 1000000
-    },
-    {
-      "ItemId": "2",
-      "BaseDropChance": 1000000
-    },
-    {
-      "ItemId": "3",
-      "BaseDropChance": 1000000
-    },
-    {
-      "ItemId": "4",
-      "BaseDropChance": 1000000
-    },
-    {
       "ItemId": "5",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     },
     {
       "ItemId": "6",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     },
     {
       "ItemId": "7",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     },
     {
       "ItemId": "8",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     },
     {
       "ItemId": "9",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     },
     {
       "ItemId": "10",
-      "BaseDropChance": 1000000
+      "BaseDropChance": 200000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
+    },
+    {
+      "ItemId": "3",
+      "BaseDropChance": 1000000,
+      "MinQuantity": 1,
+      "MaxQuantity": 1
     }
   ],
-  "ReferencedDropTables": []
+  "ReferencedDropTables": [
+    {
+      "DropTableId": "DropTable0002",
+      "BaseDropChance": 1000000,
+      "MutualExclusionGroupId": "",
+      "ItemPickMode": "Normal"
+    }
+  ]
 }

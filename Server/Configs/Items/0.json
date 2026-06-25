@@ -1,5 +1,6 @@
 {
   "ItemId": "0",
+  "DisplayName": "圣战戒指",
   "Kind": "AttributeItem",
   "MaxStack": 1,
   "Price": {
@@ -9,11 +10,10 @@
     "CanSellToNpc": true
   },
   "Weight": 0,
-  "Rarity": 8000000000,
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 43,
+    "RequiredCharacterLevel": 40,
     "RequiredRebirthLevel": 0,
     "MaxDurability": 0,
     "EquipLocations": [
@@ -35,7 +35,7 @@
       {
         "AttributeId": "MaxPhysicalAttack",
         "Operation": "Add",
-        "Value": 7
+        "Value": 8
       }
     ],
     "FixedAffixRules": []

@@ -1,5 +1,6 @@
 {
   "ItemId": "2",
+  "DisplayName": "圣战头盔",
   "Kind": "AttributeItem",
   "MaxStack": 1,
   "Price": {
@@ -9,11 +10,10 @@
     "CanSellToNpc": true
   },
   "Weight": 0,
-  "Rarity": 4000,
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 30,
+    "RequiredCharacterLevel": 33,
     "RequiredRebirthLevel": 0,
     "MaxDurability": 0,
     "EquipLocations": [

@@ -1,5 +1,6 @@
 {
   "ItemId": "4",
+  "DisplayName": "圣战项链",
   "Kind": "AttributeItem",
   "MaxStack": 1,
   "Price": {
@@ -9,7 +10,6 @@
     "CanSellToNpc": true
   },
   "Weight": 0,
-  "Rarity": 2000,
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,

@@ -1,0 +1,17 @@
+{
+  "Version": 1,
+  "NameTextStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 12,
+    "TextEffect": {
+      "IsOutlineEnabled": true,
+      "OutlineColor": "#000000A3",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": true,
+      "ShadowColor": "#000000BD",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  }
+}

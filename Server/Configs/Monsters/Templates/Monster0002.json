@@ -35,10 +35,10 @@
     "DropTableIds": [
       "DropTable0001"
     ],
-    "DropChanceBonus": {
-      "IsEnabled": false,
-      "Mode": "Add",
-      "Value": 2000000
+    "DropRateBonus": {
+      "IsEnabled": true,
+      "Mode": "Multiply",
+      "Value": 5000000
     }
   }
 }

@@ -3,8 +3,7 @@
     {
       "TypeId": "Boss",
       "DisplayName": "Boss",
-      "HealthBarLevel": 0,
-      "HealthBarConfigId": ""
+      "HealthBarLevel": 0
     }
   ]
 }

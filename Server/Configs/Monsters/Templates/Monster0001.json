@@ -21,7 +21,7 @@
     "MaxMagicDefense": 1,
     "Hit": 10000,
     "Dodge": 0,
-    "AttackSpeed": 2000,
+    "AttackSpeed": 1000,
     "CastSpeed": 1000
   },
   "MovementTiming": {
@@ -35,7 +35,7 @@
     "DropTableIds": [
       "DropTable0001"
     ],
-    "DropChanceBonus": {
+    "DropRateBonus": {
       "IsEnabled": false,
       "Mode": "Add",
       "Value": 0
