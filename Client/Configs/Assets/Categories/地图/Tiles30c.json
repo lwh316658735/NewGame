@@ -1,5 +1,5 @@
 {
-  "Version": 5,
+  "Version": 6,
   "Category": "地图",
   "Subcategory": "Tiles30c",
   "Assets": [
@@ -15,12 +15,10 @@
       "FileSizeBytes": 16738,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8347308+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4931764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -37,12 +35,10 @@
       "FileSizeBytes": 16734,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8347308+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4931764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -59,12 +55,10 @@
       "FileSizeBytes": 17012,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8352482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4931764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -81,12 +75,10 @@
       "FileSizeBytes": 16722,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8352482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4936756+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -103,12 +95,10 @@
       "FileSizeBytes": 16477,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8352482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4936756+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -125,12 +115,10 @@
       "FileSizeBytes": 16741,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8357758+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4941758+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -147,12 +135,10 @@
       "FileSizeBytes": 16656,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.836289+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4941758+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -169,12 +155,10 @@
       "FileSizeBytes": 16901,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.836289+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4946756+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -191,12 +175,10 @@
       "FileSizeBytes": 16546,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8368045+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4946756+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -213,12 +195,10 @@
       "FileSizeBytes": 16403,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8368045+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4951761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -235,12 +215,10 @@
       "FileSizeBytes": 17088,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8368045+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4951761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -257,12 +235,10 @@
       "FileSizeBytes": 16766,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8373246+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.495676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -279,12 +255,10 @@
       "FileSizeBytes": 17063,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8373246+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.495676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -301,12 +275,10 @@
       "FileSizeBytes": 16615,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8378395+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4961759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -323,12 +295,10 @@
       "FileSizeBytes": 16510,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8378395+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4961759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -345,12 +315,10 @@
       "FileSizeBytes": 16313,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8378395+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4966765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -367,12 +335,10 @@
       "FileSizeBytes": 16495,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8383554+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4966765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -389,12 +355,10 @@
       "FileSizeBytes": 16499,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8383554+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4966765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -411,12 +375,10 @@
       "FileSizeBytes": 16456,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8388676+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4971762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -433,12 +395,10 @@
       "FileSizeBytes": 16264,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8388676+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4971762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -455,12 +415,10 @@
       "FileSizeBytes": 16663,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8388676+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.497676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -477,12 +435,10 @@
       "FileSizeBytes": 16468,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.839376+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.497676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -499,12 +455,10 @@
       "FileSizeBytes": 16634,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.839376+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4981763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -521,12 +475,10 @@
       "FileSizeBytes": 16627,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8398952+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4981763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -543,12 +495,10 @@
       "FileSizeBytes": 16784,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8398952+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4981763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -565,12 +515,10 @@
       "FileSizeBytes": 16770,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8398952+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4986761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -587,12 +535,10 @@
       "FileSizeBytes": 16211,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8404084+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4986761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -609,12 +555,10 @@
       "FileSizeBytes": 16676,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8404084+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4991765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -631,12 +575,10 @@
       "FileSizeBytes": 16601,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8404084+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.4991765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -653,12 +595,10 @@
       "FileSizeBytes": 16557,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8409342+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.499676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -675,12 +615,10 @@
       "FileSizeBytes": 16873,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8409342+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.499676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -697,12 +635,10 @@
       "FileSizeBytes": 16453,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8414551+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.499676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -719,12 +655,10 @@
       "FileSizeBytes": 16826,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8414551+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5001765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -741,12 +675,10 @@
       "FileSizeBytes": 16590,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8419897+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5001765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -763,12 +695,10 @@
       "FileSizeBytes": 16580,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8419897+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5001765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -785,12 +715,10 @@
       "FileSizeBytes": 16715,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8425171+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5006764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -807,12 +735,10 @@
       "FileSizeBytes": 16778,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8425171+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5006764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -829,12 +755,10 @@
       "FileSizeBytes": 16699,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8430322+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5011759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -851,12 +775,10 @@
       "FileSizeBytes": 16760,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8435975+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5011759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -873,12 +795,10 @@
       "FileSizeBytes": 16804,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8435975+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5016762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -895,12 +815,10 @@
       "FileSizeBytes": 16838,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8441205+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5016762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -917,12 +835,10 @@
       "FileSizeBytes": 16825,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8441205+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.502179+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -939,12 +855,10 @@
       "FileSizeBytes": 16600,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8446414+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.502179+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -961,12 +875,10 @@
       "FileSizeBytes": 16838,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8446414+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5026761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -983,12 +895,10 @@
       "FileSizeBytes": 16466,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8451646+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5026761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1005,12 +915,10 @@
       "FileSizeBytes": 16512,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8451646+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5031766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1027,12 +935,10 @@
       "FileSizeBytes": 16688,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8456788+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5031766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1049,12 +955,10 @@
       "FileSizeBytes": 16352,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8456788+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5036778+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1071,12 +975,10 @@
       "FileSizeBytes": 16995,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8456788+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5036778+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1093,12 +995,10 @@
       "FileSizeBytes": 16631,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.846207+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5041761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1115,12 +1015,10 @@
       "FileSizeBytes": 16841,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.846207+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5041761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1137,12 +1035,10 @@
       "FileSizeBytes": 16763,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.846207+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5041761+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1159,12 +1055,10 @@
       "FileSizeBytes": 16712,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.846207+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5046765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1181,12 +1075,10 @@
       "FileSizeBytes": 16907,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.846207+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5046765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1203,12 +1095,10 @@
       "FileSizeBytes": 16682,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8472109+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5051766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1225,12 +1115,10 @@
       "FileSizeBytes": 16914,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8472109+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5051766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1247,12 +1135,10 @@
       "FileSizeBytes": 16331,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8472109+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5051766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1269,12 +1155,10 @@
       "FileSizeBytes": 16517,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8472109+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5056763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1291,12 +1175,10 @@
       "FileSizeBytes": 16496,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8482105+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5056763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1313,12 +1195,10 @@
       "FileSizeBytes": 16058,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8482105+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5056763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1335,12 +1215,10 @@
       "FileSizeBytes": 16264,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8486912+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5061759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1357,12 +1235,10 @@
       "FileSizeBytes": 16914,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8486912+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5061759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1379,12 +1255,10 @@
       "FileSizeBytes": 17006,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8491949+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5066763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1401,12 +1275,10 @@
       "FileSizeBytes": 16869,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8491949+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5066763+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1423,12 +1295,10 @@
       "FileSizeBytes": 16781,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8497107+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5071762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1445,12 +1315,10 @@
       "FileSizeBytes": 17142,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8497107+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5071762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1467,12 +1335,10 @@
       "FileSizeBytes": 16814,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8497107+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5076789+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1489,12 +1355,10 @@
       "FileSizeBytes": 16575,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8497107+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5076789+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1511,12 +1375,10 @@
       "FileSizeBytes": 16666,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5081801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1533,12 +1395,10 @@
       "FileSizeBytes": 16660,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5081801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1555,12 +1415,10 @@
       "FileSizeBytes": 16507,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5086782+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1577,12 +1435,10 @@
       "FileSizeBytes": 16786,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5086782+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1599,12 +1455,10 @@
       "FileSizeBytes": 16800,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5091792+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1621,12 +1475,10 @@
       "FileSizeBytes": 16761,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8507145+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5091792+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1643,12 +1495,10 @@
       "FileSizeBytes": 16676,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8517142+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5096793+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1665,12 +1515,10 @@
       "FileSizeBytes": 16820,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8517142+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5096793+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1687,12 +1535,10 @@
       "FileSizeBytes": 16621,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8517142+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5096793+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1709,12 +1555,10 @@
       "FileSizeBytes": 17048,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8527165+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5101765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1731,12 +1575,10 @@
       "FileSizeBytes": 16882,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8527165+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5101765+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1753,12 +1595,10 @@
       "FileSizeBytes": 16662,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8527165+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.510676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1775,12 +1615,10 @@
       "FileSizeBytes": 16822,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8527165+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.510676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1797,12 +1635,10 @@
       "FileSizeBytes": 16631,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8527165+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.510676+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1819,12 +1655,10 @@
       "FileSizeBytes": 16914,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8537143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5111762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1841,12 +1675,10 @@
       "FileSizeBytes": 17006,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8537143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5111762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1863,12 +1695,10 @@
       "FileSizeBytes": 16869,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8537143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5116769+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1885,12 +1715,10 @@
       "FileSizeBytes": 16781,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8537143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5116769+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1907,12 +1735,10 @@
       "FileSizeBytes": 17142,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8537143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5121784+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1929,12 +1755,10 @@
       "FileSizeBytes": 16580,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8547144+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5121784+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1951,12 +1775,10 @@
       "FileSizeBytes": 16715,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8547144+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5126795+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1973,12 +1795,10 @@
       "FileSizeBytes": 16778,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8547144+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5131804+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -1995,12 +1815,10 @@
       "FileSizeBytes": 16699,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8547144+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5131804+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2017,12 +1835,10 @@
       "FileSizeBytes": 16760,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8557143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5136779+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2039,12 +1855,10 @@
       "FileSizeBytes": 16831,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8557143+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5136779+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2061,12 +1875,10 @@
       "FileSizeBytes": 16801,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8561732+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5141797+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2083,12 +1895,10 @@
       "FileSizeBytes": 16430,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8561732+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5146774+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2105,12 +1915,10 @@
       "FileSizeBytes": 17114,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8566758+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5146774+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2127,12 +1935,10 @@
       "FileSizeBytes": 16853,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8566758+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5151764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2149,12 +1955,10 @@
       "FileSizeBytes": 16847,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8571836+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5151764+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2171,12 +1975,10 @@
       "FileSizeBytes": 16819,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8571836+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5156757+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2193,12 +1995,10 @@
       "FileSizeBytes": 16662,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8577+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5156757+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2215,12 +2015,10 @@
       "FileSizeBytes": 16763,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8577+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5156757+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2237,12 +2035,10 @@
       "FileSizeBytes": 17024,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.85814+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5161758+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2259,12 +2055,10 @@
       "FileSizeBytes": 17042,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.85814+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5161758+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2281,12 +2075,10 @@
       "FileSizeBytes": 16975,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8586425+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5166759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2303,12 +2095,10 @@
       "FileSizeBytes": 16628,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8586425+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5166759+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2325,12 +2115,10 @@
       "FileSizeBytes": 16998,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8586425+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5171772+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2347,12 +2135,10 @@
       "FileSizeBytes": 16886,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8586425+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5171772+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2369,12 +2155,10 @@
       "FileSizeBytes": 16893,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8596482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5171772+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2391,12 +2175,10 @@
       "FileSizeBytes": 16580,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8596482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5176809+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2413,12 +2195,10 @@
       "FileSizeBytes": 16715,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8596482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5181793+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2435,12 +2215,10 @@
       "FileSizeBytes": 16778,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8596482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5181793+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2457,12 +2235,10 @@
       "FileSizeBytes": 16699,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8596482+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5186783+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2479,12 +2255,10 @@
       "FileSizeBytes": 16760,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8608364+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5186783+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2501,12 +2275,10 @@
       "FileSizeBytes": 16331,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8608364+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5191777+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2523,12 +2295,10 @@
       "FileSizeBytes": 16517,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8608364+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5191777+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2545,12 +2315,10 @@
       "FileSizeBytes": 16496,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.8608364+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5191777+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2567,12 +2335,10 @@
       "FileSizeBytes": 16058,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.861836+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5196762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -2589,12 +2355,10 @@
       "FileSizeBytes": 16264,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-06-22T00:57:57.861836+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:50.5196762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }

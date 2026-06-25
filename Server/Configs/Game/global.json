@@ -686,8 +686,9 @@
     "DefaultWarehouseSlots": 60000
   },
   "GroundItemRules": {
-    "MaxDiscardRange": 0,
-    "MaxItemStacksPerCell": 20
+    "PlacementRangeHorizontalCells": 2,
+    "PlacementRangeVerticalCells": 2,
+    "MaxItemStacksPerCell": 10
   },
   "AttributeConversions": {
     "Strength": {

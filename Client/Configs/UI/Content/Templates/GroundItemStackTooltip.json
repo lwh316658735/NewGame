@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "TemplateId": "GroundItemStackTooltip",
+  "DisplayName": "物品叠加提示框",
+  "X": 0,
+  "Y": 0,
+  "Width": 260,
+  "Height": 120,
+  "DisplayMode": "FollowMouse",
+  "Controls": [
+    {
+      "ControlId": "groundItemStackTooltip",
+      "DisplayName": "物品堆叠提示框",
+      "Kind": "GroundItemStackTooltip",
+      "X": 94,
+      "Y": 8,
+      "Width": 223,
+      "Height": 120,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 0,
+      "DragTargetControlIds": [],
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 12,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": false,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "BackgroundColor": "#080C12DA",
+      "GroundItemStackTooltipBorderColor": "#E2E8F096",
+      "GroundItemStackTooltipIconVisible": true,
+      "GroundItemStackTooltipIconSize": 20,
+      "GroundItemStackTooltipIconFillMode": "Fit",
+      "GroundItemStackTooltipPreviewIconAssetId": "Asset.000000",
+      "GroundItemStackTooltipIconEffectAssetId": "Asset.image_1",
+      "GroundItemStackTooltipIconEffectAssetIds": [
+        "Asset.image_1",
+        "Asset.image_3",
+        "Asset.image_5",
+        "Asset.image_7",
+        "Asset.image_9",
+        "Asset.image_11"
+      ],
+      "GroundItemStackTooltipIconEffectFramesPerSecond": 5,
+      "GroundItemStackTooltipIconEffectLayer": "Foreground",
+      "GroundItemStackTooltipPaddingX": 6,
+      "GroundItemStackTooltipPaddingY": 7,
+      "GroundItemStackTooltipRowSpacing": 2,
+      "GroundItemStackTooltipIconTextSpacing": 0,
+      "GroundItemStackTooltipPreviewItems": [
+        {
+          "DisplayName": "金币x1300",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "金创药",
+          "Quantity": 3,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "回城卷轴",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        }
+      ],
+      "InputBorderColor": "",
+      "InputBorderWidth": 0,
+      "InputCornerRadius": 0,
+      "InputCaretColor": "",
+      "InputTextOffsetX": 0,
+      "InputTextOffsetY": 0,
+      "InputCaretOffsetX": 0,
+      "InputCaretOffsetY": 0,
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "InputMaxLength": 0,
+      "HintText": "",
+      "DefaultInputText": "",
+      "ActionId": "",
+      "ClickSoundAssetId": "",
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaCornerRadius": 0,
+      "InputId": "",
+      "SlotId": ""
+    }
+  ]
+}

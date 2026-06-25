@@ -1,5 +1,5 @@
 {
-  "Version": 5,
+  "Version": 6,
   "Category": "界面",
   "Subcategory": "提示框",
   "Assets": [
@@ -15,12 +15,10 @@
       "FileSizeBytes": 248875,
       "Width": 520,
       "Height": 280,
-      "LastModifiedAt": "2026-06-22T00:58:04.4211012+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:53.5491295+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -37,12 +35,10 @@
       "FileSizeBytes": 252363,
       "Width": 520,
       "Height": 280,
-      "LastModifiedAt": "2026-06-22T00:58:04.4200984+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:53.548172+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }
@@ -59,12 +55,10 @@
       "FileSizeBytes": 241876,
       "Width": 520,
       "Height": 280,
-      "LastModifiedAt": "2026-06-22T00:58:04.4192676+00:00",
+      "LastModifiedAt": "2026-06-23T12:16:53.5471754+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "ScaleX": 1,
-        "ScaleY": 1,
         "OffsetX": 0,
         "OffsetY": 0
       }

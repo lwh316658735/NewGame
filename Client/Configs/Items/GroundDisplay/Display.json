@@ -5,9 +5,9 @@
     "FontSize": 12,
     "TextEffect": {
       "IsOutlineEnabled": true,
-      "OutlineColor": "#000000A3",
+      "OutlineColor": "#00000057",
       "OutlineWidth": 1,
-      "IsShadowEnabled": true,
+      "IsShadowEnabled": false,
       "ShadowColor": "#000000BD",
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
