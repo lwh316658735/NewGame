@@ -686,9 +686,10 @@
     "DefaultWarehouseSlots": 60000
   },
   "GroundItemRules": {
-    "PlacementRangeHorizontalCells": 2,
-    "PlacementRangeVerticalCells": 2,
-    "MaxItemStacksPerCell": 10
+    "PlacementRangeHorizontalCells": 1,
+    "PlacementRangeVerticalCells": 1,
+    "MaxItemStacksPerCell": 20,
+    "GroundItemTimeoutSeconds": 200
   },
   "AttributeConversions": {
     "Strength": {

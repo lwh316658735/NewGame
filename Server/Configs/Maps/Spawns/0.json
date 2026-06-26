@@ -14,7 +14,7 @@
         "EndRow": 275
       },
       "InitialDelaySeconds": 0,
-      "IntervalSeconds": 1,
+      "IntervalSeconds": 5,
       "Entries": [
         {
           "MonsterId": "Monster0001",

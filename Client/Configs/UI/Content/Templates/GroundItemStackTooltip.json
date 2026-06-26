@@ -12,10 +12,10 @@
       "ControlId": "groundItemStackTooltip",
       "DisplayName": "物品堆叠提示框",
       "Kind": "GroundItemStackTooltip",
-      "X": 94,
-      "Y": 8,
+      "X": 576,
+      "Y": 201,
       "Width": 223,
-      "Height": 120,
+      "Height": 548,
       "Anchor": "TopLeft",
       "IsLockedInEditor": false,
       "ZIndex": 0,
@@ -47,27 +47,24 @@
         "Right": 0,
         "Bottom": 0
       },
-      "BackgroundColor": "#080C12DA",
-      "GroundItemStackTooltipBorderColor": "#E2E8F096",
-      "GroundItemStackTooltipIconVisible": true,
-      "GroundItemStackTooltipIconSize": 20,
-      "GroundItemStackTooltipIconFillMode": "Fit",
-      "GroundItemStackTooltipPreviewIconAssetId": "Asset.000000",
-      "GroundItemStackTooltipIconEffectAssetId": "Asset.image_1",
+      "BackgroundColor": "#080C12B0",
+      "GroundItemStackTooltipBorderColor": "#7575750D",
+      "GroundItemStackTooltipIconVisible": false,
+      "GroundItemStackTooltipIconSize": 50,
+      "GroundItemStackTooltipIconFillMode": "Center",
+      "GroundItemStackTooltipPreviewIconAssetId": "Asset.000156",
+      "GroundItemStackTooltipIconEffectAssetId": "Asset.image_3",
       "GroundItemStackTooltipIconEffectAssetIds": [
-        "Asset.image_1",
         "Asset.image_3",
         "Asset.image_5",
-        "Asset.image_7",
-        "Asset.image_9",
-        "Asset.image_11"
+        "Asset.image_7"
       ],
       "GroundItemStackTooltipIconEffectFramesPerSecond": 5,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
       "GroundItemStackTooltipPaddingX": 6,
       "GroundItemStackTooltipPaddingY": 7,
-      "GroundItemStackTooltipRowSpacing": 2,
-      "GroundItemStackTooltipIconTextSpacing": 0,
+      "GroundItemStackTooltipRowSpacing": 8,
+      "GroundItemStackTooltipIconTextSpacing": 5,
       "GroundItemStackTooltipPreviewItems": [
         {
           "DisplayName": "金币x1300",
@@ -81,6 +78,36 @@
         },
         {
           "DisplayName": "回城卷轴",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
+          "Quantity": 1,
+          "GroundIconAssetId": ""
+        },
+        {
+          "DisplayName": "预览物品",
           "Quantity": 1,
           "GroundIconAssetId": ""
         }

@@ -1,0 +1,21 @@
+{
+  "LightPillarId": "LightPillar0001",
+  "DisplayName": "新光柱",
+  "FramesPerSecond": 12,
+  "DefaultOffsetX": 0,
+  "DefaultOffsetY": 0,
+  "FrameAssetIds": [
+    "Asset.000000_4",
+    "Asset.000001_4",
+    "Asset.000002_4",
+    "Asset.000003_4",
+    "Asset.000004_3",
+    "Asset.000005_3",
+    "Asset.000006_3",
+    "Asset.000007_3",
+    "Asset.000008_3",
+    "Asset.000009_3",
+    "Asset.000010_4",
+    "Asset.000011_4"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "Version": 6,
+  "Category": "物品",
+  "Subcategory": "光柱1",
+  "Assets": [
+    {
+      "AssetId": "Asset.000000_4",
+      "DisplayName": "000000",
+      "SortOrder": 22193,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000000.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 125740,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000001_4",
+      "DisplayName": "000001",
+      "SortOrder": 22194,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000001.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 129402,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000002_4",
+      "DisplayName": "000002",
+      "SortOrder": 22195,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000002.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 130052,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000003_4",
+      "DisplayName": "000003",
+      "SortOrder": 22196,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000003.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 128582,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000004_3",
+      "DisplayName": "000004",
+      "SortOrder": 22197,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000004.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 126135,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000005_3",
+      "DisplayName": "000005",
+      "SortOrder": 22198,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000005.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 125688,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000006_3",
+      "DisplayName": "000006",
+      "SortOrder": 22199,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000006.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 128246,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000007_3",
+      "DisplayName": "000007",
+      "SortOrder": 22200,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000007.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 129490,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000008_3",
+      "DisplayName": "000008",
+      "SortOrder": 22201,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000008.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 129513,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000009_3",
+      "DisplayName": "000009",
+      "SortOrder": 22202,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000009.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 129325,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000010_4",
+      "DisplayName": "000010",
+      "SortOrder": 22203,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000010.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 129849,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    },
+    {
+      "AssetId": "Asset.000011_4",
+      "DisplayName": "000011",
+      "SortOrder": 22204,
+      "Category": "物品",
+      "Subcategory": "光柱1",
+      "RelativePath": "Client/Assets/物品/光柱1/000011.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 128790,
+      "Width": 132,
+      "Height": 580,
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -521
+      }
+    }
+  ]
+}
