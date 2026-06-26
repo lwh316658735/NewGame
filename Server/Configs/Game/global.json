@@ -689,7 +689,7 @@
     "PlacementRangeHorizontalCells": 1,
     "PlacementRangeVerticalCells": 1,
     "MaxItemStacksPerCell": 20,
-    "GroundItemTimeoutSeconds": 200
+    "GroundItemTimeoutSeconds": 220
   },
   "AttributeConversions": {
     "Strength": {
