@@ -8,18 +8,18 @@
       "IsEnabled": true,
       "Mode": "TimedWave",
       "Area": {
-        "StartColumn": 322,
-        "StartRow": 257,
-        "EndColumn": 340,
-        "EndRow": 275
+        "StartColumn": 261,
+        "StartRow": 146,
+        "EndColumn": 424,
+        "EndRow": 348
       },
       "InitialDelaySeconds": 0,
       "IntervalSeconds": 5,
       "Entries": [
         {
           "MonsterId": "Monster0001",
-          "SpawnCount": 1,
-          "MaxAliveCount": 5
+          "SpawnCount": 500,
+          "MaxAliveCount": 2000
         }
       ]
     }
