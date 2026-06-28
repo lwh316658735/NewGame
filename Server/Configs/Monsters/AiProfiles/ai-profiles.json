@@ -1,0 +1,11 @@
+{
+  "AiProfiles": [
+    {
+      "AiProfileId": 1,
+      "DisplayName": "默认怪物AI",
+      "AggroRangeCells": 8,
+      "ChaseRangeCells": 16,
+      "ReturnRangeCells": 24
+    }
+  ]
+}

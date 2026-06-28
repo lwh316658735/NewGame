@@ -12,8 +12,8 @@
       "ControlId": "groundItemStackTooltip",
       "DisplayName": "物品堆叠提示框",
       "Kind": "GroundItemStackTooltip",
-      "X": 576,
-      "Y": 201,
+      "X": 156,
+      "Y": 190,
       "Width": 223,
       "Height": 548,
       "Anchor": "TopLeft",
@@ -36,19 +36,22 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
-      "AssetIds": [],
+      "AssetId": "Asset.2_2",
+      "AssetIds": [
+        "Asset.2_2"
+      ],
       "ImageFramesPerSecond": 4,
-      "ImageFillMode": "Fit",
+      "ImageFillMode": "Center",
       "ImageNineSlice": {
-        "IsEnabled": false,
-        "Left": 0,
-        "Top": 0,
-        "Right": 0,
-        "Bottom": 0
+        "IsEnabled": true,
+        "Left": 18,
+        "Top": 18,
+        "Right": 18,
+        "Bottom": 18
       },
-      "BackgroundColor": "#080C12B0",
-      "GroundItemStackTooltipBorderColor": "#7575750D",
+      "BackgroundColor": "",
+      "InputFocusedBackgroundColor": "",
+      "GroundItemStackTooltipBorderColor": "",
       "GroundItemStackTooltipIconVisible": false,
       "GroundItemStackTooltipIconSize": 50,
       "GroundItemStackTooltipIconFillMode": "Center",
@@ -61,9 +64,9 @@
       ],
       "GroundItemStackTooltipIconEffectFramesPerSecond": 5,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
-      "GroundItemStackTooltipPaddingX": 6,
-      "GroundItemStackTooltipPaddingY": 7,
-      "GroundItemStackTooltipRowSpacing": 8,
+      "GroundItemStackTooltipPaddingX": 17,
+      "GroundItemStackTooltipPaddingY": 17,
+      "GroundItemStackTooltipRowSpacing": 5,
       "GroundItemStackTooltipIconTextSpacing": 5,
       "GroundItemStackTooltipPreviewItems": [
         {

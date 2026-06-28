@@ -2,13 +2,13 @@
   "Version": 1,
   "SourceClientPath": "J:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-06-27T12:49:28.030Z",
+  "GeneratedAt": "2026-06-28T14:43:57.984Z",
   "Files": [
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
       "Length": 1312,
-      "LastWriteTimeUtc": "2026-06-26T12:18:44.163Z",
-      "Sha256": "8dd1be9a298deaac9493229b2ef8b19ac43bc6b8657a70e5a49dddea76bf19a0"
+      "LastWriteTimeUtc": "2026-06-28T07:34:18.781Z",
+      "Sha256": "9d507575c6dfeed9f11d2bc28c219c0f88431cf9f0431e3c1c4d88cfe9cdee4e"
     },
     {
       "RelativePath": "Configs/Drops/Tables/DropTable0001.json",
@@ -115,7 +115,7 @@
     {
       "RelativePath": "Configs/Maps/Spawns/0.json",
       "Length": 1025,
-      "LastWriteTimeUtc": "2026-06-27T08:20:40.083Z",
+      "LastWriteTimeUtc": "2026-06-28T07:06:25.974Z",
       "Sha256": "6ed42e1b92c8816dfea01fb153da39ddc3493c8ae97a0f35715ed60587b653bb"
     },
     {
@@ -125,22 +125,28 @@
       "Sha256": "2418cf1d6499af3542461dd51478a61f9fb01a904f701281da4d0112ecb3cd20"
     },
     {
+      "RelativePath": "Configs/Monsters/AiProfiles/ai-profiles.json",
+      "Length": 196,
+      "LastWriteTimeUtc": "2026-06-28T07:06:37.181Z",
+      "Sha256": "3437f8fbda55c6d5fe3c283b203435f8cea41c356106d172d66f0b4750b3bcc1"
+    },
+    {
       "RelativePath": "Configs/Monsters/Templates/1.json",
-      "Length": 910,
-      "LastWriteTimeUtc": "2026-06-27T08:21:02.650Z",
-      "Sha256": "0fad173280c97a5e151acf384e340e71c1755f395909d224f18d7cba7a6610cc"
+      "Length": 1148,
+      "LastWriteTimeUtc": "2026-06-28T07:06:37.182Z",
+      "Sha256": "558993a12ec62b20a441604885151aa1101b21ccfe48e372cd059b1f2364f2c5"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1001.json",
-      "Length": 916,
-      "LastWriteTimeUtc": "2026-06-27T08:21:02.651Z",
-      "Sha256": "32ca5ed2e7e6f119158657e49ea808bf6539e7bacb4afade1e82041024c1d2e2"
+      "Length": 1145,
+      "LastWriteTimeUtc": "2026-06-28T07:06:37.183Z",
+      "Sha256": "5660eb0c48a525791aa54fb7149fcae314c33a0070babe8a0a202983c0d11b5c"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/2.json",
-      "Length": 915,
-      "LastWriteTimeUtc": "2026-06-27T08:21:02.651Z",
-      "Sha256": "7bc6025ba7e390981eab8603c535db8cafd6bbadfad135bd6373ca4704450c45"
+      "Length": 1144,
+      "LastWriteTimeUtc": "2026-06-28T07:06:37.183Z",
+      "Sha256": "2783fbb0711b339d24cae9860a0bbdd5c5ae6e668b20957b1226068a0f522f86"
     },
     {
       "RelativePath": "Configs/Monsters/Types/types.json",
@@ -175,7 +181,7 @@
     {
       "RelativePath": "Configs/UI/Content/Templates/GroundItemStackTooltip.json",
       "Length": 161,
-      "LastWriteTimeUtc": "2026-06-25T16:08:39.429Z",
+      "LastWriteTimeUtc": "2026-06-28T13:54:25.695Z",
       "Sha256": "c067c53966fc4b75c3521652c62660605da2971d174a3d6962fc64621735df47"
     },
     {
@@ -198,9 +204,9 @@
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 122880,
-      "LastWriteTimeUtc": "2026-06-27T12:21:56.725Z",
-      "Sha256": "4cb43c789222dddffc72fa13a5c03140a5c5fbb3383a629c94faad558d72cae5"
+      "Length": 167936,
+      "LastWriteTimeUtc": "2026-06-28T14:43:50.217Z",
+      "Sha256": "807ad2c21f2ad19c360538763279db0e01a3f4e2932554026e215bc0b4d9a835"
     }
   ]
 }

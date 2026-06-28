@@ -1,8 +1,8 @@
 {
   "MonsterId": 1,
-  "DisplayName": "地狱守卫1",
+  "DisplayName": "地狱守卫",
   "MonsterModelId": "MonsterModel0002",
-  "MoveIntervalMilliseconds": 400,
+  "MoveIntervalMilliseconds": 600,
   "NameStyle": {
     "FontFamily": "NSimSun",
     "FontSize": 12,

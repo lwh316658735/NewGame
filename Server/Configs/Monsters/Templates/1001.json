@@ -5,6 +5,7 @@
   "MonsterTypeIds": [
     "Boss"
   ],
+  "AiProfileId": 1,
   "FixedAffixRules": [],
   "Combat": {
     "MaxHealth": 900000,
@@ -23,6 +24,10 @@
     "Dodge": 0,
     "AttackType": "SingleTarget",
     "AttackDistanceCells": 1,
+    "AttackAreaShape": "AroundSelf",
+    "AttackAreaRadiusCells": 1,
+    "AttackAreaHalfWidthCells": 0,
+    "AttackAreaAngleDegrees": 90,
     "AttackSpeed": 1000,
     "CastSpeed": 1000
   },
