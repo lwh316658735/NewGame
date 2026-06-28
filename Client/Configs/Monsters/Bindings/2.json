@@ -1,0 +1,26 @@
+{
+  "MonsterId": 2,
+  "DisplayName": "测试掉落怪物",
+  "MonsterModelId": "MonsterModel0002",
+  "MoveIntervalMilliseconds": 1200,
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 16,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#EA3939",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": false,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": false,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  },
+  "HealthBarConfigId": ""
+}

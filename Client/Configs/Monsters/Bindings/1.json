@@ -1,0 +1,26 @@
+{
+  "MonsterId": 1,
+  "DisplayName": "地狱守卫1",
+  "MonsterModelId": "MonsterModel0002",
+  "MoveIntervalMilliseconds": 400,
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 12,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#FFFFFF",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": true,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": true,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  },
+  "HealthBarConfigId": ""
+}

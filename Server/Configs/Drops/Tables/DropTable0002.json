@@ -1,34 +1,34 @@
-{
+﻿{
   "DropTableId": "DropTable0002",
   "DisplayName": "装备物品",
   "Description": "填写该掉落表的用途、适用场景和维护边界。",
   "Items": [
     {
-      "ItemId": "0",
+      "ItemId": 11,
       "BaseDropChance": 100000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
-      "ItemId": "1",
+      "ItemId": 1,
       "BaseDropChance": 100000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
-      "ItemId": "2",
+      "ItemId": 2,
       "BaseDropChance": 100000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
-      "ItemId": "3",
+      "ItemId": 3,
       "BaseDropChance": 500000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
-      "ItemId": "4",
+      "ItemId": 4,
       "BaseDropChance": 100000,
       "MinQuantity": 1,
       "MaxQuantity": 1

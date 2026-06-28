@@ -8,18 +8,39 @@
       "IsEnabled": true,
       "Mode": "TimedWave",
       "Area": {
-        "StartColumn": 261,
-        "StartRow": 146,
-        "EndColumn": 424,
-        "EndRow": 348
+        "StartColumn": 245,
+        "StartRow": 138,
+        "EndColumn": 470,
+        "EndRow": 354
       },
       "InitialDelaySeconds": 0,
       "IntervalSeconds": 5,
       "Entries": [
         {
-          "MonsterId": "Monster0001",
+          "MonsterId": 1,
           "SpawnCount": 500,
           "MaxAliveCount": 2000
+        }
+      ]
+    },
+    {
+      "SpawnGroupId": "Spawn0002",
+      "DisplayName": "新刷怪组",
+      "IsEnabled": true,
+      "Mode": "MaintainPopulation",
+      "Area": {
+        "StartColumn": 323,
+        "StartRow": 260,
+        "EndColumn": 334,
+        "EndRow": 274
+      },
+      "InitialDelaySeconds": 0,
+      "IntervalSeconds": 1,
+      "Entries": [
+        {
+          "MonsterId": 1001,
+          "SpawnCount": 1,
+          "MaxAliveCount": 1
         }
       ]
     }

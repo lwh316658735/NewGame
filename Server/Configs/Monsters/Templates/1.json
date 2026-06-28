@@ -1,0 +1,45 @@
+{
+  "MonsterId": 1,
+  "DisplayName": "地狱守卫1",
+  "Level": 51,
+  "MonsterTypeIds": [
+    "Boss"
+  ],
+  "FixedAffixRules": [],
+  "Combat": {
+    "MaxHealth": 50000,
+    "MaxMana": 0,
+    "MinPhysicalAttack": 200,
+    "MaxPhysicalAttack": 300,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
+    "MinTaoismAttack": 0,
+    "MaxTaoismAttack": 0,
+    "MinPhysicalDefense": 1000,
+    "MaxPhysicalDefense": 2000,
+    "MinMagicDefense": 0,
+    "MaxMagicDefense": 1,
+    "Hit": 10000,
+    "Dodge": 0,
+    "AttackType": "SingleTarget",
+    "AttackDistanceCells": 1,
+    "AttackSpeed": 1000,
+    "CastSpeed": 1000
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 600,
+    "MoveIntervalMilliseconds": 400
+  },
+  "Reward": {
+    "IsRewardDisabled": false,
+    "Experience": 50000,
+    "DropTableIds": [
+      "DropTable0001"
+    ],
+    "DropRateBonus": {
+      "IsEnabled": false,
+      "Mode": "Add",
+      "Value": 0
+    }
+  }
+}

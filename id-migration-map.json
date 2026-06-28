@@ -1,28 +1,22 @@
 ﻿{
   "MonsterIds": [
     {
-      "OldId": "Monster0001",
+      "OldId": "1",
       "NewId": 1,
       "DisplayName": "地狱守卫",
-      "SourcePath": "Server/Configs/Monsters/Templates/Monster0001.json"
+      "SourcePath": "Server/Configs/Monsters/Templates/1.json"
     },
     {
-      "OldId": "Monster0002",
+      "OldId": "2",
       "NewId": 2,
       "DisplayName": "测试掉落怪物",
-      "SourcePath": "Server/Configs/Monsters/Templates/Monster0002.json"
+      "SourcePath": "Server/Configs/Monsters/Templates/2.json"
     }
   ],
   "ItemIds": [
     {
-      "OldId": "0",
-      "NewId": 1,
-      "DisplayName": "圣战戒指",
-      "SourcePath": "Client/Configs/Items/0.json"
-    },
-    {
       "OldId": "1",
-      "NewId": 2,
+      "NewId": 1,
       "DisplayName": "法神戒指",
       "SourcePath": "Client/Configs/Items/1.json"
     },
@@ -33,50 +27,56 @@
       "SourcePath": "Client/Configs/Items/10.json"
     },
     {
+      "OldId": "11",
+      "NewId": 11,
+      "DisplayName": "圣战戒指",
+      "SourcePath": "Client/Configs/Items/11.json"
+    },
+    {
       "OldId": "2",
-      "NewId": 3,
+      "NewId": 2,
       "DisplayName": "圣战头盔",
       "SourcePath": "Client/Configs/Items/2.json"
     },
     {
       "OldId": "3",
-      "NewId": 4,
+      "NewId": 3,
       "DisplayName": "圣战手镯",
       "SourcePath": "Client/Configs/Items/3.json"
     },
     {
       "OldId": "4",
-      "NewId": 5,
+      "NewId": 4,
       "DisplayName": "圣战项链",
       "SourcePath": "Client/Configs/Items/4.json"
     },
     {
       "OldId": "5",
-      "NewId": 6,
+      "NewId": 5,
       "DisplayName": "物品1",
       "SourcePath": "Client/Configs/Items/5.json"
     },
     {
       "OldId": "6",
-      "NewId": 7,
+      "NewId": 6,
       "DisplayName": "物品2",
       "SourcePath": "Client/Configs/Items/6.json"
     },
     {
       "OldId": "7",
-      "NewId": 8,
+      "NewId": 7,
       "DisplayName": "物品3",
       "SourcePath": "Client/Configs/Items/7.json"
     },
     {
       "OldId": "8",
-      "NewId": 9,
+      "NewId": 8,
       "DisplayName": "物品4",
       "SourcePath": "Client/Configs/Items/8.json"
     },
     {
       "OldId": "9",
-      "NewId": 11,
+      "NewId": 9,
       "DisplayName": "物品5",
       "SourcePath": "Client/Configs/Items/9.json"
     }

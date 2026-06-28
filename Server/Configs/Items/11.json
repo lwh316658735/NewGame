@@ -1,0 +1,45 @@
+﻿{
+  "ItemId": 11,
+  "DisplayName": "圣战戒指",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 0,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "RequiredCharacterLevel": 40,
+    "RequiredRebirthLevel": 0,
+    "MaxDurability": 0,
+    "EquipLocations": [
+      "Ring"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 8
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}
