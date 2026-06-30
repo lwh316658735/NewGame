@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.000000_4",
       "DisplayName": "000000",
-      "SortOrder": 22193,
+      "SortOrder": 22192,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000000.png",
@@ -15,7 +15,7 @@
       "FileSizeBytes": 125740,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0266442+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.000001_4",
       "DisplayName": "000001",
-      "SortOrder": 22194,
+      "SortOrder": 22193,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000001.png",
@@ -35,7 +35,7 @@
       "FileSizeBytes": 129402,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0271445+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.000002_4",
       "DisplayName": "000002",
-      "SortOrder": 22195,
+      "SortOrder": 22194,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000002.png",
@@ -55,7 +55,7 @@
       "FileSizeBytes": 130052,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0276439+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -66,7 +66,7 @@
     {
       "AssetId": "Asset.000003_4",
       "DisplayName": "000003",
-      "SortOrder": 22196,
+      "SortOrder": 22195,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000003.png",
@@ -75,7 +75,7 @@
       "FileSizeBytes": 128582,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0281445+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -86,7 +86,7 @@
     {
       "AssetId": "Asset.000004_3",
       "DisplayName": "000004",
-      "SortOrder": 22197,
+      "SortOrder": 22196,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000004.png",
@@ -95,7 +95,7 @@
       "FileSizeBytes": 126135,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0286453+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -106,7 +106,7 @@
     {
       "AssetId": "Asset.000005_3",
       "DisplayName": "000005",
-      "SortOrder": 22198,
+      "SortOrder": 22197,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000005.png",
@@ -115,7 +115,7 @@
       "FileSizeBytes": 125688,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.029144+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -126,7 +126,7 @@
     {
       "AssetId": "Asset.000006_3",
       "DisplayName": "000006",
-      "SortOrder": 22199,
+      "SortOrder": 22198,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000006.png",
@@ -135,7 +135,7 @@
       "FileSizeBytes": 128246,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0296449+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -146,7 +146,7 @@
     {
       "AssetId": "Asset.000007_3",
       "DisplayName": "000007",
-      "SortOrder": 22200,
+      "SortOrder": 22199,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000007.png",
@@ -155,7 +155,7 @@
       "FileSizeBytes": 129490,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0306441+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -166,7 +166,7 @@
     {
       "AssetId": "Asset.000008_3",
       "DisplayName": "000008",
-      "SortOrder": 22201,
+      "SortOrder": 22200,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000008.png",
@@ -175,7 +175,7 @@
       "FileSizeBytes": 129513,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0311437+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -186,7 +186,7 @@
     {
       "AssetId": "Asset.000009_3",
       "DisplayName": "000009",
-      "SortOrder": 22202,
+      "SortOrder": 22201,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000009.png",
@@ -195,7 +195,7 @@
       "FileSizeBytes": 129325,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0314707+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -206,7 +206,7 @@
     {
       "AssetId": "Asset.000010_4",
       "DisplayName": "000010",
-      "SortOrder": 22203,
+      "SortOrder": 22202,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000010.png",
@@ -215,7 +215,7 @@
       "FileSizeBytes": 129849,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0321436+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -226,7 +226,7 @@
     {
       "AssetId": "Asset.000011_4",
       "DisplayName": "000011",
-      "SortOrder": 22204,
+      "SortOrder": 22203,
       "Category": "物品",
       "Subcategory": "光柱1",
       "RelativePath": "Client/Assets/物品/光柱1/000011.png",
@@ -235,7 +235,7 @@
       "FileSizeBytes": 128790,
       "Width": 132,
       "Height": 580,
-      "LastModifiedAt": "2026-06-26T12:18:44.0321436+00:00",
+      "LastModifiedAt": "2021-12-24T03:42:52+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

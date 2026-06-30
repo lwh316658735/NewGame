@@ -368,111 +368,133 @@
       "Gold": {
         "IsEnabled": true,
         "Alias": "金币",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "Yuanbao": {
         "IsEnabled": true,
         "Alias": "元宝",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency01": {
         "IsEnabled": true,
         "Alias": "钻石",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency02": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency03": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency04": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency05": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency06": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency07": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency08": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency09": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency10": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency11": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency12": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency13": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency14": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency15": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency16": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency17": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency18": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency19": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency20": {
         "IsEnabled": false,
         "Alias": "",
+        "InitialBalance": 0,
         "CarryLimit": 0
       }
     }

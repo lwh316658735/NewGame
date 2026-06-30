@@ -4,29 +4,9 @@
   "Subcategory": "主界面",
   "Assets": [
     {
-      "AssetId": "Asset.Asset_2",
-      "DisplayName": "背包窗口_透明整窗_去绿底",
-      "SortOrder": 12453,
-      "Category": "界面",
-      "Subcategory": "主界面",
-      "RelativePath": "Client/Assets/界面/主界面/背包窗口_透明整窗_去绿底.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 1514730,
-      "Width": 1448,
-      "Height": 1086,
-      "LastModifiedAt": "2026-06-23T12:16:53.5456716+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
       "AssetId": "Asset.000000_3",
       "DisplayName": "000000",
-      "SortOrder": 22033,
+      "SortOrder": 22032,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000000.png",
@@ -35,7 +15,7 @@
       "FileSizeBytes": 37921,
       "Width": 190,
       "Height": 214,
-      "LastModifiedAt": "2026-06-23T12:16:53.5121719+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3746474+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +26,7 @@
     {
       "AssetId": "Asset.000001_3",
       "DisplayName": "000001",
-      "SortOrder": 22034,
+      "SortOrder": 22033,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000001.png",
@@ -55,7 +35,7 @@
       "FileSizeBytes": 47726,
       "Width": 193,
       "Height": 189,
-      "LastModifiedAt": "2026-06-23T12:16:53.512673+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3746474+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -66,7 +46,7 @@
     {
       "AssetId": "Asset.000002_3",
       "DisplayName": "000002",
-      "SortOrder": 22035,
+      "SortOrder": 22034,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000002.png",
@@ -75,7 +55,7 @@
       "FileSizeBytes": 5543,
       "Width": 440,
       "Height": 54,
-      "LastModifiedAt": "2026-06-23T12:16:53.5131724+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3762801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -86,7 +66,7 @@
     {
       "AssetId": "Asset.000003_3",
       "DisplayName": "000003",
-      "SortOrder": 22036,
+      "SortOrder": 22035,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000003.png",
@@ -95,7 +75,7 @@
       "FileSizeBytes": 3524,
       "Width": 20,
       "Height": 158,
-      "LastModifiedAt": "2026-06-23T12:16:53.5136764+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3762801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -106,7 +86,7 @@
     {
       "AssetId": "Asset.000010_3",
       "DisplayName": "000010",
-      "SortOrder": 22037,
+      "SortOrder": 22036,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000010.png",
@@ -115,7 +95,7 @@
       "FileSizeBytes": 453,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5136764+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3772849+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -126,7 +106,7 @@
     {
       "AssetId": "Asset.000011_3",
       "DisplayName": "000011",
-      "SortOrder": 22038,
+      "SortOrder": 22037,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000011.png",
@@ -135,7 +115,7 @@
       "FileSizeBytes": 204,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5141715+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3772849+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -146,7 +126,7 @@
     {
       "AssetId": "Asset.000012_3",
       "DisplayName": "000012",
-      "SortOrder": 22039,
+      "SortOrder": 22038,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000012.png",
@@ -155,7 +135,7 @@
       "FileSizeBytes": 834,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5146742+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3783096+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -166,7 +146,7 @@
     {
       "AssetId": "Asset.000013_3",
       "DisplayName": "000013",
-      "SortOrder": 22040,
+      "SortOrder": 22039,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000013.png",
@@ -175,7 +155,7 @@
       "FileSizeBytes": 257,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5146742+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3788277+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -186,7 +166,7 @@
     {
       "AssetId": "Asset.000014_3",
       "DisplayName": "000014",
-      "SortOrder": 22041,
+      "SortOrder": 22040,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000014.png",
@@ -195,7 +175,7 @@
       "FileSizeBytes": 186,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5151731+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3788277+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -206,7 +186,7 @@
     {
       "AssetId": "Asset.000015_3",
       "DisplayName": "000015",
-      "SortOrder": 22042,
+      "SortOrder": 22041,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000015.png",
@@ -215,7 +195,7 @@
       "FileSizeBytes": 318,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5151731+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3793349+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -226,7 +206,7 @@
     {
       "AssetId": "Asset.000016_3",
       "DisplayName": "000016",
-      "SortOrder": 22043,
+      "SortOrder": 22042,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000016.png",
@@ -235,7 +215,7 @@
       "FileSizeBytes": 153,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5156741+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3798559+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -246,7 +226,7 @@
     {
       "AssetId": "Asset.000017_3",
       "DisplayName": "000017",
-      "SortOrder": 22044,
+      "SortOrder": 22043,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000017.png",
@@ -255,7 +235,7 @@
       "FileSizeBytes": 729,
       "Width": 43,
       "Height": 43,
-      "LastModifiedAt": "2026-06-23T12:16:53.5156741+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3803813+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -266,7 +246,7 @@
     {
       "AssetId": "Asset.000150_3",
       "DisplayName": "000150",
-      "SortOrder": 22045,
+      "SortOrder": 22044,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000150.png",
@@ -275,7 +255,7 @@
       "FileSizeBytes": 838,
       "Width": 24,
       "Height": 20,
-      "LastModifiedAt": "2026-06-23T12:16:53.5166716+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.381405+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -286,7 +266,7 @@
     {
       "AssetId": "Asset.000231_3",
       "DisplayName": "000231",
-      "SortOrder": 22046,
+      "SortOrder": 22045,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000231.png",
@@ -295,7 +275,7 @@
       "FileSizeBytes": 224,
       "Width": 148,
       "Height": 11,
-      "LastModifiedAt": "2026-06-23T12:16:53.5171689+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.38241+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -306,7 +286,7 @@
     {
       "AssetId": "Asset.000800_3",
       "DisplayName": "000800",
-      "SortOrder": 22047,
+      "SortOrder": 22046,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000800.png",
@@ -315,7 +295,7 @@
       "FileSizeBytes": 5658,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5171689+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.38241+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -326,7 +306,7 @@
     {
       "AssetId": "Asset.000801_3",
       "DisplayName": "000801",
-      "SortOrder": 22048,
+      "SortOrder": 22047,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000801.png",
@@ -335,7 +315,7 @@
       "FileSizeBytes": 5963,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5176731+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3829269+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -346,7 +326,7 @@
     {
       "AssetId": "Asset.000802_3",
       "DisplayName": "000802",
-      "SortOrder": 22049,
+      "SortOrder": 22048,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000802.png",
@@ -355,7 +335,7 @@
       "FileSizeBytes": 5313,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5181726+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.383933+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -366,7 +346,7 @@
     {
       "AssetId": "Asset.000803_3",
       "DisplayName": "000803",
-      "SortOrder": 22050,
+      "SortOrder": 22049,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000803.png",
@@ -375,7 +355,7 @@
       "FileSizeBytes": 5618,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5181726+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3844573+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -386,7 +366,7 @@
     {
       "AssetId": "Asset.000804_3",
       "DisplayName": "000804",
-      "SortOrder": 22051,
+      "SortOrder": 22050,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000804.png",
@@ -395,7 +375,7 @@
       "FileSizeBytes": 5959,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5186724+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3849713+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -406,7 +386,7 @@
     {
       "AssetId": "Asset.000805_3",
       "DisplayName": "000805",
-      "SortOrder": 22052,
+      "SortOrder": 22051,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000805.png",
@@ -415,7 +395,7 @@
       "FileSizeBytes": 5297,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5191706+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3854831+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -426,7 +406,7 @@
     {
       "AssetId": "Asset.000806_3",
       "DisplayName": "000806",
-      "SortOrder": 22053,
+      "SortOrder": 22052,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000806.png",
@@ -435,7 +415,7 @@
       "FileSizeBytes": 5814,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5191706+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3860019+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -446,7 +426,7 @@
     {
       "AssetId": "Asset.000807_3",
       "DisplayName": "000807",
-      "SortOrder": 22054,
+      "SortOrder": 22053,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000807.png",
@@ -455,7 +435,7 @@
       "FileSizeBytes": 6185,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5196717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3865173+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -466,7 +446,7 @@
     {
       "AssetId": "Asset.000808_3",
       "DisplayName": "000808",
-      "SortOrder": 22055,
+      "SortOrder": 22054,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000808.png",
@@ -475,7 +455,7 @@
       "FileSizeBytes": 5485,
       "Width": 47,
       "Height": 61,
-      "LastModifiedAt": "2026-06-23T12:16:53.5196717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3865173+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -486,7 +466,7 @@
     {
       "AssetId": "Asset.001000_2",
       "DisplayName": "001000",
-      "SortOrder": 22056,
+      "SortOrder": 22055,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001000.png",
@@ -495,7 +475,7 @@
       "FileSizeBytes": 10468,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5286732+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3993946+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -506,7 +486,7 @@
     {
       "AssetId": "Asset.001001_2",
       "DisplayName": "001001",
-      "SortOrder": 22057,
+      "SortOrder": 22056,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001001.png",
@@ -515,7 +495,7 @@
       "FileSizeBytes": 10452,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5291708+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3993946+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -526,7 +506,7 @@
     {
       "AssetId": "Asset.001002_2",
       "DisplayName": "001002",
-      "SortOrder": 22058,
+      "SortOrder": 22057,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001002.png",
@@ -535,7 +515,7 @@
       "FileSizeBytes": 10450,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5291708+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3993946+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -546,7 +526,7 @@
     {
       "AssetId": "Asset.001003_2",
       "DisplayName": "001003",
-      "SortOrder": 22059,
+      "SortOrder": 22058,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001003.png",
@@ -555,7 +535,7 @@
       "FileSizeBytes": 10445,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5296738+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4003976+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -566,7 +546,7 @@
     {
       "AssetId": "Asset.001004_2",
       "DisplayName": "001004",
-      "SortOrder": 22060,
+      "SortOrder": 22059,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001004.png",
@@ -575,7 +555,7 @@
       "FileSizeBytes": 10411,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5301758+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4003976+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -586,7 +566,7 @@
     {
       "AssetId": "Asset.001005_2",
       "DisplayName": "001005",
-      "SortOrder": 22061,
+      "SortOrder": 22060,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001005.png",
@@ -595,7 +575,7 @@
       "FileSizeBytes": 10430,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5301758+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4003976+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -606,7 +586,7 @@
     {
       "AssetId": "Asset.001006_3",
       "DisplayName": "001006",
-      "SortOrder": 22062,
+      "SortOrder": 22061,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001006.png",
@@ -615,7 +595,7 @@
       "FileSizeBytes": 10420,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5306712+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4013977+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -626,7 +606,7 @@
     {
       "AssetId": "Asset.001007_3",
       "DisplayName": "001007",
-      "SortOrder": 22063,
+      "SortOrder": 22062,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001007.png",
@@ -635,7 +615,7 @@
       "FileSizeBytes": 10456,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5311709+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4023974+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -646,7 +626,7 @@
     {
       "AssetId": "Asset.001008_3",
       "DisplayName": "001008",
-      "SortOrder": 22064,
+      "SortOrder": 22063,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001008.png",
@@ -655,7 +635,7 @@
       "FileSizeBytes": 10382,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5311709+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4023974+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -666,7 +646,7 @@
     {
       "AssetId": "Asset.001009_3",
       "DisplayName": "001009",
-      "SortOrder": 22065,
+      "SortOrder": 22064,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001009.png",
@@ -675,7 +655,7 @@
       "FileSizeBytes": 10367,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5316717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4023974+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -686,7 +666,7 @@
     {
       "AssetId": "Asset.001010_3",
       "DisplayName": "001010",
-      "SortOrder": 22066,
+      "SortOrder": 22065,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001010.png",
@@ -695,7 +675,7 @@
       "FileSizeBytes": 10479,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5316717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4033975+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -706,7 +686,7 @@
     {
       "AssetId": "Asset.001011_3",
       "DisplayName": "001011",
-      "SortOrder": 22067,
+      "SortOrder": 22066,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001011.png",
@@ -715,7 +695,7 @@
       "FileSizeBytes": 10455,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5321688+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.404027+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -726,7 +706,7 @@
     {
       "AssetId": "Asset.001012_2",
       "DisplayName": "001012",
-      "SortOrder": 22068,
+      "SortOrder": 22067,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001012.png",
@@ -735,7 +715,7 @@
       "FileSizeBytes": 10205,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5326692+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4045462+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -746,7 +726,7 @@
     {
       "AssetId": "Asset.001013_2",
       "DisplayName": "001013",
-      "SortOrder": 22069,
+      "SortOrder": 22068,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001013.png",
@@ -755,7 +735,7 @@
       "FileSizeBytes": 10258,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.533169+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4045462+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -766,7 +746,7 @@
     {
       "AssetId": "Asset.001014_3",
       "DisplayName": "001014",
-      "SortOrder": 22070,
+      "SortOrder": 22069,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001014.png",
@@ -775,7 +755,7 @@
       "FileSizeBytes": 10171,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.533169+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4055506+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -786,7 +766,7 @@
     {
       "AssetId": "Asset.001015_3",
       "DisplayName": "001015",
-      "SortOrder": 22071,
+      "SortOrder": 22070,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001015.png",
@@ -795,7 +775,7 @@
       "FileSizeBytes": 10127,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5336693+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4060717+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -806,7 +786,7 @@
     {
       "AssetId": "Asset.001016_3",
       "DisplayName": "001016",
-      "SortOrder": 22072,
+      "SortOrder": 22071,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001016.png",
@@ -815,7 +795,7 @@
       "FileSizeBytes": 10120,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5336693+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.406585+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -826,7 +806,7 @@
     {
       "AssetId": "Asset.001017_3",
       "DisplayName": "001017",
-      "SortOrder": 22073,
+      "SortOrder": 22072,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001017.png",
@@ -835,7 +815,7 @@
       "FileSizeBytes": 10181,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5341724+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4070959+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -846,7 +826,7 @@
     {
       "AssetId": "Asset.001018_3",
       "DisplayName": "001018",
-      "SortOrder": 22074,
+      "SortOrder": 22073,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001018.png",
@@ -855,7 +835,7 @@
       "FileSizeBytes": 10139,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5346749+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4076129+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -866,7 +846,7 @@
     {
       "AssetId": "Asset.001019_3",
       "DisplayName": "001019",
-      "SortOrder": 22075,
+      "SortOrder": 22074,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001019.png",
@@ -875,7 +855,7 @@
       "FileSizeBytes": 10193,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5351742+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4081204+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -886,7 +866,7 @@
     {
       "AssetId": "Asset.001020_3",
       "DisplayName": "001020",
-      "SortOrder": 22076,
+      "SortOrder": 22075,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001020.png",
@@ -895,7 +875,7 @@
       "FileSizeBytes": 10089,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5351742+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4086301+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -906,7 +886,7 @@
     {
       "AssetId": "Asset.001021_3",
       "DisplayName": "001021",
-      "SortOrder": 22077,
+      "SortOrder": 22076,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001021.png",
@@ -915,7 +895,7 @@
       "FileSizeBytes": 10056,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5356749+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.409153+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -926,7 +906,7 @@
     {
       "AssetId": "Asset.001022_2",
       "DisplayName": "001022",
-      "SortOrder": 22078,
+      "SortOrder": 22077,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/001022.png",
@@ -935,7 +915,7 @@
       "FileSizeBytes": 10125,
       "Width": 49,
       "Height": 97,
-      "LastModifiedAt": "2026-06-23T12:16:53.5361719+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.4096635+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -946,7 +926,7 @@
     {
       "AssetId": "Asset.000022_3",
       "DisplayName": "000022",
-      "SortOrder": 22079,
+      "SortOrder": 22078,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000022.png",
@@ -955,7 +935,7 @@
       "FileSizeBytes": 908,
       "Width": 16,
       "Height": 16,
-      "LastModifiedAt": "2026-06-23T12:16:53.5161741+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3808884+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -966,7 +946,7 @@
     {
       "AssetId": "Asset.000025_3",
       "DisplayName": "000025",
-      "SortOrder": 22080,
+      "SortOrder": 22079,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000025.png",
@@ -975,7 +955,7 @@
       "FileSizeBytes": 908,
       "Width": 16,
       "Height": 16,
-      "LastModifiedAt": "2026-06-23T12:16:53.5161741+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.381405+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -986,7 +966,7 @@
     {
       "AssetId": "Asset.000820_3",
       "DisplayName": "000820",
-      "SortOrder": 22081,
+      "SortOrder": 22080,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000820.png",
@@ -995,7 +975,7 @@
       "FileSizeBytes": 1264,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.520173+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3870227+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1006,7 +986,7 @@
     {
       "AssetId": "Asset.000821_3",
       "DisplayName": "000821",
-      "SortOrder": 22082,
+      "SortOrder": 22081,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000821.png",
@@ -1015,7 +995,7 @@
       "FileSizeBytes": 1341,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.520173+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3875354+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1026,7 +1006,7 @@
     {
       "AssetId": "Asset.000822_3",
       "DisplayName": "000822",
-      "SortOrder": 22083,
+      "SortOrder": 22082,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000822.png",
@@ -1035,7 +1015,7 @@
       "FileSizeBytes": 1153,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5206735+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3880481+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1046,7 +1026,7 @@
     {
       "AssetId": "Asset.000823_3",
       "DisplayName": "000823",
-      "SortOrder": 22084,
+      "SortOrder": 22083,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000823.png",
@@ -1055,7 +1035,7 @@
       "FileSizeBytes": 1280,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5211754+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3880481+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1066,7 +1046,7 @@
     {
       "AssetId": "Asset.000824_3",
       "DisplayName": "000824",
-      "SortOrder": 22085,
+      "SortOrder": 22084,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000824.png",
@@ -1075,7 +1055,7 @@
       "FileSizeBytes": 1365,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5211754+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3886165+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1086,7 +1066,7 @@
     {
       "AssetId": "Asset.000825_3",
       "DisplayName": "000825",
-      "SortOrder": 22086,
+      "SortOrder": 22085,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000825.png",
@@ -1095,7 +1075,7 @@
       "FileSizeBytes": 1192,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5216748+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3896364+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1106,7 +1086,7 @@
     {
       "AssetId": "Asset.000826_3",
       "DisplayName": "000826",
-      "SortOrder": 22087,
+      "SortOrder": 22086,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000826.png",
@@ -1115,7 +1095,7 @@
       "FileSizeBytes": 1260,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5221729+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3901527+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1126,7 +1106,7 @@
     {
       "AssetId": "Asset.000827_3",
       "DisplayName": "000827",
-      "SortOrder": 22088,
+      "SortOrder": 22087,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000827.png",
@@ -1135,7 +1115,7 @@
       "FileSizeBytes": 1351,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5221729+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3901527+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1146,7 +1126,7 @@
     {
       "AssetId": "Asset.000828_3",
       "DisplayName": "000828",
-      "SortOrder": 22089,
+      "SortOrder": 22088,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000828.png",
@@ -1155,7 +1135,7 @@
       "FileSizeBytes": 1171,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5226743+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3906631+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1166,7 +1146,7 @@
     {
       "AssetId": "Asset.000829",
       "DisplayName": "000829",
-      "SortOrder": 22090,
+      "SortOrder": 22089,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000829.png",
@@ -1175,7 +1155,7 @@
       "FileSizeBytes": 1268,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5226743+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3911882+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1186,7 +1166,7 @@
     {
       "AssetId": "Asset.000830_3",
       "DisplayName": "000830",
-      "SortOrder": 22091,
+      "SortOrder": 22090,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000830.png",
@@ -1195,7 +1175,7 @@
       "FileSizeBytes": 1350,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5231733+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3917101+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1206,7 +1186,7 @@
     {
       "AssetId": "Asset.000831_3",
       "DisplayName": "000831",
-      "SortOrder": 22092,
+      "SortOrder": 22091,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000831.png",
@@ -1215,7 +1195,7 @@
       "FileSizeBytes": 1169,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5231733+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3922166+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1226,7 +1206,7 @@
     {
       "AssetId": "Asset.000832_3",
       "DisplayName": "000832",
-      "SortOrder": 22093,
+      "SortOrder": 22092,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000832.png",
@@ -1235,7 +1215,7 @@
       "FileSizeBytes": 1233,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5236744+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3922166+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1246,7 +1226,7 @@
     {
       "AssetId": "Asset.000833_3",
       "DisplayName": "000833",
-      "SortOrder": 22094,
+      "SortOrder": 22093,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000833.png",
@@ -1255,7 +1235,7 @@
       "FileSizeBytes": 1295,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5236744+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3937522+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1266,7 +1246,7 @@
     {
       "AssetId": "Asset.000834_3",
       "DisplayName": "000834",
-      "SortOrder": 22095,
+      "SortOrder": 22094,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000834.png",
@@ -1275,7 +1255,7 @@
       "FileSizeBytes": 1156,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.524174+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3942714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1286,7 +1266,7 @@
     {
       "AssetId": "Asset.000835_3",
       "DisplayName": "000835",
-      "SortOrder": 22096,
+      "SortOrder": 22095,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000835.bmp",
@@ -1295,7 +1275,7 @@
       "FileSizeBytes": 58,
       "Width": 1,
       "Height": 1,
-      "LastModifiedAt": "2026-06-23T12:16:53.5246717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3942714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1306,7 +1286,7 @@
     {
       "AssetId": "Asset.000836_3",
       "DisplayName": "000836",
-      "SortOrder": 22097,
+      "SortOrder": 22096,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000836.bmp",
@@ -1315,7 +1295,7 @@
       "FileSizeBytes": 58,
       "Width": 1,
       "Height": 1,
-      "LastModifiedAt": "2026-06-23T12:16:53.5246717+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3942714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1326,7 +1306,7 @@
     {
       "AssetId": "Asset.000837",
       "DisplayName": "000837",
-      "SortOrder": 22098,
+      "SortOrder": 22097,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000837.bmp",
@@ -1335,7 +1315,7 @@
       "FileSizeBytes": 58,
       "Width": 1,
       "Height": 1,
-      "LastModifiedAt": "2026-06-23T12:16:53.5251737+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3952766+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1346,7 +1326,7 @@
     {
       "AssetId": "Asset.000838",
       "DisplayName": "000838",
-      "SortOrder": 22099,
+      "SortOrder": 22098,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000838.png",
@@ -1355,7 +1335,7 @@
       "FileSizeBytes": 1320,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5256737+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.395801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1366,7 +1346,7 @@
     {
       "AssetId": "Asset.000839",
       "DisplayName": "000839",
-      "SortOrder": 22100,
+      "SortOrder": 22099,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000839.png",
@@ -1375,7 +1355,7 @@
       "FileSizeBytes": 1411,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5256737+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.395801+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1386,7 +1366,7 @@
     {
       "AssetId": "Asset.000840_3",
       "DisplayName": "000840",
-      "SortOrder": 22101,
+      "SortOrder": 22100,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000840.png",
@@ -1395,7 +1375,7 @@
       "FileSizeBytes": 1230,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5261725+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3963195+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1406,7 +1386,7 @@
     {
       "AssetId": "Asset.000841_3",
       "DisplayName": "000841",
-      "SortOrder": 22102,
+      "SortOrder": 22101,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000841.png",
@@ -1415,7 +1395,7 @@
       "FileSizeBytes": 1287,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.526671+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3968316+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1426,7 +1406,7 @@
     {
       "AssetId": "Asset.000842_3",
       "DisplayName": "000842",
-      "SortOrder": 22103,
+      "SortOrder": 22102,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000842.png",
@@ -1435,7 +1415,7 @@
       "FileSizeBytes": 1365,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5271721+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3973451+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1446,7 +1426,7 @@
     {
       "AssetId": "Asset.000843_3",
       "DisplayName": "000843",
-      "SortOrder": 22104,
+      "SortOrder": 22103,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000843.png",
@@ -1455,7 +1435,7 @@
       "FileSizeBytes": 1173,
       "Width": 32,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5276719+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3973451+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1466,7 +1446,7 @@
     {
       "AssetId": "Asset.000844_3",
       "DisplayName": "000844",
-      "SortOrder": 22105,
+      "SortOrder": 22104,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000844.png",
@@ -1475,7 +1455,7 @@
       "FileSizeBytes": 826,
       "Width": 19,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5276719+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3978613+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1486,7 +1466,7 @@
     {
       "AssetId": "Asset.000845_3",
       "DisplayName": "000845",
-      "SortOrder": 22106,
+      "SortOrder": 22105,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000845.png",
@@ -1495,7 +1475,7 @@
       "FileSizeBytes": 850,
       "Width": 19,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5281715+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3983731+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1506,7 +1486,7 @@
     {
       "AssetId": "Asset.000846_3",
       "DisplayName": "000846",
-      "SortOrder": 22107,
+      "SortOrder": 22106,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/000846.png",
@@ -1515,7 +1495,7 @@
       "FileSizeBytes": 735,
       "Width": 19,
       "Height": 18,
-      "LastModifiedAt": "2026-06-23T12:16:53.5281715+00:00",
+      "LastModifiedAt": "2026-06-22T00:58:04.3988882+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1526,7 +1506,7 @@
     {
       "AssetId": "Asset.Asset_43",
       "DisplayName": "死亡提示_您已经阵亡_透明初稿_修正版",
-      "SortOrder": 22131,
+      "SortOrder": 22130,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/死亡提示_您已经阵亡_透明初稿_修正版.png",
@@ -1535,7 +1515,7 @@
       "FileSizeBytes": 641857,
       "Width": 1448,
       "Height": 1086,
-      "LastModifiedAt": "2026-06-23T12:16:53.539172+00:00",
+      "LastModifiedAt": "2026-06-23T06:42:44.2693349+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1546,7 +1526,7 @@
     {
       "AssetId": "Asset.Asset_44",
       "DisplayName": "复活按钮_普通_透明",
-      "SortOrder": 22132,
+      "SortOrder": 22131,
       "Category": "界面",
       "Subcategory": "主界面",
       "RelativePath": "Client/Assets/界面/主界面/复活按钮_普通_透明.png",
@@ -1555,7 +1535,27 @@
       "FileSizeBytes": 17371,
       "Width": 180,
       "Height": 52,
-      "LastModifiedAt": "2026-06-23T12:16:53.5361719+00:00",
+      "LastModifiedAt": "2026-06-23T07:28:37.3766915+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.Asset_2",
+      "DisplayName": "背包窗口_透明整窗_去绿底",
+      "SortOrder": 22207,
+      "Category": "界面",
+      "Subcategory": "主界面",
+      "RelativePath": "Client/Assets/界面/主界面/背包窗口_透明整窗_去绿底.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1529857,
+      "Width": 1332,
+      "Height": 819,
+      "LastModifiedAt": "2026-06-30T02:48:23.8250241+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

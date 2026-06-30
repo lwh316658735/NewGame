@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.Asset_23",
       "DisplayName": "霸体",
-      "SortOrder": 22111,
+      "SortOrder": 22110,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/霸体.png",
@@ -15,7 +15,7 @@
       "FileSizeBytes": 9227,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5116724+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.2335059+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.Asset_24",
       "DisplayName": "赤手空拳",
-      "SortOrder": 22112,
+      "SortOrder": 22111,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/赤手空拳.png",
@@ -35,7 +35,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5111718+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.4913967+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.Asset_25",
       "DisplayName": "穿云",
-      "SortOrder": 22113,
+      "SortOrder": 22112,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/穿云.png",
@@ -55,7 +55,7 @@
       "FileSizeBytes": 9227,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5096715+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.4913967+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -66,7 +66,7 @@
     {
       "AssetId": "Asset.Asset_26",
       "DisplayName": "摧城",
-      "SortOrder": 22114,
+      "SortOrder": 22113,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/摧城.png",
@@ -75,7 +75,7 @@
       "FileSizeBytes": 7938,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5071735+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.43333+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -86,7 +86,7 @@
     {
       "AssetId": "Asset.Asset_27",
       "DisplayName": "断浪",
-      "SortOrder": 22115,
+      "SortOrder": 22114,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/断浪.png",
@@ -95,7 +95,7 @@
       "FileSizeBytes": 6098,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5076728+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.7452742+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -106,7 +106,7 @@
     {
       "AssetId": "Asset.Asset_28",
       "DisplayName": "焚心",
-      "SortOrder": 22116,
+      "SortOrder": 22115,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/焚心.png",
@@ -115,7 +115,7 @@
       "FileSizeBytes": 9227,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5086723+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:57.7311612+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -126,7 +126,7 @@
     {
       "AssetId": "Asset.Asset_29",
       "DisplayName": "归元",
-      "SortOrder": 22117,
+      "SortOrder": 22116,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/归元.png",
@@ -135,7 +135,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.506171+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.1391689+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -146,7 +146,7 @@
     {
       "AssetId": "Asset.Asset_30",
       "DisplayName": "弧光",
-      "SortOrder": 22118,
+      "SortOrder": 22117,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/弧光.png",
@@ -155,7 +155,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5056721+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.0262105+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -166,7 +166,7 @@
     {
       "AssetId": "Asset.Asset_31",
       "DisplayName": "虎跑",
-      "SortOrder": 22119,
+      "SortOrder": 22118,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/虎跑.PNG",
@@ -175,7 +175,7 @@
       "FileSizeBytes": 6244,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5101728+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.1062268+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -186,7 +186,7 @@
     {
       "AssetId": "Asset.Asset_32",
       "DisplayName": "剑鸣",
-      "SortOrder": 22120,
+      "SortOrder": 22119,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/剑鸣.png",
@@ -195,7 +195,7 @@
       "FileSizeBytes": 9227,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5051722+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.328844+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -206,7 +206,7 @@
     {
       "AssetId": "Asset.Asset_33",
       "DisplayName": "剑气护体",
-      "SortOrder": 22121,
+      "SortOrder": 22120,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/剑气护体.png",
@@ -215,7 +215,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5046713+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.3817389+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -226,7 +226,7 @@
     {
       "AssetId": "Asset.Asset_34",
       "DisplayName": "狂击",
-      "SortOrder": 22122,
+      "SortOrder": 22121,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/狂击.png",
@@ -235,7 +235,7 @@
       "FileSizeBytes": 6385,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5091718+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.8216994+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -246,7 +246,7 @@
     {
       "AssetId": "Asset.Asset_35",
       "DisplayName": "裂空",
-      "SortOrder": 22123,
+      "SortOrder": 22122,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/裂空.png",
@@ -255,7 +255,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5106722+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.6202064+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -266,7 +266,7 @@
     {
       "AssetId": "Asset.Asset_36",
       "DisplayName": "灭杀",
-      "SortOrder": 22124,
+      "SortOrder": 22123,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/灭杀.png",
@@ -275,7 +275,7 @@
       "FileSizeBytes": 5900,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5081725+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.8958828+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -286,7 +286,7 @@
     {
       "AssetId": "Asset.Asset_37",
       "DisplayName": "蔑世",
-      "SortOrder": 22125,
+      "SortOrder": 22124,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/蔑世.png",
@@ -295,7 +295,7 @@
       "FileSizeBytes": 6282,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5096715+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:58.9161807+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -306,7 +306,7 @@
     {
       "AssetId": "Asset.Asset_38",
       "DisplayName": "怒斩",
-      "SortOrder": 22126,
+      "SortOrder": 22125,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/怒斩.png",
@@ -315,7 +315,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5066727+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:59.0482186+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -326,7 +326,7 @@
     {
       "AssetId": "Asset.Asset_39",
       "DisplayName": "人剑合一",
-      "SortOrder": 22127,
+      "SortOrder": 22126,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/人剑合一.png",
@@ -335,7 +335,7 @@
       "FileSizeBytes": 7184,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5046713+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:59.3335145+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -346,7 +346,7 @@
     {
       "AssetId": "Asset.Asset_40",
       "DisplayName": "万剑归宗",
-      "SortOrder": 22128,
+      "SortOrder": 22127,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/万剑归宗.png",
@@ -355,7 +355,7 @@
       "FileSizeBytes": 7627,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5041723+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:59.3935533+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -366,7 +366,7 @@
     {
       "AssetId": "Asset.Asset_41",
       "DisplayName": "燕返",
-      "SortOrder": 22129,
+      "SortOrder": 22128,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/燕返.png",
@@ -375,7 +375,7 @@
       "FileSizeBytes": 5871,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5091718+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:59.6641656+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -386,7 +386,7 @@
     {
       "AssetId": "Asset.Asset_42",
       "DisplayName": "斩影",
-      "SortOrder": 22130,
+      "SortOrder": 22129,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/斩影.png",
@@ -395,7 +395,7 @@
       "FileSizeBytes": 8265,
       "Width": 40,
       "Height": 40,
-      "LastModifiedAt": "2026-06-23T12:16:53.5076728+00:00",
+      "LastModifiedAt": "2026-06-23T02:35:59.764394+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

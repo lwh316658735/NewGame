@@ -137,6 +137,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -319,6 +320,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -501,6 +503,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -683,6 +686,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -865,6 +869,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1047,6 +1052,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1229,6 +1235,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1422,6 +1429,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1604,6 +1612,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1796,6 +1805,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -1978,6 +1988,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -2160,6 +2171,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -2218,7 +2230,7 @@
       "Width": 36,
       "Height": 52,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 16,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
@@ -2340,6 +2352,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "FixedScreen",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": true,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -2398,7 +2411,7 @@
       "Width": 38,
       "Height": 53,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 20,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
@@ -2520,6 +2533,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "FixedScreen",
       "ButtonTargetFixedScreenId": "CharacterAttributes",
+      "ButtonCloseOpenedTargetOnRepeatClick": true,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -2700,6 +2714,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -2758,7 +2773,7 @@
       "Width": 38,
       "Height": 53,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 21,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
@@ -2880,6 +2895,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "FixedScreen",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": true,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -3060,6 +3076,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "Asset.000838",
         "NineSlice": {
@@ -3240,6 +3257,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -3420,6 +3438,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "Asset.000841_3",
         "NineSlice": {
@@ -3600,6 +3619,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -3780,6 +3800,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -3960,6 +3981,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -4140,6 +4162,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -4320,6 +4343,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {

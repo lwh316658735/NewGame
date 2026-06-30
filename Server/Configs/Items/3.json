@@ -1,4 +1,4 @@
-﻿{
+{
   "ItemId": 3,
   "DisplayName": "圣战手镯",
   "Kind": "AttributeItem",
@@ -15,7 +15,7 @@
     "DefaultItemLevel": 0,
     "RequiredCharacterLevel": 33,
     "RequiredRebirthLevel": 0,
-    "MaxDurability": 0,
+    "MaxDurability": 600000,
     "EquipLocations": [
       "Bracelet"
     ],
@@ -46,6 +46,256 @@
         "AttributeId": "MaxPhysicalDefense",
         "Operation": "Add",
         "Value": 4
+      },
+      {
+        "AttributeId": "Strength",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "Agility",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "WristStrength",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "Intelligence",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "Spirit",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "Constitution",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxCarryWeight",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxHealth",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxMana",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "HealthRecovery",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "ManaRecovery",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MinMagicAttack",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxMagicAttack",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MinTaoismAttack",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxTaoismAttack",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MinMagicDefense",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MaxMagicDefense",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MinFrostDamage",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxFrostDamage",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MinFireDamage",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxFireDamage",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "MinLightningDamage",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxLightningDamage",
+        "Operation": "Add",
+        "Value": 10
+      },
+      {
+        "AttributeId": "Hit",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "Dodge",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MagicHit",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MagicDodge",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MovementSpeed",
+        "Operation": "Add",
+        "Value": 10000
+      },
+      {
+        "AttributeId": "AttackSpeed",
+        "Operation": "Add",
+        "Value": 10000
+      },
+      {
+        "AttributeId": "CastSpeed",
+        "Operation": "Add",
+        "Value": 10000
+      },
+      {
+        "AttributeId": "Lucky",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "PhysicalResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MagicResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "FrostResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "FireResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "LightningResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "CooldownReduction",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "CriticalChance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "CriticalDamage",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "CriticalResistance",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "PhysicalPenetration",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MagicPenetration",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "FrostPenetration",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "FirePenetration",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "LightningPenetration",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "DamageIncrease",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "DamageReduction",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "HealthLeech",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "ManaLeech",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "DropRate",
+        "Operation": "Add",
+        "Value": 1000
       }
     ],
     "FixedAffixRules": []

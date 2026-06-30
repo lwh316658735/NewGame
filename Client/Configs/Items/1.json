@@ -1,13 +1,14 @@
-﻿{
+{
   "ItemId": 1,
   "DisplayName": "法神戒指",
   "Alias": "",
-  "Description": "哈哈哈哈哈哈哈哈哈",
+  "Description": "\u003Cb\u003E哈哈哈哈哈哈哈哈哈\u003C/b\u003E哈哈\u003Ccolor:E84545\u003E哈哈\u003C/color\u003E",
   "NameStyle": {
     "ColorMode": "FixedColor",
     "FixedColor": "#ffffff",
     "GradientStartColor": "#ffffff",
     "GradientMiddleColor": "#ffffff",
     "GradientEndColor": "#ffffff"
-  }
+  },
+  "LightPillarId": ""
 }

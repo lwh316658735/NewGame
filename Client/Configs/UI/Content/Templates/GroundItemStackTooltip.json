@@ -50,6 +50,10 @@
         "Bottom": 18
       },
       "BackgroundColor": "",
+      "ItemInfoTooltipModuleMaxWidth": 328,
+      "ItemInfoTooltipModulePaddingX": 12,
+      "ItemInfoTooltipModulePaddingY": 8,
+      "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
       "InputFocusedBackgroundColor": "",
       "GroundItemStackTooltipBorderColor": "",
       "GroundItemStackTooltipIconVisible": false,
@@ -131,6 +135,7 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ClickSoundAssetId": "",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {

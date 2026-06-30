@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.image_1_2",
       "DisplayName": "image 1",
-      "SortOrder": 22163,
+      "SortOrder": 22162,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 1.png",
@@ -15,7 +15,7 @@
       "FileSizeBytes": 5960,
       "Width": 51,
       "Height": 50,
-      "LastModifiedAt": "2026-06-26T12:18:44.0171419+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4621015+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.image_3_2",
       "DisplayName": "image 3",
-      "SortOrder": 22164,
+      "SortOrder": 22163,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 3.png",
@@ -35,7 +35,7 @@
       "FileSizeBytes": 6283,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0206457+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4654231+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.image_5_2",
       "DisplayName": "image 5",
-      "SortOrder": 22165,
+      "SortOrder": 22164,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 5.png",
@@ -55,7 +55,7 @@
       "FileSizeBytes": 5974,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0236445+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4680815+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -66,7 +66,7 @@
     {
       "AssetId": "Asset.image_7_2",
       "DisplayName": "image 7",
-      "SortOrder": 22166,
+      "SortOrder": 22165,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 7.png",
@@ -75,7 +75,7 @@
       "FileSizeBytes": 6055,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0251452+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4702141+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -86,7 +86,7 @@
     {
       "AssetId": "Asset.image_9_2",
       "DisplayName": "image 9",
-      "SortOrder": 22167,
+      "SortOrder": 22166,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 9.png",
@@ -95,7 +95,7 @@
       "FileSizeBytes": 6232,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0256464+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4702141+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -106,7 +106,7 @@
     {
       "AssetId": "Asset.image_11_2",
       "DisplayName": "image 11",
-      "SortOrder": 22168,
+      "SortOrder": 22167,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 11.png",
@@ -115,7 +115,7 @@
       "FileSizeBytes": 6203,
       "Width": 51,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0176408+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4626301+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -126,7 +126,7 @@
     {
       "AssetId": "Asset.image_13_2",
       "DisplayName": "image 13",
-      "SortOrder": 22169,
+      "SortOrder": 22168,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 13.png",
@@ -135,7 +135,7 @@
       "FileSizeBytes": 6215,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.018145+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4626301+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -146,7 +146,7 @@
     {
       "AssetId": "Asset.image_15_2",
       "DisplayName": "image 15",
-      "SortOrder": 22170,
+      "SortOrder": 22169,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 15.png",
@@ -155,7 +155,7 @@
       "FileSizeBytes": 6050,
       "Width": 54,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.018145+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4631688+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -166,7 +166,7 @@
     {
       "AssetId": "Asset.image_17_2",
       "DisplayName": "image 17",
-      "SortOrder": 22171,
+      "SortOrder": 22170,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 17.png",
@@ -175,7 +175,7 @@
       "FileSizeBytes": 6091,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0186442+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4631688+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -186,7 +186,7 @@
     {
       "AssetId": "Asset.image_19_2",
       "DisplayName": "image 19",
-      "SortOrder": 22172,
+      "SortOrder": 22171,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 19.png",
@@ -195,7 +195,7 @@
       "FileSizeBytes": 6205,
       "Width": 50,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0186442+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.463829+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -206,7 +206,7 @@
     {
       "AssetId": "Asset.image_21_2",
       "DisplayName": "image 21",
-      "SortOrder": 22173,
+      "SortOrder": 22172,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 21.png",
@@ -215,7 +215,7 @@
       "FileSizeBytes": 6224,
       "Width": 51,
       "Height": 50,
-      "LastModifiedAt": "2026-06-26T12:18:44.0191443+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.464361+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -226,7 +226,7 @@
     {
       "AssetId": "Asset.image_23_2",
       "DisplayName": "image 23",
-      "SortOrder": 22174,
+      "SortOrder": 22173,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 23.png",
@@ -235,7 +235,7 @@
       "FileSizeBytes": 6637,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0196459+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.464361+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -246,7 +246,7 @@
     {
       "AssetId": "Asset.image_25_2",
       "DisplayName": "image 25",
-      "SortOrder": 22175,
+      "SortOrder": 22174,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 25.png",
@@ -255,7 +255,7 @@
       "FileSizeBytes": 6289,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0196459+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4648887+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -266,7 +266,7 @@
     {
       "AssetId": "Asset.image_27_2",
       "DisplayName": "image 27",
-      "SortOrder": 22176,
+      "SortOrder": 22175,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 27.png",
@@ -275,7 +275,7 @@
       "FileSizeBytes": 6408,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.020144+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4648887+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -286,7 +286,7 @@
     {
       "AssetId": "Asset.image_29_2",
       "DisplayName": "image 29",
-      "SortOrder": 22177,
+      "SortOrder": 22176,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 29.png",
@@ -295,7 +295,7 @@
       "FileSizeBytes": 6640,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.020144+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4648887+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -306,7 +306,7 @@
     {
       "AssetId": "Asset.image_31_2",
       "DisplayName": "image 31",
-      "SortOrder": 22178,
+      "SortOrder": 22177,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 31.png",
@@ -315,7 +315,7 @@
       "FileSizeBytes": 6486,
       "Width": 51,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0206457+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4654231+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -326,7 +326,7 @@
     {
       "AssetId": "Asset.image_33_2",
       "DisplayName": "image 33",
-      "SortOrder": 22179,
+      "SortOrder": 22178,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 33.png",
@@ -335,7 +335,7 @@
       "FileSizeBytes": 6491,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0211456+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4654231+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -346,7 +346,7 @@
     {
       "AssetId": "Asset.image_35_2",
       "DisplayName": "image 35",
-      "SortOrder": 22180,
+      "SortOrder": 22179,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 35.png",
@@ -355,7 +355,7 @@
       "FileSizeBytes": 6269,
       "Width": 54,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0211456+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4659563+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -366,7 +366,7 @@
     {
       "AssetId": "Asset.image_37_2",
       "DisplayName": "image 37",
-      "SortOrder": 22181,
+      "SortOrder": 22180,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 37.png",
@@ -375,7 +375,7 @@
       "FileSizeBytes": 6349,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0216443+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4664821+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -386,7 +386,7 @@
     {
       "AssetId": "Asset.image_39_2",
       "DisplayName": "image 39",
-      "SortOrder": 22182,
+      "SortOrder": 22181,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 39.png",
@@ -395,7 +395,7 @@
       "FileSizeBytes": 6311,
       "Width": 50,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0216443+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4670123+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -406,7 +406,7 @@
     {
       "AssetId": "Asset.image_41_2",
       "DisplayName": "image 41",
-      "SortOrder": 22183,
+      "SortOrder": 22182,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 41.png",
@@ -415,7 +415,7 @@
       "FileSizeBytes": 6142,
       "Width": 51,
       "Height": 50,
-      "LastModifiedAt": "2026-06-26T12:18:44.0221445+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4670123+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -426,7 +426,7 @@
     {
       "AssetId": "Asset.image_43_2",
       "DisplayName": "image 43",
-      "SortOrder": 22184,
+      "SortOrder": 22183,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 43.png",
@@ -435,7 +435,7 @@
       "FileSizeBytes": 6471,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0226443+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4675547+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -446,7 +446,7 @@
     {
       "AssetId": "Asset.image_45_2",
       "DisplayName": "image 45",
-      "SortOrder": 22185,
+      "SortOrder": 22184,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 45.png",
@@ -455,7 +455,7 @@
       "FileSizeBytes": 6252,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0226443+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4675547+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -466,7 +466,7 @@
     {
       "AssetId": "Asset.image_47_2",
       "DisplayName": "image 47",
-      "SortOrder": 22186,
+      "SortOrder": 22185,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 47.png",
@@ -475,7 +475,7 @@
       "FileSizeBytes": 6271,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.023144+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4680815+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -486,7 +486,7 @@
     {
       "AssetId": "Asset.image_49_2",
       "DisplayName": "image 49",
-      "SortOrder": 22187,
+      "SortOrder": 22186,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 49.png",
@@ -495,7 +495,7 @@
       "FileSizeBytes": 6399,
       "Width": 52,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.023144+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4680815+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -506,7 +506,7 @@
     {
       "AssetId": "Asset.image_51_2",
       "DisplayName": "image 51",
-      "SortOrder": 22188,
+      "SortOrder": 22187,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 51.png",
@@ -515,7 +515,7 @@
       "FileSizeBytes": 6250,
       "Width": 51,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0241439+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4686231+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -526,7 +526,7 @@
     {
       "AssetId": "Asset.image_53_2",
       "DisplayName": "image 53",
-      "SortOrder": 22189,
+      "SortOrder": 22188,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 53.png",
@@ -535,7 +535,7 @@
       "FileSizeBytes": 6171,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.0241439+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4691532+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -546,7 +546,7 @@
     {
       "AssetId": "Asset.image_55_2",
       "DisplayName": "image 55",
-      "SortOrder": 22190,
+      "SortOrder": 22189,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 55.png",
@@ -555,7 +555,7 @@
       "FileSizeBytes": 5721,
       "Width": 54,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.024644+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4691532+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -566,7 +566,7 @@
     {
       "AssetId": "Asset.image_57_2",
       "DisplayName": "image 57",
-      "SortOrder": 22191,
+      "SortOrder": 22190,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 57.png",
@@ -575,7 +575,7 @@
       "FileSizeBytes": 5763,
       "Width": 52,
       "Height": 52,
-      "LastModifiedAt": "2026-06-26T12:18:44.024644+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4696833+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -586,7 +586,7 @@
     {
       "AssetId": "Asset.image_59_2",
       "DisplayName": "image 59",
-      "SortOrder": 22192,
+      "SortOrder": 22191,
       "Category": "怪物",
       "Subcategory": "测试",
       "RelativePath": "Client/Assets/怪物/测试/image 59.png",
@@ -595,7 +595,7 @@
       "FileSizeBytes": 5843,
       "Width": 50,
       "Height": 51,
-      "LastModifiedAt": "2026-06-26T12:18:44.0251452+00:00",
+      "LastModifiedAt": "2026-06-26T00:49:16.4696833+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

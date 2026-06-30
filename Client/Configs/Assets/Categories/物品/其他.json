@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.Asset_45",
       "DisplayName": "悬浮提示背景_九宫格_纯黑半透明_透明初稿",
-      "SortOrder": 22205,
+      "SortOrder": 22204,
       "Category": "物品",
       "Subcategory": "其他",
       "RelativePath": "Client/Assets/物品/其他/悬浮提示背景_九宫格_纯黑半透明_透明初稿.png",
@@ -15,7 +15,7 @@
       "FileSizeBytes": 35927,
       "Width": 539,
       "Height": 540,
-      "LastModifiedAt": "2026-06-28T14:39:52.3366097+00:00",
+      "LastModifiedAt": "2026-06-29T00:50:29.8288888+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.Asset_46",
       "DisplayName": "悬浮提示背景_九宫格_纯黑半透明_透明初稿 - 副本",
-      "SortOrder": 22206,
+      "SortOrder": 22205,
       "Category": "物品",
       "Subcategory": "其他",
       "RelativePath": "Client/Assets/物品/其他/悬浮提示背景_九宫格_纯黑半透明_透明初稿 - 副本.png",
@@ -35,7 +35,7 @@
       "FileSizeBytes": 14434,
       "Width": 269,
       "Height": 270,
-      "LastModifiedAt": "2026-06-28T14:56:51.8057342+00:00",
+      "LastModifiedAt": "2026-06-29T00:50:29.8288888+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.2_2",
       "DisplayName": "2",
-      "SortOrder": 22207,
+      "SortOrder": 22206,
       "Category": "物品",
       "Subcategory": "其他",
       "RelativePath": "Client/Assets/物品/其他/2.png",
@@ -55,7 +55,7 @@
       "FileSizeBytes": 13258,
       "Width": 269,
       "Height": 270,
-      "LastModifiedAt": "2026-06-28T15:05:15.6971159+00:00",
+      "LastModifiedAt": "2026-06-29T00:50:29.8283762+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
