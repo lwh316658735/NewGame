@@ -48,36 +48,6 @@
         "Value": 4
       },
       {
-        "AttributeId": "Strength",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
-        "AttributeId": "Agility",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
-        "AttributeId": "WristStrength",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
-        "AttributeId": "Intelligence",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
-        "AttributeId": "Spirit",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
-        "AttributeId": "Constitution",
-        "Operation": "Add",
-        "Value": 10
-      },
-      {
         "AttributeId": "MaxCarryWeight",
         "Operation": "Add",
         "Value": 10
@@ -185,17 +155,17 @@
       {
         "AttributeId": "MovementSpeed",
         "Operation": "Add",
-        "Value": 10000
+        "Value": 100
       },
       {
         "AttributeId": "AttackSpeed",
         "Operation": "Add",
-        "Value": 10000
+        "Value": 100
       },
       {
         "AttributeId": "CastSpeed",
         "Operation": "Add",
-        "Value": 10000
+        "Value": 100
       },
       {
         "AttributeId": "Lucky",
@@ -296,6 +266,11 @@
         "AttributeId": "DropRate",
         "Operation": "Add",
         "Value": 1000
+      },
+      {
+        "AttributeId": "Strength",
+        "Operation": "Add",
+        "Value": 20
       }
     ],
     "FixedAffixRules": []
