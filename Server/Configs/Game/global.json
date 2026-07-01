@@ -4,7 +4,9 @@
     "MaxRebirthLevel": 12,
     "AllowRunThroughPlayers": true,
     "AllowRunThroughMonsters": true,
-    "MonsterCorpseDurationSeconds": 5
+    "MonsterCorpseDurationSeconds": 5,
+    "MaxMeleeMonsterAttackersPerPlayer": 8,
+    "MaxTotalMonsterAttackersPerPlayer": 20
   },
   "LevelExperienceRules": {
     "ManualEntries": [
@@ -334,7 +336,12 @@
   "DropRules": {
     "ExperienceRate": 10000,
     "GoldDropRate": 10000,
-    "ItemDropRate": 10000
+    "ItemDropRate": 10000,
+    "DroppedItemLevelMode": "FixedOffset",
+    "DroppedItemLevelMinOffset": 10,
+    "DroppedItemLevelMaxOffset": 10,
+    "DroppedItemLevelMinPercent": 0,
+    "DroppedItemLevelMaxPercent": 0
   },
   "CharacterCreation": {
     "DefaultLevel": 71,

@@ -7664,7 +7664,7 @@
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
-      "Text": "负重:\u003Ccolor:30F887\u003E{{Player.Attribute.MaxCarryWeight}}\u003C/color\u003E",
+      "Text": "负重:\u003Ccolor:30F887\u003E{{Inventory.CurrentWeight}}/{{Player.Attribute.MaxCarryWeight}}\u003C/color\u003E",
       "FontFamily": "Microsoft YaHei",
       "FontSize": 16,
       "TextColor": "#A3A3A3",
