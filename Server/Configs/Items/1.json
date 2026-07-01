@@ -13,9 +13,8 @@
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 33,
-    "RequiredRebirthLevel": 0,
-    "MaxDurability": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 60000,
     "EquipLocations": [
       "Ring"
     ],
@@ -26,18 +25,7 @@
     "QualityRule": {
       "IsEnabled": true
     },
-    "FixedAttributes": [
-      {
-        "AttributeId": "MinMagicAttack",
-        "Operation": "Add",
-        "Value": 0
-      },
-      {
-        "AttributeId": "MaxMagicAttack",
-        "Operation": "Add",
-        "Value": 7
-      }
-    ],
+    "FixedAttributes": [],
     "FixedAffixRules": []
   },
   "ConsumableItem": null,

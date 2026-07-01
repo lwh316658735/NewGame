@@ -1,0 +1,66 @@
+{
+  "ItemId": 2011,
+  "DisplayName": "天魔战甲",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Yuanbao",
+    "BuyPrice": 50000000,
+    "SellPrice": 500000,
+    "CanSellToNpc": true
+  },
+  "Weight": 23,
+  "IsCharacterBound": true,
+  "AttributeItem": {
+    "DefaultItemLevel": 50,
+    "EquipRequirements": [],
+    "MaxDurability": 600000,
+    "EquipLocations": [
+      "Armor"
+    ],
+    "FashionLocations": [],
+    "Gender": 0,
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true,
+      "DefaultRarity": 3
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 2
+      },
+      {
+        "AttributeId": "MinPhysicalDefense",
+        "Operation": "Add",
+        "Value": 3
+      },
+      {
+        "AttributeId": "MaxPhysicalDefense",
+        "Operation": "Add",
+        "Value": 6
+      },
+      {
+        "AttributeId": "MinMagicDefense",
+        "Operation": "Add",
+        "Value": 2
+      },
+      {
+        "AttributeId": "MaxMagicDefense",
+        "Operation": "Add",
+        "Value": 7
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

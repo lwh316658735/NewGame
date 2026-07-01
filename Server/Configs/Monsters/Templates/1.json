@@ -14,8 +14,9 @@
     "MaxPhysicalAttack": 300,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
-    "MinTaoismAttack": 0,
-    "MaxTaoismAttack": 0,
+    "MinTrueDamage": 500,
+    "MaxTrueDamage": 800,
+    "DamageTakenLimit": 0,
     "MinPhysicalDefense": 1000,
     "MaxPhysicalDefense": 2000,
     "MinMagicDefense": 0,
@@ -28,7 +29,7 @@
     "AttackAreaRadiusCells": 1,
     "AttackAreaHalfWidthCells": 0,
     "AttackAreaAngleDegrees": 90,
-    "AttackSpeed": 1000,
+    "AttackSpeed": 10000,
     "CastSpeed": 1000
   },
   "MovementTiming": {

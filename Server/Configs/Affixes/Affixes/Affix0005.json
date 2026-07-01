@@ -1,0 +1,28 @@
+{
+  "AffixId": "Affix0005",
+  "DisplayName": "戒指-几率提升暴击伤害",
+  "CategoryIds": [
+    "攻击"
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 10,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "DescriptionTemplate": "攻击时{戒指-几率提升暴击伤害.几率}提升{戒指-几率提升暴击伤害.暴击伤害}暴击伤害",
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/Affix0005/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    "戒指-几率提升暴击伤害"
+  ]
+}

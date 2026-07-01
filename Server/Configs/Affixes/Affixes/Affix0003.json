@@ -1,0 +1,28 @@
+{
+  "AffixId": "Affix0003",
+  "DisplayName": "戒指-攻击恢复生命",
+  "CategoryIds": [
+    "治疗"
+  ],
+  "AffixType": "NormalPrefix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "DescriptionTemplate": "攻击时{戒指-生命恢复.攻击恢复几率}几率恢复{戒指-生命恢复.恢复数值}生命值",
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/Affix0003/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    "戒指-生命恢复"
+  ]
+}

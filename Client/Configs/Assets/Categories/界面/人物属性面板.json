@@ -1,0 +1,27 @@
+{
+  "Version": 6,
+  "Category": "界面",
+  "Subcategory": "人物属性面板",
+  "Assets": [
+    {
+      "AssetId": "Asset.640x760_v2",
+      "DisplayName": "人物属性背景_640x760_顶部装饰_v2_透明",
+      "SortOrder": 22207,
+      "Category": "界面",
+      "Subcategory": "人物属性面板",
+      "RelativePath": "Client/Assets/界面/人物属性面板/人物属性背景_640x760_顶部装饰_v2_透明.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 286243,
+      "Width": 557,
+      "Height": 730,
+      "LastModifiedAt": "2026-07-01T02:32:49.2770608+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

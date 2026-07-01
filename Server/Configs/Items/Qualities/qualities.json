@@ -190,7 +190,7 @@
         {
           "Target": "MaxHealth",
           "FlatMin": 20,
-          "FlatMax": 40,
+          "FlatMax": 50,
           "PercentMin": 3,
           "PercentMax": 10
         },

@@ -5,7 +5,13 @@
       "DisplayName": "默认怪物AI",
       "AggroRangeCells": 8,
       "ChaseRangeCells": 16,
-      "ReturnRangeCells": 24
+      "ReturnRangeCells": 24,
+      "IsIdleWanderEnabled": true,
+      "IdleWanderCheckIntervalMilliseconds": 2000,
+      "IdleWanderMoveChance": 1000,
+      "IdleWanderRangeCells": 3,
+      "IdleWanderCheckBudgetPerTick": 64,
+      "IdleWanderMoveBudgetPerTick": 8
     }
   ]
 }

@@ -1,13 +1,14 @@
-﻿{
+{
   "ItemId": 9,
   "DisplayName": "物品5",
   "Alias": "",
-  "Description": "",
+  "Description": "这是物品5",
   "NameStyle": {
     "ColorMode": "FixedColor",
     "FixedColor": "#00ff11",
     "GradientStartColor": "#ffffff",
     "GradientMiddleColor": "#ffffff",
     "GradientEndColor": "#ffffff"
-  }
+  },
+  "LightPillarId": ""
 }

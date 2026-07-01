@@ -1,0 +1,28 @@
+{
+  "AffixId": "Affix0002",
+  "DisplayName": "戒指-攻击之",
+  "CategoryIds": [
+    "攻击"
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "DescriptionTemplate": "提升攻击{戒指-攻击点伤提升词缀.攻击力}点",
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/Affix0002/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    "戒指-攻击点伤提升词缀"
+  ]
+}

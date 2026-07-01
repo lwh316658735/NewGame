@@ -35,7 +35,7 @@
     "MaxMagicDefense": 2,
     "Hit": 9900,
     "Dodge": 1000,
-    "AttackSpeed": 3000,
+    "AttackSpeed": 20000,
     "CastSpeed": 1000
   },
   "MovementTiming": {
@@ -44,11 +44,11 @@
   "GrowthPerLevel": {
     "MaxHealth": 100,
     "MaxMana": 3,
-    "PhysicalAttack": 1,
+    "PhysicalAttack": 0,
     "MagicAttack": 1,
-    "TaoismAttack": 1,
+    "TaoismAttack": 0,
     "PhysicalDefense": 1,
-    "MagicDefense": 1,
+    "MagicDefense": 0,
     "Hit": 0,
     "Dodge": 0
   },

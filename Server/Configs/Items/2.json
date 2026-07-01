@@ -1,4 +1,4 @@
-﻿{
+{
   "ItemId": 2,
   "DisplayName": "圣战头盔",
   "Kind": "AttributeItem",
@@ -10,11 +10,27 @@
     "CanSellToNpc": true
   },
   "Weight": 0,
-  "IsCharacterBound": false,
+  "IsCharacterBound": true,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 33,
-    "RequiredRebirthLevel": 0,
+    "EquipRequirements": [
+      {
+        "RequirementType": "RequiredCharacterLevel",
+        "RequiredValue": 80
+      },
+      {
+        "RequirementType": "RequiredRebirthLevel",
+        "RequiredValue": 2
+      },
+      {
+        "RequirementType": "RequiredStrength",
+        "RequiredValue": 200
+      },
+      {
+        "RequirementType": "RequiredPhysicalAttack",
+        "RequiredValue": 500
+      }
+    ],
     "MaxDurability": 0,
     "EquipLocations": [
       "Helmet"
@@ -24,7 +40,8 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": true
+      "IsEnabled": true,
+      "DefaultRarity": 2
     },
     "FixedAttributes": [
       {

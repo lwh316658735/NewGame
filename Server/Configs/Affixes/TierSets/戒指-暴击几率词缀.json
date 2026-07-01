@@ -1,0 +1,94 @@
+{
+  "TierSetId": "戒指-暴击几率词缀",
+  "Description": "首版装备词缀T阶。",
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 10,
+  "RangeDefinitions": [
+    {
+      "RangeId": "暴击几率",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Percent",
+      "ValueStep": 500
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 30,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 100,
+          "MaxValue": 500
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 31,
+      "MaxItemLevel": 40,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 600,
+          "MaxValue": 1000
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 41,
+      "MaxItemLevel": 50,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 1100,
+          "MaxValue": 1500
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 51,
+      "MaxItemLevel": 60,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 1600,
+          "MaxValue": 2000
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 61,
+      "MaxItemLevel": 70,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 2100,
+          "MaxValue": 2500
+        }
+      ]
+    },
+    {
+      "TierId": "T6",
+      "DisplayName": "T6",
+      "MinItemLevel": 71,
+      "MaxItemLevel": 80,
+      "RangeValues": [
+        {
+          "RangeId": "暴击几率",
+          "MinValue": 2600,
+          "MaxValue": 3000
+        }
+      ]
+    }
+  ]
+}

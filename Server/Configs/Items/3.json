@@ -5,7 +5,7 @@
   "MaxStack": 1,
   "Price": {
     "CurrencyId": "Gold",
-    "BuyPrice": 0,
+    "BuyPrice": 30000,
     "SellPrice": 0,
     "CanSellToNpc": true
   },
@@ -13,8 +13,32 @@
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 33,
-    "RequiredRebirthLevel": 0,
+    "EquipRequirements": [
+      {
+        "RequirementType": "RequiredCharacterLevel",
+        "RequiredValue": 79
+      },
+      {
+        "RequirementType": "RequiredRebirthLevel",
+        "RequiredValue": 2
+      },
+      {
+        "RequirementType": "RequiredStrength",
+        "RequiredValue": 500
+      },
+      {
+        "RequirementType": "RequiredIntelligence",
+        "RequiredValue": 1
+      },
+      {
+        "RequirementType": "RequiredAgility",
+        "RequiredValue": 80
+      },
+      {
+        "RequirementType": "RequiredPhysicalAttack",
+        "RequiredValue": 3000
+      }
+    ],
     "MaxDurability": 600000,
     "EquipLocations": [
       "Bracelet"
@@ -24,7 +48,8 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": true
+      "IsEnabled": true,
+      "DefaultRarity": 2
     },
     "FixedAttributes": [
       {
@@ -165,7 +190,7 @@
       {
         "AttributeId": "CastSpeed",
         "Operation": "Add",
-        "Value": 100
+        "Value": -100
       },
       {
         "AttributeId": "Lucky",

@@ -1,0 +1,112 @@
+{
+  "TierSetId": "戒指-几率附加伤害",
+  "Description": "首版装备词缀T阶。",
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 10,
+  "RangeDefinitions": [
+    {
+      "RangeId": "伤害",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Percent",
+      "ValueStep": 1000
+    },
+    {
+      "RangeId": "几率",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Percent",
+      "ValueStep": 1000
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 30,
+      "RangeValues": [
+        {
+          "RangeId": "伤害",
+          "MinValue": 100,
+          "MaxValue": 1000
+        },
+        {
+          "RangeId": "几率",
+          "MinValue": 100,
+          "MaxValue": 1000
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 31,
+      "MaxItemLevel": 40,
+      "RangeValues": [
+        {
+          "RangeId": "伤害",
+          "MinValue": 1100,
+          "MaxValue": 2000
+        },
+        {
+          "RangeId": "几率",
+          "MinValue": 1100,
+          "MaxValue": 2000
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 41,
+      "MaxItemLevel": 50,
+      "RangeValues": [
+        {
+          "RangeId": "伤害",
+          "MinValue": 2100,
+          "MaxValue": 3000
+        },
+        {
+          "RangeId": "几率",
+          "MinValue": 2100,
+          "MaxValue": 3000
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 51,
+      "MaxItemLevel": 60,
+      "RangeValues": [
+        {
+          "RangeId": "伤害",
+          "MinValue": 3100,
+          "MaxValue": 4000
+        },
+        {
+          "RangeId": "几率",
+          "MinValue": 3100,
+          "MaxValue": 4000
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 61,
+      "MaxItemLevel": 70,
+      "RangeValues": [
+        {
+          "RangeId": "伤害",
+          "MinValue": 4100,
+          "MaxValue": 5000
+        },
+        {
+          "RangeId": "几率",
+          "MinValue": 4100,
+          "MaxValue": 5000
+        }
+      ]
+    }
+  ]
+}
