@@ -1,4 +1,4 @@
-﻿{
+{
   "ItemId": 11,
   "DisplayName": "圣战戒指",
   "Kind": "AttributeItem",
@@ -13,8 +13,7 @@
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 40,
-    "RequiredRebirthLevel": 0,
+    "EquipRequirements": [],
     "MaxDurability": 0,
     "EquipLocations": [
       "Ring"

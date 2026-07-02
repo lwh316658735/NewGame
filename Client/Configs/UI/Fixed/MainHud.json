@@ -47,10 +47,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -91,7 +98,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -102,7 +112,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -113,7 +126,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -128,6 +144,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -148,6 +165,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -162,6 +182,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -176,6 +199,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -230,10 +256,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -274,7 +307,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -285,7 +321,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -296,7 +335,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -311,6 +353,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -331,6 +374,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -345,6 +391,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -359,6 +408,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -413,10 +465,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -457,7 +516,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -468,7 +530,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -479,7 +544,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -494,6 +562,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -514,6 +583,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -528,6 +600,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -542,6 +617,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -596,10 +674,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -640,7 +725,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -651,7 +739,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -662,7 +753,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -677,6 +771,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -697,6 +792,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -711,6 +809,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -725,6 +826,216 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaCornerRadius": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "progressBar",
+      "DisplayName": "负重",
+      "Kind": "ProgressBar",
+      "X": 1733,
+      "Y": 1032,
+      "Width": 66,
+      "Height": 14,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 5,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "ProgressCurrentValuePlaceholder": "{{Inventory.CurrentWeight}}",
+      "ProgressMaximumValue": "{{Player.Attribute.MaxCarryWeight}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
+      "ResourceValueKind": "None",
+      "ResourceFillMode": "VerticalOrb",
+      "ResourcePreviewRatio": 0.75,
+      "BackgroundColor": "#E7EDCA",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "InputFocusedBackgroundColor": "",
+      "InputBorderColor": "",
+      "InputBorderWidth": 0,
+      "InputCornerRadius": 0,
+      "InputCaretColor": "",
+      "InputTextOffsetX": 0,
+      "InputTextOffsetY": 0,
+      "InputCaretOffsetX": 0,
+      "InputCaretOffsetY": 0,
+      "CanHaveScrollbar": false,
+      "ScrollTargetControlId": "",
+      "ScrollbarButtonHeight": 18,
+      "ScrollbarMinimumThumbHeight": 24,
+      "ScrollbarTrackColor": "",
+      "ScrollbarThumbColor": "",
+      "ScrollbarButtonColor": "",
+      "ScrollbarTrackAssetId": "",
+      "ScrollbarThumbAssetId": "",
+      "ScrollbarUpButtonAssetId": "",
+      "ScrollbarDownButtonAssetId": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "InputMaxLength": 0,
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": "",
+      "ContentTemplate": null,
+      "ClickSoundAssetId": "",
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonOpenTargetKind": "ContentTemplate",
+      "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -779,10 +1090,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -823,7 +1141,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -834,7 +1155,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -845,7 +1169,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -860,6 +1187,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -880,6 +1208,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -894,6 +1225,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -908,6 +1242,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -962,10 +1299,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -1006,7 +1350,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1017,7 +1364,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1028,7 +1378,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1043,6 +1396,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1063,6 +1417,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1077,6 +1434,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1091,6 +1451,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1145,10 +1508,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -1189,7 +1559,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1200,7 +1573,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1211,7 +1587,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1226,6 +1605,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1246,6 +1626,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1260,6 +1643,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1274,6 +1660,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1339,10 +1728,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "Health",
       "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ResourcePreviewRatio": 0.4,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
@@ -1383,7 +1779,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1394,7 +1793,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1405,7 +1807,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1420,6 +1825,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1440,6 +1846,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1454,6 +1863,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1468,6 +1880,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1522,10 +1937,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -1566,7 +1988,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1577,7 +2002,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1588,7 +2016,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1603,6 +2034,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1623,6 +2055,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1637,6 +2072,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1651,6 +2089,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1715,10 +2156,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "Mana",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.6,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
@@ -1759,7 +2207,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1770,7 +2221,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1781,7 +2235,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1796,6 +2253,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1816,6 +2274,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1830,6 +2291,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1844,6 +2308,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1859,7 +2326,7 @@
       "ControlId": "image10",
       "DisplayName": "图片 12",
       "Kind": "Image",
-      "X": 741,
+      "X": 739,
       "Y": 871,
       "Width": 440,
       "Height": 54,
@@ -1898,10 +2365,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -1942,7 +2416,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -1953,7 +2430,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -1964,7 +2444,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1979,6 +2462,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -1999,6 +2483,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2013,6 +2500,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2027,6 +2517,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2081,10 +2574,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -2125,7 +2625,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -2136,7 +2639,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -2147,7 +2653,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2162,6 +2671,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -2182,6 +2692,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2196,6 +2709,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2210,6 +2726,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2262,10 +2781,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -2306,7 +2832,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -2317,7 +2846,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -2328,7 +2860,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2343,6 +2878,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -2363,6 +2899,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2377,6 +2916,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "#00000066",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#0000007A",
         "HotAreaFeedbackOpacity": 0.5,
         "HotAreaFeedbackFeatherRadius": 0
@@ -2391,6 +2933,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2443,10 +2988,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -2487,7 +3039,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -2498,7 +3053,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -2509,7 +3067,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2524,6 +3085,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -2544,6 +3106,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2558,6 +3123,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000078",
         "HotAreaFeedbackOpacity": 0.47,
         "HotAreaFeedbackFeatherRadius": null
@@ -2572,6 +3140,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2624,10 +3195,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "#FFFFFF",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -2668,7 +3246,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -2679,7 +3260,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -2690,7 +3274,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2705,6 +3292,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -2725,6 +3313,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2739,6 +3330,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2753,6 +3347,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2805,10 +3402,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -2849,7 +3453,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -2860,7 +3467,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -2871,7 +3481,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2886,6 +3499,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -2906,6 +3520,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2920,6 +3537,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#0000006E",
         "HotAreaFeedbackOpacity": 0.49,
         "HotAreaFeedbackFeatherRadius": null
@@ -2934,6 +3554,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2986,10 +3609,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -3030,7 +3660,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3041,7 +3674,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3052,7 +3688,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3067,6 +3706,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3087,6 +3727,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3101,6 +3744,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3115,6 +3761,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3167,10 +3816,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "#666666",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "#FFFFFF",
       "InputBorderColor": "#000000",
       "InputBorderWidth": 1,
@@ -3211,7 +3867,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3222,7 +3881,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3233,7 +3895,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3248,6 +3913,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3268,6 +3934,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3282,6 +3951,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3296,6 +3968,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3348,10 +4023,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -3392,7 +4074,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3403,7 +4088,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3414,7 +4102,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3429,6 +4120,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3449,6 +4141,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3463,6 +4158,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3477,6 +4175,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3529,10 +4230,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -3573,7 +4281,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3584,7 +4295,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3595,7 +4309,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3610,6 +4327,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3630,6 +4348,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3644,6 +4365,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3658,6 +4382,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3710,10 +4437,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -3754,7 +4488,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3765,7 +4502,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3776,7 +4516,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3791,6 +4534,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3811,6 +4555,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3825,6 +4572,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3839,6 +4589,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -3891,10 +4644,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -3935,7 +4695,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -3946,7 +4709,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -3957,7 +4723,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3972,6 +4741,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -3992,6 +4762,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4006,6 +4779,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4020,6 +4796,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4072,10 +4851,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
@@ -4116,7 +4902,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -4127,7 +4916,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -4138,7 +4930,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -4153,6 +4948,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -4173,6 +4969,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4187,6 +4986,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4201,6 +5003,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4253,10 +5058,17 @@
         "Right": 0,
         "Bottom": 0
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "ResourceValueKind": "None",
       "ResourceFillMode": "VerticalOrb",
       "ResourcePreviewRatio": 0.75,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
@@ -4297,7 +5109,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -4308,7 +5123,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -4319,7 +5137,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -4334,6 +5155,7 @@
       "BuffGridCellHeight": 0,
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
       "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
@@ -4354,6 +5176,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4368,6 +5193,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -4382,6 +5210,423 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaCornerRadius": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "text3",
+      "DisplayName": "等级显示",
+      "Kind": "Text",
+      "X": 1718,
+      "Y": 963,
+      "Width": 82,
+      "Height": 28,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": true,
+      "ZIndex": 25,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "{{Player.Level}}",
+      "FontFamily": "NSimSun",
+      "FontSize": 20,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "MiddleCenter",
+      "IsTextWrapEnabled": false,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
+      "ResourceValueKind": "None",
+      "ResourceFillMode": "VerticalOrb",
+      "ResourcePreviewRatio": 0.75,
+      "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "InputFocusedBackgroundColor": "",
+      "InputBorderColor": "",
+      "InputBorderWidth": 0,
+      "InputCornerRadius": 0,
+      "InputCaretColor": "",
+      "InputTextOffsetX": 0,
+      "InputTextOffsetY": 0,
+      "InputCaretOffsetX": 0,
+      "InputCaretOffsetY": 0,
+      "CanHaveScrollbar": false,
+      "ScrollTargetControlId": "",
+      "ScrollbarButtonHeight": 18,
+      "ScrollbarMinimumThumbHeight": 24,
+      "ScrollbarTrackColor": "",
+      "ScrollbarThumbColor": "",
+      "ScrollbarButtonColor": "",
+      "ScrollbarTrackAssetId": "",
+      "ScrollbarThumbAssetId": "",
+      "ScrollbarUpButtonAssetId": "",
+      "ScrollbarDownButtonAssetId": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "InputMaxLength": 0,
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": "",
+      "ContentTemplate": null,
+      "ClickSoundAssetId": "",
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonOpenTargetKind": "ContentTemplate",
+      "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonClickAreaX": 0,
+      "ButtonClickAreaY": 0,
+      "ButtonClickAreaWidth": 0,
+      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaCornerRadius": 0,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "progressBar2",
+      "DisplayName": "经验",
+      "Kind": "ProgressBar",
+      "X": 1769,
+      "Y": 1062,
+      "Width": 98,
+      "Height": 14,
+      "Anchor": "TopLeft",
+      "IsLockedInEditor": false,
+      "ZIndex": 28,
+      "DragTargetControlIds": [],
+      "MinimapLocalRangeScale": 1,
+      "MinimapCompanionControlIds": [],
+      "Text": "",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#FFFFFF",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "AssetId": "",
+      "AssetIds": [],
+      "ImageFramesPerSecond": 4,
+      "ImageFillMode": "Fit",
+      "ImageNineSlice": {
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
+      },
+      "ProgressCurrentValuePlaceholder": "{{Player.Experience}}",
+      "ProgressMaximumValue": "{{Player.NextLevelExperience}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
+      "ResourceValueKind": "None",
+      "ResourceFillMode": "VerticalOrb",
+      "ResourcePreviewRatio": 0.75,
+      "BackgroundColor": "#D4FE01",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "InputFocusedBackgroundColor": "",
+      "InputBorderColor": "",
+      "InputBorderWidth": 0,
+      "InputCornerRadius": 0,
+      "InputCaretColor": "",
+      "InputTextOffsetX": 0,
+      "InputTextOffsetY": 0,
+      "InputCaretOffsetX": 0,
+      "InputCaretOffsetY": 0,
+      "CanHaveScrollbar": false,
+      "ScrollTargetControlId": "",
+      "ScrollbarButtonHeight": 18,
+      "ScrollbarMinimumThumbHeight": 24,
+      "ScrollbarTrackColor": "",
+      "ScrollbarThumbColor": "",
+      "ScrollbarButtonColor": "",
+      "ScrollbarTrackAssetId": "",
+      "ScrollbarThumbAssetId": "",
+      "ScrollbarUpButtonAssetId": "",
+      "ScrollbarDownButtonAssetId": "",
+      "InputValueKind": "Text",
+      "IsPasswordInput": false,
+      "InputLineMode": "SingleLine",
+      "InputMaxLength": 0,
+      "HintText": "",
+      "DefaultInputText": "",
+      "CharacterSlotTexts": [],
+      "CharacterPreviewAnimations": [],
+      "ServerListItemHeight": 76,
+      "ServerListItemSpacing": 10,
+      "ServerListPreviewItemCount": 12,
+      "ServerListItemDefaultStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemSelectedStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemDisabledStateStyle": {
+        "AssetId": "",
+        "BackgroundColor": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
+      },
+      "ServerListItemElements": [],
+      "InventoryGridCellWidth": 0,
+      "InventoryGridCellHeight": 0,
+      "InventoryGridColumnSpacing": 0,
+      "InventoryGridRowSpacing": 0,
+      "InventoryGridPaddingLeft": 0,
+      "InventoryGridPaddingTop": 0,
+      "InventoryGridPaddingRight": 0,
+      "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": "",
+      "ContentTemplate": null,
+      "ClickSoundAssetId": "",
+      "ButtonTriggerKind": "SystemEvent",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonScriptId": "",
+      "ButtonTargetTemplateId": "",
+      "ButtonOpenTargetKind": "ContentTemplate",
+      "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
+      "ButtonDefaultStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonHoverStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
+        "HotAreaFeedbackColor": "",
+        "HotAreaFeedbackOpacity": null,
+        "HotAreaFeedbackFeatherRadius": null
+      },
+      "ButtonPressedStateStyle": {
+        "AssetId": "",
+        "NineSlice": {
+          "IsEnabled": false,
+          "Left": 0,
+          "Top": 0,
+          "Right": 0,
+          "Bottom": 0
+        },
+        "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null

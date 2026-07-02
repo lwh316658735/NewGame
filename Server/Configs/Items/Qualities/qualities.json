@@ -5,7 +5,9 @@
       "IsEnabled": true,
       "Weight": 200,
       "AttributeBonuses": [],
+      "MinPrefixCount": 0,
       "MaxPrefixCount": 0,
+      "MinSuffixCount": 0,
       "MaxSuffixCount": 0
     },
     {
@@ -63,7 +65,9 @@
           "PercentMax": 5
         }
       ],
+      "MinPrefixCount": 0,
       "MaxPrefixCount": 1,
+      "MinSuffixCount": 0,
       "MaxSuffixCount": 1
     },
     {
@@ -121,7 +125,9 @@
           "PercentMax": 5
         }
       ],
+      "MinPrefixCount": 1,
       "MaxPrefixCount": 2,
+      "MinSuffixCount": 1,
       "MaxSuffixCount": 2
     },
     {
@@ -179,7 +185,9 @@
           "PercentMax": 5
         }
       ],
+      "MinPrefixCount": 1,
       "MaxPrefixCount": 3,
+      "MinSuffixCount": 1,
       "MaxSuffixCount": 3
     },
     {
@@ -237,7 +245,9 @@
           "PercentMax": 10
         }
       ],
+      "MinPrefixCount": 3,
       "MaxPrefixCount": 4,
+      "MinSuffixCount": 3,
       "MaxSuffixCount": 4
     }
   ]

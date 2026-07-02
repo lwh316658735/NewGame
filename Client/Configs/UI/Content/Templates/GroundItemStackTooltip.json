@@ -49,13 +49,28 @@
         "Right": 18,
         "Bottom": 18
       },
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
       "ItemInfoTooltipModulePaddingX": 12,
       "ItemInfoTooltipModulePaddingY": 8,
       "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
+      "ItemInfoTooltipModuleBorderWidth": 1,
+      "ItemInfoTooltipModuleCornerRadius": 0,
+      "ItemInfoTooltipDecorationInsetLeft": 0,
+      "ItemInfoTooltipDecorationInsetTop": 0,
+      "ItemInfoTooltipDecorationInsetRight": 0,
+      "ItemInfoTooltipDecorationInsetBottom": 0,
       "InputFocusedBackgroundColor": "",
       "GroundItemStackTooltipBorderColor": "",
+      "GroundItemStackTooltipBorderWidth": 1,
+      "GroundItemStackTooltipCornerRadius": 0,
       "GroundItemStackTooltipIconVisible": false,
       "GroundItemStackTooltipIconSize": 50,
       "GroundItemStackTooltipIconFillMode": "Center",
@@ -146,6 +161,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -160,6 +178,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -174,6 +195,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null

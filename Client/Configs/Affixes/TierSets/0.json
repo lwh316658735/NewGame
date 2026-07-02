@@ -1,0 +1,165 @@
+{
+  "TierSetId": 0,
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 9,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.04,
+          "MaxValue": 0.1
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.01,
+          "MaxValue": 0.5
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 10,
+      "MaxItemLevel": 19,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.1,
+          "MaxValue": 0.2
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.5,
+          "MaxValue": 1
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 20,
+      "MaxItemLevel": 29,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.2,
+          "MaxValue": 0.3
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 1,
+          "MaxValue": 1.5
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 30,
+      "MaxItemLevel": 39,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.3,
+          "MaxValue": 0.4
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 1.5,
+          "MaxValue": 2
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 40,
+      "MaxItemLevel": 49,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.4,
+          "MaxValue": 0.5
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 2,
+          "MaxValue": 2.5
+        }
+      ]
+    },
+    {
+      "TierId": "T6",
+      "DisplayName": "T6",
+      "MinItemLevel": 50,
+      "MaxItemLevel": 59,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.5,
+          "MaxValue": 0.6
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 2.5,
+          "MaxValue": 3
+        }
+      ]
+    },
+    {
+      "TierId": "T7",
+      "DisplayName": "T7",
+      "MinItemLevel": 60,
+      "MaxItemLevel": 69,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.6,
+          "MaxValue": 0.7
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 3,
+          "MaxValue": 3.5
+        }
+      ]
+    },
+    {
+      "TierId": "T8",
+      "DisplayName": "T8",
+      "MinItemLevel": 70,
+      "MaxItemLevel": 79,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.7,
+          "MaxValue": 0.8
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 3.5,
+          "MaxValue": 4
+        }
+      ]
+    }
+  ]
+}

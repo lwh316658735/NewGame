@@ -7,6 +7,12 @@
       "SourcePath": "Server/Configs/Monsters/Templates/1.json"
     },
     {
+      "OldId": "1001",
+      "NewId": 1001,
+      "DisplayName": "地狱守卫#1",
+      "SourcePath": "Server/Configs/Monsters/Templates/1001.json"
+    },
+    {
       "OldId": "2",
       "NewId": 2,
       "DisplayName": "测试掉落怪物",
@@ -37,6 +43,12 @@
       "NewId": 2,
       "DisplayName": "圣战头盔",
       "SourcePath": "Client/Configs/Items/2.json"
+    },
+    {
+      "OldId": "2011",
+      "NewId": 2011,
+      "DisplayName": "天魔战甲",
+      "SourcePath": "Client/Configs/Items/2011.json"
     },
     {
       "OldId": "3",
@@ -79,6 +91,170 @@
       "NewId": 9,
       "DisplayName": "物品5",
       "SourcePath": "Client/Configs/Items/9.json"
+    }
+  ],
+  "AffixIds": [
+    {
+      "OldId": "0",
+      "NewId": 0,
+      "DisplayName": "戒指-暴击之",
+      "SourcePath": "Server/Configs/Affixes/Affixes/0.json"
+    },
+    {
+      "OldId": "1",
+      "NewId": 1,
+      "DisplayName": "戒指-攻击之",
+      "SourcePath": "Server/Configs/Affixes/Affixes/1.json"
+    },
+    {
+      "OldId": "2",
+      "NewId": 2,
+      "DisplayName": "戒指-攻击恢复生命",
+      "SourcePath": "Server/Configs/Affixes/Affixes/2.json"
+    },
+    {
+      "OldId": "3",
+      "NewId": 3,
+      "DisplayName": "戒指-附加伤害",
+      "SourcePath": "Server/Configs/Affixes/Affixes/3.json"
+    },
+    {
+      "OldId": "4",
+      "NewId": 4,
+      "DisplayName": "戒指-几率提升暴击伤害",
+      "SourcePath": "Server/Configs/Affixes/Affixes/4.json"
+    }
+  ],
+  "AffixCategoryIds": [
+    {
+      "OldId": "攻击",
+      "NewId": 0,
+      "DisplayName": "攻击",
+      "SourcePath": "Server/Configs/Affixes/categories.json"
+    },
+    {
+      "OldId": "治疗",
+      "NewId": 1,
+      "DisplayName": "治疗",
+      "SourcePath": "Server/Configs/Affixes/categories.json"
+    },
+    {
+      "OldId": "防御",
+      "NewId": 2,
+      "DisplayName": "防御",
+      "SourcePath": "Server/Configs/Affixes/categories.json"
+    }
+  ],
+  "AffixTierSetIds": [
+    {
+      "OldId": "戒指-几率提升暴击伤害",
+      "NewId": 0,
+      "DisplayName": "",
+      "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率提升暴击伤害.json"
+    },
+    {
+      "OldId": "戒指-几率附加伤害",
+      "NewId": 1,
+      "DisplayName": "",
+      "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率附加伤害.json"
+    },
+    {
+      "OldId": "戒指-攻击点伤提升词缀",
+      "NewId": 2,
+      "DisplayName": "",
+      "SourcePath": "Server/Configs/Affixes/TierSets/戒指-攻击点伤提升词缀.json"
+    },
+    {
+      "OldId": "戒指-暴击几率词缀",
+      "NewId": 3,
+      "DisplayName": "",
+      "SourcePath": "Server/Configs/Affixes/TierSets/戒指-暴击几率词缀.json"
+    },
+    {
+      "OldId": "戒指-生命恢复",
+      "NewId": 4,
+      "DisplayName": "",
+      "SourcePath": "Server/Configs/Affixes/TierSets/戒指-生命恢复.json"
+    }
+  ],
+  "AffixRangeIds": [
+    {
+      "OldTierSetId": "戒指-几率提升暴击伤害",
+      "NewTierSetId": 0,
+      "RangeIds": [
+        {
+          "OldId": "几率",
+          "NewId": 0,
+          "DisplayName": "几率",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率提升暴击伤害.json"
+        },
+        {
+          "OldId": "暴击伤害",
+          "NewId": 1,
+          "DisplayName": "暴击伤害",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率提升暴击伤害.json"
+        }
+      ]
+    },
+    {
+      "OldTierSetId": "戒指-几率附加伤害",
+      "NewTierSetId": 1,
+      "RangeIds": [
+        {
+          "OldId": "伤害",
+          "NewId": 0,
+          "DisplayName": "伤害",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率附加伤害.json"
+        },
+        {
+          "OldId": "几率",
+          "NewId": 1,
+          "DisplayName": "几率",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-几率附加伤害.json"
+        }
+      ]
+    },
+    {
+      "OldTierSetId": "戒指-攻击点伤提升词缀",
+      "NewTierSetId": 2,
+      "RangeIds": [
+        {
+          "OldId": "攻击力",
+          "NewId": 0,
+          "DisplayName": "攻击力",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-攻击点伤提升词缀.json"
+        }
+      ]
+    },
+    {
+      "OldTierSetId": "戒指-暴击几率词缀",
+      "NewTierSetId": 3,
+      "RangeIds": [
+        {
+          "OldId": "暴击几率",
+          "NewId": 0,
+          "DisplayName": "暴击几率",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-暴击几率词缀.json"
+        }
+      ]
+    },
+    {
+      "OldTierSetId": "戒指-生命恢复",
+      "NewTierSetId": 4,
+      "RangeIds": [
+        {
+          "OldId": "恢复数值",
+          "NewId": 0,
+          "DisplayName": "恢复数值",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-生命恢复.json"
+        },
+        {
+          "OldId": "攻击恢复几率",
+          "NewId": 1,
+          "DisplayName": "攻击恢复几率",
+          "SourcePath": "Server/Configs/Affixes/TierSets/戒指-生命恢复.json"
+        }
+      ]
     }
   ]
 }

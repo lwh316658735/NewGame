@@ -1,16 +1,19 @@
 {
   "Categories": [
     {
-      "CategoryId": "攻击",
-      "Description": "用于标记词缀的生成、玩法或运营含义。"
+      "CategoryId": 0,
+      "DisplayName": "攻击",
+      "Description": "用"
     },
     {
-      "CategoryId": "治疗",
-      "Description": "用于标记词缀的生成、玩法或运营含义。"
+      "CategoryId": 1,
+      "DisplayName": "治疗",
+      "Description": "用于标记词缀的生成、玩法或1"
     },
     {
-      "CategoryId": "防御",
-      "Description": "用于标记词缀的生成、玩法或运营含义。"
+      "CategoryId": 2,
+      "DisplayName": "防御",
+      "Description": "用于标记词缀的生成、玩法或运营含义。1"
     }
   ]
 }

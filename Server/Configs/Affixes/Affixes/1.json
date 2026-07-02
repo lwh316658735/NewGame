@@ -1,0 +1,27 @@
+{
+  "AffixId": 1,
+  "DisplayName": "戒指-攻击之",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/1/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    2
+  ]
+}

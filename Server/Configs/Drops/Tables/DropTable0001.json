@@ -41,9 +41,15 @@
     },
     {
       "ItemId": 3,
-      "BaseDropChance": 500000,
+      "BaseDropChance": 200000,
       "MinQuantity": 1,
       "MaxQuantity": 1
+    },
+    {
+      "ItemId": 11,
+      "BaseDropChance": 1000000,
+      "MinQuantity": 5,
+      "MaxQuantity": 5
     }
   ],
   "ReferencedDropTables": [

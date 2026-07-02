@@ -49,7 +49,7 @@
     "EquipSide": "None",
     "QualityRule": {
       "IsEnabled": true,
-      "DefaultRarity": 2
+      "DefaultRarity": 3
     },
     "FixedAttributes": [
       {

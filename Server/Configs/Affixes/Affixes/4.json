@@ -1,0 +1,27 @@
+{
+  "AffixId": 4,
+  "DisplayName": "戒指-几率提升暴击伤害",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 10,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/4/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    0
+  ]
+}
