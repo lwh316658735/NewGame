@@ -2,43 +2,43 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-02T09:49:20.346Z",
+  "GeneratedAt": "2026-07-03T04:26:20.448Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
       "Length": 470,
-      "LastWriteTimeUtc": "2026-07-02T09:34:06.577Z",
+      "LastWriteTimeUtc": "2026-07-02T09:53:56.939Z",
       "Sha256": "e64c016ab67646ba808519de644ebda3e98aac09be0f95bc0a5a7fb67a9f0bec"
     },
     {
       "RelativePath": "Configs/Affixes/Affixes/1.json",
       "Length": 470,
-      "LastWriteTimeUtc": "2026-07-02T09:34:06.579Z",
+      "LastWriteTimeUtc": "2026-07-02T09:53:56.939Z",
       "Sha256": "4a9209189d35d08cf1a86433af7eee4dc80743257e4d4aed3617ee19cd4dc30c"
     },
     {
       "RelativePath": "Configs/Affixes/Affixes/2.json",
       "Length": 487,
-      "LastWriteTimeUtc": "2026-07-02T09:34:06.581Z",
+      "LastWriteTimeUtc": "2026-07-02T09:53:56.940Z",
       "Sha256": "49a99265d9de552c5fc8ad13236d848eb7a609ab4286dc160ad83023ea09cf2a"
     },
     {
       "RelativePath": "Configs/Affixes/Affixes/3.json",
       "Length": 473,
-      "LastWriteTimeUtc": "2026-07-02T09:34:06.582Z",
+      "LastWriteTimeUtc": "2026-07-02T09:53:56.940Z",
       "Sha256": "4058c0f2e250100d4da2970eef29e9ecb4558add46ee8d20195c160d413a7913"
     },
     {
       "RelativePath": "Configs/Affixes/Affixes/4.json",
       "Length": 484,
-      "LastWriteTimeUtc": "2026-07-02T09:34:06.584Z",
+      "LastWriteTimeUtc": "2026-07-02T09:53:56.941Z",
       "Sha256": "180dc1d2d212e98daaaca5942b3978a3e7f5df5b944234caf295fed2c71c3fa1"
     },
     {
       "RelativePath": "Configs/Affixes/categories.json",
-      "Length": 413,
-      "LastWriteTimeUtc": "2026-07-02T09:44:43.926Z",
-      "Sha256": "104e98ea140e828099fa159d8613b07d9bf5223adedbe6bd24e4c47fe3fcbef4"
+      "Length": 292,
+      "LastWriteTimeUtc": "2026-07-03T03:26:47.540Z",
+      "Sha256": "d1031a6915bb34490f5fa5afa85ed830c472db1f97b8133f4fc7cb2157f9e65c"
     },
     {
       "RelativePath": "Configs/Affixes/TierSets/0.json",
@@ -102,9 +102,9 @@
     },
     {
       "RelativePath": "Configs/Items/10.json",
-      "Length": 326,
-      "LastWriteTimeUtc": "2026-07-01T08:35:06.817Z",
-      "Sha256": "e0c47624e7533306196ad2074dae077b72ab81ccccf37b7a3a677803e46deb17"
+      "Length": 362,
+      "LastWriteTimeUtc": "2026-07-03T03:32:36.985Z",
+      "Sha256": "1139ee1b2e68ec3667edb0e56de7e1edf625a4e60337f90b3c7dcf6d2c39809e"
     },
     {
       "RelativePath": "Configs/Items/11.json",
@@ -115,7 +115,7 @@
     {
       "RelativePath": "Configs/Items/2.json",
       "Length": 1806,
-      "LastWriteTimeUtc": "2026-07-01T08:40:04.258Z",
+      "LastWriteTimeUtc": "2026-07-03T03:29:20.301Z",
       "Sha256": "f62e89282ec657d7b3165529486e4a7b9c289de54683071717a0ce36eb2da5ef"
     },
     {
@@ -127,7 +127,7 @@
     {
       "RelativePath": "Configs/Items/3.json",
       "Length": 6797,
-      "LastWriteTimeUtc": "2026-07-02T07:33:41.507Z",
+      "LastWriteTimeUtc": "2026-07-03T02:29:47.989Z",
       "Sha256": "93965a43c00ada28a50a0c8393dfd52000d1c07c5e6f157a30503d2df27425dd"
     },
     {
@@ -138,15 +138,15 @@
     },
     {
       "RelativePath": "Configs/Items/5.json",
-      "Length": 326,
-      "LastWriteTimeUtc": "2026-07-01T08:34:54.744Z",
-      "Sha256": "c6457d2c3b2c585867d35be63951bc4d432d9bd45d76a1855cf185ab63a895e1"
+      "Length": 340,
+      "LastWriteTimeUtc": "2026-07-03T03:29:46.141Z",
+      "Sha256": "156fab9134b38fdc370ad88a6cb0e6fbcc01144e2ea19685be912a409c0f0ca5"
     },
     {
       "RelativePath": "Configs/Items/6.json",
-      "Length": 326,
-      "LastWriteTimeUtc": "2026-07-01T08:34:49.846Z",
-      "Sha256": "458b70e79baefd415b3bcc5058b7c3e0fb900e1c0c85f802401b9d5a5bb99f0f"
+      "Length": 355,
+      "LastWriteTimeUtc": "2026-07-03T03:29:33.128Z",
+      "Sha256": "e5b4cd4b94e70c28140933c8e0d632f686f2395f5495cdd0d9b3c058f997c268"
     },
     {
       "RelativePath": "Configs/Items/7.json",
@@ -169,7 +169,7 @@
     {
       "RelativePath": "Configs/Items/Qualities/qualities.json",
       "Length": 5829,
-      "LastWriteTimeUtc": "2026-07-02T01:31:58.367Z",
+      "LastWriteTimeUtc": "2026-07-03T03:28:34.632Z",
       "Sha256": "c6daf3c722c2a2d07aa58d66bc01a835c9508c7ab6e1b8822c40eb016797706d"
     },
     {
@@ -199,25 +199,25 @@
     {
       "RelativePath": "Configs/Monsters/AiProfiles/ai-profiles.json",
       "Length": 439,
-      "LastWriteTimeUtc": "2026-07-01T07:45:39.065Z",
+      "LastWriteTimeUtc": "2026-07-03T03:30:40.581Z",
       "Sha256": "76fdedaea46f932a47acea8f0b05199422763f42576b0962559bea5fc3f0ee80"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1.json",
       "Length": 1177,
-      "LastWriteTimeUtc": "2026-07-01T07:45:39.066Z",
+      "LastWriteTimeUtc": "2026-07-03T03:30:40.582Z",
       "Sha256": "86568fec965235a7b23262e67ea0d262667cfee7265ea4c294d9813120be29df"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1001.json",
       "Length": 1169,
-      "LastWriteTimeUtc": "2026-07-01T07:45:39.066Z",
+      "LastWriteTimeUtc": "2026-07-03T03:30:40.582Z",
       "Sha256": "24ebdf48bfc9300afa8ce931a6d35bfd2d6c6dd7b0c64a9de091ad1a4a5aa8e3"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/2.json",
       "Length": 1168,
-      "LastWriteTimeUtc": "2026-07-01T07:45:39.066Z",
+      "LastWriteTimeUtc": "2026-07-03T03:30:40.583Z",
       "Sha256": "1e11215e0b95dbff8d2bdac7c7e1b91acd93991861775530f6d59f9b99571b12"
     },
     {
@@ -259,7 +259,7 @@
     {
       "RelativePath": "Configs/UI/Content/Templates/ItemInfoTooltip.json",
       "Length": 148,
-      "LastWriteTimeUtc": "2026-07-02T09:37:41.506Z",
+      "LastWriteTimeUtc": "2026-07-03T02:04:09.246Z",
       "Sha256": "12cde4934e4dd3ce94855dce6f424593059eb53f9f838e85a1915e8abe99521a"
     },
     {
@@ -283,8 +283,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 221184,
-      "LastWriteTimeUtc": "2026-07-02T09:39:05.254Z",
-      "Sha256": "915df92d70668a0688b8bccedd0c6d0f6b92a8f65ca29e99c72df6195f2dc7db"
+      "LastWriteTimeUtc": "2026-07-03T03:33:48.986Z",
+      "Sha256": "df21bccaf7cdc203417dc85101dc777b6b6acc197f29da4115bb64f5d17fe40a"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",

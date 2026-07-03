@@ -1,14 +1,7 @@
 {
   "ItemId": 10,
-  "DisplayName": "物品6",
+  "DisplayName": "<c:FF0000,00FF00,0000FF#s:20#i#g>物品6</>",
   "Alias": "",
   "Description": "这是物品6",
-  "NameStyle": {
-    "ColorMode": "Gradient",
-    "FixedColor": "#ffffff",
-    "GradientStartColor": "#db2424",
-    "GradientMiddleColor": "#147b94",
-    "GradientEndColor": "#d9f505"
-  },
   "LightPillarId": ""
 }

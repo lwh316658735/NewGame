@@ -2,10 +2,10 @@
   "ItemId": 3,
   "DisplayName": "圣战手镯",
   "Alias": "",
-  "Description": "\u003Ccolor:AD0000\u003E这是一个超级物品,哈哈哈哈哈哈哈啊哈\u003C/color\u003E\n酷酷酷酷酷",
+  "Description": "<c:FF0000,00FF00,0000FF#s:15#i#u#g>这是一个<s:18>超级物品</>,哈哈哈哈哈哈哈啊哈</>",
   "NameStyle": {
     "ColorMode": "FixedColor",
-    "FixedColor": "#ffffff",
+    "FixedColor": "#e09e9e",
     "GradientStartColor": "#ffffff",
     "GradientMiddleColor": "#ffffff",
     "GradientEndColor": "#ffffff"

@@ -2,58 +2,23 @@
   "Qualities": [
     {
       "Rarity": 0,
-      "DisplayName": "普通",
-      "NameStyle": {
-        "ColorMode": "FixedColor",
-        "FixedColor": "#ffffff",
-        "GradientStartColor": "#ffffff",
-        "GradientMiddleColor": "#ffffff",
-        "GradientEndColor": "#ffffff"
-      }
+      "DisplayName": "普通"
     },
     {
       "Rarity": 1,
-      "DisplayName": "魔法",
-      "NameStyle": {
-        "ColorMode": "FixedColor",
-        "FixedColor": "#543dff",
-        "GradientStartColor": "#ffffff",
-        "GradientMiddleColor": "#ffffff",
-        "GradientEndColor": "#ffffff"
-      }
+      "DisplayName": "<c:1A5EFF>魔法</>"
     },
     {
       "Rarity": 2,
-      "DisplayName": "稀有",
-      "NameStyle": {
-        "ColorMode": "FixedColor",
-        "FixedColor": "#e1fe06",
-        "GradientStartColor": "#ffffff",
-        "GradientMiddleColor": "#ffffff",
-        "GradientEndColor": "#ffffff"
-      }
+      "DisplayName": "<c:EEFF05>稀有</>"
     },
     {
       "Rarity": 3,
-      "DisplayName": "传说",
-      "NameStyle": {
-        "ColorMode": "FixedColor",
-        "FixedColor": "#ffae00",
-        "GradientStartColor": "#ffffff",
-        "GradientMiddleColor": "#ffffff",
-        "GradientEndColor": "#ffffff"
-      }
+      "DisplayName": "<c:FF7300>传说</>"
     },
     {
       "Rarity": 4,
-      "DisplayName": "天使",
-      "NameStyle": {
-        "ColorMode": "Gradient",
-        "FixedColor": "#ffae00",
-        "GradientStartColor": "#5318f7",
-        "GradientMiddleColor": "#faf31e",
-        "GradientEndColor": "#f58505"
-      }
+      "DisplayName": "<c:FE9A9A,69C2D8,852BF3#g>天使</>"
     }
   ]
 }

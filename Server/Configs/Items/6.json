@@ -1,6 +1,6 @@
 {
   "ItemId": 6,
-  "DisplayName": "物品2",
+  "DisplayName": "<c:FF0000,00FF00,0000FF#g>物品2</>",
   "Kind": "Material",
   "MaxStack": 99,
   "Price": {

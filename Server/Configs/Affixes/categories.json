@@ -2,18 +2,15 @@
   "Categories": [
     {
       "CategoryId": 0,
-      "DisplayName": "攻击",
-      "Description": "用"
+      "DisplayName": "<c:FF0000,00FF00,0000FF#g>攻击</>"
     },
     {
       "CategoryId": 1,
-      "DisplayName": "治疗",
-      "Description": "用于标记词缀的生成、玩法或1"
+      "DisplayName": "<c:04FF00>治疗</>"
     },
     {
       "CategoryId": 2,
-      "DisplayName": "防御",
-      "Description": "用于标记词缀的生成、玩法或运营含义。1"
+      "DisplayName": "<c:FBFF00>防御</>"
     }
   ]
 }
