@@ -2,6 +2,7 @@
   "Version": 1,
   "TemplateId": "ItemInfoTooltip",
   "DisplayName": "物品信息框",
+  "PresentationScriptId": "system/ui/content/ItemInfoTooltip",
   "Actions": [],
   "Inputs": [],
   "ItemSlots": []

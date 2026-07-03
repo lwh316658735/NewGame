@@ -3,13 +3,14 @@
   "ScreenId": "Equipment",
   "DisplayName": "装备穿戴",
   "BackgroundMusicAssetId": "",
+  "PresentationScriptId": "system/ui/fixed/Equipment",
   "Controls": [
     {
       "ControlId": "image",
       "DisplayName": "背景",
       "Kind": "Image",
       "X": 724,
-      "Y": 415,
+      "Y": 414,
       "Width": 362,
       "Height": 483,
       "Anchor": "TopLeft",

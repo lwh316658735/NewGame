@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-03T04:26:20.448Z",
+  "GeneratedAt": "2026-07-03T09:36:42.025Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -72,9 +72,9 @@
     },
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
-      "Length": 1313,
-      "LastWriteTimeUtc": "2026-07-01T06:50:00.915Z",
-      "Sha256": "b0948949d14a4741ca5c5f6211774d17583054b6007f4f69ed808ab4978925e1"
+      "Length": 1309,
+      "LastWriteTimeUtc": "2026-07-03T04:27:05.770Z",
+      "Sha256": "6daac8b95fb702175cf70c2c08bc0b15b34542f95e10f9aead8e80b3eac8c345"
     },
     {
       "RelativePath": "Configs/Drops/Tables/DropTable0001.json",
@@ -283,8 +283,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 221184,
-      "LastWriteTimeUtc": "2026-07-03T03:33:48.986Z",
-      "Sha256": "df21bccaf7cdc203417dc85101dc777b6b6acc197f29da4115bb64f5d17fe40a"
+      "LastWriteTimeUtc": "2026-07-03T04:27:38.921Z",
+      "Sha256": "280da4f6f8100b8e904da03edf2acf6249f38369defacb9a4b3fe51afbd7dfe7"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",
@@ -321,6 +321,18 @@
       "Length": 318,
       "LastWriteTimeUtc": "2026-07-01T09:10:45.892Z",
       "Sha256": "9f9a85bd19677bf100c43ed379840125399af21e9e40977753547bb8a00c5cfe"
+    },
+    {
+      "RelativePath": "Scripts/system/ui/fixed/CharacterAttributes.nns",
+      "Length": 0,
+      "LastWriteTimeUtc": "2026-07-03T09:18:31.781Z",
+      "Sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "RelativePath": "Scripts/system/ui/fixed/Equipment.nns",
+      "Length": 0,
+      "LastWriteTimeUtc": "2026-07-03T08:48:28.869Z",
+      "Sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
 }
