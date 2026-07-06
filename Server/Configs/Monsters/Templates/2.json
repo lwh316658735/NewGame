@@ -3,7 +3,7 @@
   "DisplayName": "测试掉落怪物",
   "Level": 50,
   "MonsterTypeIds": [
-    "Boss"
+    1
   ],
   "AiProfileId": 1,
   "FixedAffixRules": [],

@@ -3,7 +3,7 @@
   "DisplayName": "地狱守卫",
   "Level": 51,
   "MonsterTypeIds": [
-    "Boss"
+    1
   ],
   "AiProfileId": 1,
   "FixedAffixRules": [],

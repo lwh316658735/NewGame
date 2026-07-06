@@ -22,5 +22,8 @@
       "ShadowBlur": 0
     }
   },
-  "HealthBarConfigId": ""
+  "MonsterTypeIds": [
+    1
+  ],
+  "HealthBarConfigId": 0
 }

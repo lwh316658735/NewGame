@@ -3,6 +3,7 @@
   "ScreenId": "MainHud",
   "DisplayName": "主界面 HUD",
   "BackgroundMusicAssetId": "",
+  "PresentationScriptId": "system/ui/fixed/MainHud",
   "Controls": [
     {
       "ControlId": "image",
@@ -2668,7 +2669,7 @@
       "ButtonScriptId": "",
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "FixedScreen",
-      "ButtonTargetFixedScreenId": "CharacterAttributes",
+      "ButtonTargetFixedScreenId": "Equipment",
       "ButtonCloseOpenedTargetOnRepeatClick": true,
       "ButtonDefaultStateStyle": {
         "AssetId": "",

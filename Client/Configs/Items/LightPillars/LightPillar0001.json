@@ -2,8 +2,7 @@
   "LightPillarId": "LightPillar0001",
   "DisplayName": "新光柱",
   "FramesPerSecond": 12,
-  "DefaultOffsetX": 0,
-  "DefaultOffsetY": 0,
+  "Priority": 1,
   "FrameAssetIds": [
     "Asset.000000_4",
     "Asset.000001_4",

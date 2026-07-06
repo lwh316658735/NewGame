@@ -1,4 +1,50 @@
 {
+  "ActionFrameCounts": [
+    {
+      "Action": "Idle",
+      "FrameCount": 4
+    },
+    {
+      "Action": "Walk",
+      "FrameCount": 6
+    },
+    {
+      "Action": "Run",
+      "FrameCount": 6
+    },
+    {
+      "Action": "Attack",
+      "FrameCount": 6
+    },
+    {
+      "Action": "AttackStance",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Cast",
+      "FrameCount": 6
+    },
+    {
+      "Action": "Hit",
+      "FrameCount": 3
+    },
+    {
+      "Action": "Death",
+      "FrameCount": 4
+    },
+    {
+      "Action": "Mining",
+      "FrameCount": 6
+    },
+    {
+      "Action": "Explore",
+      "FrameCount": 2
+    },
+    {
+      "Action": "StationaryAttack",
+      "FrameCount": 8
+    }
+  ],
   "Models": [
     {
       "ModelId": "Male",

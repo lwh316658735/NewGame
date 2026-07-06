@@ -338,10 +338,8 @@
     "GoldDropRate": 10000,
     "ItemDropRate": 10000,
     "DroppedItemLevelMode": "FixedOffset",
-    "DroppedItemLevelMinOffset": 10,
-    "DroppedItemLevelMaxOffset": 10,
-    "DroppedItemLevelMinPercent": 0,
-    "DroppedItemLevelMaxPercent": 0
+    "DroppedItemLevelOffsetRange": 10,
+    "DroppedItemLevelPercentRange": 0
   },
   "CharacterCreation": {
     "DefaultLevel": 71,
@@ -715,8 +713,8 @@
     "DefaultWarehouseSlots": 60000
   },
   "GroundItemRules": {
-    "PlacementRangeHorizontalCells": 1,
-    "PlacementRangeVerticalCells": 1,
+    "PlacementRangeHorizontalCells": 2,
+    "PlacementRangeVerticalCells": 2,
     "MaxItemStacksPerCell": 20,
     "GroundItemTimeoutSeconds": 220
   },
