@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Client",
   "TargetClientPath": "D:\\project\\NNGame\\src\\Client\\NNGame.Client\\bin\\x64\\Debug\\net10.0-windows\\Client",
-  "GeneratedAt": "2026-07-07T06:58:33.996Z",
+  "GeneratedAt": "2026-07-07T10:01:04.558Z",
   "Files": [
     {
       "RelativePath": "Assets/音频/默认/攻击.wav",
@@ -599,10 +599,16 @@
       "Sha256": "bd4423ce790b504d9bf3038e1040dee6b843510af9a8e446f3cc2e253e7089b0"
     },
     {
+      "RelativePath": "Configs/UI/ChatBubbleStyles/1.json",
+      "Length": 1136,
+      "LastWriteTimeUtc": "2026-07-07T09:59:47.443Z",
+      "Sha256": "7f629007f659779ccf9ca20010fbee937601c4ca4a4ccf54ca183c3584768618"
+    },
+    {
       "RelativePath": "Configs/UI/Content/Templates/ChatBubble.json",
-      "Length": 5475,
-      "LastWriteTimeUtc": "2026-07-07T06:50:09.364Z",
-      "Sha256": "266d18e3816c51fbb3e0bcf2c3928fb4499956d8ece29337108292de49078547"
+      "Length": 491,
+      "LastWriteTimeUtc": "2026-07-07T09:58:25.186Z",
+      "Sha256": "8f2994b32549c81e78405fcb50f42c5bd8d782ec9c633f8fef63182ded8f55aa"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/DefaultContentWindow.json",
@@ -666,9 +672,9 @@
     },
     {
       "RelativePath": "Configs/UI/Fixed/CharacterSelect.json",
-      "Length": 73187,
-      "LastWriteTimeUtc": "2026-06-22T00:58:06.250Z",
-      "Sha256": "8e88e74cdc67780fe70b90e2aee8942df90052a175e803c30896edd967b356b5"
+      "Length": 88447,
+      "LastWriteTimeUtc": "2026-07-07T09:13:45.356Z",
+      "Sha256": "8822fa87da8b70771f8ca735cedcfb37a222cd255649db5b886c5d3e512afada"
     },
     {
       "RelativePath": "Configs/UI/Fixed/Death.json",

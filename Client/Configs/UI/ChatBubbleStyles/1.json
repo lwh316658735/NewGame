@@ -1,12 +1,12 @@
 {
   "StyleId": 1,
   "DisplayName": "默认聊天气泡",
-  "TextTemplate": "{{Chat.MessageText}}",
+  "TextTemplate": "<c:FF0000,00FF00,0000FF#g>{{Chat.MessageText}}</>",
   "TextStyle": {
     "FontFamily": "NSimSun",
     "FontSize": 12,
     "TextEffect": {
-      "IsOutlineEnabled": false,
+      "IsOutlineEnabled": true,
       "OutlineColor": "#00000080",
       "OutlineWidth": 1,
       "IsShadowEnabled": false,
@@ -16,24 +16,33 @@
       "ShadowBlur": 0
     }
   },
-  "TextPosition": "MiddleCenter",
-  "TextPaddingLeft": 16,
-  "TextPaddingTop": 5,
-  "TextPaddingRight": 16,
-  "TextPaddingBottom": 5,
-  "BackgroundAssetId": "",
-  "BackgroundAssetIds": [],
-  "ImageFramesPerSecond": 4,
-  "ImageFillMode": "Fit",
+  "TextPosition": "TopLeft",
+  "TextPaddingLeft": 35,
+  "TextPaddingTop": 33,
+  "TextPaddingRight": 35,
+  "TextPaddingBottom": 27,
+  "BackgroundAssetId": "Asset.001530_3",
+  "BackgroundAssetIds": [
+    "Asset.001530_3",
+    "Asset.001531_3",
+    "Asset.001532_3",
+    "Asset.001533",
+    "Asset.001534",
+    "Asset.001535_3",
+    "Asset.001536_3",
+    "Asset.001537"
+  ],
+  "ImageFramesPerSecond": 10,
+  "ImageFillMode": "Stretch",
   "ImageNineSlice": {
-    "IsEnabled": false,
-    "Left": 0,
-    "Top": 0,
-    "Right": 0,
-    "Bottom": 0
+    "IsEnabled": true,
+    "Left": 34,
+    "Top": 27,
+    "Right": 31,
+    "Bottom": 27
   },
-  "BackgroundColor": "#141414D2",
-  "BorderColor": "#ECCA76E6",
+  "BackgroundColor": "",
+  "BorderColor": "",
   "BorderWidth": 1,
   "CornerRadius": 0
 }

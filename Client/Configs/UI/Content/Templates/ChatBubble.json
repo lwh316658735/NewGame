@@ -13,9 +13,9 @@
       "DisplayName": "聊天气泡控件",
       "Kind": "ChatBubble",
       "X": 830,
-      "Y": 394,
+      "Y": 410,
       "Width": 260,
-      "Height": 36,
+      "Height": 13,
       "Anchor": "TopLeft",
       "IsLockedInEditor": false,
       "ZIndex": 0
