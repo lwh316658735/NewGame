@@ -1,0 +1,39 @@
+{
+  "StyleId": 1,
+  "DisplayName": "默认聊天气泡",
+  "TextTemplate": "{{Chat.MessageText}}",
+  "TextStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 12,
+    "TextEffect": {
+      "IsOutlineEnabled": false,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": false,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  },
+  "TextPosition": "MiddleCenter",
+  "TextPaddingLeft": 16,
+  "TextPaddingTop": 5,
+  "TextPaddingRight": 16,
+  "TextPaddingBottom": 5,
+  "BackgroundAssetId": "",
+  "BackgroundAssetIds": [],
+  "ImageFramesPerSecond": 4,
+  "ImageFillMode": "Fit",
+  "ImageNineSlice": {
+    "IsEnabled": false,
+    "Left": 0,
+    "Top": 0,
+    "Right": 0,
+    "Bottom": 0
+  },
+  "BackgroundColor": "#141414D2",
+  "BorderColor": "#ECCA76E6",
+  "BorderWidth": 1,
+  "CornerRadius": 0
+}

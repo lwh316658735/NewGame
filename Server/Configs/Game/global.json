@@ -718,6 +718,9 @@
     "MaxItemStacksPerCell": 20,
     "GroundItemTimeoutSeconds": 220
   },
+  "ChatRules": {
+    "DefaultChatBubbleStyleId": 1
+  },
   "AttributeConversions": {
     "Strength": {
       "WristStrength": 0,

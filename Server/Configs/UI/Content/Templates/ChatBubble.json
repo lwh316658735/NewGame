@@ -1,0 +1,9 @@
+{
+  "Version": 1,
+  "TemplateId": "ChatBubble",
+  "DisplayName": "聊天气泡",
+  "PresentationScriptId": "system/ui/content/ChatBubble",
+  "Actions": [],
+  "Inputs": [],
+  "ItemSlots": []
+}

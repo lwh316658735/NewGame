@@ -2,6 +2,7 @@
   "Version": 1,
   "TemplateId": "DefaultContentWindow",
   "DisplayName": "默认内容窗口",
+  "PresentationScriptId": "npc/ui/content/DefaultContentWindow",
   "Actions": [
     {
       "ActionId": "action",

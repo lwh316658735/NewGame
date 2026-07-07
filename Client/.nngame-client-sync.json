@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Client",
   "TargetClientPath": "D:\\project\\NNGame\\src\\Client\\NNGame.Client\\bin\\x64\\Debug\\net10.0-windows\\Client",
-  "GeneratedAt": "2026-07-06T09:33:12.285Z",
+  "GeneratedAt": "2026-07-07T06:58:33.996Z",
   "Files": [
     {
       "RelativePath": "Assets/音频/默认/攻击.wav",
@@ -599,10 +599,16 @@
       "Sha256": "bd4423ce790b504d9bf3038e1040dee6b843510af9a8e446f3cc2e253e7089b0"
     },
     {
+      "RelativePath": "Configs/UI/Content/Templates/ChatBubble.json",
+      "Length": 5475,
+      "LastWriteTimeUtc": "2026-07-07T06:50:09.364Z",
+      "Sha256": "266d18e3816c51fbb3e0bcf2c3928fb4499956d8ece29337108292de49078547"
+    },
+    {
       "RelativePath": "Configs/UI/Content/Templates/DefaultContentWindow.json",
-      "Length": 5924,
-      "LastWriteTimeUtc": "2026-06-22T00:58:06.245Z",
-      "Sha256": "43cf0232d8d502e81b5048d812bcf12f966221d6446a8a98e0a7f6b4096af971"
+      "Length": 5056,
+      "LastWriteTimeUtc": "2026-07-07T02:56:26.320Z",
+      "Sha256": "3c55b1912ac6e477a0a845e4bb5bf0848bd3eb71939637fd4a7046ed7c20dc82"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/GroundItemStackTooltip.json",

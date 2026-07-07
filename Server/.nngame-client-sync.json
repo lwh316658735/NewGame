@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-06T09:01:03.839Z",
+  "GeneratedAt": "2026-07-07T07:07:48.544Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -251,10 +251,16 @@
       "Sha256": "a4c8609ae131ab90eb7689daa978ffc9079165f7c7114e3d7cbab5b176c2c6f3"
     },
     {
+      "RelativePath": "Configs/UI/Content/Templates/ChatBubble.json",
+      "Length": 199,
+      "LastWriteTimeUtc": "2026-07-07T06:50:09.377Z",
+      "Sha256": "8727a9cc7b83a2573d06f5c803db04bc80ddd0193267720e384c1d66508804d4"
+    },
+    {
       "RelativePath": "Configs/UI/Content/Templates/DefaultContentWindow.json",
-      "Length": 490,
-      "LastWriteTimeUtc": "2026-06-22T00:58:06.261Z",
-      "Sha256": "8aa084a5ffaf2b5a5a00a72502b96d9cb36482c9c66afc1bcef694230c828677"
+      "Length": 556,
+      "LastWriteTimeUtc": "2026-07-07T02:56:26.336Z",
+      "Sha256": "1433d1a262bf92be933ac6354c58ecaf30c4ccc3ffac79f60f80f04c00fcceba"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/GroundItemStackTooltip.json",
@@ -288,9 +294,9 @@
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 225280,
-      "LastWriteTimeUtc": "2026-07-06T08:49:32.335Z",
-      "Sha256": "e313678d05475f59c4fda4451c76fbfdadbe00f639e59f329f25ab5cbb02b5a4"
+      "Length": 229376,
+      "LastWriteTimeUtc": "2026-07-07T07:06:16.956Z",
+      "Sha256": "5bdb3948e6b509b9118a1f0bc14f96693879f40cf18276c132fefe9e7f1c635f"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",
@@ -337,7 +343,7 @@
     {
       "RelativePath": "Scripts/system/ui/fixed/Equipment.nns",
       "Length": 102,
-      "LastWriteTimeUtc": "2026-07-06T08:59:02.638Z",
+      "LastWriteTimeUtc": "2026-07-06T09:57:25.884Z",
       "Sha256": "f7c618cc8e86d929d46a47cbc04b123c9418f5e8c0d49fa6e77039df27b70b56"
     }
   ]
