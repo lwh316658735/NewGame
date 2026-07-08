@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "J:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-08T14:39:08.626Z",
+  "GeneratedAt": "2026-07-08T15:28:43.737Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -301,8 +301,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 266240,
-      "LastWriteTimeUtc": "2026-07-08T14:31:40.487Z",
-      "Sha256": "c826db8eb3d0dc715aa33b7725303d251223309954feb5a938b264f16e67c92f"
+      "LastWriteTimeUtc": "2026-07-08T14:40:18.603Z",
+      "Sha256": "fd89af089d1eaee6c08c84e45c8eacae94e6722d7bb76cf1a61f810314272665"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",
