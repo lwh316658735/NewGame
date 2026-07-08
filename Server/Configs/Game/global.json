@@ -507,20 +507,20 @@
   "ItemSlotRules": {
     "CustomEquipSlots": {
       "CustomEquipSlot01": {
-        "IsEnabled": false,
-        "DisplayName": ""
+        "IsEnabled": true,
+        "DisplayName": "核心"
       },
       "CustomEquipSlot02": {
-        "IsEnabled": false,
-        "DisplayName": ""
+        "IsEnabled": true,
+        "DisplayName": "宝石"
       },
       "CustomEquipSlot03": {
-        "IsEnabled": false,
-        "DisplayName": ""
+        "IsEnabled": true,
+        "DisplayName": "战鼓"
       },
       "CustomEquipSlot04": {
-        "IsEnabled": false,
-        "DisplayName": ""
+        "IsEnabled": true,
+        "DisplayName": "符咒"
       },
       "CustomEquipSlot05": {
         "IsEnabled": false,
@@ -719,7 +719,7 @@
     "GroundItemTimeoutSeconds": 220
   },
   "ChatRules": {
-    "DefaultChatBubbleStyleId": 1
+    "DefaultChatBubbleStyleId": 2
   },
   "AttributeConversions": {
     "Strength": {

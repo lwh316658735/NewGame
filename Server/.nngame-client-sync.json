@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-07T10:00:57.523Z",
+  "GeneratedAt": "2026-07-08T06:27:19.245Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -90,9 +90,9 @@
     },
     {
       "RelativePath": "Configs/Game/global.json",
-      "Length": 23318,
-      "LastWriteTimeUtc": "2026-07-07T09:59:47.445Z",
-      "Sha256": "d76c060d10172fc9b67a9acf94ae64a8eea329ce8432ac3494cfbecbc454457a"
+      "Length": 23338,
+      "LastWriteTimeUtc": "2026-07-08T06:22:48.761Z",
+      "Sha256": "9cc74005b4d70c91bd3f9d257bfcdcfeb087346ba277b39294c413a0ce9ebc26"
     },
     {
       "RelativePath": "Configs/Items/1.json",
@@ -234,9 +234,9 @@
     },
     {
       "RelativePath": "Configs/Security/gm-roles.json",
-      "Length": 138,
-      "LastWriteTimeUtc": "2026-07-06T07:04:08.739Z",
-      "Sha256": "14e4324a9e746ae1cc664db04e416956f57a1b42371be6155111e433084c968b"
+      "Length": 22,
+      "LastWriteTimeUtc": "2026-07-08T01:04:24.119Z",
+      "Sha256": "bc110c9d2fcee133adbaf33542fa231dc9292f63db3bbb7081b09bf938a26f6a"
     },
     {
       "RelativePath": "Configs/Skills/Skill0001.json",
@@ -294,9 +294,9 @@
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 233472,
-      "LastWriteTimeUtc": "2026-07-07T10:00:33.579Z",
-      "Sha256": "ce11a466d6302fc153fec12fc8c1ce1e1da5885bb6efe2eaf5e400c24fb62134"
+      "Length": 253952,
+      "LastWriteTimeUtc": "2026-07-08T03:13:01.882Z",
+      "Sha256": "b8a5799dcdab5a4119bcf8fdff7df01083e57eeb0a1f950da2cf83c0c2c22c22"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",
@@ -345,6 +345,12 @@
       "Length": 102,
       "LastWriteTimeUtc": "2026-07-06T09:57:25.884Z",
       "Sha256": "f7c618cc8e86d929d46a47cbc04b123c9418f5e8c0d49fa6e77039df27b70b56"
+    },
+    {
+      "RelativePath": "Scripts/system/ui/fixed/Inventory.nns",
+      "Length": 0,
+      "LastWriteTimeUtc": "2026-07-08T01:42:52.564Z",
+      "Sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
 }
