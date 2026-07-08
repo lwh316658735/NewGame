@@ -1,0 +1,54 @@
+{
+  "ItemId": 2012,
+  "DisplayName": "王牌战鼓",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 1,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 60000,
+    "EquipLocations": [],
+    "FashionLocations": [],
+    "AllowedSlotIds": [
+      "CustomEquipSlot03"
+    ],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 100
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 1000
+      },
+      {
+        "AttributeId": "MinPhysicalDefense",
+        "Operation": "Add",
+        "Value": 100
+      },
+      {
+        "AttributeId": "MaxPhysicalDefense",
+        "Operation": "Add",
+        "Value": 1000
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

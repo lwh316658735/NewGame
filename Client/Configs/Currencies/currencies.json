@@ -1,0 +1,136 @@
+{
+  "Currencies": [
+    {
+      "CurrencyId": "Gold",
+      "CustomCurrencyId": 0,
+      "IsEnabled": true,
+      "DisplayName": "金币"
+    },
+    {
+      "CurrencyId": "Yuanbao",
+      "CustomCurrencyId": 0,
+      "IsEnabled": true,
+      "DisplayName": "元宝"
+    },
+    {
+      "CurrencyId": "CustomCurrency01",
+      "CustomCurrencyId": 1,
+      "IsEnabled": true,
+      "DisplayName": "钻石"
+    },
+    {
+      "CurrencyId": "CustomCurrency02",
+      "CustomCurrencyId": 2,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency03",
+      "CustomCurrencyId": 3,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency04",
+      "CustomCurrencyId": 4,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency05",
+      "CustomCurrencyId": 5,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency06",
+      "CustomCurrencyId": 6,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency07",
+      "CustomCurrencyId": 7,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency08",
+      "CustomCurrencyId": 8,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency09",
+      "CustomCurrencyId": 9,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency10",
+      "CustomCurrencyId": 10,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency11",
+      "CustomCurrencyId": 11,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency12",
+      "CustomCurrencyId": 12,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency13",
+      "CustomCurrencyId": 13,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency14",
+      "CustomCurrencyId": 14,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency15",
+      "CustomCurrencyId": 15,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency16",
+      "CustomCurrencyId": 16,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency17",
+      "CustomCurrencyId": 17,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency18",
+      "CustomCurrencyId": 18,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency19",
+      "CustomCurrencyId": 19,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "CurrencyId": "CustomCurrency20",
+      "CustomCurrencyId": 20,
+      "IsEnabled": false,
+      "DisplayName": ""
+    }
+  ]
+}

@@ -371,132 +371,154 @@
   "CurrencyRules": {
     "Currencies": {
       "Gold": {
+        "CustomCurrencyId": 0,
         "IsEnabled": true,
         "Alias": "金币",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "Yuanbao": {
+        "CustomCurrencyId": 0,
         "IsEnabled": true,
         "Alias": "元宝",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency01": {
+        "CustomCurrencyId": 1,
         "IsEnabled": true,
         "Alias": "钻石",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency02": {
+        "CustomCurrencyId": 2,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency03": {
+        "CustomCurrencyId": 3,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency04": {
+        "CustomCurrencyId": 4,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency05": {
+        "CustomCurrencyId": 5,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency06": {
+        "CustomCurrencyId": 6,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency07": {
+        "CustomCurrencyId": 7,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency08": {
+        "CustomCurrencyId": 8,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency09": {
+        "CustomCurrencyId": 9,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency10": {
+        "CustomCurrencyId": 10,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency11": {
+        "CustomCurrencyId": 11,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency12": {
+        "CustomCurrencyId": 12,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency13": {
+        "CustomCurrencyId": 13,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency14": {
+        "CustomCurrencyId": 14,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency15": {
+        "CustomCurrencyId": 15,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency16": {
+        "CustomCurrencyId": 16,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency17": {
+        "CustomCurrencyId": 17,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency18": {
+        "CustomCurrencyId": 18,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency19": {
+        "CustomCurrencyId": 19,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency20": {
+        "CustomCurrencyId": 20,
         "IsEnabled": false,
         "Alias": "",
         "InitialBalance": 0,
@@ -505,208 +527,258 @@
     }
   },
   "ItemSlotRules": {
-    "CustomEquipSlots": {
-      "CustomEquipSlot01": {
+    "CustomEquipSlots": [
+      {
+        "SlotId": 1,
         "IsEnabled": true,
         "DisplayName": "核心"
       },
-      "CustomEquipSlot02": {
+      {
+        "SlotId": 2,
         "IsEnabled": true,
         "DisplayName": "宝石"
       },
-      "CustomEquipSlot03": {
+      {
+        "SlotId": 3,
         "IsEnabled": true,
         "DisplayName": "战鼓"
       },
-      "CustomEquipSlot04": {
+      {
+        "SlotId": 4,
         "IsEnabled": true,
         "DisplayName": "符咒"
       },
-      "CustomEquipSlot05": {
+      {
+        "SlotId": 5,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot06": {
+      {
+        "SlotId": 6,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot07": {
+      {
+        "SlotId": 7,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot08": {
+      {
+        "SlotId": 8,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot09": {
+      {
+        "SlotId": 9,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot10": {
+      {
+        "SlotId": 10,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot11": {
+      {
+        "SlotId": 11,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot12": {
+      {
+        "SlotId": 12,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot13": {
+      {
+        "SlotId": 13,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot14": {
+      {
+        "SlotId": 14,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot15": {
+      {
+        "SlotId": 15,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot16": {
+      {
+        "SlotId": 16,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot17": {
+      {
+        "SlotId": 17,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot18": {
+      {
+        "SlotId": 18,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot19": {
+      {
+        "SlotId": 19,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot20": {
+      {
+        "SlotId": 20,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot21": {
+      {
+        "SlotId": 21,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot22": {
+      {
+        "SlotId": 22,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot23": {
+      {
+        "SlotId": 23,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot24": {
+      {
+        "SlotId": 24,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot25": {
+      {
+        "SlotId": 25,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot26": {
+      {
+        "SlotId": 26,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot27": {
+      {
+        "SlotId": 27,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot28": {
+      {
+        "SlotId": 28,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot29": {
+      {
+        "SlotId": 29,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot30": {
+      {
+        "SlotId": 30,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot31": {
+      {
+        "SlotId": 31,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot32": {
+      {
+        "SlotId": 32,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot33": {
+      {
+        "SlotId": 33,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot34": {
+      {
+        "SlotId": 34,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot35": {
+      {
+        "SlotId": 35,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot36": {
+      {
+        "SlotId": 36,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot37": {
+      {
+        "SlotId": 37,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot38": {
+      {
+        "SlotId": 38,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot39": {
+      {
+        "SlotId": 39,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot40": {
+      {
+        "SlotId": 40,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot41": {
+      {
+        "SlotId": 41,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot42": {
+      {
+        "SlotId": 42,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot43": {
+      {
+        "SlotId": 43,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot44": {
+      {
+        "SlotId": 44,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot45": {
+      {
+        "SlotId": 45,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot46": {
+      {
+        "SlotId": 46,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot47": {
+      {
+        "SlotId": 47,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot48": {
+      {
+        "SlotId": 48,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot49": {
+      {
+        "SlotId": 49,
         "IsEnabled": false,
         "DisplayName": ""
       },
-      "CustomEquipSlot50": {
+      {
+        "SlotId": 50,
         "IsEnabled": false,
         "DisplayName": ""
       }
-    }
+    ]
   },
   "InventoryRules": {
     "DefaultBagSlots": 168,

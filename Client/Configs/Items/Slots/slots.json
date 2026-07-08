@@ -1,0 +1,254 @@
+{
+  "CustomEquipSlots": [
+    {
+      "SlotId": 1,
+      "IsEnabled": true,
+      "DisplayName": "核心"
+    },
+    {
+      "SlotId": 2,
+      "IsEnabled": true,
+      "DisplayName": "宝石"
+    },
+    {
+      "SlotId": 3,
+      "IsEnabled": true,
+      "DisplayName": "战鼓"
+    },
+    {
+      "SlotId": 4,
+      "IsEnabled": true,
+      "DisplayName": "符咒"
+    },
+    {
+      "SlotId": 5,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 6,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 7,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 8,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 9,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 10,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 11,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 12,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 13,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 14,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 15,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 16,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 17,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 18,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 19,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 20,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 21,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 22,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 23,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 24,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 25,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 26,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 27,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 28,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 29,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 30,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 31,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 32,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 33,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 34,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 35,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 36,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 37,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 38,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 39,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 40,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 41,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 42,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 43,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 44,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 45,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 46,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 47,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 48,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 49,
+      "IsEnabled": false,
+      "DisplayName": ""
+    },
+    {
+      "SlotId": 50,
+      "IsEnabled": false,
+      "DisplayName": ""
+    }
+  ]
+}
