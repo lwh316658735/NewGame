@@ -3215,14 +3215,14 @@
     },
     {
       "ControlId": "itemSlot222",
-      "DisplayName": "项链",
+      "DisplayName": "项链12",
       "Kind": "ItemSlot",
       "X": 1762,
       "Y": 273,
       "Width": 38,
       "Height": 36,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 15,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
@@ -3264,7 +3264,8 @@
       "ImageCornerRadius": 0,
       "SlotKind": "CharacterEquipment",
       "AllowedSlotLocations": [
-        "Necklace"
+        "Necklace",
+        "Weapon"
       ],
       "AllowedEquipSides": [],
       "AllowedItemKinds": [],
@@ -4278,14 +4279,14 @@
     },
     {
       "ControlId": "dragHandle",
-      "DisplayName": "拖动控件 21",
+      "DisplayName": "拖动控件 211",
       "Kind": "DragHandle",
       "X": 1491,
       "Y": 13,
       "Width": 328,
       "Height": 468,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 21,
       "DragTargetControlIds": [],
       "MinimapLocalRangeScale": 1,
