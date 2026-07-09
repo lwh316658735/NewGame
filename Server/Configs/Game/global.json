@@ -791,7 +791,7 @@
     "GroundItemTimeoutSeconds": 220
   },
   "ChatRules": {
-    "DefaultChatBubbleStyleId": 2
+    "DefaultChatBubbleStyleId": 1
   },
   "AttributeConversions": {
     "Strength": {
