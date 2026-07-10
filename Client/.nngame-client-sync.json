@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Client",
   "TargetClientPath": "D:\\project\\NNGame\\src\\Client\\NNGame.Client\\bin\\x64\\Debug\\net10.0-windows\\Client",
-  "GeneratedAt": "2026-07-09T09:17:53.734Z",
+  "GeneratedAt": "2026-07-10T09:08:39.718Z",
   "Files": [
     {
       "RelativePath": "Assets/音频/默认/攻击.wav",
@@ -276,9 +276,9 @@
     },
     {
       "RelativePath": "Configs/Characters/DefaultAppearance.json",
-      "Length": 57357,
-      "LastWriteTimeUtc": "2026-07-06T02:36:02.480Z",
-      "Sha256": "76402fbc1324f5650e869e39e42ce362813c4c346699451d74a34509371ff1a5"
+      "Length": 58693,
+      "LastWriteTimeUtc": "2026-07-10T05:48:01.683Z",
+      "Sha256": "0c79f56a77defb851f1687b83b7b6fe31b3d7b990ceb27c6dbb14c5ef7cd5808"
     },
     {
       "RelativePath": "Configs/Characters/HairAppearances/DefaultHairAppearance.json",
@@ -288,14 +288,14 @@
     },
     {
       "RelativePath": "Configs/Combat/Feedback.json",
-      "Length": 17430,
-      "LastWriteTimeUtc": "2026-07-06T08:48:10.496Z",
-      "Sha256": "8e44fff54c35b0db84f095cd35e830273e2dc8606adc0b3ad93d8cb1ce1bdf35"
+      "Length": 17428,
+      "LastWriteTimeUtc": "2026-07-10T03:28:42.686Z",
+      "Sha256": "86b496c1d34c9f0c47884158067543c99450f2ac87e8cbd0470f409a9752b931"
     },
     {
       "RelativePath": "Configs/Currencies/currencies.json",
       "Length": 3068,
-      "LastWriteTimeUtc": "2026-07-08T07:11:47.988Z",
+      "LastWriteTimeUtc": "2026-07-10T09:05:43.514Z",
       "Sha256": "fe167129e419ac24b922e91990ca164b966afb75ba602cd728dd43700f59723f"
     },
     {
@@ -318,9 +318,9 @@
     },
     {
       "RelativePath": "Configs/Items/11.json",
-      "Length": 347,
-      "LastWriteTimeUtc": "2026-07-02T01:41:05.335Z",
-      "Sha256": "9eedba1718ad46ed61d12f381e59b3d1bd7b94865417d91e80ceac5b7460e08c"
+      "Length": 149,
+      "LastWriteTimeUtc": "2026-07-10T03:27:50.587Z",
+      "Sha256": "9d1da47a1ac1d824ee0f2bdaf7ff361282fc9af4a1a5af58ccde7b5f06c3c3cf"
     },
     {
       "RelativePath": "Configs/Items/2.json",
@@ -397,7 +397,7 @@
     {
       "RelativePath": "Configs/Items/Appearances/11.json",
       "Length": 80,
-      "LastWriteTimeUtc": "2026-07-02T01:41:05.336Z",
+      "LastWriteTimeUtc": "2026-07-10T03:27:50.588Z",
       "Sha256": "1f8027fb55f2126d5a60924232ee6fa50e742872284735aec2f92c0d8b63dd45"
     },
     {
@@ -481,7 +481,7 @@
     {
       "RelativePath": "Configs/Items/Icons/11.json",
       "Length": 105,
-      "LastWriteTimeUtc": "2026-07-02T01:41:05.337Z",
+      "LastWriteTimeUtc": "2026-07-10T03:27:50.588Z",
       "Sha256": "0395b3b72892aa4287d629ad36a668bb72cf2d4e31082ba62e8e5386eab4b05e"
     },
     {
@@ -559,7 +559,7 @@
     {
       "RelativePath": "Configs/Items/Slots/slots.json",
       "Length": 4444,
-      "LastWriteTimeUtc": "2026-07-08T07:11:47.989Z",
+      "LastWriteTimeUtc": "2026-07-10T09:05:43.514Z",
       "Sha256": "d47bdab28c6f5d9b8a1bd98a62cecc52ff95033c6c85805fb9b3e4fd3f03c334"
     },
     {
@@ -571,38 +571,38 @@
     {
       "RelativePath": "Configs/Monsters/Bindings/1.json",
       "Length": 711,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.747Z",
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.994Z",
       "Sha256": "82598ccfb82fe3c7985e4ce46bc51de75ce032d54e29b46f82b4f61aaec4b3d4"
     },
     {
       "RelativePath": "Configs/Monsters/Bindings/1001.json",
-      "Length": 714,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.747Z",
-      "Sha256": "061925ff9be76ea8fd47ad9aeabb183140b006b1f103f0dfcd9ae91f3bd9f192"
+      "Length": 712,
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.995Z",
+      "Sha256": "37f31a031b9110bda163ac024998aa46820b45978b29c7d58d86be5a3d668a5c"
     },
     {
       "RelativePath": "Configs/Monsters/Bindings/2.json",
       "Length": 720,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.748Z",
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.995Z",
       "Sha256": "4fc841c78d7ba602c8b21ad3006a8b0531d9fe0b489f2fdcec6f3c0740a6c3b3"
     },
     {
       "RelativePath": "Configs/Monsters/Models/MonsterModel0001.json",
-      "Length": 10342,
-      "LastWriteTimeUtc": "2026-06-26T07:27:57.359Z",
-      "Sha256": "bacd696d91a21a126213fa57b1dcda84db82bd82c3f85267a554676305ead5a2"
+      "Length": 11038,
+      "LastWriteTimeUtc": "2026-07-10T05:48:01.683Z",
+      "Sha256": "ae10bbcdc057b36871e97fec541d8139e5cd355af1fb579992282585c4247c2a"
     },
     {
       "RelativePath": "Configs/Monsters/Models/MonsterModel0002.json",
-      "Length": 11461,
-      "LastWriteTimeUtc": "2026-06-26T07:27:57.360Z",
-      "Sha256": "ac77db3ff7834ed8c6261e47cced0bb68fb87c4a5958fea087166da4ff81e068"
+      "Length": 12157,
+      "LastWriteTimeUtc": "2026-07-10T05:48:01.701Z",
+      "Sha256": "9bfdd48e59368e9ba3ba2600d26a9d51cf6b543161b6414e0e7e8d124f2b0584"
     },
     {
       "RelativePath": "Configs/Monsters/Models/MonsterModel0003.json",
-      "Length": 6093,
-      "LastWriteTimeUtc": "2026-06-26T07:27:57.361Z",
-      "Sha256": "9399574e491a507ab3786e48139ea948673148447efc3497a3db1c81a3504f2b"
+      "Length": 6789,
+      "LastWriteTimeUtc": "2026-07-10T05:48:01.702Z",
+      "Sha256": "6c60ba9c346980951bcb759b700414d465fc695f34a10547d10df2510f21c7a7"
     },
     {
       "RelativePath": "Configs/Monsters/Types/types.json",

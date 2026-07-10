@@ -53,6 +53,7 @@
         {
           "Action": "Idle",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -131,6 +132,14 @@
         {
           "Action": "Walk",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [
+            100,
+            250,
+            250,
+            100,
+            250,
+            250
+          ],
           "Directions": [
             {
               "Direction": "Up",
@@ -225,6 +234,14 @@
         {
           "Action": "Run",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [
+            100,
+            250,
+            250,
+            100,
+            250,
+            250
+          ],
           "Directions": [
             {
               "Direction": "Up",
@@ -319,6 +336,7 @@
         {
           "Action": "Attack",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -413,6 +431,7 @@
         {
           "Action": "AttackStance",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -467,6 +486,7 @@
         {
           "Action": "Cast",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -561,6 +581,7 @@
         {
           "Action": "Hit",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -631,6 +652,7 @@
         {
           "Action": "Death",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -709,6 +731,7 @@
         {
           "Action": "Mining",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -803,6 +826,7 @@
         {
           "Action": "Explore",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -865,6 +889,7 @@
         {
           "Action": "StationaryAttack",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -987,6 +1012,7 @@
         {
           "Action": "Idle",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1065,6 +1091,14 @@
         {
           "Action": "Walk",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [
+            100,
+            250,
+            250,
+            100,
+            250,
+            250
+          ],
           "Directions": [
             {
               "Direction": "Up",
@@ -1159,6 +1193,14 @@
         {
           "Action": "Run",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [
+            100,
+            250,
+            250,
+            100,
+            250,
+            250
+          ],
           "Directions": [
             {
               "Direction": "Up",
@@ -1253,6 +1295,7 @@
         {
           "Action": "Attack",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1347,6 +1390,7 @@
         {
           "Action": "AttackStance",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1401,6 +1445,7 @@
         {
           "Action": "Cast",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1495,6 +1540,7 @@
         {
           "Action": "Hit",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1565,6 +1611,7 @@
         {
           "Action": "Death",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1643,6 +1690,7 @@
         {
           "Action": "Mining",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1737,6 +1785,7 @@
         {
           "Action": "Explore",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",
@@ -1799,6 +1848,7 @@
         {
           "Action": "StationaryAttack",
           "FramesPerSecond": 5,
+          "MovementFrameWeights": [],
           "Directions": [
             {
               "Direction": "Up",

@@ -35,6 +35,11 @@
         "AttributeId": "MaxPhysicalAttack",
         "Operation": "Add",
         "Value": 8
+      },
+      {
+        "AttributeId": "HealthLeech",
+        "Operation": "Add",
+        "Value": 1000
       }
     ],
     "FixedAffixRules": []

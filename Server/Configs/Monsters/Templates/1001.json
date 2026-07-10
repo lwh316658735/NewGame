@@ -17,8 +17,8 @@
     "MinTrueDamage": 0,
     "MaxTrueDamage": 0,
     "DamageTakenLimit": 0,
-    "MinPhysicalDefense": 1000,
-    "MaxPhysicalDefense": 2000,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 0,
     "MinMagicDefense": 0,
     "MaxMagicDefense": 1,
     "Hit": 10000,
@@ -33,8 +33,8 @@
     "CastSpeed": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 600,
-    "MoveIntervalMilliseconds": 400
+    "MoveActionMilliseconds": 300,
+    "MoveIntervalMilliseconds": 0
   },
   "Reward": {
     "IsRewardDisabled": false,

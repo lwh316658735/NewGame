@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-09T09:58:23.392Z",
+  "GeneratedAt": "2026-07-10T09:31:38.949Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -72,9 +72,9 @@
     },
     {
       "RelativePath": "Configs/Characters/Classes/Warrior.json",
-      "Length": 1296,
-      "LastWriteTimeUtc": "2026-07-09T00:54:35.255Z",
-      "Sha256": "98ca96722827e33f011f41baa2a10b1ff9f27763ecfab71695f506760c398e70"
+      "Length": 1305,
+      "LastWriteTimeUtc": "2026-07-10T07:52:07.977Z",
+      "Sha256": "67bfbef9d9c1a3043240e9b4b3bb775f126c7fc4344c1cca0c0b4b5cec425a06"
     },
     {
       "RelativePath": "Configs/Drops/Tables/DropTable0001.json",
@@ -90,9 +90,9 @@
     },
     {
       "RelativePath": "Configs/Game/global.json",
-      "Length": 24144,
-      "LastWriteTimeUtc": "2026-07-09T05:10:52.776Z",
-      "Sha256": "10bf85fa144ad950aba173ac82b575c983c09e1cc5e537e2bb6672ecd1c5cafe"
+      "Length": 24347,
+      "LastWriteTimeUtc": "2026-07-10T09:10:43.765Z",
+      "Sha256": "495450543efc9185a864cb6b702488da971e6e4d1dcb5a8336eb9676e90feaa5"
     },
     {
       "RelativePath": "Configs/Items/1.json",
@@ -108,9 +108,9 @@
     },
     {
       "RelativePath": "Configs/Items/11.json",
-      "Length": 923,
-      "LastWriteTimeUtc": "2026-07-02T01:41:05.337Z",
-      "Sha256": "d3420b00048e79370ddf9c39c6f3d781dcd83c54c788f5624811f631d8e91319"
+      "Length": 1033,
+      "LastWriteTimeUtc": "2026-07-10T03:27:50.589Z",
+      "Sha256": "ba0d42e109047e303460d5daac8ec16a204ab894d947bddf219f094c3f841d3f"
     },
     {
       "RelativePath": "Configs/Items/2.json",
@@ -192,9 +192,9 @@
     },
     {
       "RelativePath": "Configs/Maps/Spawns/0.json",
-      "Length": 1025,
-      "LastWriteTimeUtc": "2026-06-29T00:50:29.917Z",
-      "Sha256": "6ed42e1b92c8816dfea01fb153da39ddc3493c8ae97a0f35715ed60587b653bb"
+      "Length": 1020,
+      "LastWriteTimeUtc": "2026-07-10T04:04:17.800Z",
+      "Sha256": "93e3c909cebe654f1fa4287c0fed1e2b9499d4cb897650dab9d6820938c6d9ea"
     },
     {
       "RelativePath": "Configs/Monsters/Ai/MonsterAi0001.json",
@@ -205,25 +205,25 @@
     {
       "RelativePath": "Configs/Monsters/AiProfiles/ai-profiles.json",
       "Length": 439,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.758Z",
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.996Z",
       "Sha256": "76fdedaea46f932a47acea8f0b05199422763f42576b0962559bea5fc3f0ee80"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1.json",
-      "Length": 1167,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.759Z",
-      "Sha256": "7abb07e18b37dd0a17c91254cc39db1b82767f4a0582030161f0fe9c88f3cdc0"
+      "Length": 1161,
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.997Z",
+      "Sha256": "b1f065bd7ad98fd96a050de2e06696fc47fde7399fd0dfa9dc7f73fc3d893a6c"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1001.json",
-      "Length": 1164,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.765Z",
-      "Sha256": "709ac7aa67178b790506361b14e47ef2b6f68ac97bcab2ad8fd2424ac58cc432"
+      "Length": 1156,
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.997Z",
+      "Sha256": "dcaa07204966317ebe739130a554750d92728332ac6d62826b1f577e4b3e1206"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/2.json",
       "Length": 1163,
-      "LastWriteTimeUtc": "2026-07-09T01:22:51.765Z",
+      "LastWriteTimeUtc": "2026-07-10T07:55:30.998Z",
       "Sha256": "64c3612860759e82cea638c5f26c5ac488db6b69a08bbc53b3454227f4f9294c"
     },
     {
@@ -300,9 +300,9 @@
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 278528,
-      "LastWriteTimeUtc": "2026-07-09T09:34:49.804Z",
-      "Sha256": "b37b2356f3ec24148bfdc2489f40b973de5e413b7a2618fce7d1873248cb52d9"
+      "Length": 290816,
+      "LastWriteTimeUtc": "2026-07-10T09:13:21.324Z",
+      "Sha256": "a82095ad3aad6c4179519e3b45d3dbc8f3f0ac2b866a4beaaf9ee25e62897d65"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",

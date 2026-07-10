@@ -356,6 +356,12 @@
     "RespawnMapId": "0",
     "RespawnSafeZoneId": "SafeZone0001"
   },
+  "LeechRecoveryDefaults": {
+    "DefaultMode": "Periodic",
+    "DefaultDurationMilliseconds": 5000,
+    "DefaultIntervalMilliseconds": 500,
+    "AllowIndependentPeriodicRecoveryCycles": true
+  },
   "AttackModeRules": {
     "DefaultAttackMode": "Peace",
     "EnabledModes": [

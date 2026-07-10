@@ -5,6 +5,7 @@
     {
       "Action": "Idle",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -47,6 +48,9 @@
     {
       "Action": "Move",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [
+        100
+      ],
       "Directions": [
         {
           "Direction": "Up",
@@ -85,6 +89,7 @@
     {
       "Action": "Attack",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -123,6 +128,7 @@
     {
       "Action": "Cast",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -161,6 +167,7 @@
     {
       "Action": "Hit",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -199,6 +206,7 @@
     {
       "Action": "Death",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -237,6 +245,7 @@
     {
       "Action": "Revive",
       "FramesPerSecond": 5,
+      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -273,10 +282,38 @@
       ]
     }
   ],
+  "ActionFrameCounts": [
+    {
+      "Action": "Idle",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Move",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Attack",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Cast",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Hit",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Death",
+      "FrameCount": 1
+    },
+    {
+      "Action": "Revive",
+      "FrameCount": 1
+    }
+  ],
   "DefaultScaleX": 1,
   "DefaultScaleY": 1,
-  "DefaultOffsetX": 0,
-  "DefaultOffsetY": 0,
   "HitBox": {
     "OffsetX": 0,
     "OffsetY": 0,

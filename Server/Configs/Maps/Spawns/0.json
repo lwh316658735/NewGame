@@ -18,8 +18,8 @@
       "Entries": [
         {
           "MonsterId": 1,
-          "SpawnCount": 500,
-          "MaxAliveCount": 2000
+          "SpawnCount": 1,
+          "MaxAliveCount": 1
         }
       ]
     },
