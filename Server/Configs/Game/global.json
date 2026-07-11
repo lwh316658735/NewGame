@@ -296,41 +296,41 @@
       },
       {
         "Level": 72,
-        "RequiredExperience": "3650"
+        "RequiredExperience": "36500"
       },
       {
         "Level": 73,
-        "RequiredExperience": "3700"
+        "RequiredExperience": "37000"
       },
       {
         "Level": 74,
-        "RequiredExperience": "3750"
+        "RequiredExperience": "37500"
       },
       {
         "Level": 75,
-        "RequiredExperience": "3800"
+        "RequiredExperience": "38000"
       },
       {
         "Level": 76,
-        "RequiredExperience": "3850"
+        "RequiredExperience": "38500"
       },
       {
         "Level": 77,
-        "RequiredExperience": "3900"
+        "RequiredExperience": "39000"
       },
       {
         "Level": 78,
-        "RequiredExperience": "3950"
+        "RequiredExperience": "39500"
       },
       {
         "Level": 79,
-        "RequiredExperience": "4000"
+        "RequiredExperience": "40000"
       }
     ],
     "HighLevelFormula": {
       "Mode": "Linear",
-      "LinearStepExperience": "5000",
-      "MultiplierRate": 10000
+      "LinearStepExperience": "50000",
+      "MultiplierRate": 30000
     }
   },
   "DropRules": {
@@ -1052,6 +1052,50 @@
     }
   },
   "AttributeLimits": {
+    "CharacterMaximums": {
+      "Strength": "9223372036854775807",
+      "WristStrength": "9223372036854775807",
+      "Agility": "9223372036854775807",
+      "Intelligence": "9223372036854775807",
+      "Spirit": "9223372036854775807",
+      "Constitution": "9223372036854775807",
+      "MaxCarryWeight": "9223372036854775807",
+      "MaxHealth": "9223372036854775807",
+      "MaxMana": "9223372036854775807",
+      "MinPhysicalAttack": "9223372036854775807",
+      "MaxPhysicalAttack": "9223372036854775807",
+      "MinMagicAttack": "9223372036854775807",
+      "MaxMagicAttack": "9223372036854775807",
+      "MinTaoismAttack": "9223372036854775807",
+      "MaxTaoismAttack": "9223372036854775807",
+      "MinPhysicalDefense": "9223372036854775807",
+      "MaxPhysicalDefense": "9223372036854775807",
+      "MinMagicDefense": "9223372036854775807",
+      "MaxMagicDefense": "9223372036854775807",
+      "Hit": "9223372036854775807",
+      "Dodge": "9223372036854775807",
+      "MagicHit": "9223372036854775807",
+      "MagicDodge": "9223372036854775807",
+      "MinFrostDamage": "9223372036854775807",
+      "MaxFrostDamage": "9223372036854775807",
+      "MinFireDamage": "9223372036854775807",
+      "MaxFireDamage": "9223372036854775807",
+      "MinLightningDamage": "9223372036854775807",
+      "MaxLightningDamage": "9223372036854775807",
+      "AttackSpeed": 20000,
+      "CastSpeed": 20000,
+      "CriticalDamage": "9223372036854775807",
+      "CriticalResistance": "9223372036854775807",
+      "PhysicalPenetration": "9223372036854775807",
+      "MagicPenetration": "9223372036854775807",
+      "FrostPenetration": "9223372036854775807",
+      "FirePenetration": "9223372036854775807",
+      "LightningPenetration": "9223372036854775807",
+      "DamageIncrease": "9223372036854775807",
+      "HealthLeech": "9223372036854775807",
+      "ManaLeech": "9223372036854775807",
+      "DropRate": "9223372036854775807"
+    },
     "LuckyMin": -10000,
     "LuckyMax": 10000,
     "PhysicalResistanceMin": -10000,

@@ -1,6 +1,6 @@
 {
-  "ClassId": "Warrior",
-  "DisplayName": "战士",
+  "ClassId": "Taoist",
+  "DisplayName": "道士",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -21,40 +21,40 @@
     "MaxCarryWeight": 0
   },
   "BaseCombatAttributes": {
-    "MaxHealth": 100,
+    "MaxHealth": 30,
     "MaxMana": 20,
-    "MinPhysicalAttack": 0,
-    "MaxPhysicalAttack": 0,
+    "MinPhysicalAttack": 1,
+    "MaxPhysicalAttack": 3,
     "MinMagicAttack": 0,
-    "MaxMagicAttack": 0,
+    "MaxMagicAttack": 2,
     "MinTaoismAttack": 0,
-    "MaxTaoismAttack": 0,
-    "MinPhysicalDefense": 5000,
-    "MaxPhysicalDefense": 5000,
+    "MaxTaoismAttack": 2,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 2,
     "MinMagicDefense": 0,
-    "MaxMagicDefense": 0,
-    "Hit": 10000,
-    "Dodge": 1000,
-    "AttackSpeed": 5000,
+    "MaxMagicDefense": 2,
+    "Hit": 500,
+    "Dodge": 300,
+    "AttackSpeed": 1000,
     "CastSpeed": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 500
+    "MoveActionMilliseconds": 600
   },
   "GrowthPerLevel": {
-    "MaxHealth": 10,
-    "MaxMana": 0,
-    "PhysicalAttack": 0,
-    "MagicAttack": 0,
-    "TaoismAttack": 0,
-    "PhysicalDefense": 0,
-    "MagicDefense": 0,
-    "Hit": 0,
+    "MaxHealth": 5,
+    "MaxMana": 3,
+    "PhysicalAttack": 1,
+    "MagicAttack": 1,
+    "TaoismAttack": 1,
+    "PhysicalDefense": 1,
+    "MagicDefense": 1,
+    "Hit": 100,
     "Dodge": 0
   },
   "SkillUnlocks": [
     {
-      "SkillId": "WarriorBasicAttack",
+      "SkillId": "TaoistBasicAttack",
       "RequiredLevel": 1
     }
   ]

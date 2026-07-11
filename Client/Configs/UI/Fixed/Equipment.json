@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 2,
   "ScreenId": "Equipment",
   "DisplayName": "装备穿戴",
   "BackgroundMusicAssetId": "",
@@ -9254,7 +9254,7 @@
       "X": 1675,
       "Y": 171,
       "Width": 128,
-      "Height": 369,
+      "Height": 582,
       "Anchor": "TopLeft",
       "IsLockedInEditor": false,
       "ZIndex": 46,

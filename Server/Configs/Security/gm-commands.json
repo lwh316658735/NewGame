@@ -1,0 +1,764 @@
+{
+  "Commands": [
+    {
+      "CommandId": "gm.help",
+      "DisplayName": "帮助",
+      "Aliases": [
+        "@帮助"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "gm.permission",
+      "DisplayName": "权限",
+      "Aliases": [
+        "@权限"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.online_count",
+      "DisplayName": "在线人数",
+      "Aliases": [
+        "@在线人数"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.online_list",
+      "DisplayName": "在线列表",
+      "Aliases": [
+        "@在线列表"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.position_self",
+      "DisplayName": "查看坐标",
+      "Aliases": [
+        "@查看坐标"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.inspect",
+      "DisplayName": "查看信息",
+      "Aliases": [
+        "@查看信息"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.attributes",
+      "DisplayName": "查看属性",
+      "Aliases": [
+        "@查看属性"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.info",
+      "DisplayName": "怪物信息",
+      "Aliases": [
+        "@怪物信息"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "dungeon.query",
+      "DisplayName": "查询副本",
+      "Aliases": [
+        "@查询副本"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "map.teleport",
+      "DisplayName": "传送",
+      "Aliases": [
+        "@传送"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "map.teleport_to_player",
+      "DisplayName": "传送到",
+      "Aliases": [
+        "@传送到"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.recover",
+      "DisplayName": "恢复",
+      "Aliases": [
+        "@恢复"
+      ],
+      "MinimumPermissionLevel": 1,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "map.summon_player",
+      "DisplayName": "召唤",
+      "Aliases": [
+        "@召唤"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.spawn",
+      "DisplayName": "刷怪",
+      "Aliases": [
+        "@刷怪"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.clear",
+      "DisplayName": "清怪",
+      "Aliases": [
+        "@清怪"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.kill",
+      "DisplayName": "杀怪",
+      "Aliases": [
+        "@杀怪"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.reset_spawn",
+      "DisplayName": "重置刷怪",
+      "Aliases": [
+        "@重置刷怪"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "monster.set_attribute",
+      "DisplayName": "设置怪物属性",
+      "Aliases": [
+        "@设置怪物属性"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "gm.invisible",
+      "DisplayName": "隐身",
+      "Aliases": [
+        "@隐身"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "gm.invincible",
+      "DisplayName": "无敌",
+      "Aliases": [
+        "@无敌"
+      ],
+      "MinimumPermissionLevel": 2,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.max_attributes",
+      "DisplayName": "满属性",
+      "Aliases": [
+        "@满属性"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.set_level",
+      "DisplayName": "调整等级",
+      "Aliases": [
+        "@调整等级"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.add_experience",
+      "DisplayName": "给予经验",
+      "Aliases": [
+        "@给予经验"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.rebirth",
+      "DisplayName": "转生",
+      "Aliases": [
+        "@转生"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.set_rebirth",
+      "DisplayName": "设置转生",
+      "Aliases": [
+        "@设置转生"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.set_attribute",
+      "DisplayName": "设置属性",
+      "Aliases": [
+        "@设置属性"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.set_profession",
+      "DisplayName": "设置职业",
+      "Aliases": [
+        "@设置职业"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "character.set_gender",
+      "DisplayName": "设置性别",
+      "Aliases": [
+        "@设置性别"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "skill.learn",
+      "DisplayName": "学习技能",
+      "Aliases": [
+        "@学习技能"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "skill.forget",
+      "DisplayName": "遗忘技能",
+      "Aliases": [
+        "@遗忘技能"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "skill.learn_all",
+      "DisplayName": "学习全部技能",
+      "Aliases": [
+        "@学习全部技能"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "skill.set_level",
+      "DisplayName": "设置技能等级",
+      "Aliases": [
+        "@设置技能等级"
+      ],
+      "MinimumPermissionLevel": 3,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "item.give",
+      "DisplayName": "给予物品",
+      "Aliases": [
+        "@给予物品"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "item.create_equipment",
+      "DisplayName": "创建装备",
+      "Aliases": [
+        "@创建装备"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.give_gold",
+      "DisplayName": "给予金币",
+      "Aliases": [
+        "@给予金币"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.give_yuanbao",
+      "DisplayName": "给予元宝",
+      "Aliases": [
+        "@给予元宝"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.give",
+      "DisplayName": "给予货币",
+      "Aliases": [
+        "@给予货币"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.take_gold",
+      "DisplayName": "扣除金币",
+      "Aliases": [
+        "@扣除金币"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.take_yuanbao",
+      "DisplayName": "扣除元宝",
+      "Aliases": [
+        "@扣除元宝"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.take",
+      "DisplayName": "扣除货币",
+      "Aliases": [
+        "@扣除货币"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "inventory.inspect",
+      "DisplayName": "查看背包",
+      "Aliases": [
+        "@查看背包"
+      ],
+      "MinimumPermissionLevel": 4,
+      "AuditLevel": "Normal",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "announcement.world",
+      "DisplayName": "公告",
+      "Aliases": [
+        "@公告"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "chat.private_system",
+      "DisplayName": "私聊",
+      "Aliases": [
+        "@私聊"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "player.kick",
+      "DisplayName": "踢下线",
+      "Aliases": [
+        "@踢下线"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "chat.mute",
+      "DisplayName": "禁言",
+      "Aliases": [
+        "@禁言"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "chat.unmute",
+      "DisplayName": "解禁言",
+      "Aliases": [
+        "@解禁言"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "account.ban",
+      "DisplayName": "封禁",
+      "Aliases": [
+        "@封禁"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "account.unban",
+      "DisplayName": "解封",
+      "Aliases": [
+        "@解封"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "pvp.set_kill_value",
+      "DisplayName": "设置杀戮值",
+      "Aliases": [
+        "@设置杀戮值"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "pvp.clear_kill_value",
+      "DisplayName": "清除杀戮值",
+      "Aliases": [
+        "@清除杀戮值"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "map.gather",
+      "DisplayName": "集合",
+      "Aliases": [
+        "@集合"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "dungeon.create",
+      "DisplayName": "创建副本",
+      "Aliases": [
+        "@创建副本"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "dungeon.destroy",
+      "DisplayName": "销毁副本",
+      "Aliases": [
+        "@销毁副本"
+      ],
+      "MinimumPermissionLevel": 5,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "inventory.clear_bag",
+      "DisplayName": "清空背包",
+      "Aliases": [
+        "@清空背包"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "inventory.clear_warehouse",
+      "DisplayName": "清空仓库",
+      "Aliases": [
+        "@清空仓库"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "equipment.clear",
+      "DisplayName": "清空装备",
+      "Aliases": [
+        "@清空装备"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "currency.clear",
+      "DisplayName": "清空货币",
+      "Aliases": [
+        "@清空货币"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.give_item",
+      "DisplayName": "全服给予物品",
+      "Aliases": [
+        "@全服给予物品"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.add_experience",
+      "DisplayName": "全服给予经验",
+      "Aliases": [
+        "@全服给予经验"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.give_gold",
+      "DisplayName": "全服给予金币",
+      "Aliases": [
+        "@全服给予金币"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.recover",
+      "DisplayName": "全服恢复",
+      "Aliases": [
+        "@全服恢复"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.clear_monsters",
+      "DisplayName": "全服清怪",
+      "Aliases": [
+        "@全服清怪"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.teleport",
+      "DisplayName": "全服传送",
+      "Aliases": [
+        "@全服传送"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.reload_configs",
+      "DisplayName": "重载配置",
+      "Aliases": [
+        "@重载配置"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.reload_scripts",
+      "DisplayName": "重载脚本",
+      "Aliases": [
+        "@重载脚本"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.reload_items",
+      "DisplayName": "重载物品",
+      "Aliases": [
+        "@重载物品"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.reload_monsters",
+      "DisplayName": "重载怪物",
+      "Aliases": [
+        "@重载怪物"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.reload_maps",
+      "DisplayName": "重载地图",
+      "Aliases": [
+        "@重载地图"
+      ],
+      "MinimumPermissionLevel": 6,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "gm.set_level",
+      "DisplayName": "设GM等级",
+      "Aliases": [
+        "@设GM等级"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "gm.remove",
+      "DisplayName": "移除GM",
+      "Aliases": [
+        "@移除GM"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "account.open_registration",
+      "DisplayName": "开放注册",
+      "Aliases": [
+        "@开放注册"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "account.close_registration",
+      "DisplayName": "关闭注册",
+      "Aliases": [
+        "@关闭注册"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.save_all",
+      "DisplayName": "全服保存",
+      "Aliases": [
+        "@全服保存"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Sensitive",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "world.kick_all",
+      "DisplayName": "全服踢下线",
+      "Aliases": [
+        "@全服踢下线"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.shutdown",
+      "DisplayName": "关服",
+      "Aliases": [
+        "@关服"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    },
+    {
+      "CommandId": "server.restart",
+      "DisplayName": "重启服务",
+      "Aliases": [
+        "@重启服务"
+      ],
+      "MinimumPermissionLevel": 7,
+      "AuditLevel": "Critical",
+      "IsEnabled": true
+    }
+  ]
+}
