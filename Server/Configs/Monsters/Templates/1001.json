@@ -8,7 +8,7 @@
   "AiProfileId": 1,
   "FixedAffixRules": [],
   "Combat": {
-    "MaxHealth": 900000,
+    "MaxHealth": 90000,
     "MaxMana": 0,
     "MinPhysicalAttack": 200,
     "MaxPhysicalAttack": 300,
@@ -33,7 +33,7 @@
     "CastSpeed": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 300,
+    "MoveActionMilliseconds": 600,
     "MoveIntervalMilliseconds": 0
   },
   "Reward": {

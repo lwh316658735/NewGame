@@ -2,7 +2,7 @@
   "GameRules": {
     "MaxCharacterLevel": 80,
     "MaxRebirthLevel": 12,
-    "AllowRunThroughPlayers": true,
+    "AllowRunThroughPlayers": false,
     "AllowRunThroughMonsters": true,
     "MonsterCorpseDurationSeconds": 5,
     "MaxMeleeMonsterAttackersPerPlayer": 8,
