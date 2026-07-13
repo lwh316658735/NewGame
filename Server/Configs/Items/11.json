@@ -34,7 +34,7 @@
       {
         "AttributeId": "MaxPhysicalAttack",
         "Operation": "Add",
-        "Value": 8
+        "Value": 20000
       },
       {
         "AttributeId": "HealthLeech",

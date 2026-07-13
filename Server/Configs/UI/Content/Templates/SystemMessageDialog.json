@@ -2,6 +2,8 @@
   "Version": 1,
   "TemplateId": "SystemMessageDialog",
   "DisplayName": "系统提示弹窗",
+  "PresentationScriptId": "system/ui/content/SystemMessageDialog",
+  "HasPresentationScript": false,
   "Actions": [
     {
       "ActionId": "ok",

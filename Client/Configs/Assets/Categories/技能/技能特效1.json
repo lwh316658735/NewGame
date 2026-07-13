@@ -1,0 +1,567 @@
+{
+  "Version": 6,
+  "Category": "技能",
+  "Subcategory": "技能特效1",
+  "Assets": [
+    {
+      "AssetId": "Asset.000250_4",
+      "DisplayName": "000250",
+      "SortOrder": 23712,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000250.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 1414,
+      "Width": 12,
+      "Height": 28,
+      "LastModifiedAt": "2026-07-13T04:32:51.8903256+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 31,
+        "OffsetY": -20
+      }
+    },
+    {
+      "AssetId": "Asset.000251_4",
+      "DisplayName": "000251",
+      "SortOrder": 23713,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000251.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 8134,
+      "Width": 84,
+      "Height": 84,
+      "LastModifiedAt": "2026-07-13T04:32:51.8913259+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -15,
+        "OffsetY": -49
+      }
+    },
+    {
+      "AssetId": "Asset.000252_3",
+      "DisplayName": "000252",
+      "SortOrder": 23714,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000252.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 11478,
+      "Width": 104,
+      "Height": 100,
+      "LastModifiedAt": "2026-07-13T04:32:51.8923257+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -30,
+        "OffsetY": -61
+      }
+    },
+    {
+      "AssetId": "Asset.000253_3",
+      "DisplayName": "000253",
+      "SortOrder": 23715,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000253.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 13066,
+      "Width": 108,
+      "Height": 111,
+      "LastModifiedAt": "2026-07-13T04:32:51.8933257+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -33,
+        "OffsetY": -71
+      }
+    },
+    {
+      "AssetId": "Asset.000254_3",
+      "DisplayName": "000254",
+      "SortOrder": 23716,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000254.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 16534,
+      "Width": 112,
+      "Height": 138,
+      "LastModifiedAt": "2026-07-13T04:32:51.8948252+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -35,
+        "OffsetY": -83
+      }
+    },
+    {
+      "AssetId": "Asset.000255_3",
+      "DisplayName": "000255",
+      "SortOrder": 23717,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000255.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 18710,
+      "Width": 116,
+      "Height": 152,
+      "LastModifiedAt": "2026-07-13T04:32:51.8968256+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -36,
+        "OffsetY": -91
+      }
+    },
+    {
+      "AssetId": "Asset.000256_3",
+      "DisplayName": "000256",
+      "SortOrder": 23718,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000256.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 20278,
+      "Width": 120,
+      "Height": 160,
+      "LastModifiedAt": "2026-07-13T04:32:51.8978246+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -37,
+        "OffsetY": -97
+      }
+    },
+    {
+      "AssetId": "Asset.000257_3",
+      "DisplayName": "000257",
+      "SortOrder": 23719,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000257.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 20878,
+      "Width": 120,
+      "Height": 165,
+      "LastModifiedAt": "2026-07-13T04:32:51.8998355+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -37,
+        "OffsetY": -104
+      }
+    },
+    {
+      "AssetId": "Asset.000258_3",
+      "DisplayName": "000258",
+      "SortOrder": 23720,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000258.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 17202,
+      "Width": 116,
+      "Height": 139,
+      "LastModifiedAt": "2026-07-13T04:32:51.9008388+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -34,
+        "OffsetY": -99
+      }
+    },
+    {
+      "AssetId": "Asset.000259_4",
+      "DisplayName": "000259",
+      "SortOrder": 23721,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000259.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 12178,
+      "Width": 100,
+      "Height": 111,
+      "LastModifiedAt": "2026-07-13T04:32:51.9023442+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -27,
+        "OffsetY": -103
+      }
+    },
+    {
+      "AssetId": "Asset.000260_3",
+      "DisplayName": "000260",
+      "SortOrder": 23722,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000260.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 8822,
+      "Width": 88,
+      "Height": 88,
+      "LastModifiedAt": "2026-07-13T04:32:51.9053437+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -19,
+        "OffsetY": -33
+      }
+    },
+    {
+      "AssetId": "Asset.000261_3",
+      "DisplayName": "000261",
+      "SortOrder": 23723,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000261.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 13606,
+      "Width": 108,
+      "Height": 116,
+      "LastModifiedAt": "2026-07-13T04:32:51.9068442+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -29,
+        "OffsetY": -61
+      }
+    },
+    {
+      "AssetId": "Asset.000262_3",
+      "DisplayName": "000262",
+      "SortOrder": 23724,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000262.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 17158,
+      "Width": 120,
+      "Height": 134,
+      "LastModifiedAt": "2026-07-13T04:32:51.9078443+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -36,
+        "OffsetY": -82
+      }
+    },
+    {
+      "AssetId": "Asset.000263_3",
+      "DisplayName": "000263",
+      "SortOrder": 23725,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000263.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 18934,
+      "Width": 124,
+      "Height": 144,
+      "LastModifiedAt": "2026-07-13T04:32:51.9088489+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -39,
+        "OffsetY": -98
+      }
+    },
+    {
+      "AssetId": "Asset.000264_3",
+      "DisplayName": "000264",
+      "SortOrder": 23726,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000264.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 20918,
+      "Width": 128,
+      "Height": 155,
+      "LastModifiedAt": "2026-07-13T04:32:51.9098535+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -40,
+        "OffsetY": -109
+      }
+    },
+    {
+      "AssetId": "Asset.000265_3",
+      "DisplayName": "000265",
+      "SortOrder": 23727,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000265.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 20790,
+      "Width": 128,
+      "Height": 154,
+      "LastModifiedAt": "2026-07-13T04:32:51.9118544+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -40,
+        "OffsetY": -123
+      }
+    },
+    {
+      "AssetId": "Asset.000266_3",
+      "DisplayName": "000266",
+      "SortOrder": 23728,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000266.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 20050,
+      "Width": 124,
+      "Height": 153,
+      "LastModifiedAt": "2026-07-13T04:32:51.9133548+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -38,
+        "OffsetY": -139
+      }
+    },
+    {
+      "AssetId": "Asset.000267_3",
+      "DisplayName": "000267",
+      "SortOrder": 23729,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000267.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 18118,
+      "Width": 120,
+      "Height": 142,
+      "LastModifiedAt": "2026-07-13T04:32:51.914854+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -35,
+        "OffsetY": -143
+      }
+    },
+    {
+      "AssetId": "Asset.000268_3",
+      "DisplayName": "000268",
+      "SortOrder": 23730,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000268.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 16042,
+      "Width": 116,
+      "Height": 129,
+      "LastModifiedAt": "2026-07-13T04:32:51.9158539+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -34,
+        "OffsetY": -147
+      }
+    },
+    {
+      "AssetId": "Asset.000269_3",
+      "DisplayName": "000269",
+      "SortOrder": 23731,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000269.bmp",
+      "FileExtension": ".bmp",
+      "AudioUsage": null,
+      "FileSizeBytes": 12830,
+      "Width": 104,
+      "Height": 113,
+      "LastModifiedAt": "2026-07-13T04:32:51.9168543+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -28,
+        "OffsetY": -149
+      }
+    },
+    {
+      "AssetId": "Asset.10000",
+      "DisplayName": "10000",
+      "SortOrder": 23732,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10000.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 21514,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10001",
+      "DisplayName": "10001",
+      "SortOrder": 23733,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10001.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 27652,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10002",
+      "DisplayName": "10002",
+      "SortOrder": 23734,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10002.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 32534,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10003",
+      "DisplayName": "10003",
+      "SortOrder": 23735,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10003.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 36895,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10004",
+      "DisplayName": "10004",
+      "SortOrder": 23736,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10004.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 40382,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10005",
+      "DisplayName": "10005",
+      "SortOrder": 23737,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10005.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 45774,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10006",
+      "DisplayName": "10006",
+      "SortOrder": 23738,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10006.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 50819,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    },
+    {
+      "AssetId": "Asset.10007",
+      "DisplayName": "10007",
+      "SortOrder": 23739,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10007.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 51573,
+      "Width": 640,
+      "Height": 640,
+      "LastModifiedAt": "2012-10-31T06:04:16+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": -299,
+        "OffsetY": -355
+      }
+    }
+  ]
+}

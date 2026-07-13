@@ -331,70 +331,10 @@
       "IsEnabled": true
     },
     {
-      "CommandId": "item.create_equipment",
-      "DisplayName": "创建装备",
-      "Aliases": [
-        "@创建装备"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "currency.give_gold",
-      "DisplayName": "给予金币",
-      "Aliases": [
-        "@给予金币"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "currency.give_yuanbao",
-      "DisplayName": "给予元宝",
-      "Aliases": [
-        "@给予元宝"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
       "CommandId": "currency.give",
       "DisplayName": "给予货币",
       "Aliases": [
         "@给予货币"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "currency.take_gold",
-      "DisplayName": "扣除金币",
-      "Aliases": [
-        "@扣除金币"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "currency.take_yuanbao",
-      "DisplayName": "扣除元宝",
-      "Aliases": [
-        "@扣除元宝"
-      ],
-      "MinimumPermissionLevel": 4,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "currency.take",
-      "DisplayName": "扣除货币",
-      "Aliases": [
-        "@扣除货币"
       ],
       "MinimumPermissionLevel": 4,
       "AuditLevel": "Sensitive",
@@ -415,16 +355,6 @@
       "DisplayName": "公告",
       "Aliases": [
         "@公告"
-      ],
-      "MinimumPermissionLevel": 5,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "chat.private_system",
-      "DisplayName": "私聊",
-      "Aliases": [
-        "@私聊"
       ],
       "MinimumPermissionLevel": 5,
       "AuditLevel": "Sensitive",
@@ -481,50 +411,10 @@
       "IsEnabled": true
     },
     {
-      "CommandId": "pvp.set_kill_value",
-      "DisplayName": "设置杀戮值",
-      "Aliases": [
-        "@设置杀戮值"
-      ],
-      "MinimumPermissionLevel": 5,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "pvp.clear_kill_value",
-      "DisplayName": "清除杀戮值",
-      "Aliases": [
-        "@清除杀戮值"
-      ],
-      "MinimumPermissionLevel": 5,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
       "CommandId": "map.gather",
       "DisplayName": "集合",
       "Aliases": [
         "@集合"
-      ],
-      "MinimumPermissionLevel": 5,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "dungeon.create",
-      "DisplayName": "创建副本",
-      "Aliases": [
-        "@创建副本"
-      ],
-      "MinimumPermissionLevel": 5,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "dungeon.destroy",
-      "DisplayName": "销毁副本",
-      "Aliases": [
-        "@销毁副本"
       ],
       "MinimumPermissionLevel": 5,
       "AuditLevel": "Sensitive",
@@ -581,33 +471,13 @@
       "IsEnabled": true
     },
     {
-      "CommandId": "world.add_experience",
-      "DisplayName": "全服给予经验",
+      "CommandId": "world.give_currency",
+      "DisplayName": "全服给予货币",
       "Aliases": [
-        "@全服给予经验"
+        "@全服给予货币"
       ],
       "MinimumPermissionLevel": 6,
       "AuditLevel": "Critical",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "world.give_gold",
-      "DisplayName": "全服给予金币",
-      "Aliases": [
-        "@全服给予金币"
-      ],
-      "MinimumPermissionLevel": 6,
-      "AuditLevel": "Critical",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "world.recover",
-      "DisplayName": "全服恢复",
-      "Aliases": [
-        "@全服恢复"
-      ],
-      "MinimumPermissionLevel": 6,
-      "AuditLevel": "Sensitive",
       "IsEnabled": true
     },
     {

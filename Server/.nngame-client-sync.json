@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "J:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-12T14:03:34.035Z",
+  "GeneratedAt": "2026-07-13T12:00:09.521Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -72,9 +72,9 @@
     },
     {
       "RelativePath": "Configs/Characters/Classes/Mage.json",
-      "Length": 1294,
-      "LastWriteTimeUtc": "2026-07-12T13:17:36.265Z",
-      "Sha256": "5d2b615477d9a0148dfbfa0879ad276e155ec02f95f80575f82e4fb9982f5701"
+      "Length": 1296,
+      "LastWriteTimeUtc": "2026-07-12T14:07:04.587Z",
+      "Sha256": "d3422a1b39db98a8bcaa721a84d61c49f4f23ed2a119764f7cc635bf528102eb"
     },
     {
       "RelativePath": "Configs/Characters/Classes/Taoist.json",
@@ -103,7 +103,7 @@
     {
       "RelativePath": "Configs/Game/global.json",
       "Length": 26330,
-      "LastWriteTimeUtc": "2026-07-12T11:45:42.876Z",
+      "LastWriteTimeUtc": "2026-07-13T12:00:03.782Z",
       "Sha256": "324323a9a5a26cadb1e89f2cbbc4d5fb79bd46ff485c240f74790f3b8b724a4a"
     },
     {
@@ -120,9 +120,9 @@
     },
     {
       "RelativePath": "Configs/Items/11.json",
-      "Length": 1033,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.649Z",
-      "Sha256": "ba0d42e109047e303460d5daac8ec16a204ab894d947bddf219f094c3f841d3f"
+      "Length": 1037,
+      "LastWriteTimeUtc": "2026-07-13T07:04:48.484Z",
+      "Sha256": "aedf37cb85b6df7177f677894beb8babec4be84ab1875ccef0ee28f0bb22537e"
     },
     {
       "RelativePath": "Configs/Items/2.json",
@@ -252,14 +252,14 @@
     },
     {
       "RelativePath": "Configs/Security/gm-commands.json",
-      "Length": 18311,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.655Z",
-      "Sha256": "c97ff353f101b879ecdca98c0f6ff4a3bd948bfed830e88541aaf2495277d7e0"
+      "Length": 15105,
+      "LastWriteTimeUtc": "2026-07-13T02:53:20.836Z",
+      "Sha256": "0374bdcf44456c7ec5be8f4c27db79369f96415f430b6775e498f7b69514abf3"
     },
     {
       "RelativePath": "Configs/Security/gm-roles.json",
       "Length": 208,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.655Z",
+      "LastWriteTimeUtc": "2026-07-13T05:41:52.988Z",
       "Sha256": "ada168343e03babd41bb92415af4f211dc6aeb4f9bccd36fbd1e87be6486c921"
     },
     {
@@ -275,12 +275,6 @@
       "Sha256": "a4c8609ae131ab90eb7689daa978ffc9079165f7c7114e3d7cbab5b176c2c6f3"
     },
     {
-      "RelativePath": "Configs/UI/Content/Templates/ChatBubble.json",
-      "Length": 199,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.657Z",
-      "Sha256": "8727a9cc7b83a2573d06f5c803db04bc80ddd0193267720e384c1d66508804d4"
-    },
-    {
       "RelativePath": "Configs/UI/Content/Templates/DefaultContentWindow.json",
       "Length": 556,
       "LastWriteTimeUtc": "2026-07-11T15:43:31.657Z",
@@ -288,9 +282,9 @@
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/GroundItemStackTooltip.json",
-      "Length": 161,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.657Z",
-      "Sha256": "c067c53966fc4b75c3521652c62660605da2971d174a3d6962fc64621735df47"
+      "Length": 267,
+      "LastWriteTimeUtc": "2026-07-13T11:21:35.281Z",
+      "Sha256": "fa2a6c62c1b7c9223515c141fa37c1cf9ec52a6ae711cdf43b73fed7ccb30ddb"
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/ItemInfoTooltip.json",
@@ -312,15 +306,15 @@
     },
     {
       "RelativePath": "Configs/UI/Content/Templates/SystemMessageDialog.json",
-      "Length": 483,
-      "LastWriteTimeUtc": "2026-06-20T06:05:49.270Z",
-      "Sha256": "e3d5d6a8373faa240fe46981712e168254798954b73e77ae7f665f86e435acca"
+      "Length": 586,
+      "LastWriteTimeUtc": "2026-07-13T08:22:07.604Z",
+      "Sha256": "7d65b92973f54616529542fd2cbea4eb3b814ada358f332a97afbad23b49767d"
     },
     {
       "RelativePath": "Data/zone001/nngame.db",
-      "Length": 307200,
-      "LastWriteTimeUtc": "2026-07-12T13:36:33.548Z",
-      "Sha256": "0de79111ae580655d896f6778f4b8f63bdb29b09f08ca4f398636c63ecb71ed3"
+      "Length": 319488,
+      "LastWriteTimeUtc": "2026-07-13T09:00:26.366Z",
+      "Sha256": "4fb1031acdeaea091316c752fa26a3fa3c953a284bd380eeba0e0ba424cdc9a2"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",
@@ -359,6 +353,12 @@
       "Sha256": "2a00218063b5d212d4cbc250d920bb08d3b4228a502185a7d3c272c3054bec68"
     },
     {
+      "RelativePath": "Scripts/system/on_login.nns",
+      "Length": 358,
+      "LastWriteTimeUtc": "2026-07-13T08:59:56.299Z",
+      "Sha256": "cc48356258c9a6aefdff5dc6d3a742206e52ca139a99fc35b0b42f39b04cac68"
+    },
+    {
       "RelativePath": "Scripts/system/ui/fixed/CharacterAttributes.nns",
       "Length": 0,
       "LastWriteTimeUtc": "2026-07-11T15:43:31.663Z",
@@ -366,9 +366,9 @@
     },
     {
       "RelativePath": "Scripts/system/ui/fixed/Equipment.nns",
-      "Length": 1866,
-      "LastWriteTimeUtc": "2026-07-11T15:43:31.663Z",
-      "Sha256": "546539528bdf7249c68b5cd74fef417a234307777f2a37fb670588966b05357f"
+      "Length": 1864,
+      "LastWriteTimeUtc": "2026-07-13T03:54:53.276Z",
+      "Sha256": "e22b4ba7f59c5b021d65e9561ffbb8dcc4df89c8b7a8a12360186ae7524420ad"
     },
     {
       "RelativePath": "Scripts/system/ui/fixed/Inventory.nns",

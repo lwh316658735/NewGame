@@ -2,6 +2,8 @@
   "Version": 1,
   "TemplateId": "GroundItemStackTooltip",
   "DisplayName": "物品叠加提示框",
+  "PresentationScriptId": "system/ui/content/GroundItemStackTooltip",
+  "HasPresentationScript": false,
   "Actions": [],
   "Inputs": [],
   "ItemSlots": []

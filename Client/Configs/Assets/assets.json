@@ -49,165 +49,171 @@
       "AssetCount": 708
     },
     {
+      "Category": "技能",
+      "Name": "技能特效1",
+      "SortOrder": 6,
+      "AssetCount": 28
+    },
+    {
       "Category": "物品",
       "Name": "物品堆叠框动画",
-      "SortOrder": 6,
+      "SortOrder": 7,
       "AssetCount": 30
     },
     {
       "Category": "物品",
       "Name": "地上物品图标",
-      "SortOrder": 7,
+      "SortOrder": 8,
       "AssetCount": 2473
     },
     {
       "Category": "物品",
       "Name": "背包物品图标",
-      "SortOrder": 8,
+      "SortOrder": 9,
       "AssetCount": 2545
     },
     {
       "Category": "物品",
       "Name": "光柱1",
-      "SortOrder": 9,
+      "SortOrder": 10,
       "AssetCount": 12
     },
     {
       "Category": "物品",
       "Name": "其他",
-      "SortOrder": 10,
+      "SortOrder": 11,
       "AssetCount": 2
     },
     {
       "Category": "地图",
       "Name": "Legacy",
-      "SortOrder": 11,
+      "SortOrder": 12,
       "AssetCount": 2398
     },
     {
       "Category": "地图",
       "Name": "Cliffsc",
-      "SortOrder": 12,
+      "SortOrder": 13,
       "AssetCount": 0
     },
     {
       "Category": "地图",
       "Name": "Housesc",
-      "SortOrder": 13,
+      "SortOrder": 14,
       "AssetCount": 916
     },
     {
       "Category": "地图",
       "Name": "Object2c",
-      "SortOrder": 14,
+      "SortOrder": 15,
       "AssetCount": 12
     },
     {
       "Category": "地图",
       "Name": "Tiles30c",
-      "SortOrder": 15,
+      "SortOrder": 16,
       "AssetCount": 118
     },
     {
       "Category": "地图",
       "Name": "Tilesc",
-      "SortOrder": 16,
+      "SortOrder": 17,
       "AssetCount": 477
     },
     {
       "Category": "地图",
       "Name": "smObjectsc",
-      "SortOrder": 17,
+      "SortOrder": 18,
       "AssetCount": 631
     },
     {
       "Category": "地图",
       "Name": "wood_Cliffsc",
-      "SortOrder": 18,
-      "AssetCount": 0
-    },
-    {
-      "Category": "地图",
-      "Name": "wood_Furnituresc",
       "SortOrder": 19,
       "AssetCount": 0
     },
     {
       "Category": "地图",
-      "Name": "wood_Housesc",
+      "Name": "wood_Furnituresc",
       "SortOrder": 20,
+      "AssetCount": 0
+    },
+    {
+      "Category": "地图",
+      "Name": "wood_Housesc",
+      "SortOrder": 21,
       "AssetCount": 56
     },
     {
       "Category": "地图",
       "Name": "wood_smObjectsc",
-      "SortOrder": 21,
+      "SortOrder": 22,
       "AssetCount": 187
     },
     {
       "Category": "地图",
       "Name": "地图瓦片",
-      "SortOrder": 22,
+      "SortOrder": 23,
       "AssetCount": 4765
     },
     {
       "Category": "界面",
       "Name": "buff",
-      "SortOrder": 23,
+      "SortOrder": 24,
       "AssetCount": 20
     },
     {
       "Category": "界面",
       "Name": "主界面",
-      "SortOrder": 24,
+      "SortOrder": 25,
       "AssetCount": 78
     },
     {
       "Category": "界面",
       "Name": "提示框",
-      "SortOrder": 25,
+      "SortOrder": 26,
       "AssetCount": 3
     },
     {
       "Category": "界面",
       "Name": "游戏加载界面",
-      "SortOrder": 26,
+      "SortOrder": 27,
       "AssetCount": 101
     },
     {
       "Category": "界面",
       "Name": "登录界面",
-      "SortOrder": 27,
+      "SortOrder": 28,
       "AssetCount": 8
     },
     {
       "Category": "界面",
       "Name": "角色选择界面",
-      "SortOrder": 28,
+      "SortOrder": 29,
       "AssetCount": 24
     },
     {
       "Category": "界面",
       "Name": "人物属性面板",
-      "SortOrder": 29,
+      "SortOrder": 30,
       "AssetCount": 1
     },
     {
       "Category": "界面",
       "Name": "新界面素材",
-      "SortOrder": 30,
+      "SortOrder": 31,
       "AssetCount": 1504
     },
     {
       "Category": "小地图",
       "Name": "默认",
-      "SortOrder": 31,
+      "SortOrder": 32,
       "AssetCount": 1
     },
     {
       "Category": "音频",
       "Name": "默认",
-      "SortOrder": 32,
+      "SortOrder": 33,
       "AssetCount": 3
     }
   ],
@@ -256392,6 +256398,286 @@
       "Category": "界面",
       "Subcategory": "新界面素材",
       "RelativePath": "Client/Assets/界面/新界面素材/002544.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000250_4",
+      "DisplayName": "000250",
+      "SortOrder": 23712,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000250.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000251_4",
+      "DisplayName": "000251",
+      "SortOrder": 23713,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000251.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000252_3",
+      "DisplayName": "000252",
+      "SortOrder": 23714,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000252.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000253_3",
+      "DisplayName": "000253",
+      "SortOrder": 23715,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000253.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000254_3",
+      "DisplayName": "000254",
+      "SortOrder": 23716,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000254.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000255_3",
+      "DisplayName": "000255",
+      "SortOrder": 23717,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000255.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000256_3",
+      "DisplayName": "000256",
+      "SortOrder": 23718,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000256.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000257_3",
+      "DisplayName": "000257",
+      "SortOrder": 23719,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000257.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000258_3",
+      "DisplayName": "000258",
+      "SortOrder": 23720,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000258.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000259_4",
+      "DisplayName": "000259",
+      "SortOrder": 23721,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000259.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000260_3",
+      "DisplayName": "000260",
+      "SortOrder": 23722,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000260.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000261_3",
+      "DisplayName": "000261",
+      "SortOrder": 23723,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000261.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000262_3",
+      "DisplayName": "000262",
+      "SortOrder": 23724,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000262.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000263_3",
+      "DisplayName": "000263",
+      "SortOrder": 23725,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000263.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000264_3",
+      "DisplayName": "000264",
+      "SortOrder": 23726,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000264.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000265_3",
+      "DisplayName": "000265",
+      "SortOrder": 23727,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000265.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000266_3",
+      "DisplayName": "000266",
+      "SortOrder": 23728,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000266.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000267_3",
+      "DisplayName": "000267",
+      "SortOrder": 23729,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000267.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000268_3",
+      "DisplayName": "000268",
+      "SortOrder": 23730,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000268.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000269_3",
+      "DisplayName": "000269",
+      "SortOrder": 23731,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/000269.bmp",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10000",
+      "DisplayName": "10000",
+      "SortOrder": 23732,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10000.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10001",
+      "DisplayName": "10001",
+      "SortOrder": 23733,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10001.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10002",
+      "DisplayName": "10002",
+      "SortOrder": 23734,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10002.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10003",
+      "DisplayName": "10003",
+      "SortOrder": 23735,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10003.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10004",
+      "DisplayName": "10004",
+      "SortOrder": 23736,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10004.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10005",
+      "DisplayName": "10005",
+      "SortOrder": 23737,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10005.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10006",
+      "DisplayName": "10006",
+      "SortOrder": 23738,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10006.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.10007",
+      "DisplayName": "10007",
+      "SortOrder": 23739,
+      "Category": "技能",
+      "Subcategory": "技能特效1",
+      "RelativePath": "Client/Assets/技能/技能特效1/10007.png",
       "AudioUsage": null,
       "Tags": []
     }

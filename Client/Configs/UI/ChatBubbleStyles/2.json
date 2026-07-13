@@ -1,6 +1,11 @@
 {
+  "Version": 2,
   "StyleId": 2,
   "DisplayName": "自定义样式",
+  "X": 830,
+  "Y": 433,
+  "Width": 260,
+  "Height": 13,
   "TextTemplate": "{{Chat.MessageText}}",
   "TextStyle": {
     "FontFamily": "NSimSun",

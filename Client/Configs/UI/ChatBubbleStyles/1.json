@@ -1,6 +1,11 @@
 {
+  "Version": 2,
   "StyleId": 1,
   "DisplayName": "默认聊天气泡",
+  "X": 808,
+  "Y": 438,
+  "Width": 300,
+  "Height": 52,
   "TextTemplate": "<c:FF0000,00FF00,0000FF#g>{{Chat.MessageText}}</>",
   "TextStyle": {
     "FontFamily": "NSimSun",
@@ -17,10 +22,10 @@
     }
   },
   "TextPosition": "TopLeft",
-  "TextPaddingLeft": 35,
-  "TextPaddingTop": 33,
-  "TextPaddingRight": 35,
-  "TextPaddingBottom": 27,
+  "TextPaddingLeft": 36,
+  "TextPaddingTop": 25,
+  "TextPaddingRight": 36,
+  "TextPaddingBottom": 25,
   "BackgroundAssetId": "Asset.001530_3",
   "BackgroundAssetIds": [
     "Asset.001530_3",
@@ -36,10 +41,10 @@
   "ImageFillMode": "Stretch",
   "ImageNineSlice": {
     "IsEnabled": true,
-    "Left": 34,
-    "Top": 27,
+    "Left": 33,
+    "Top": 26,
     "Right": 31,
-    "Bottom": 27
+    "Bottom": 24
   },
   "BackgroundColor": "",
   "BorderColor": "",

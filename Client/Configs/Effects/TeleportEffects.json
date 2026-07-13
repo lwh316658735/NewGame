@@ -1,0 +1,34 @@
+{
+  "Effects": [
+    {
+      "TeleportEffectId": 1,
+      "DisplayName": "默认传送特效",
+      "FramesPerSecond": 15,
+      "IsEffectMode": true,
+      "DepartureFrameAssetIds": [
+        "Asset.000250_4",
+        "Asset.000251_4",
+        "Asset.000252_3",
+        "Asset.000253_3",
+        "Asset.000254_3",
+        "Asset.000255_3",
+        "Asset.000256_3",
+        "Asset.000257_3",
+        "Asset.000258_3",
+        "Asset.000259_4"
+      ],
+      "ArrivalFrameAssetIds": [
+        "Asset.000260_3",
+        "Asset.000261_3",
+        "Asset.000262_3",
+        "Asset.000263_3",
+        "Asset.000264_3",
+        "Asset.000265_3",
+        "Asset.000266_3",
+        "Asset.000267_3",
+        "Asset.000268_3",
+        "Asset.000269_3"
+      ]
+    }
+  ]
+}
