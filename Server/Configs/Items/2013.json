@@ -1,0 +1,35 @@
+{
+  "ItemId": 2013,
+  "DisplayName": "天魔神甲(男)",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 1,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 60000,
+    "EquipLocations": [
+      "Armor"
+    ],
+    "FashionLocations": [],
+    "Gender": 0,
+    "GenderPairItemId": 2014,
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

@@ -3,12 +3,5 @@
   "DisplayName": "圣战手镯",
   "Alias": "",
   "Description": "<c:FF0000,00FF00,0000FF#s:15#i#u#g>这是一个<s:18>超级物品</>,哈哈哈哈哈哈哈啊哈</>",
-  "NameStyle": {
-    "ColorMode": "FixedColor",
-    "FixedColor": "#e09e9e",
-    "GradientStartColor": "#ffffff",
-    "GradientMiddleColor": "#ffffff",
-    "GradientEndColor": "#ffffff"
-  },
   "LightPillarId": "LightPillar0001"
 }

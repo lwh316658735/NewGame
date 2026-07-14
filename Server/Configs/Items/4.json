@@ -1,4 +1,4 @@
-﻿{
+{
   "ItemId": 4,
   "DisplayName": "圣战项链",
   "Kind": "AttributeItem",
@@ -13,8 +13,7 @@
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "RequiredCharacterLevel": 33,
-    "RequiredRebirthLevel": 0,
+    "EquipRequirements": [],
     "MaxDurability": 0,
     "EquipLocations": [
       "Necklace"
