@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.0_2",
       "DisplayName": "图层 0",
-      "SortOrder": 12435,
+      "SortOrder": 10387,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/图层 0.png",
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.01",
       "DisplayName": "图层 01",
-      "SortOrder": 12436,
+      "SortOrder": 10388,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/图层 01.png",
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.02",
       "DisplayName": "图层 02",
-      "SortOrder": 12437,
+      "SortOrder": 10389,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/图层 02.png",
@@ -66,7 +66,7 @@
     {
       "AssetId": "Asset.3840x2160",
       "DisplayName": "登录背景_封印祭坛_纯背景_3840x2160_无斑点纯净版",
-      "SortOrder": 12438,
+      "SortOrder": 10390,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/登录背景_封印祭坛_纯背景_3840x2160_无斑点纯净版.png",
@@ -86,7 +86,7 @@
     {
       "AssetId": "Asset.3840x2160_2",
       "DisplayName": "登录窗口_登录_高清设计_3840x2160",
-      "SortOrder": 12439,
+      "SortOrder": 10391,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/登录窗口_登录_高清设计_3840x2160.png",
@@ -106,7 +106,7 @@
     {
       "AssetId": "Asset.3840x2160_3",
       "DisplayName": "登录窗口_修改密码_高清设计_3840x2160",
-      "SortOrder": 12440,
+      "SortOrder": 10392,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/登录窗口_修改密码_高清设计_3840x2160.png",
@@ -126,7 +126,7 @@
     {
       "AssetId": "Asset.3840x2160_4",
       "DisplayName": "登录窗口_注册账号_重设计版_高清设计_3840x2160",
-      "SortOrder": 12441,
+      "SortOrder": 10393,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/登录窗口_注册账号_重设计版_高清设计_3840x2160.png",
@@ -146,7 +146,7 @@
     {
       "AssetId": "Asset.3840x2160_5",
       "DisplayName": "登录窗口_选择区服_整区空白版_高清设计_3840x2160",
-      "SortOrder": 12443,
+      "SortOrder": 10395,
       "Category": "界面",
       "Subcategory": "登录界面",
       "RelativePath": "Client/Assets/界面/登录界面/登录窗口_选择区服_整区空白版_高清设计_3840x2160.png",

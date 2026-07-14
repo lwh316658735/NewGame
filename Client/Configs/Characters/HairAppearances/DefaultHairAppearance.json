@@ -13,73 +13,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1200",
-                "1.Hair_1201",
-                "1.Hair_1202",
-                "1.Hair_1203"
+                "Asset.001200_4",
+                "Asset.001201_4",
+                "Asset.001202_4",
+                "Asset.001203_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1208",
-                "1.Hair_1209",
-                "1.Hair_1210",
-                "1.Hair_1211"
+                "Asset.001208_3",
+                "Asset.001209_3",
+                "Asset.001210_3",
+                "Asset.001211_3"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1216",
-                "1.Hair_1217",
-                "1.Hair_1218",
-                "1.Hair_1219"
+                "Asset.001216_3",
+                "Asset.001217_3",
+                "Asset.001218",
+                "Asset.001219"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1224",
-                "1.Hair_1225",
-                "1.Hair_1226",
-                "1.Hair_1227"
+                "Asset.001224_3",
+                "Asset.001225_3",
+                "Asset.001226_3",
+                "Asset.001227_3"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1232",
-                "1.Hair_1233",
-                "1.Hair_1234",
-                "1.Hair_1235"
+                "Asset.001232_2",
+                "Asset.001233_2",
+                "Asset.001234_2",
+                "Asset.001235_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1240",
-                "1.Hair_1241",
-                "1.Hair_1242",
-                "1.Hair_1243"
+                "Asset.001240_4",
+                "Asset.001241_4",
+                "Asset.001242_4",
+                "Asset.001243_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1248",
-                "1.Hair_1249",
-                "1.Hair_1250",
-                "1.Hair_1251"
+                "Asset.001248_2",
+                "Asset.001249_2",
+                "Asset.001250_4",
+                "Asset.001251_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1256",
-                "1.Hair_1257",
-                "1.Hair_1258",
-                "1.Hair_1259"
+                "Asset.001256_2",
+                "Asset.001257_2",
+                "Asset.001258_2",
+                "Asset.001259_2"
               ]
             }
           ]
@@ -91,89 +91,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1264",
-                "1.Hair_1265",
-                "1.Hair_1266",
-                "1.Hair_1267",
-                "1.Hair_1268",
-                "1.Hair_1269"
+                "Asset.001264_4",
+                "Asset.001265_4",
+                "Asset.001266_2",
+                "Asset.001267_2",
+                "Asset.001268_2",
+                "Asset.001269_2"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1272",
-                "1.Hair_1273",
-                "1.Hair_1274",
-                "1.Hair_1275",
-                "1.Hair_1276",
-                "1.Hair_1277"
+                "Asset.001272_4",
+                "Asset.001273_4",
+                "Asset.001274_4",
+                "Asset.001275_4",
+                "Asset.001276_4",
+                "Asset.001277_4"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1280",
-                "1.Hair_1281",
-                "1.Hair_1282",
-                "1.Hair_1283",
-                "1.Hair_1284",
-                "1.Hair_1285"
+                "Asset.001280_4",
+                "Asset.001281_4",
+                "Asset.001282_4",
+                "Asset.001283_4",
+                "Asset.001284_4",
+                "Asset.001285_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1288",
-                "1.Hair_1289",
-                "1.Hair_1290",
-                "1.Hair_1291",
-                "1.Hair_1292",
-                "1.Hair_1293"
+                "Asset.001288_4",
+                "Asset.001289_4",
+                "Asset.001290_4",
+                "Asset.001291_4",
+                "Asset.001292_4",
+                "Asset.001293_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1296",
-                "1.Hair_1297",
-                "1.Hair_1298",
-                "1.Hair_1299",
-                "1.Hair_1300",
-                "1.Hair_1301"
+                "Asset.001296_4",
+                "Asset.001297_4",
+                "Asset.001298_4",
+                "Asset.001299_4",
+                "Asset.001300_4",
+                "Asset.001301_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1304",
-                "1.Hair_1305",
-                "1.Hair_1306",
-                "1.Hair_1307",
-                "1.Hair_1308",
-                "1.Hair_1309"
+                "Asset.001304_4",
+                "Asset.001305_4",
+                "Asset.001306_4",
+                "Asset.001307_4",
+                "Asset.001308_4",
+                "Asset.001309_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1312",
-                "1.Hair_1313",
-                "1.Hair_1314",
-                "1.Hair_1315",
-                "1.Hair_1316",
-                "1.Hair_1317"
+                "Asset.001312_4",
+                "Asset.001313_4",
+                "Asset.001314_4",
+                "Asset.001315_4",
+                "Asset.001316_4",
+                "Asset.001317_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1320",
-                "1.Hair_1321",
-                "1.Hair_1322",
-                "1.Hair_1323",
-                "1.Hair_1324",
-                "1.Hair_1325"
+                "Asset.001320_4",
+                "Asset.001321_4",
+                "Asset.001322_4",
+                "Asset.001323_4",
+                "Asset.001324_4",
+                "Asset.001325_4"
               ]
             }
           ]
@@ -185,183 +185,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1328",
-                "1.Hair_1329",
-                "1.Hair_1330",
-                "1.Hair_1331",
-                "1.Hair_1332",
-                "1.Hair_1333"
+                "Asset.001328_2",
+                "Asset.001329_2",
+                "Asset.001330_3",
+                "Asset.001331_3",
+                "Asset.001332_3",
+                "Asset.001333_3"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1336",
-                "1.Hair_1337",
-                "1.Hair_1338",
-                "1.Hair_1339",
-                "1.Hair_1340",
-                "1.Hair_1341"
+                "Asset.001336_3",
+                "Asset.001337_3",
+                "Asset.001338_3",
+                "Asset.001339_3",
+                "Asset.001340_3",
+                "Asset.001341_3"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1344",
-                "1.Hair_1345",
-                "1.Hair_1346",
-                "1.Hair_1347",
-                "1.Hair_1348",
-                "1.Hair_1349"
+                "Asset.001344",
+                "Asset.001345",
+                "Asset.001346_3",
+                "Asset.001347_3",
+                "Asset.001348_3",
+                "Asset.001349_3"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1352",
-                "1.Hair_1353",
-                "1.Hair_1354",
-                "1.Hair_1355",
-                "1.Hair_1356",
-                "1.Hair_1357"
+                "Asset.001352_3",
+                "Asset.001353_3",
+                "Asset.001354_3",
+                "Asset.001355_3",
+                "Asset.001356_3",
+                "Asset.001357_3"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1360",
-                "1.Hair_1361",
-                "1.Hair_1362",
-                "1.Hair_1363",
-                "1.Hair_1364",
-                "1.Hair_1365"
+                "Asset.001360_3",
+                "Asset.001361_3",
+                "Asset.001362_3",
+                "Asset.001363_3",
+                "Asset.001364_3",
+                "Asset.001365_3"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1368",
-                "1.Hair_1369",
-                "1.Hair_1370",
-                "1.Hair_1371",
-                "1.Hair_1372",
-                "1.Hair_1373"
+                "Asset.001368_3",
+                "Asset.001369_3",
+                "Asset.001370_3",
+                "Asset.001371_3",
+                "Asset.001372_3",
+                "Asset.001373_3"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1376",
-                "1.Hair_1377",
-                "1.Hair_1378",
-                "1.Hair_1379",
-                "1.Hair_1380",
-                "1.Hair_1381"
+                "Asset.001376",
+                "Asset.001377",
+                "Asset.001378",
+                "Asset.001379",
+                "Asset.001380_4",
+                "Asset.001381_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1384",
-                "1.Hair_1385",
-                "1.Hair_1386",
-                "1.Hair_1387",
-                "1.Hair_1388",
-                "1.Hair_1389"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Attack",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_1400",
-                "1.Hair_1401",
-                "1.Hair_1402",
-                "1.Hair_1403",
-                "1.Hair_1404",
-                "1.Hair_1405"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_1408",
-                "1.Hair_1409",
-                "1.Hair_1410",
-                "1.Hair_1411",
-                "1.Hair_1412",
-                "1.Hair_1413"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_1416",
-                "1.Hair_1417",
-                "1.Hair_1418",
-                "1.Hair_1419",
-                "1.Hair_1420",
-                "1.Hair_1421"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_1424",
-                "1.Hair_1425",
-                "1.Hair_1426",
-                "1.Hair_1427",
-                "1.Hair_1428",
-                "1.Hair_1429"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_1432",
-                "1.Hair_1433",
-                "1.Hair_1434",
-                "1.Hair_1435",
-                "1.Hair_1436",
-                "1.Hair_1437"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_1440",
-                "1.Hair_1441",
-                "1.Hair_1442",
-                "1.Hair_1443",
-                "1.Hair_1444",
-                "1.Hair_1445"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_1448",
-                "1.Hair_1449",
-                "1.Hair_1450",
-                "1.Hair_1451",
-                "1.Hair_1452",
-                "1.Hair_1453"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_1456",
-                "1.Hair_1457",
-                "1.Hair_1458",
-                "1.Hair_1459",
-                "1.Hair_1460",
-                "1.Hair_1461"
+                "Asset.001384_2",
+                "Asset.001385_2",
+                "Asset.001386_2",
+                "Asset.001387_2",
+                "Asset.001388_2",
+                "Asset.001389_2"
               ]
             }
           ]
@@ -373,291 +279,143 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1392"
+                "Asset.001392_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1393"
+                "Asset.001393_2"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1394"
+                "Asset.001394_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1395"
+                "Asset.001395_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1396"
+                "Asset.001396_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1397"
+                "Asset.001397_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1398"
+                "Asset.001398_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1399"
+                "Asset.001399_4"
               ]
             }
           ]
         },
         {
-          "Action": "Cast",
+          "Action": "Attack",
           "FramesPerSecond": 5,
           "Directions": [
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1592",
-                "1.Hair_1593",
-                "1.Hair_1594",
-                "1.Hair_1595",
-                "1.Hair_1596",
-                "1.Hair_1597"
+                "Asset.001400_4",
+                "Asset.001401_4",
+                "Asset.001402_2",
+                "Asset.001403_2",
+                "Asset.001404_4",
+                "Asset.001405_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1600",
-                "1.Hair_1601",
-                "1.Hair_1602",
-                "1.Hair_1603",
-                "1.Hair_1604",
-                "1.Hair_1605"
+                "Asset.001408_4",
+                "Asset.001409_4",
+                "Asset.001410_4",
+                "Asset.001411_4",
+                "Asset.001412_4",
+                "Asset.001413_4"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1608",
-                "1.Hair_1609",
-                "1.Hair_1610",
-                "1.Hair_1611",
-                "1.Hair_1612",
-                "1.Hair_1613"
+                "Asset.001416_4",
+                "Asset.001417_4",
+                "Asset.001418_2",
+                "Asset.001419_2",
+                "Asset.001420_4",
+                "Asset.001421_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1616",
-                "1.Hair_1617",
-                "1.Hair_1618",
-                "1.Hair_1619",
-                "1.Hair_1620",
-                "1.Hair_1621"
+                "Asset.001424_2",
+                "Asset.001425_4",
+                "Asset.001426_4",
+                "Asset.001427_4",
+                "Asset.001428_4",
+                "Asset.001429_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1624",
-                "1.Hair_1625",
-                "1.Hair_1626",
-                "1.Hair_1627",
-                "1.Hair_1628",
-                "1.Hair_1629"
+                "Asset.001432_4",
+                "Asset.001433_4",
+                "Asset.001434_4",
+                "Asset.001435_4",
+                "Asset.001436_4",
+                "Asset.001437_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1632",
-                "1.Hair_1633",
-                "1.Hair_1634",
-                "1.Hair_1635",
-                "1.Hair_1636",
-                "1.Hair_1637"
+                "Asset.001440_4",
+                "Asset.001441_4",
+                "Asset.001442_4",
+                "Asset.001443_4",
+                "Asset.001444_2",
+                "Asset.001445_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1640",
-                "1.Hair_1641",
-                "1.Hair_1642",
-                "1.Hair_1643",
-                "1.Hair_1644",
-                "1.Hair_1645"
+                "Asset.001448_4",
+                "Asset.001449_4",
+                "Asset.001450_4",
+                "Asset.001451_4",
+                "Asset.001452_4",
+                "Asset.001453_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1648",
-                "1.Hair_1649",
-                "1.Hair_1650",
-                "1.Hair_1651",
-                "1.Hair_1652",
-                "1.Hair_1653"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Hit",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_1672",
-                "1.Hair_1673",
-                "1.Hair_1674"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_1680",
-                "1.Hair_1681",
-                "1.Hair_1682"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_1688",
-                "1.Hair_1689",
-                "1.Hair_1690"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_1696",
-                "1.Hair_1697",
-                "1.Hair_1698"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_1704",
-                "1.Hair_1705",
-                "1.Hair_1706"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_1712",
-                "1.Hair_1713",
-                "1.Hair_1714"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_1720",
-                "1.Hair_1721",
-                "1.Hair_1722"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_1728",
-                "1.Hair_1729",
-                "1.Hair_1730"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Death",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_1736",
-                "1.Hair_1737",
-                "1.Hair_1738",
-                "1.Hair_1739"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_1744",
-                "1.Hair_1745",
-                "1.Hair_1746",
-                "1.Hair_1747"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_1752",
-                "1.Hair_1753",
-                "1.Hair_1754",
-                "1.Hair_1755"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_1760",
-                "1.Hair_1761",
-                "1.Hair_1762",
-                "1.Hair_1763"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_1768",
-                "1.Hair_1769",
-                "1.Hair_1770",
-                "1.Hair_1771"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_1776",
-                "1.Hair_1777",
-                "1.Hair_1778",
-                "1.Hair_1779"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_1784",
-                "1.Hair_1785",
-                "1.Hair_1786",
-                "1.Hair_1787"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_1792",
-                "1.Hair_1793",
-                "1.Hair_1794",
-                "1.Hair_1795"
+                "Asset.001456_3",
+                "Asset.001457_4",
+                "Asset.001458_4",
+                "Asset.001459_4",
+                "Asset.001460_3",
+                "Asset.001461_4"
               ]
             }
           ]
@@ -669,151 +427,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1464",
-                "1.Hair_1465",
-                "1.Hair_1466",
-                "1.Hair_1467",
-                "1.Hair_1468",
-                "1.Hair_1469"
+                "Asset.001464_2",
+                "Asset.001465_2",
+                "Asset.001466_2",
+                "Asset.001467_2",
+                "Asset.001468_2",
+                "Asset.001469_2"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1472",
-                "1.Hair_1473",
-                "1.Hair_1474",
-                "1.Hair_1475",
-                "1.Hair_1476",
-                "1.Hair_1477"
+                "Asset.001472_2",
+                "Asset.001473_4",
+                "Asset.001474_2",
+                "Asset.001475_3",
+                "Asset.001476_3",
+                "Asset.001477_3"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1480",
-                "1.Hair_1481",
-                "1.Hair_1482",
-                "1.Hair_1483",
-                "1.Hair_1484",
-                "1.Hair_1485"
+                "Asset.001480_3",
+                "Asset.001481_4",
+                "Asset.001482_4",
+                "Asset.001483_2",
+                "Asset.001484_2",
+                "Asset.001485_2"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1488",
-                "1.Hair_1489",
-                "1.Hair_1490",
-                "1.Hair_1491",
-                "1.Hair_1492",
-                "1.Hair_1493"
+                "Asset.001488_2",
+                "Asset.001489_2",
+                "Asset.001490_2",
+                "Asset.001491_2",
+                "Asset.001492_2",
+                "Asset.001493_2"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1496",
-                "1.Hair_1497",
-                "1.Hair_1498",
-                "1.Hair_1499",
-                "1.Hair_1500",
-                "1.Hair_1501"
+                "Asset.001496_2",
+                "Asset.001497_4",
+                "Asset.001498_4",
+                "Asset.001499_4",
+                "Asset.001500_4",
+                "Asset.001501_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1504",
-                "1.Hair_1505",
-                "1.Hair_1506",
-                "1.Hair_1507",
-                "1.Hair_1508",
-                "1.Hair_1509"
+                "Asset.001504_3",
+                "Asset.001505_3",
+                "Asset.001506_3",
+                "Asset.001507_3",
+                "Asset.001508_3",
+                "Asset.001509_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1512",
-                "1.Hair_1513",
-                "1.Hair_1514",
-                "1.Hair_1515",
-                "1.Hair_1516",
-                "1.Hair_1517"
+                "Asset.001512_2",
+                "Asset.001513_2",
+                "Asset.001514_2",
+                "Asset.001515_4",
+                "Asset.001516_4",
+                "Asset.001517_2"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1520",
-                "1.Hair_1521",
-                "1.Hair_1522",
-                "1.Hair_1523",
-                "1.Hair_1524",
-                "1.Hair_1525"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Explore",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_1656",
-                "1.Hair_1657"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_1658",
-                "1.Hair_1659"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_1660",
-                "1.Hair_1661"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_1662",
-                "1.Hair_1663"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_1664",
-                "1.Hair_1665"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_1666",
-                "1.Hair_1667"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_1668",
-                "1.Hair_1669"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_1670",
-                "1.Hair_1671"
+                "Asset.001520_4",
+                "Asset.001521_4",
+                "Asset.001522_4",
+                "Asset.001523_4",
+                "Asset.001524_4",
+                "Asset.001525_4"
               ]
             }
           ]
@@ -825,105 +521,409 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1528",
-                "1.Hair_1529",
-                "1.Hair_1530",
-                "1.Hair_1531",
-                "1.Hair_1532",
-                "1.Hair_1533",
-                "1.Hair_1534",
-                "1.Hair_1535"
+                "Asset.001528_4",
+                "Asset.001529_3",
+                "Asset.001530_4",
+                "Asset.001531_4",
+                "Asset.001532_4",
+                "Asset.001533_2",
+                "Asset.001534_2",
+                "Asset.001535_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1536",
-                "1.Hair_1537",
-                "1.Hair_1538",
-                "1.Hair_1539",
-                "1.Hair_1540",
-                "1.Hair_1541",
-                "1.Hair_1542",
-                "1.Hair_1543"
+                "Asset.001536_4",
+                "Asset.001537_2",
+                "Asset.001538",
+                "Asset.001539",
+                "Asset.001540_2",
+                "Asset.001541_2",
+                "Asset.001542_2",
+                "Asset.001543_2"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1544",
-                "1.Hair_1545",
-                "1.Hair_1546",
-                "1.Hair_1547",
-                "1.Hair_1548",
-                "1.Hair_1549",
-                "1.Hair_1550",
-                "1.Hair_1551"
+                "Asset.001544_2",
+                "Asset.001545_2",
+                "Asset.001546_2",
+                "Asset.001547_2",
+                "Asset.001548_2",
+                "Asset.001549_2",
+                "Asset.001550_4",
+                "Asset.001551_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1552",
-                "1.Hair_1553",
-                "1.Hair_1554",
-                "1.Hair_1555",
-                "1.Hair_1556",
-                "1.Hair_1557",
-                "1.Hair_1558",
-                "1.Hair_1559"
+                "Asset.001552_4",
+                "Asset.001553_4",
+                "Asset.001554_4",
+                "Asset.001555_3",
+                "Asset.001556_3",
+                "Asset.001557_3",
+                "Asset.001558_3",
+                "Asset.001559_3"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1560",
-                "1.Hair_1561",
-                "1.Hair_1562",
-                "1.Hair_1563",
-                "1.Hair_1564",
-                "1.Hair_1565",
-                "1.Hair_1566",
-                "1.Hair_1567"
+                "Asset.001560_4",
+                "Asset.001561_2",
+                "Asset.001562_2",
+                "Asset.001563_2",
+                "Asset.001564_4",
+                "Asset.001565_4",
+                "Asset.001566_4",
+                "Asset.001567_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1568",
-                "1.Hair_1569",
-                "1.Hair_1570",
-                "1.Hair_1571",
-                "1.Hair_1572",
-                "1.Hair_1573",
-                "1.Hair_1574",
-                "1.Hair_1575"
+                "Asset.001568_4",
+                "Asset.001569_4",
+                "Asset.001570_4",
+                "Asset.001571_4",
+                "Asset.001572_4",
+                "Asset.001573_4",
+                "Asset.001574_4",
+                "Asset.001575_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1576",
-                "1.Hair_1577",
-                "1.Hair_1578",
-                "1.Hair_1579",
-                "1.Hair_1580",
-                "1.Hair_1581",
-                "1.Hair_1582",
-                "1.Hair_1583"
+                "Asset.001576_4",
+                "Asset.001577_4",
+                "Asset.001578_4",
+                "Asset.001579_4",
+                "Asset.001580_4",
+                "Asset.001581_4",
+                "Asset.001582_4",
+                "Asset.001583_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1584",
-                "1.Hair_1585",
-                "1.Hair_1586",
-                "1.Hair_1587",
-                "1.Hair_1588",
-                "1.Hair_1589",
-                "1.Hair_1590",
-                "1.Hair_1591"
+                "Asset.001584_4",
+                "Asset.001585_4",
+                "Asset.001586_4",
+                "Asset.001587_4",
+                "Asset.001588_4",
+                "Asset.001589_2",
+                "Asset.001590_4",
+                "Asset.001591_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001592_2",
+                "Asset.001593_4",
+                "Asset.001594_2",
+                "Asset.001595_2",
+                "Asset.001596_2",
+                "Asset.001597_2"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001600_4",
+                "Asset.001601_4",
+                "Asset.001602_2",
+                "Asset.001603_4",
+                "Asset.001604_2",
+                "Asset.001605"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001608",
+                "Asset.001609",
+                "Asset.001610_3",
+                "Asset.001611_3",
+                "Asset.001612_3",
+                "Asset.001613_3"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001616_3",
+                "Asset.001617_3",
+                "Asset.001618_3",
+                "Asset.001619_3",
+                "Asset.001620_3",
+                "Asset.001621"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001624_3",
+                "Asset.001625_3",
+                "Asset.001626",
+                "Asset.001627_3",
+                "Asset.001628_3",
+                "Asset.001629_3"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001632_3",
+                "Asset.001633_3",
+                "Asset.001634_3",
+                "Asset.001635_2",
+                "Asset.001636_4",
+                "Asset.001637_4"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001640_3",
+                "Asset.001641_3",
+                "Asset.001642_3",
+                "Asset.001643_3",
+                "Asset.001644",
+                "Asset.001645_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001648_3",
+                "Asset.001649_3",
+                "Asset.001650_4",
+                "Asset.001651_2",
+                "Asset.001652_4",
+                "Asset.001653_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001656_4",
+                "Asset.001657_4"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001658_2",
+                "Asset.001659_2"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001660_2",
+                "Asset.001661_2"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001662_2",
+                "Asset.001663_2"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001664_4",
+                "Asset.001665_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001666_4",
+                "Asset.001667_4"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001668_4",
+                "Asset.001669_4"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001670_4",
+                "Asset.001671_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001672_4",
+                "Asset.001673_4",
+                "Asset.001674_4"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001680_4",
+                "Asset.001681_4",
+                "Asset.001682_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001688_3",
+                "Asset.001689_3",
+                "Asset.001690_4"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001696_4",
+                "Asset.001697_4",
+                "Asset.001698_4"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001704_3",
+                "Asset.001705_3",
+                "Asset.001706"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001712_4",
+                "Asset.001713_4",
+                "Asset.001714_4"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001720_4",
+                "Asset.001721_4",
+                "Asset.001722_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001728",
+                "Asset.001729",
+                "Asset.001730_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001736_4",
+                "Asset.001737_2",
+                "Asset.001738_2",
+                "Asset.001739_2"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001744_3",
+                "Asset.001745_3",
+                "Asset.001746",
+                "Asset.001747"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001752_4",
+                "Asset.001753_4",
+                "Asset.001754_4",
+                "Asset.001755_4"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001760_4",
+                "Asset.001761_4",
+                "Asset.001762_3",
+                "Asset.001763_3"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001768_3",
+                "Asset.001769_3",
+                "Asset.001770_4",
+                "Asset.001771_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001776_4",
+                "Asset.001777_4",
+                "Asset.001778_4",
+                "Asset.001779_4"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001784_4",
+                "Asset.001785_4",
+                "Asset.001786_4",
+                "Asset.001787_4"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001792_4",
+                "Asset.001793_4",
+                "Asset.001794_4",
+                "Asset.001795_4"
               ]
             }
           ]
@@ -941,73 +941,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1800",
-                "1.Hair_1801",
-                "1.Hair_1802",
-                "1.Hair_1803"
+                "Asset.001800_4",
+                "Asset.001801_4",
+                "Asset.001802_4",
+                "Asset.001803_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1808",
-                "1.Hair_1809",
-                "1.Hair_1810",
-                "1.Hair_1811"
+                "Asset.001808_2",
+                "Asset.001809_2",
+                "Asset.001810_3",
+                "Asset.001811_3"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1816",
-                "1.Hair_1817",
-                "1.Hair_1818",
-                "1.Hair_1819"
+                "Asset.001816",
+                "Asset.001817",
+                "Asset.001818",
+                "Asset.001819"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1824",
-                "1.Hair_1825",
-                "1.Hair_1826",
-                "1.Hair_1827"
+                "Asset.001824_3",
+                "Asset.001825_3",
+                "Asset.001826",
+                "Asset.001827"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1832",
-                "1.Hair_1833",
-                "1.Hair_1834",
-                "1.Hair_1835"
+                "Asset.001832",
+                "Asset.001833",
+                "Asset.001834",
+                "Asset.001835"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1840",
-                "1.Hair_1841",
-                "1.Hair_1842",
-                "1.Hair_1843"
+                "Asset.001840_3",
+                "Asset.001841_3",
+                "Asset.001842_3",
+                "Asset.001843_3"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1848",
-                "1.Hair_1849",
-                "1.Hair_1850",
-                "1.Hair_1851"
+                "Asset.001848",
+                "Asset.001849",
+                "Asset.001850_3",
+                "Asset.001851_3"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1856",
-                "1.Hair_1857",
-                "1.Hair_1858",
-                "1.Hair_1859"
+                "Asset.001856_3",
+                "Asset.001857",
+                "Asset.001858",
+                "Asset.001859"
               ]
             }
           ]
@@ -1019,89 +1019,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1864",
-                "1.Hair_1865",
-                "1.Hair_1866",
-                "1.Hair_1867",
-                "1.Hair_1868",
-                "1.Hair_1869"
+                "Asset.001864_4",
+                "Asset.001865_4",
+                "Asset.001866_4",
+                "Asset.001867_2",
+                "Asset.001868_2",
+                "Asset.001869_2"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1872",
-                "1.Hair_1873",
-                "1.Hair_1874",
-                "1.Hair_1875",
-                "1.Hair_1876",
-                "1.Hair_1877"
+                "Asset.001872_2",
+                "Asset.001873_2",
+                "Asset.001874_2",
+                "Asset.001875_2",
+                "Asset.001876_2",
+                "Asset.001877_2"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1880",
-                "1.Hair_1881",
-                "1.Hair_1882",
-                "1.Hair_1883",
-                "1.Hair_1884",
-                "1.Hair_1885"
+                "Asset.001880_4",
+                "Asset.001881_2",
+                "Asset.001882_2",
+                "Asset.001883_2",
+                "Asset.001884_2",
+                "Asset.001885_2"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1888",
-                "1.Hair_1889",
-                "1.Hair_1890",
-                "1.Hair_1891",
-                "1.Hair_1892",
-                "1.Hair_1893"
+                "Asset.001888_2",
+                "Asset.001889_2",
+                "Asset.001890_2",
+                "Asset.001891_2",
+                "Asset.001892_2",
+                "Asset.001893_2"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1896",
-                "1.Hair_1897",
-                "1.Hair_1898",
-                "1.Hair_1899",
-                "1.Hair_1900",
-                "1.Hair_1901"
+                "Asset.001896_2",
+                "Asset.001897_2",
+                "Asset.001898_2",
+                "Asset.001899_2",
+                "Asset.001900_4",
+                "Asset.001901_2"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1904",
-                "1.Hair_1905",
-                "1.Hair_1906",
-                "1.Hair_1907",
-                "1.Hair_1908",
-                "1.Hair_1909"
+                "Asset.001904_2",
+                "Asset.001905_2",
+                "Asset.001906_2",
+                "Asset.001907_2",
+                "Asset.001908_2",
+                "Asset.001909_2"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1912",
-                "1.Hair_1913",
-                "1.Hair_1914",
-                "1.Hair_1915",
-                "1.Hair_1916",
-                "1.Hair_1917"
+                "Asset.001912_2",
+                "Asset.001913_2",
+                "Asset.001914_2",
+                "Asset.001915_2",
+                "Asset.001916_2",
+                "Asset.001917_2"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1920",
-                "1.Hair_1921",
-                "1.Hair_1922",
-                "1.Hair_1923",
-                "1.Hair_1924",
-                "1.Hair_1925"
+                "Asset.001920_2",
+                "Asset.001921_2",
+                "Asset.001922_2",
+                "Asset.001923_2",
+                "Asset.001924_2",
+                "Asset.001925_2"
               ]
             }
           ]
@@ -1113,183 +1113,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1928",
-                "1.Hair_1929",
-                "1.Hair_1930",
-                "1.Hair_1931",
-                "1.Hair_1932",
-                "1.Hair_1933"
+                "Asset.001928_2",
+                "Asset.001929_2",
+                "Asset.001930_2",
+                "Asset.001931_2",
+                "Asset.001932_2",
+                "Asset.001933_2"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1936",
-                "1.Hair_1937",
-                "1.Hair_1938",
-                "1.Hair_1939",
-                "1.Hair_1940",
-                "1.Hair_1941"
+                "Asset.001936_2",
+                "Asset.001937_2",
+                "Asset.001938_2",
+                "Asset.001939_2",
+                "Asset.001940_4",
+                "Asset.001941_4"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1944",
-                "1.Hair_1945",
-                "1.Hair_1946",
-                "1.Hair_1947",
-                "1.Hair_1948",
-                "1.Hair_1949"
+                "Asset.001944_4",
+                "Asset.001945_4",
+                "Asset.001946_4",
+                "Asset.001947_4",
+                "Asset.001948_4",
+                "Asset.001949_2"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1952",
-                "1.Hair_1953",
-                "1.Hair_1954",
-                "1.Hair_1955",
-                "1.Hair_1956",
-                "1.Hair_1957"
+                "Asset.001952_4",
+                "Asset.001953_4",
+                "Asset.001954_4",
+                "Asset.001955_4",
+                "Asset.001956_4",
+                "Asset.001957_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1960",
-                "1.Hair_1961",
-                "1.Hair_1962",
-                "1.Hair_1963",
-                "1.Hair_1964",
-                "1.Hair_1965"
+                "Asset.001960_4",
+                "Asset.001961_4",
+                "Asset.001962_4",
+                "Asset.001963_4",
+                "Asset.001964_4",
+                "Asset.001965_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1968",
-                "1.Hair_1969",
-                "1.Hair_1970",
-                "1.Hair_1971",
-                "1.Hair_1972",
-                "1.Hair_1973"
+                "Asset.001968_4",
+                "Asset.001969",
+                "Asset.001970_4",
+                "Asset.001971_4",
+                "Asset.001972_4",
+                "Asset.001973_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1976",
-                "1.Hair_1977",
-                "1.Hair_1978",
-                "1.Hair_1979",
-                "1.Hair_1980",
-                "1.Hair_1981"
+                "Asset.001976_4",
+                "Asset.001977_4",
+                "Asset.001978_4",
+                "Asset.001979_2",
+                "Asset.001980_2",
+                "Asset.001981_2"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1984",
-                "1.Hair_1985",
-                "1.Hair_1986",
-                "1.Hair_1987",
-                "1.Hair_1988",
-                "1.Hair_1989"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Attack",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_2000",
-                "1.Hair_2001",
-                "1.Hair_2002",
-                "1.Hair_2003",
-                "1.Hair_2004",
-                "1.Hair_2005"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_2008",
-                "1.Hair_2009",
-                "1.Hair_2010",
-                "1.Hair_2011",
-                "1.Hair_2012",
-                "1.Hair_2013"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_2016",
-                "1.Hair_2017",
-                "1.Hair_2018",
-                "1.Hair_2019",
-                "1.Hair_2020",
-                "1.Hair_2021"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_2024",
-                "1.Hair_2025",
-                "1.Hair_2026",
-                "1.Hair_2027",
-                "1.Hair_2028",
-                "1.Hair_2029"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_2032",
-                "1.Hair_2033",
-                "1.Hair_2034",
-                "1.Hair_2035",
-                "1.Hair_2036",
-                "1.Hair_2037"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_2040",
-                "1.Hair_2041",
-                "1.Hair_2042",
-                "1.Hair_2043",
-                "1.Hair_2044",
-                "1.Hair_2045"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_2048",
-                "1.Hair_2049",
-                "1.Hair_2050",
-                "1.Hair_2051",
-                "1.Hair_2052",
-                "1.Hair_2053"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_2056",
-                "1.Hair_2057",
-                "1.Hair_2058",
-                "1.Hair_2059",
-                "1.Hair_2060",
-                "1.Hair_2061"
+                "Asset.001984_2",
+                "Asset.001985_2",
+                "Asset.001986_2",
+                "Asset.001987_2",
+                "Asset.001988_2",
+                "Asset.001989_2"
               ]
             }
           ]
@@ -1301,291 +1207,143 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_1992"
+                "Asset.001992_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_1993"
+                "Asset.001993_4"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_1994"
+                "Asset.001994_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_1995"
+                "Asset.001995_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_1996"
+                "Asset.001996_4"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_1997"
+                "Asset.001997_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_1998"
+                "Asset.001998_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_1999"
+                "Asset.001999_2"
               ]
             }
           ]
         },
         {
-          "Action": "Cast",
+          "Action": "Attack",
           "FramesPerSecond": 5,
           "Directions": [
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_2192",
-                "1.Hair_2193",
-                "1.Hair_2194",
-                "1.Hair_2195",
-                "1.Hair_2196",
-                "1.Hair_2197"
+                "Asset.002000_4",
+                "Asset.002001_4",
+                "Asset.002002_4",
+                "Asset.002003_4",
+                "Asset.002004_4",
+                "Asset.002005_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_2200",
-                "1.Hair_2201",
-                "1.Hair_2202",
-                "1.Hair_2203",
-                "1.Hair_2204",
-                "1.Hair_2205"
+                "Asset.002008_4",
+                "Asset.002009_2",
+                "Asset.002010_4",
+                "Asset.002011_4",
+                "Asset.002012_4",
+                "Asset.002013_4"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_2208",
-                "1.Hair_2209",
-                "1.Hair_2210",
-                "1.Hair_2211",
-                "1.Hair_2212",
-                "1.Hair_2213"
+                "Asset.002016_4",
+                "Asset.002017_4",
+                "Asset.002018_4",
+                "Asset.002019_2",
+                "Asset.002020_4",
+                "Asset.002021_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_2216",
-                "1.Hair_2217",
-                "1.Hair_2218",
-                "1.Hair_2219",
-                "1.Hair_2220",
-                "1.Hair_2221"
+                "Asset.002024_4",
+                "Asset.002025_4",
+                "Asset.002026_4",
+                "Asset.002027_4",
+                "Asset.002028_4",
+                "Asset.002029_2"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_2224",
-                "1.Hair_2225",
-                "1.Hair_2226",
-                "1.Hair_2227",
-                "1.Hair_2228",
-                "1.Hair_2229"
+                "Asset.002032_2",
+                "Asset.002033_2",
+                "Asset.002034_2",
+                "Asset.002035_2",
+                "Asset.002036_2",
+                "Asset.002037_2"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_2232",
-                "1.Hair_2233",
-                "1.Hair_2234",
-                "1.Hair_2235",
-                "1.Hair_2236",
-                "1.Hair_2237"
+                "Asset.002040_4",
+                "Asset.002041_4",
+                "Asset.002042_4",
+                "Asset.002043_4",
+                "Asset.002044_4",
+                "Asset.002045_4"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_2240",
-                "1.Hair_2241",
-                "1.Hair_2242",
-                "1.Hair_2243",
-                "1.Hair_2244",
-                "1.Hair_2245"
+                "Asset.002048_4",
+                "Asset.002049_2",
+                "Asset.002050_4",
+                "Asset.002051_4",
+                "Asset.002052_4",
+                "Asset.002053_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_2248",
-                "1.Hair_2249",
-                "1.Hair_2250",
-                "1.Hair_2251",
-                "1.Hair_2252",
-                "1.Hair_2253"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Hit",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_2272",
-                "1.Hair_2273",
-                "1.Hair_2274"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_2280",
-                "1.Hair_2281",
-                "1.Hair_2282"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_2288",
-                "1.Hair_2289",
-                "1.Hair_2290"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_2296",
-                "1.Hair_2297",
-                "1.Hair_2298"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_2304",
-                "1.Hair_2305",
-                "1.Hair_2306"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_2312",
-                "1.Hair_2313",
-                "1.Hair_2314"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_2320",
-                "1.Hair_2321",
-                "1.Hair_2322"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_2328",
-                "1.Hair_2329",
-                "1.Hair_2330"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Death",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_2336",
-                "1.Hair_2337",
-                "1.Hair_2338",
-                "1.Hair_2339"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_2344",
-                "1.Hair_2345",
-                "1.Hair_2346",
-                "1.Hair_2347"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_2352",
-                "1.Hair_2353",
-                "1.Hair_2354",
-                "1.Hair_2355"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_2360",
-                "1.Hair_2361",
-                "1.Hair_2362",
-                "1.Hair_2363"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_2368",
-                "1.Hair_2369",
-                "1.Hair_2370",
-                "1.Hair_2371"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_2376",
-                "1.Hair_2377",
-                "1.Hair_2378",
-                "1.Hair_2379"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_2384",
-                "1.Hair_2385",
-                "1.Hair_2386",
-                "1.Hair_2387"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_2392",
-                "1.Hair_2393",
-                "1.Hair_2394",
-                "1.Hair_2395"
+                "Asset.002056_4",
+                "Asset.002057_4",
+                "Asset.002058_4",
+                "Asset.002059_2",
+                "Asset.002060_2",
+                "Asset.002061_2"
               ]
             }
           ]
@@ -1597,151 +1355,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_2064",
-                "1.Hair_2065",
-                "1.Hair_2066",
-                "1.Hair_2067",
-                "1.Hair_2068",
-                "1.Hair_2069"
+                "Asset.002064_2",
+                "Asset.002065_2",
+                "Asset.002066_2",
+                "Asset.002067_2",
+                "Asset.002068_2",
+                "Asset.002069_2"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_2072",
-                "1.Hair_2073",
-                "1.Hair_2074",
-                "1.Hair_2075",
-                "1.Hair_2076",
-                "1.Hair_2077"
+                "Asset.002072_2",
+                "Asset.002073_2",
+                "Asset.002074_2",
+                "Asset.002075_2",
+                "Asset.002076_2",
+                "Asset.002077_2"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_2080",
-                "1.Hair_2081",
-                "1.Hair_2082",
-                "1.Hair_2083",
-                "1.Hair_2084",
-                "1.Hair_2085"
+                "Asset.002080_4",
+                "Asset.002081_4",
+                "Asset.002082_2",
+                "Asset.002083_2",
+                "Asset.002084_2",
+                "Asset.002085_2"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_2088",
-                "1.Hair_2089",
-                "1.Hair_2090",
-                "1.Hair_2091",
-                "1.Hair_2092",
-                "1.Hair_2093"
+                "Asset.002088_2",
+                "Asset.002089_2",
+                "Asset.002090_4",
+                "Asset.002091_4",
+                "Asset.002092_4",
+                "Asset.002093_4"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_2096",
-                "1.Hair_2097",
-                "1.Hair_2098",
-                "1.Hair_2099",
-                "1.Hair_2100",
-                "1.Hair_2101"
+                "Asset.002096_4",
+                "Asset.002097_2",
+                "Asset.002098_2",
+                "Asset.002099_2",
+                "Asset.002100_2",
+                "Asset.002101_2"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_2104",
-                "1.Hair_2105",
-                "1.Hair_2106",
-                "1.Hair_2107",
-                "1.Hair_2108",
-                "1.Hair_2109"
+                "Asset.002104_2",
+                "Asset.002105_2",
+                "Asset.002106_2",
+                "Asset.002107_2",
+                "Asset.002108_2",
+                "Asset.002109_2"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_2112",
-                "1.Hair_2113",
-                "1.Hair_2114",
-                "1.Hair_2115",
-                "1.Hair_2116",
-                "1.Hair_2117"
+                "Asset.002112_4",
+                "Asset.002113_4",
+                "Asset.002114_4",
+                "Asset.002115_4",
+                "Asset.002116_4",
+                "Asset.002117_2"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_2120",
-                "1.Hair_2121",
-                "1.Hair_2122",
-                "1.Hair_2123",
-                "1.Hair_2124",
-                "1.Hair_2125"
-              ]
-            }
-          ]
-        },
-        {
-          "Action": "Explore",
-          "FramesPerSecond": 5,
-          "Directions": [
-            {
-              "Direction": "Up",
-              "FrameAssetIds": [
-                "1.Hair_2256",
-                "1.Hair_2257"
-              ]
-            },
-            {
-              "Direction": "UpRight",
-              "FrameAssetIds": [
-                "1.Hair_2258",
-                "1.Hair_2259"
-              ]
-            },
-            {
-              "Direction": "Right",
-              "FrameAssetIds": [
-                "1.Hair_2260",
-                "1.Hair_2261"
-              ]
-            },
-            {
-              "Direction": "DownRight",
-              "FrameAssetIds": [
-                "1.Hair_2262",
-                "1.Hair_2263"
-              ]
-            },
-            {
-              "Direction": "Down",
-              "FrameAssetIds": [
-                "1.Hair_2264",
-                "1.Hair_2265"
-              ]
-            },
-            {
-              "Direction": "DownLeft",
-              "FrameAssetIds": [
-                "1.Hair_2266",
-                "1.Hair_2267"
-              ]
-            },
-            {
-              "Direction": "Left",
-              "FrameAssetIds": [
-                "1.Hair_2268",
-                "1.Hair_2269"
-              ]
-            },
-            {
-              "Direction": "UpLeft",
-              "FrameAssetIds": [
-                "1.Hair_2270",
-                "1.Hair_2271"
+                "Asset.002120_2",
+                "Asset.002121_2",
+                "Asset.002122_2",
+                "Asset.002123_2",
+                "Asset.002124_2",
+                "Asset.002125_2"
               ]
             }
           ]
@@ -1753,105 +1449,409 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "1.Hair_2128",
-                "1.Hair_2129",
-                "1.Hair_2130",
-                "1.Hair_2131",
-                "1.Hair_2132",
-                "1.Hair_2133",
-                "1.Hair_2134",
-                "1.Hair_2135"
+                "Asset.002128_2",
+                "Asset.002129_2",
+                "Asset.002130_4",
+                "Asset.002131_4",
+                "Asset.002132_4",
+                "Asset.002133_4",
+                "Asset.002134_4",
+                "Asset.002135_4"
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "1.Hair_2136",
-                "1.Hair_2137",
-                "1.Hair_2138",
-                "1.Hair_2139",
-                "1.Hair_2140",
-                "1.Hair_2141",
-                "1.Hair_2142",
-                "1.Hair_2143"
+                "Asset.002136_4",
+                "Asset.002137_2",
+                "Asset.002138_2",
+                "Asset.002139_2",
+                "Asset.002140_4",
+                "Asset.002141_4",
+                "Asset.002142_2",
+                "Asset.002143_2"
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "1.Hair_2144",
-                "1.Hair_2145",
-                "1.Hair_2146",
-                "1.Hair_2147",
-                "1.Hair_2148",
-                "1.Hair_2149",
-                "1.Hair_2150",
-                "1.Hair_2151"
+                "Asset.002144_2",
+                "Asset.002145_2",
+                "Asset.002146_2",
+                "Asset.002147_2",
+                "Asset.002148_2",
+                "Asset.002149_2",
+                "Asset.002150_4",
+                "Asset.002151_4"
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "1.Hair_2152",
-                "1.Hair_2153",
-                "1.Hair_2154",
-                "1.Hair_2155",
-                "1.Hair_2156",
-                "1.Hair_2157",
-                "1.Hair_2158",
-                "1.Hair_2159"
+                "Asset.002152_4",
+                "Asset.002153_2",
+                "Asset.002154_2",
+                "Asset.002155_4",
+                "Asset.002156_4",
+                "Asset.002157_2",
+                "Asset.002158_2",
+                "Asset.002159_2"
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "1.Hair_2160",
-                "1.Hair_2161",
-                "1.Hair_2162",
-                "1.Hair_2163",
-                "1.Hair_2164",
-                "1.Hair_2165",
-                "1.Hair_2166",
-                "1.Hair_2167"
+                "Asset.002160_4",
+                "Asset.002161_4",
+                "Asset.002162_4",
+                "Asset.002163_4",
+                "Asset.002164_4",
+                "Asset.002165_4",
+                "Asset.002166_2",
+                "Asset.002167_2"
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "1.Hair_2168",
-                "1.Hair_2169",
-                "1.Hair_2170",
-                "1.Hair_2171",
-                "1.Hair_2172",
-                "1.Hair_2173",
-                "1.Hair_2174",
-                "1.Hair_2175"
+                "Asset.002168_2",
+                "Asset.002169_2",
+                "Asset.002170_4",
+                "Asset.002171_4",
+                "Asset.002172_4",
+                "Asset.002173_4",
+                "Asset.002174_2",
+                "Asset.002175_2"
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "1.Hair_2176",
-                "1.Hair_2177",
-                "1.Hair_2178",
-                "1.Hair_2179",
-                "1.Hair_2180",
-                "1.Hair_2181",
-                "1.Hair_2182",
-                "1.Hair_2183"
+                "Asset.002176_2",
+                "Asset.002177_2",
+                "Asset.002178_2",
+                "Asset.002179_2",
+                "Asset.002180_4",
+                "Asset.002181_4",
+                "Asset.002182_4",
+                "Asset.002183_4"
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "1.Hair_2184",
-                "1.Hair_2185",
-                "1.Hair_2186",
-                "1.Hair_2187",
-                "1.Hair_2188",
-                "1.Hair_2189",
-                "1.Hair_2190",
-                "1.Hair_2191"
+                "Asset.002184_2",
+                "Asset.002185_2",
+                "Asset.002186_2",
+                "Asset.002187_2",
+                "Asset.002188_2",
+                "Asset.002189_2",
+                "Asset.002190_4",
+                "Asset.002191_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.002192_4",
+                "Asset.002193_4",
+                "Asset.002194_2",
+                "Asset.002195_2",
+                "Asset.002196_2",
+                "Asset.002197_2"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.002200_4",
+                "Asset.002201_4",
+                "Asset.002202_4",
+                "Asset.002203_4",
+                "Asset.002204_4",
+                "Asset.002205_4"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.002208_2",
+                "Asset.002209_2",
+                "Asset.002210_4",
+                "Asset.002211_4",
+                "Asset.002212_4",
+                "Asset.002213_4"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.002216_4",
+                "Asset.002217_4",
+                "Asset.002218_2",
+                "Asset.002219_2",
+                "Asset.002220_4",
+                "Asset.002221_4"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.002224_4",
+                "Asset.002225_4",
+                "Asset.002226_4",
+                "Asset.002227_4",
+                "Asset.002228_2",
+                "Asset.002229_2"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.002232_4",
+                "Asset.002233_4",
+                "Asset.002234_2",
+                "Asset.002235_2",
+                "Asset.002236_2",
+                "Asset.002237_2"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.002240_4",
+                "Asset.002241_4",
+                "Asset.002242_2",
+                "Asset.002243_2",
+                "Asset.002244_2",
+                "Asset.002245_2"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.002248_2",
+                "Asset.002249_2",
+                "Asset.002250_2",
+                "Asset.002251_2",
+                "Asset.002252_2",
+                "Asset.002253_2"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.002256_2",
+                "Asset.002257_2"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.002258_2",
+                "Asset.002259_2"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.002260_2",
+                "Asset.002261_2"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.002262_2",
+                "Asset.002263_2"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.002264_2",
+                "Asset.002265_2"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.002266_2",
+                "Asset.002267_2"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.002268_2",
+                "Asset.002269_2"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.002270_4",
+                "Asset.002271_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.002272_4",
+                "Asset.002273_4",
+                "Asset.002274_4"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.002280_2",
+                "Asset.002281_2",
+                "Asset.002282_2"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.002288_2",
+                "Asset.002289_2",
+                "Asset.002290_4"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.002296_2",
+                "Asset.002297_2",
+                "Asset.002298_2"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.002304_2",
+                "Asset.002305_2",
+                "Asset.002306_2"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.002312_4",
+                "Asset.002313_2",
+                "Asset.002314_2"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.002320_4",
+                "Asset.002321_2",
+                "Asset.002322_2"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.002328_2",
+                "Asset.002329_2",
+                "Asset.002330_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.002336_2",
+                "Asset.002337_2",
+                "Asset.002338_2",
+                "Asset.002339_2"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.002344_4",
+                "Asset.002345_4",
+                "Asset.002346_4",
+                "Asset.002347_4"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.002352_2",
+                "Asset.002353_2",
+                "Asset.002354_2",
+                "Asset.002355_2"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.002360_2",
+                "Asset.002361_2",
+                "Asset.002362_2",
+                "Asset.002363_2"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.002368_2",
+                "Asset.002369_2",
+                "Asset.002370_4",
+                "Asset.002371_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.002376_4",
+                "Asset.002377_4",
+                "Asset.002378_2",
+                "Asset.002379_2"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.002384_2",
+                "Asset.002385",
+                "Asset.002386_2",
+                "Asset.002387_2"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.002392_2",
+                "Asset.002393_2",
+                "Asset.002394_2",
+                "Asset.002395_2"
               ]
             }
           ]

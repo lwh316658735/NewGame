@@ -9,11 +9,16 @@
     "SellPrice": 0,
     "CanSellToNpc": true
   },
-  "Weight": 1,
+  "Weight": 10,
   "IsCharacterBound": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
-    "EquipRequirements": [],
+    "EquipRequirements": [
+      {
+        "RequirementType": "RequiredPhysicalAttack",
+        "RequiredValue": 45
+      }
+    ],
     "MaxDurability": 60000,
     "EquipLocations": [
       "Armor"
@@ -27,7 +32,43 @@
     "QualityRule": {
       "IsEnabled": true
     },
-    "FixedAttributes": [],
+    "FixedAttributes": [
+      {
+        "AttributeId": "MaxHealth",
+        "Operation": "Add",
+        "Value": 500
+      },
+      {
+        "AttributeId": "MinPhysicalAttack",
+        "Operation": "Add",
+        "Value": 0
+      },
+      {
+        "AttributeId": "MaxPhysicalAttack",
+        "Operation": "Add",
+        "Value": 4
+      },
+      {
+        "AttributeId": "MinPhysicalDefense",
+        "Operation": "Add",
+        "Value": 4
+      },
+      {
+        "AttributeId": "MaxPhysicalDefense",
+        "Operation": "Add",
+        "Value": 12
+      },
+      {
+        "AttributeId": "MinMagicDefense",
+        "Operation": "Add",
+        "Value": 3
+      },
+      {
+        "AttributeId": "MaxMagicDefense",
+        "Operation": "Add",
+        "Value": 9
+      }
+    ],
     "FixedAffixRules": []
   },
   "ConsumableItem": null,

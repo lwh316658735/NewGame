@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.log_in_long2",
       "DisplayName": "log-in-long2",
-      "SortOrder": 22107,
+      "SortOrder": 17659,
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/log-in-long2.wav",
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.main_theme",
       "DisplayName": "main_theme",
-      "SortOrder": 22108,
+      "SortOrder": 17660,
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/main_theme.wav",
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.Asset_22",
       "DisplayName": "攻击",
-      "SortOrder": 22109,
+      "SortOrder": 17661,
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/攻击.wav",

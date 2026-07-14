@@ -6,7 +6,7 @@
     {
       "AssetId": "Asset.Asset_17",
       "DisplayName": "系统错误弹窗",
-      "SortOrder": 12432,
+      "SortOrder": 10384,
       "Category": "界面",
       "Subcategory": "提示框",
       "RelativePath": "Client/Assets/界面/提示框/系统错误弹窗.png",
@@ -26,7 +26,7 @@
     {
       "AssetId": "Asset.Asset_18",
       "DisplayName": "系统确认弹窗",
-      "SortOrder": 12433,
+      "SortOrder": 10385,
       "Category": "界面",
       "Subcategory": "提示框",
       "RelativePath": "Client/Assets/界面/提示框/系统确认弹窗.png",
@@ -46,7 +46,7 @@
     {
       "AssetId": "Asset.Asset_19",
       "DisplayName": "系统提示弹窗",
-      "SortOrder": 12434,
+      "SortOrder": 10386,
       "Category": "界面",
       "Subcategory": "提示框",
       "RelativePath": "Client/Assets/界面/提示框/系统提示弹窗.png",
