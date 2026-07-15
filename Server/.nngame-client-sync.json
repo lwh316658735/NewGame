@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Server",
   "TargetClientPath": "",
-  "GeneratedAt": "2026-07-14T07:52:52.438Z",
+  "GeneratedAt": "2026-07-15T04:51:48.078Z",
   "Files": [
     {
       "RelativePath": "Configs/Affixes/Affixes/0.json",
@@ -155,6 +155,12 @@
       "Sha256": "1345fe5c9388ce68dfbc2fbe9c8e72925d50cd5a388e402df0b79d5396943239"
     },
     {
+      "RelativePath": "Configs/Items/2016.json",
+      "Length": 1037,
+      "LastWriteTimeUtc": "2026-07-15T04:22:43.018Z",
+      "Sha256": "6e379459137a1a2cb42189e2cb3355a853001c5183ef330fa839f653db51cd95"
+    },
+    {
       "RelativePath": "Configs/Items/3.json",
       "Length": 6797,
       "LastWriteTimeUtc": "2026-07-14T01:11:30.739Z",
@@ -229,25 +235,25 @@
     {
       "RelativePath": "Configs/Monsters/AiProfiles/ai-profiles.json",
       "Length": 439,
-      "LastWriteTimeUtc": "2026-07-10T07:55:30.996Z",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.938Z",
       "Sha256": "76fdedaea46f932a47acea8f0b05199422763f42576b0962559bea5fc3f0ee80"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1.json",
       "Length": 1161,
-      "LastWriteTimeUtc": "2026-07-10T07:55:30.997Z",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.938Z",
       "Sha256": "b1f065bd7ad98fd96a050de2e06696fc47fde7399fd0dfa9dc7f73fc3d893a6c"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/1001.json",
       "Length": 1155,
-      "LastWriteTimeUtc": "2026-07-14T00:50:39.615Z",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.939Z",
       "Sha256": "ff54a530778642d24a0605e18abd0ccaf143245ced5d97a0f1a1cd303ea7237e"
     },
     {
       "RelativePath": "Configs/Monsters/Templates/2.json",
       "Length": 1163,
-      "LastWriteTimeUtc": "2026-07-10T07:55:30.998Z",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.939Z",
       "Sha256": "64c3612860759e82cea638c5f26c5ac488db6b69a08bbc53b3454227f4f9294c"
     },
     {
@@ -325,8 +331,8 @@
     {
       "RelativePath": "Data/zone001/nngame.db",
       "Length": 331776,
-      "LastWriteTimeUtc": "2026-07-14T06:19:51.632Z",
-      "Sha256": "904aa44d8136cc96cb07b2e01c642787a7a9e4dd245cf10063e117f431f5c606"
+      "LastWriteTimeUtc": "2026-07-15T04:32:16.192Z",
+      "Sha256": "9b26ae8fdb4b25802ba3bb040d12d1d960841980cc96a39dc9adba9d905df6ac"
     },
     {
       "RelativePath": "Data/zone001/nngame.db.bak-20260702-背包旧词缀清理",

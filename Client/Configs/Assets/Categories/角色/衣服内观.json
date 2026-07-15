@@ -20,7 +20,7 @@
       "Tags": [],
       "Transform": {
         "OffsetX": 1,
-        "OffsetY": 0
+        "OffsetY": 16
       }
     },
     {
@@ -39,8 +39,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
+        "OffsetX": -7,
+        "OffsetY": 16
       }
     }
   ]

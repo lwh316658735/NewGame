@@ -1,8 +1,10 @@
 {
-  "Version": 1,
+  "Version": 2,
   "ScreenId": "Death",
   "DisplayName": "死亡页面",
   "BackgroundMusicAssetId": "",
+  "PresentationScriptId": "system/ui/fixed/Death",
+  "HasPresentationScript": false,
   "Controls": [
     {
       "ControlId": "image",
@@ -13,9 +15,10 @@
       "Width": 800,
       "Height": 600,
       "Anchor": "TopLeft",
-      "IsLockedInEditor": true,
+      "IsLockedInEditor": false,
       "ZIndex": 1,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -47,10 +50,20 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -90,7 +103,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -101,7 +117,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -112,17 +131,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
       "ButtonTriggerKind": "SystemEvent",
@@ -131,6 +161,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "",
         "NineSlice": {
@@ -141,6 +172,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -155,6 +189,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -169,6 +206,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -178,7 +218,10 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "EditorPreviewItemId": 0,
+      "SlotInnerViewSourceControlIds": [],
+      "IsInventoryIconVisible": true
     },
     {
       "ControlId": "deathNormalRespawnButton",
@@ -192,6 +235,7 @@
       "IsLockedInEditor": false,
       "ZIndex": 20,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -221,10 +265,20 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -264,7 +318,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": "",
@@ -275,7 +332,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": "",
@@ -286,17 +346,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": "",
       "ContentTemplate": null,
       "ClickSoundAssetId": "",
       "ButtonTriggerKind": "SystemEvent",
@@ -305,6 +376,7 @@
       "ButtonTargetTemplateId": "",
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": "Asset.Asset_44",
         "NineSlice": {
@@ -315,6 +387,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -329,6 +404,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000085",
         "HotAreaFeedbackOpacity": 0.55,
         "HotAreaFeedbackFeatherRadius": null
@@ -343,6 +421,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -352,7 +433,10 @@
       "ButtonClickAreaWidth": 122,
       "ButtonClickAreaHeight": 38,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "EditorPreviewItemId": 0,
+      "SlotInnerViewSourceControlIds": [],
+      "IsInventoryIconVisible": true
     }
   ]
 }

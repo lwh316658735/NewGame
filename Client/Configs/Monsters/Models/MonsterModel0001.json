@@ -5,7 +5,6 @@
     {
       "Action": "Idle",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -84,9 +83,6 @@
     {
       "Action": "Move",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [
-        100
-      ],
       "Directions": [
         {
           "Direction": "Up",
@@ -181,7 +177,6 @@
     {
       "Action": "Attack",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -276,7 +271,6 @@
     {
       "Action": "Cast",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -315,7 +309,6 @@
     {
       "Action": "Hit",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -354,7 +347,6 @@
     {
       "Action": "Death",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",
@@ -393,7 +385,6 @@
     {
       "Action": "Revive",
       "FramesPerSecond": 5,
-      "MovementFrameWeights": [],
       "Directions": [
         {
           "Direction": "Up",

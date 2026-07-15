@@ -4040,7 +4040,7 @@
       "Tags": [],
       "Transform": {
         "OffsetX": 14,
-        "OffsetY": -28
+        "OffsetY": -29
       }
     },
     {
@@ -4059,7 +4059,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 23,
+        "OffsetX": 20,
         "OffsetY": -49
       }
     },
@@ -4079,7 +4079,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 24,
+        "OffsetX": 22,
         "OffsetY": -51
       }
     },
@@ -4119,7 +4119,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 25,
+        "OffsetX": 19,
         "OffsetY": -50
       }
     },
@@ -4199,7 +4199,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 1,
+        "OffsetX": 0,
         "OffsetY": -32
       }
     },
@@ -4219,7 +4219,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 24,
+        "OffsetX": 20,
         "OffsetY": -45
       }
     },
@@ -4239,7 +4239,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 36,
+        "OffsetX": 34,
         "OffsetY": -45
       }
     },
@@ -4279,8 +4279,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 28,
-        "OffsetY": -44
+        "OffsetX": 21,
+        "OffsetY": -47
       }
     },
     {
@@ -10740,7 +10740,7 @@
       "Tags": [],
       "Transform": {
         "OffsetX": 21,
-        "OffsetY": -51
+        "OffsetY": -46
       }
     },
     {
@@ -10759,8 +10759,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 20,
-        "OffsetY": -40
+        "OffsetX": 14,
+        "OffsetY": 0
       }
     },
     {
@@ -10779,8 +10779,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 23,
-        "OffsetY": 17
+        "OffsetX": 16,
+        "OffsetY": 28
       }
     },
     {
@@ -10799,8 +10799,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 23,
-        "OffsetY": 30
+        "OffsetX": 14,
+        "OffsetY": 28
       }
     },
     {

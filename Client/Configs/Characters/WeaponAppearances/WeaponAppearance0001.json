@@ -1,0 +1,1883 @@
+{
+  "WeaponAppearanceId": "WeaponAppearance0001",
+  "DisplayName": "武器外观1",
+  "Models": [
+    {
+      "ModelId": "Male",
+      "DisplayName": "男性武器外观",
+      "Animations": [
+        {
+          "Action": "Idle",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000000_8",
+                "Asset.000001_8",
+                "Asset.000002_8",
+                "Asset.000003_8"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000008_7",
+                "Asset.000009_7",
+                "Asset.000010_8",
+                "Asset.000011_8"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000016_7",
+                "Asset.000017_7",
+                "Asset.000018_6",
+                "Asset.000019_6"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000024_6",
+                "Asset.000025_7",
+                "Asset.000026_6",
+                "Asset.000027_6"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000032_6",
+                "Asset.000033_6",
+                "Asset.000034_6",
+                "Asset.000035_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000040_6",
+                "Asset.000041_6",
+                "Asset.000042_6",
+                "Asset.000043_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000048_6",
+                "Asset.000049_6",
+                "Asset.000050_6",
+                "Asset.000051_6"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000056_6",
+                "Asset.000057_6",
+                "Asset.000058_6",
+                "Asset.000059_6"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Walk",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000064_5",
+                "Asset.000065_5",
+                "Asset.000066_5",
+                "Asset.000067_5",
+                "Asset.000068_5",
+                "Asset.000069_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000072_6",
+                "Asset.000073_6",
+                "Asset.000074_6",
+                "Asset.000075_4",
+                "Asset.000076_4",
+                "Asset.000077_4"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000080_6",
+                "Asset.000081_6",
+                "Asset.000082_5",
+                "Asset.000083_5",
+                "Asset.000084_5",
+                "Asset.000085_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000088_5",
+                "Asset.000089_5",
+                "Asset.000090_6",
+                "Asset.000091_4",
+                "Asset.000092_4",
+                "Asset.000093_4"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000096_4",
+                "Asset.000097_4",
+                "Asset.000098_4",
+                "Asset.000099_4",
+                "Asset.000100_6",
+                "Asset.000101_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000104_6",
+                "Asset.000105_6",
+                "Asset.000106_6",
+                "Asset.000107_6",
+                "Asset.000108_6",
+                "Asset.000109_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000112_6",
+                "Asset.000113_6",
+                "Asset.000114_6",
+                "Asset.000115_6",
+                "Asset.000116_6",
+                "Asset.000117_6"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000120_6",
+                "Asset.000121_6",
+                "Asset.000122_6",
+                "Asset.000123_4",
+                "Asset.000124_4",
+                "Asset.000125_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Run",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000128_4",
+                "Asset.000129_4",
+                "Asset.000130_6",
+                "Asset.000131_6",
+                "Asset.000132_4",
+                "Asset.000133_4"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000136_4",
+                "Asset.000137_4",
+                "Asset.000138_3",
+                "Asset.000139_3",
+                "Asset.000140_6",
+                "Asset.000141_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000144_5",
+                "Asset.000145_5",
+                "Asset.000146_5",
+                "Asset.000147_5",
+                "Asset.000148_5",
+                "Asset.000149_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000152_6",
+                "Asset.000153_6",
+                "Asset.000154_5",
+                "Asset.000155_5",
+                "Asset.000156_5",
+                "Asset.000157_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000160_6",
+                "Asset.000161_6",
+                "Asset.000162_6",
+                "Asset.000163_6",
+                "Asset.000164_5",
+                "Asset.000165_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000168_5",
+                "Asset.000169_5",
+                "Asset.000170_6",
+                "Asset.000171_6",
+                "Asset.000172_6",
+                "Asset.000173_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000176_6",
+                "Asset.000177_6",
+                "Asset.000178_5",
+                "Asset.000179_5",
+                "Asset.000180_5",
+                "Asset.000181_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000184_3",
+                "Asset.000185_3",
+                "Asset.000186_5",
+                "Asset.000187_5",
+                "Asset.000188_5",
+                "Asset.000189_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "AttackStance",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000192_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000193_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000194_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000195_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000196_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000197_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000198_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000199_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Attack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000200_6",
+                "Asset.000201_6",
+                "Asset.000202_6",
+                "Asset.000203_6",
+                "Asset.000204_6",
+                "Asset.000205_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000208_5",
+                "Asset.000209_5",
+                "Asset.000210_6",
+                "Asset.000211_6",
+                "Asset.000212_6",
+                "Asset.000213_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000216_3",
+                "Asset.000217_3",
+                "Asset.000218_5",
+                "Asset.000219_5",
+                "Asset.000220_5",
+                "Asset.000221_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000224_5",
+                "Asset.000225_5",
+                "Asset.000226_5",
+                "Asset.000227_5",
+                "Asset.000228_5",
+                "Asset.000229_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000232_5",
+                "Asset.000233_5",
+                "Asset.000234_6",
+                "Asset.000235_6",
+                "Asset.000236_5",
+                "Asset.000237_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000240_5",
+                "Asset.000241_5",
+                "Asset.000242_5",
+                "Asset.000243_5",
+                "Asset.000244_5",
+                "Asset.000245_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000248_5",
+                "Asset.000249_5",
+                "Asset.000250_7",
+                "Asset.000251_7",
+                "Asset.000252_6",
+                "Asset.000253_6"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000256_6",
+                "Asset.000257_6",
+                "Asset.000258_6",
+                "Asset.000259_7",
+                "Asset.000260_6",
+                "Asset.000261_6"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Mining",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000264_6",
+                "Asset.000265_6",
+                "Asset.000266_6",
+                "Asset.000267_6",
+                "Asset.000268_6",
+                "Asset.000269_6"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000272_5",
+                "Asset.000273_5",
+                "Asset.000274_5",
+                "Asset.000275_5",
+                "Asset.000276_5",
+                "Asset.000277_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000280_5",
+                "Asset.000281_5",
+                "Asset.000282_5",
+                "Asset.000283_5",
+                "Asset.000284_5",
+                "Asset.000285_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000288_5",
+                "Asset.000289_5",
+                "Asset.000290_5",
+                "Asset.000291_3",
+                "Asset.000292_3",
+                "Asset.000293_3"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000296_5",
+                "Asset.000297_5",
+                "Asset.000298_5",
+                "Asset.000299_3",
+                "Asset.000300_4",
+                "Asset.000301_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000304_3",
+                "Asset.000305_3",
+                "Asset.000306_3",
+                "Asset.000307_3",
+                "Asset.000308_3",
+                "Asset.000309_3"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000312_5",
+                "Asset.000313_5",
+                "Asset.000314_5",
+                "Asset.000315_3",
+                "Asset.000316_3",
+                "Asset.000317_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000320_6",
+                "Asset.000321_4",
+                "Asset.000322_4",
+                "Asset.000323_4",
+                "Asset.000324_4",
+                "Asset.000325_4"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "StationaryAttack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000328_6",
+                "Asset.000329_4",
+                "Asset.000330_4",
+                "Asset.000331_4",
+                "Asset.000332_4",
+                "Asset.000333_4",
+                "Asset.000334_3",
+                "Asset.000335_3"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000336_5",
+                "Asset.000337_3",
+                "Asset.000338_3",
+                "Asset.000339_3",
+                "Asset.000340_3",
+                "Asset.000341_3",
+                "Asset.000342_3",
+                "Asset.000343_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000344_5",
+                "Asset.000345_3",
+                "Asset.000346_3",
+                "Asset.000347_3",
+                "Asset.000348_3",
+                "Asset.000349_3",
+                "Asset.000350_3",
+                "Asset.000351_3"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000352_3",
+                "Asset.000353_3",
+                "Asset.000354_3",
+                "Asset.000355_3",
+                "Asset.000356_3",
+                "Asset.000357_3",
+                "Asset.000358_3",
+                "Asset.000359_3"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000360_5",
+                "Asset.000361_4",
+                "Asset.000362_4",
+                "Asset.000363_4",
+                "Asset.000364_4",
+                "Asset.000365_4",
+                "Asset.000366_3",
+                "Asset.000367_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000368_5",
+                "Asset.000369_4",
+                "Asset.000370_3",
+                "Asset.000371_3",
+                "Asset.000372_3",
+                "Asset.000373_3",
+                "Asset.000374_3",
+                "Asset.000375_3"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000376_5",
+                "Asset.000377_5",
+                "Asset.000378_5",
+                "Asset.000379_5",
+                "Asset.000380_6",
+                "Asset.000381_6",
+                "Asset.000382_4",
+                "Asset.000383_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000384_5",
+                "Asset.000385_5",
+                "Asset.000386_5",
+                "Asset.000387_3",
+                "Asset.000388_3",
+                "Asset.000389_3",
+                "Asset.000390_5",
+                "Asset.000391_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000392_5",
+                "Asset.000393_5",
+                "Asset.000394_5",
+                "Asset.000395_5",
+                "Asset.000396_5",
+                "Asset.000397_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000400_6",
+                "Asset.000401_6",
+                "Asset.000402_6",
+                "Asset.000403_6",
+                "Asset.000404_6",
+                "Asset.000405_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000408_5",
+                "Asset.000409_5",
+                "Asset.000410_3",
+                "Asset.000411_3",
+                "Asset.000412_5",
+                "Asset.000413_3"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000416_3",
+                "Asset.000417_3",
+                "Asset.000418_3",
+                "Asset.000419_3",
+                "Asset.000420_5",
+                "Asset.000421_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000424_5",
+                "Asset.000425_5",
+                "Asset.000426_5",
+                "Asset.000427_3",
+                "Asset.000428_5",
+                "Asset.000429_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000432_5",
+                "Asset.000433_5",
+                "Asset.000434_5",
+                "Asset.000435_3",
+                "Asset.000436_5",
+                "Asset.000437_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000440_5",
+                "Asset.000441_5",
+                "Asset.000442_5",
+                "Asset.000443_3",
+                "Asset.000444_5",
+                "Asset.000445_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000448_5",
+                "Asset.000449_3",
+                "Asset.000450_5",
+                "Asset.000451_5",
+                "Asset.000452_5",
+                "Asset.000453_3"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000456_3",
+                "Asset.000457_3"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000458_3",
+                "Asset.000459_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000460_5",
+                "Asset.000461_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000462_5",
+                "Asset.000463_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000464_5",
+                "Asset.000465_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000466_5",
+                "Asset.000467_3"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000468_3",
+                "Asset.000469_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000470_5",
+                "Asset.000471_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000472_5",
+                "Asset.000473_5",
+                "Asset.000474_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000480_5",
+                "Asset.000481_5",
+                "Asset.000482_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000488_3",
+                "Asset.000489_3",
+                "Asset.000490_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000496_3",
+                "Asset.000497_3",
+                "Asset.000498_3"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000504_6",
+                "Asset.000505_6",
+                "Asset.000506_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000512_5",
+                "Asset.000513_5",
+                "Asset.000514_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000520_6",
+                "Asset.000521_6",
+                "Asset.000522_6"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000528_6",
+                "Asset.000529_6",
+                "Asset.000530_6"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000536_3",
+                "Asset.000537_3",
+                "Asset.000538_3",
+                "Asset.000539_3"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000544_6",
+                "Asset.000545_6",
+                "Asset.000546_6",
+                "Asset.000547_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000552_5",
+                "Asset.000553_5",
+                "Asset.000554_5",
+                "Asset.000555_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000560_5",
+                "Asset.000561_5",
+                "Asset.000562_5",
+                "Asset.000563_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000568_3",
+                "Asset.000569_3",
+                "Asset.000570_5",
+                "Asset.000571_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000576_5",
+                "Asset.000577_5",
+                "Asset.000578_5",
+                "Asset.000579_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000584_5",
+                "Asset.000585_5",
+                "Asset.000586_5",
+                "Asset.000587_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000592_3",
+                "Asset.000593_5",
+                "Asset.000594_5",
+                "Asset.000595_5"
+              ]
+            }
+          ]
+        }
+      ],
+      "FrameLayerOverrides": [
+        {
+          "Action": "Attack",
+          "Direction": "Up",
+          "FrameNumber": 3,
+          "Placement": "InFrontOfCharacter"
+        }
+      ],
+      "InnerView": {
+        "FramesPerSecond": 5,
+        "FrameAssetIds": [
+          "Asset.000054_7"
+        ]
+      }
+    },
+    {
+      "ModelId": "Female",
+      "DisplayName": "女性武器外观",
+      "Animations": [
+        {
+          "Action": "Idle",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000600_5",
+                "Asset.000601_3",
+                "Asset.000602_3",
+                "Asset.000603_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000608_3",
+                "Asset.000609_3",
+                "Asset.000610_5",
+                "Asset.000611_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000616_5",
+                "Asset.000617_5",
+                "Asset.000618_5",
+                "Asset.000619_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000624_5",
+                "Asset.000625_3",
+                "Asset.000626_3",
+                "Asset.000627_3"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000632_6",
+                "Asset.000633_6",
+                "Asset.000634_6",
+                "Asset.000635_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000640_6",
+                "Asset.000641_6",
+                "Asset.000642_6",
+                "Asset.000643_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000648_3",
+                "Asset.000649_3",
+                "Asset.000650_6",
+                "Asset.000651_6"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000656_5",
+                "Asset.000657_5",
+                "Asset.000658_5",
+                "Asset.000659_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Walk",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000664_5",
+                "Asset.000665_3",
+                "Asset.000666_3",
+                "Asset.000667_3",
+                "Asset.000668_3",
+                "Asset.000669_3"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000672_5",
+                "Asset.000673_5",
+                "Asset.000674_5",
+                "Asset.000675_5",
+                "Asset.000676_5",
+                "Asset.000677_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000680_5",
+                "Asset.000681_5",
+                "Asset.000682_5",
+                "Asset.000683_5",
+                "Asset.000684_5",
+                "Asset.000685_3"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000688_3",
+                "Asset.000689_3",
+                "Asset.000690_5",
+                "Asset.000691_5",
+                "Asset.000692_5",
+                "Asset.000693_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000696_5",
+                "Asset.000697_3",
+                "Asset.000698_3",
+                "Asset.000699_3",
+                "Asset.000700_5",
+                "Asset.000701_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000704_5",
+                "Asset.000705_5",
+                "Asset.000706_3",
+                "Asset.000707_3",
+                "Asset.000708_3",
+                "Asset.000709_3"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000712_5",
+                "Asset.000713_5",
+                "Asset.000714_5",
+                "Asset.000715_5",
+                "Asset.000716_3",
+                "Asset.000717_3"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000720_5",
+                "Asset.000721_5",
+                "Asset.000722_5",
+                "Asset.000723_5",
+                "Asset.000724_5",
+                "Asset.000725_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Run",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000728_3",
+                "Asset.000729_3",
+                "Asset.000730_5",
+                "Asset.000731_5",
+                "Asset.000732_5",
+                "Asset.000733_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000736_5",
+                "Asset.000737_3",
+                "Asset.000738_3",
+                "Asset.000739_3",
+                "Asset.000740_5",
+                "Asset.000741_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000744_3",
+                "Asset.000745_3",
+                "Asset.000746_3",
+                "Asset.000747_3",
+                "Asset.000748_3",
+                "Asset.000749_4"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000752_6",
+                "Asset.000753_6",
+                "Asset.000754_6",
+                "Asset.000755_6",
+                "Asset.000756_6",
+                "Asset.000757_6"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000760_6",
+                "Asset.000761_6",
+                "Asset.000762_6",
+                "Asset.000763_6",
+                "Asset.000764_6",
+                "Asset.000765_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000768_6",
+                "Asset.000769_6",
+                "Asset.000770_6",
+                "Asset.000771_6",
+                "Asset.000772_6",
+                "Asset.000773_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000776_6",
+                "Asset.000777_6",
+                "Asset.000778_6",
+                "Asset.000779_6",
+                "Asset.000780_6",
+                "Asset.000781_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000784_5",
+                "Asset.000785_5",
+                "Asset.000786_5",
+                "Asset.000787_5",
+                "Asset.000788_5",
+                "Asset.000789_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "AttackStance",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000792_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000793_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000794_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000795_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000796_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000797_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000798_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000799_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Attack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000800_6",
+                "Asset.000801_6",
+                "Asset.000802_6",
+                "Asset.000803_6",
+                "Asset.000804_6",
+                "Asset.000805_6"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000808_6",
+                "Asset.000809_5",
+                "Asset.000810_5",
+                "Asset.000811_5",
+                "Asset.000812_5",
+                "Asset.000813_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000816_5",
+                "Asset.000817_3",
+                "Asset.000818_3",
+                "Asset.000819_3",
+                "Asset.000820_6",
+                "Asset.000821_6"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000824_6",
+                "Asset.000825_6",
+                "Asset.000826_6",
+                "Asset.000827_6",
+                "Asset.000828_6",
+                "Asset.000829_4"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000832_6",
+                "Asset.000833_6",
+                "Asset.000834_6",
+                "Asset.000835_6",
+                "Asset.000836_6",
+                "Asset.000837_4"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000840_6",
+                "Asset.000841_6",
+                "Asset.000842_6",
+                "Asset.000843_6",
+                "Asset.000844_6",
+                "Asset.000845_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000848_5",
+                "Asset.000849_5",
+                "Asset.000850_5",
+                "Asset.000851_5",
+                "Asset.000852_5",
+                "Asset.000853_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000856_5",
+                "Asset.000857_5",
+                "Asset.000858_5",
+                "Asset.000859_5",
+                "Asset.000860_5",
+                "Asset.000861_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Mining",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000864_3",
+                "Asset.000865_3",
+                "Asset.000866_3",
+                "Asset.000867_3",
+                "Asset.000868_3",
+                "Asset.000869_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000872_5",
+                "Asset.000873_3",
+                "Asset.000874_3",
+                "Asset.000875_3",
+                "Asset.000876_3",
+                "Asset.000877_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000880_5",
+                "Asset.000881_5",
+                "Asset.000882_5",
+                "Asset.000883_5",
+                "Asset.000884_5",
+                "Asset.000885_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000888_5",
+                "Asset.000889_5",
+                "Asset.000890_5",
+                "Asset.000891_5",
+                "Asset.000892_5",
+                "Asset.000893_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000896_5",
+                "Asset.000897_5",
+                "Asset.000898_5",
+                "Asset.000899_5",
+                "Asset.000900_5",
+                "Asset.000901_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000904_5",
+                "Asset.000905_5",
+                "Asset.000906_5",
+                "Asset.000907_5",
+                "Asset.000908_5",
+                "Asset.000909_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000912_5",
+                "Asset.000913_5",
+                "Asset.000914_5",
+                "Asset.000915_5",
+                "Asset.000916_5",
+                "Asset.000917_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000920_5",
+                "Asset.000921_5",
+                "Asset.000922_5",
+                "Asset.000923_5",
+                "Asset.000924_5",
+                "Asset.000925_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "StationaryAttack",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000928_5",
+                "Asset.000929_5",
+                "Asset.000930_5",
+                "Asset.000931_5",
+                "Asset.000932_5",
+                "Asset.000933_5",
+                "Asset.000934_5",
+                "Asset.000935_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.000936_5",
+                "Asset.000937_5",
+                "Asset.000938_5",
+                "Asset.000939_5",
+                "Asset.000940_5",
+                "Asset.000941_5",
+                "Asset.000942_5",
+                "Asset.000943_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.000944_5",
+                "Asset.000945_5",
+                "Asset.000946_5",
+                "Asset.000947_5",
+                "Asset.000948_5",
+                "Asset.000949_5",
+                "Asset.000950_5",
+                "Asset.000951_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.000952_5",
+                "Asset.000953_5",
+                "Asset.000954_5",
+                "Asset.000955_5",
+                "Asset.000956_5",
+                "Asset.000957_5",
+                "Asset.000958_5",
+                "Asset.000959_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.000960_5",
+                "Asset.000961_5",
+                "Asset.000962_5",
+                "Asset.000963_5",
+                "Asset.000964_5",
+                "Asset.000965_5",
+                "Asset.000966_5",
+                "Asset.000967_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.000968_5",
+                "Asset.000969_5",
+                "Asset.000970_5",
+                "Asset.000971_5",
+                "Asset.000972_5",
+                "Asset.000973_5",
+                "Asset.000974_5",
+                "Asset.000975_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.000976_5",
+                "Asset.000977_5",
+                "Asset.000978_5",
+                "Asset.000979_5",
+                "Asset.000980_5",
+                "Asset.000981_5",
+                "Asset.000982_5",
+                "Asset.000983_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.000984_5",
+                "Asset.000985_5",
+                "Asset.000986_5",
+                "Asset.000987_5",
+                "Asset.000988_3",
+                "Asset.000989_4",
+                "Asset.000990_5",
+                "Asset.000991_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Cast",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.000992_5",
+                "Asset.000993_5",
+                "Asset.000994_5",
+                "Asset.000995_5",
+                "Asset.000996_5",
+                "Asset.000997_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001000_6",
+                "Asset.001001_6",
+                "Asset.001002_6",
+                "Asset.001003_6",
+                "Asset.001004_6",
+                "Asset.001005_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001008_6",
+                "Asset.001009_6",
+                "Asset.001010_7",
+                "Asset.001011_7",
+                "Asset.001012_6",
+                "Asset.001013_6"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001016_7",
+                "Asset.001017_7",
+                "Asset.001018_7",
+                "Asset.001019_6",
+                "Asset.001020_7",
+                "Asset.001021_7"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001024_6",
+                "Asset.001025_6",
+                "Asset.001026_5",
+                "Asset.001027_5",
+                "Asset.001028_5",
+                "Asset.001029_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001032_6",
+                "Asset.001033_6",
+                "Asset.001034_6",
+                "Asset.001035_6",
+                "Asset.001036_6",
+                "Asset.001037_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001040_6",
+                "Asset.001041_5",
+                "Asset.001042_6",
+                "Asset.001043_6",
+                "Asset.001044_6",
+                "Asset.001045_4"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001048_4",
+                "Asset.001049_5",
+                "Asset.001050_5",
+                "Asset.001051_5",
+                "Asset.001052_5",
+                "Asset.001053_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Explore",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001056_4",
+                "Asset.001057_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001058_5",
+                "Asset.001059_5"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001060_5",
+                "Asset.001061_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001062_5",
+                "Asset.001063_5"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001064_5",
+                "Asset.001065_5"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001066_5",
+                "Asset.001067_5"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001068_5",
+                "Asset.001069_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001070_6",
+                "Asset.001071_6"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Hit",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001072_6",
+                "Asset.001073_6",
+                "Asset.001074_6"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001080_6",
+                "Asset.001081_6",
+                "Asset.001082_6"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001088_6",
+                "Asset.001089_4",
+                "Asset.001090_6"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001096_6",
+                "Asset.001097_6",
+                "Asset.001098_6"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001104_6",
+                "Asset.001105_6",
+                "Asset.001106_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001112_6",
+                "Asset.001113_6",
+                "Asset.001114_6"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001120_5",
+                "Asset.001121_5",
+                "Asset.001122_5"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001128_5",
+                "Asset.001129_5",
+                "Asset.001130_5"
+              ]
+            }
+          ]
+        },
+        {
+          "Action": "Death",
+          "FramesPerSecond": 5,
+          "Directions": [
+            {
+              "Direction": "Up",
+              "FrameAssetIds": [
+                "Asset.001136_5",
+                "Asset.001137_5",
+                "Asset.001138_5",
+                "Asset.001139_5"
+              ]
+            },
+            {
+              "Direction": "UpRight",
+              "FrameAssetIds": [
+                "Asset.001144_5",
+                "Asset.001145_5",
+                "Asset.001146_5",
+                "Asset.001147_3"
+              ]
+            },
+            {
+              "Direction": "Right",
+              "FrameAssetIds": [
+                "Asset.001152_5",
+                "Asset.001153_5",
+                "Asset.001154_5",
+                "Asset.001155_5"
+              ]
+            },
+            {
+              "Direction": "DownRight",
+              "FrameAssetIds": [
+                "Asset.001160_5",
+                "Asset.001161_5",
+                "Asset.001162_5",
+                "Asset.001163_4"
+              ]
+            },
+            {
+              "Direction": "Down",
+              "FrameAssetIds": [
+                "Asset.001168_6",
+                "Asset.001169_5",
+                "Asset.001170_6",
+                "Asset.001171_6"
+              ]
+            },
+            {
+              "Direction": "DownLeft",
+              "FrameAssetIds": [
+                "Asset.001176_6",
+                "Asset.001177_5",
+                "Asset.001178_6",
+                "Asset.001179_4"
+              ]
+            },
+            {
+              "Direction": "Left",
+              "FrameAssetIds": [
+                "Asset.001184_5",
+                "Asset.001185_4",
+                "Asset.001186_4",
+                "Asset.001187_4"
+              ]
+            },
+            {
+              "Direction": "UpLeft",
+              "FrameAssetIds": [
+                "Asset.001192_6",
+                "Asset.001193_6",
+                "Asset.001194_6",
+                "Asset.001195_6"
+              ]
+            }
+          ]
+        }
+      ],
+      "FrameLayerOverrides": [],
+      "InnerView": {
+        "FramesPerSecond": 5,
+        "FrameAssetIds": [
+          "Asset.000054_7"
+        ]
+      }
+    }
+  ]
+}

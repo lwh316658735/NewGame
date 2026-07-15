@@ -2,7 +2,7 @@
   "Version": 1,
   "SourceClientPath": "E:\\NewGame\\Client",
   "TargetClientPath": "D:\\project\\NNGame\\src\\Client\\NNGame.Client\\bin\\x64\\Debug\\net10.0-windows\\Client",
-  "GeneratedAt": "2026-07-14T07:57:28.7536229+00:00",
+  "GeneratedAt": "2026-07-15T05:01:33.8221857+00:00",
   "Files": [
     {
       "RelativePath": "Assets/音频/默认/log-in-long2.wav",
@@ -257,6 +257,12 @@
       "Sha256": "45d87a6078c9a2bfb475ea81b7309f830a2c8f71da36253930e933e5b5407c3d"
     },
     {
+      "RelativePath": "Configs/Assets/Categories/角色/武器内观1.json",
+      "Length": 49207,
+      "LastWriteTimeUtc": "2026-07-15T04:32:27.3912589+00:00",
+      "Sha256": "3045fb1bd32678915de2dd73d42fec3c3431aa807db5a1b14e982def8b64f493"
+    },
+    {
       "RelativePath": "Configs/Assets/Categories/角色/武器外观1.json",
       "Length": 680848,
       "LastWriteTimeUtc": "2026-07-14T03:29:06.2982854+00:00",
@@ -264,21 +270,21 @@
     },
     {
       "RelativePath": "Configs/Assets/Categories/角色/衣服内观.json",
-      "Length": 1236,
-      "LastWriteTimeUtc": "2026-07-14T03:43:55.9831135+00:00",
-      "Sha256": "a4bfec5e0c65cf81056785a35dde42a54c3d1690d5a5b8f5d2f2a3298a25a527"
+      "Length": 1235,
+      "LastWriteTimeUtc": "2026-07-15T01:05:39.0667475+00:00",
+      "Sha256": "8bffba1bc64e54cb9b910029167d355a4540ca85ab8dba5538e6e7d6326b9a17"
     },
     {
       "RelativePath": "Configs/Assets/Categories/角色/默认外观.json",
       "Length": 677116,
-      "LastWriteTimeUtc": "2026-07-14T03:26:47.6039489+00:00",
+      "LastWriteTimeUtc": "2026-07-14T08:38:39.3185104+00:00",
       "Sha256": "285d59208014a56f943192e0196ee7da9317f8a5a2df9ab9dd4d316d67ca74eb"
     },
     {
       "RelativePath": "Configs/Assets/Categories/角色/默认头发.json",
-      "Length": 1353014,
-      "LastWriteTimeUtc": "2026-07-14T03:26:47.6109477+00:00",
-      "Sha256": "9cae94aba59be5b054b8a8f0391df24c520a44e2f1ac4a391cf6a365d367b63e"
+      "Length": 1353012,
+      "LastWriteTimeUtc": "2026-07-15T01:03:31.605083+00:00",
+      "Sha256": "7096a70613ecdbb72acde42ec7d2bbd068041d06ca0a70786b24146d7195185a"
     },
     {
       "RelativePath": "Configs/Assets/Categories/音频/默认.json",
@@ -288,9 +294,9 @@
     },
     {
       "RelativePath": "Configs/Assets/assets.json",
-      "Length": 8130494,
-      "LastWriteTimeUtc": "2026-07-14T03:43:56.0760364+00:00",
-      "Sha256": "d31d50c9ba40e7200887af9971876499b2801f767334f6e6cb469084234f215a"
+      "Length": 8155988,
+      "LastWriteTimeUtc": "2026-07-15T04:03:36.7676961+00:00",
+      "Sha256": "b0c1d8614185a5f7fd46446395ebddedd1abc065e5ffa3ca67cd3b057d5c08fa"
     },
     {
       "RelativePath": "Configs/Characters/ActionSounds.json",
@@ -301,7 +307,7 @@
     {
       "RelativePath": "Configs/Characters/ClothingAppearances/ClothingAppearance0001.json",
       "Length": 53377,
-      "LastWriteTimeUtc": "2026-07-14T05:42:53.2159429+00:00",
+      "LastWriteTimeUtc": "2026-07-15T03:54:55.003273+00:00",
       "Sha256": "9f46f78ee24bfecb049667df8477cc57cf67e9d1e09bd26cc1410569e1086e43"
     },
     {
@@ -313,7 +319,7 @@
     {
       "RelativePath": "Configs/Characters/HairAppearances/DefaultHairAppearance.json",
       "Length": 53047,
-      "LastWriteTimeUtc": "2026-07-14T05:42:53.216464+00:00",
+      "LastWriteTimeUtc": "2026-07-15T03:54:55.0042726+00:00",
       "Sha256": "66f3eed98831d010b16e3df0c54da6c033c6b3eec2753f2937006a6b930da97d"
     },
     {
@@ -321,6 +327,12 @@
       "Length": 41,
       "LastWriteTimeUtc": "2026-06-25T08:50:44.0786261+00:00",
       "Sha256": "86b1247adfc642cda287f8e38e7e9c1cd64d6b113d58dc6ae649ad09855a71a4"
+    },
+    {
+      "RelativePath": "Configs/Characters/WeaponAppearances/WeaponAppearance0001.json",
+      "Length": 53612,
+      "LastWriteTimeUtc": "2026-07-15T03:54:55.0052746+00:00",
+      "Sha256": "9797f0429ded1a2efacbc7a270428fc2e41be463f4652357d5deafdd2bcd875d"
     },
     {
       "RelativePath": "Configs/Combat/Feedback.json",
@@ -393,6 +405,12 @@
       "Length": 118,
       "LastWriteTimeUtc": "2026-07-14T01:50:30.9545335+00:00",
       "Sha256": "f2ec8ef8d995589833276da76471e26e60c2350e171f837d463ae75b44600ba0"
+    },
+    {
+      "RelativePath": "Configs/Items/2016.json",
+      "Length": 118,
+      "LastWriteTimeUtc": "2026-07-15T04:22:43.0157287+00:00",
+      "Sha256": "c0b533dbbe00433c782dae8dfa0d53b093f75575d109c24e80cae514b4f6392e"
     },
     {
       "RelativePath": "Configs/Items/3.json",
@@ -483,6 +501,12 @@
       "Length": 82,
       "LastWriteTimeUtc": "2026-07-14T01:50:30.9545335+00:00",
       "Sha256": "b517c2d08373e6defedd31051a7da1146c3f860ba76dd2bfa4352306d0c10a5f"
+    },
+    {
+      "RelativePath": "Configs/Items/Appearances/2016.json",
+      "Length": 102,
+      "LastWriteTimeUtc": "2026-07-15T04:22:43.0157287+00:00",
+      "Sha256": "f1e46b54e6fd67858fac1ad1241253fd81ea8c01c75bfc40383a469250a4a101"
     },
     {
       "RelativePath": "Configs/Items/Appearances/3.json",
@@ -581,6 +605,12 @@
       "Sha256": "1df33b67db7fc5655cec351d41cda700b4431ee98a31aa9409072c43dea3c852"
     },
     {
+      "RelativePath": "Configs/Items/Icons/2016.json",
+      "Length": 107,
+      "LastWriteTimeUtc": "2026-07-15T04:22:43.0167351+00:00",
+      "Sha256": "1bac317e83aa12ab9e701b7211732a244005a1c43b0b93e31dcaa1fc564225b9"
+    },
+    {
       "RelativePath": "Configs/Items/Icons/3.json",
       "Length": 104,
       "LastWriteTimeUtc": "2026-07-14T01:11:30.7285822+00:00",
@@ -667,19 +697,19 @@
     {
       "RelativePath": "Configs/Monsters/Bindings/1.json",
       "Length": 711,
-      "LastWriteTimeUtc": "2026-07-10T07:55:30.9937947+00:00",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.9328886+00:00",
       "Sha256": "82598ccfb82fe3c7985e4ce46bc51de75ce032d54e29b46f82b4f61aaec4b3d4"
     },
     {
       "RelativePath": "Configs/Monsters/Bindings/1001.json",
       "Length": 712,
-      "LastWriteTimeUtc": "2026-07-14T00:50:39.5469817+00:00",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.9338933+00:00",
       "Sha256": "ddd61e0cb7247bbf271368316747657deed6eb937d84ad55d8b3a95d0c44f5e8"
     },
     {
       "RelativePath": "Configs/Monsters/Bindings/2.json",
       "Length": 720,
-      "LastWriteTimeUtc": "2026-07-10T07:55:30.9953006+00:00",
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.9338933+00:00",
       "Sha256": "4fc841c78d7ba602c8b21ad3006a8b0531d9fe0b489f2fdcec6f3c0740a6c3b3"
     },
     {
@@ -690,21 +720,15 @@
     },
     {
       "RelativePath": "Configs/Monsters/Models/MonsterModel0001.json",
-      "Length": 11038,
-      "LastWriteTimeUtc": "2026-07-10T05:48:01.6831897+00:00",
-      "Sha256": "ae10bbcdc057b36871e97fec541d8139e5cd355af1fb579992282585c4247c2a"
+      "Length": 10770,
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.9348924+00:00",
+      "Sha256": "fe14bfe28cf85c3bd3b2a6e15a528f0d71be0090e304627be83270ccfe954528"
     },
     {
       "RelativePath": "Configs/Monsters/Models/MonsterModel0002.json",
-      "Length": 12157,
-      "LastWriteTimeUtc": "2026-07-10T05:48:01.7010794+00:00",
-      "Sha256": "9bfdd48e59368e9ba3ba2600d26a9d51cf6b543161b6414e0e7e8d124f2b0584"
-    },
-    {
-      "RelativePath": "Configs/Monsters/Models/MonsterModel0003.json",
-      "Length": 6789,
-      "LastWriteTimeUtc": "2026-07-10T05:48:01.7016488+00:00",
-      "Sha256": "6c60ba9c346980951bcb759b700414d465fc695f34a10547d10df2510f21c7a7"
+      "Length": 11889,
+      "LastWriteTimeUtc": "2026-07-15T01:29:06.9358923+00:00",
+      "Sha256": "a2ef8c0eba088a78bd5fc9cb61775abe775cdb6c66c435d63d592c7145c69887"
     },
     {
       "RelativePath": "Configs/Monsters/Models/__config_names.kv",
@@ -846,15 +870,15 @@
     },
     {
       "RelativePath": "Configs/UI/Fixed/Death.json",
-      "Length": 10407,
-      "LastWriteTimeUtc": "2026-06-23T09:09:38.4066508+00:00",
-      "Sha256": "d530ee51f6721517f9c9edd3712a5f954ad9742f9761c9337e4cfcf54afd6f73"
+      "Length": 13345,
+      "LastWriteTimeUtc": "2026-07-15T03:56:18.8503193+00:00",
+      "Sha256": "d9c759a19c0162d4ce2c46b3cd408ad28318df3dcab92baca56c1349b03b710c"
     },
     {
       "RelativePath": "Configs/UI/Fixed/Equipment.json",
-      "Length": 295831,
-      "LastWriteTimeUtc": "2026-07-14T07:57:27.0964718+00:00",
-      "Sha256": "7b4307aa5c8ea7b493d762ee28e39126c82dd8446cf1745cce6701c011e19d68"
+      "Length": 301888,
+      "LastWriteTimeUtc": "2026-07-15T05:01:28.6768136+00:00",
+      "Sha256": "33e01f11c953c7c5670f8b476577ae3ce6e834897f785ec56cec1e1fef2cdd1a"
     },
     {
       "RelativePath": "Configs/UI/Fixed/Inventory.json",
@@ -971,6 +995,12 @@
       "Sha256": "a77ddee595c7c20001709b7a67a6b5515f21a42b3cd4efc16682ce85922ad7a6"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000000_9.nntex",
+      "Length": 32822,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.657277+00:00",
+      "Sha256": "eaf8f6a042fb819169f6d19c5b52ae8ed36cbeb72ae28662e7f011d04bdc644b"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000001.nntex",
       "Length": 3606,
       "LastWriteTimeUtc": "2026-06-23T09:20:10.9910223+00:00",
@@ -1017,6 +1047,12 @@
       "Length": 7910,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1461759+00:00",
       "Sha256": "63767a1eb826ae75bc1b15a727465593547fbf880816b6726562d64f16c37ef3"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000001_9.nntex",
+      "Length": 25582,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.6662776+00:00",
+      "Sha256": "b30a5c7ab977e30de11cc3ca6a662eaa9234a731afdc8a9981c51f8dc198c345"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000002.nntex",
@@ -1067,6 +1103,12 @@
       "Sha256": "096ec2dbfbe47011e97d27b43b373954081b2ff9f9dd9740b3db6d4f932839d7"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000002_9.nntex",
+      "Length": 29974,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.678975+00:00",
+      "Sha256": "081d829721e37983c72b40fb1e92f0364f652b8231aa254ace8322c8e5815351"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000003.nntex",
       "Length": 982,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.0105252+00:00",
@@ -1115,6 +1157,12 @@
       "Sha256": "98b930659e93185b1a7f2a9da145fc88483ed23b09355bbcc36b452c60d55f2d"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000003_9.nntex",
+      "Length": 28102,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.6859771+00:00",
+      "Sha256": "bf0347bd99ff6a28095a594525f75ec2b782458b92ac6b053d203b588c4f62fe"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000004.nntex",
       "Length": 982,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.0231037+00:00",
@@ -1155,6 +1203,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1481757+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000004_8.nntex",
+      "Length": 55922,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.6919785+00:00",
+      "Sha256": "69a025f564bba12774083f5603cc074d1478bf25383b29993de411f1f83c15ac"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000005.nntex",
@@ -1199,6 +1253,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000005_8.nntex",
+      "Length": 19750,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.6999689+00:00",
+      "Sha256": "f2e9a565dee36fb2b24c4b2572fe259c27423b1aff638d900bed0ea4888721c8"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000006.nntex",
       "Length": 3350,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.051068+00:00",
@@ -1239,6 +1299,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1491757+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000006_8.nntex",
+      "Length": 29822,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7094887+00:00",
+      "Sha256": "7b1839c2c3a5480b2386e594980328e8d1efb9ee2041652c5977bd06f643c449"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000007.nntex",
@@ -1283,6 +1349,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000007_8.nntex",
+      "Length": 50622,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7182508+00:00",
+      "Sha256": "378b673ad2200775bde87ef5193874093eb0d3798ca8fc1ce34b78c919dca6c9"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000008.nntex",
       "Length": 2838,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.0740269+00:00",
@@ -1325,6 +1397,12 @@
       "Sha256": "d2586db6233b67f13b462c5a72ea14378c059bc0887934bfbf614b0d85b38bab"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000008_8.nntex",
+      "Length": 28438,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7247613+00:00",
+      "Sha256": "2350430daa96340bbf73bee76ce2053cf1e842c03682b86cb7edd4371a176f23"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000009.nntex",
       "Length": 1622,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.0853461+00:00",
@@ -1365,6 +1443,12 @@
       "Length": 15958,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1511755+00:00",
       "Sha256": "524382c7e7fb42236d28338f08f0605be5eeca49dc97dd8ed4e2f43e3af413c6"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000009_8.nntex",
+      "Length": 50702,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7324505+00:00",
+      "Sha256": "2342aae0da4eeb2ae65b29af6f2945ad5c7459504ffc481213a1d695022b43ed"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000010.nntex",
@@ -1415,6 +1499,12 @@
       "Sha256": "db0acdf4a828d1b67a702eb468a4f13ea3a6bee7deb9fb2212df040ae63835fd"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000010_9.nntex",
+      "Length": 67702,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.741342+00:00",
+      "Sha256": "cd11d143663183dac1e3ee48583f7a4c9c97b429ee491118c0b3cdf2d254a4c4"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000011.nntex",
       "Length": 1622,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.1064487+00:00",
@@ -1463,6 +1553,12 @@
       "Sha256": "c955803c04092b845805d572e719dea2a211a666ef73e6d1e189314e1429152e"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000011_9.nntex",
+      "Length": 30290,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7498547+00:00",
+      "Sha256": "c14ce8272d93b3add6739274f198f3b4a2abfef92f3ae7e9a394debd330d4e0b"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000012.nntex",
       "Length": 1750,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.1160638+00:00",
@@ -1503,6 +1599,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1535005+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000012_8.nntex",
+      "Length": 39402,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7566336+00:00",
+      "Sha256": "a40a89e88be906421a11e6ed3b971724a8073b4daa72774de106dff41dceeb2d"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000013.nntex",
@@ -1547,6 +1649,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000013_8.nntex",
+      "Length": 44482,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7656362+00:00",
+      "Sha256": "6faba7b590fc57c6a2b69ad681cf6ac2134342cd0cb9c078bde7b17ee39ccc6d"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000014.nntex",
       "Length": 2182,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.138599+00:00",
@@ -1587,6 +1695,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1545014+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000014_8.nntex",
+      "Length": 36022,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7726361+00:00",
+      "Sha256": "38e449b8ad72813e4d52ddd7e266c783c0aef473ae931ed5dc259cd29c715b15"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000015.nntex",
@@ -1631,6 +1745,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000015_8.nntex",
+      "Length": 82086,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7799809+00:00",
+      "Sha256": "58b36a3e5d1b5d0b9fc4b302ed363fad5456d373d9ed8724efe281723b0cea7e"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000016.nntex",
       "Length": 2182,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.156518+00:00",
@@ -1671,6 +1791,12 @@
       "Length": 18202,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1564996+00:00",
       "Sha256": "228dc48ce0e61761b73abc4664873e9e4e6950cc2495c77370c573641c2fa410"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000016_8.nntex",
+      "Length": 75922,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.7873734+00:00",
+      "Sha256": "2dbf52899e09266d0a81be05102a3ed5af4ebc05fe5ee539c5124c3df4a22fe2"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000017.nntex",
@@ -1715,6 +1841,12 @@
       "Sha256": "17854233a213af7388cf020cb7af22d0c2c533781946353fd6cd60909a99dc77"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000017_8.nntex",
+      "Length": 49486,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.80056+00:00",
+      "Sha256": "9aec54c567ea0d259faabe837d38d7b3124fe4d03f84d77a0d965230f850dfcc"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000018.nntex",
       "Length": 1686,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.1717307+00:00",
@@ -1749,6 +1881,12 @@
       "Length": 18082,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1575027+00:00",
       "Sha256": "dc855856fd29069b36334a9445c04c4169c142cbf97548b863c519a2d747474b"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000018_7.nntex",
+      "Length": 43446,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8084671+00:00",
+      "Sha256": "aac87025323e3f6e970d5855ab015513f11201c35df7e4c18d0a7b7c86ac3b68"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000019.nntex",
@@ -1787,6 +1925,12 @@
       "Sha256": "63a567174b08ed148e70f7b150f025dc83e9e80ebf004ffae35e783fa730a4fd"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000019_7.nntex",
+      "Length": 96370,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8170198+00:00",
+      "Sha256": "86cd947baa2beff2cb7aa939414f7aa1e4c39aee4e18a39a190b80c83e7896d2"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000020.nntex",
       "Length": 1686,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.1842718+00:00",
@@ -1823,6 +1967,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000020_7.nntex",
+      "Length": 36310,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8254962+00:00",
+      "Sha256": "6fb90fd6f1cf65a15711062ff41da511ab36b954c996350da364b663f6a4e60f"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000021.nntex",
       "Length": 1686,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.1907076+00:00",
@@ -1857,6 +2007,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1595007+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000021_7.nntex",
+      "Length": 154782,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8340904+00:00",
+      "Sha256": "b17cbbaf704168bff2edcbc91497a483097a30d528b695cd6e101e9d9d44a5a8"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000022.nntex",
@@ -1901,6 +2057,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000022_8.nntex",
+      "Length": 51114,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8502439+00:00",
+      "Sha256": "4e0067c1c222f8b57faf4aa4857b64916812dd358d05d3ded8ef377b7e51ca26"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000023.nntex",
       "Length": 1622,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.2021281+00:00",
@@ -1937,6 +2099,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000023_7.nntex",
+      "Length": 28582,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8586451+00:00",
+      "Sha256": "3b90f06afdf304833306fc0575fb0d66d6b82c8365a7ff87d520253e1f64467d"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000024.nntex",
       "Length": 1622,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.2097414+00:00",
@@ -1971,6 +2139,12 @@
       "Length": 23686,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1615+00:00",
       "Sha256": "5690a8d74304b79f780a959f8bda0a4dc245cdf79a01f934da357225c842402c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000024_7.nntex",
+      "Length": 57046,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8656462+00:00",
+      "Sha256": "009c7002458f2e8ee2a2a828391cb0f3c7a4331740761d554a4e9a6d3a5ea35f"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000025.nntex",
@@ -2015,6 +2189,12 @@
       "Sha256": "0d61bbb89bb36a793a1c07014646b42bc410f09877e7bfa3dfb41b01b0c3930f"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000025_8.nntex",
+      "Length": 63862,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8726449+00:00",
+      "Sha256": "f6ff2ae5e70810491d608bf0ea2118b9486a5fa63b07ed4b8f05ff91bbb217ec"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000026.nntex",
       "Length": 2182,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.2263675+00:00",
@@ -2049,6 +2229,12 @@
       "Length": 24550,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1634996+00:00",
       "Sha256": "676e50eb6cb95f27727bfeb99de6fd78b89c813f1a4acea1036735d382e73244"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000026_7.nntex",
+      "Length": 43422,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8796449+00:00",
+      "Sha256": "85187841c56287c46b2464bfdd9944b564ebafbf7e7f7102be52156b148ee55c"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000027.nntex",
@@ -2087,6 +2273,12 @@
       "Sha256": "ab104d2a11be72fdc18013e76fa098ef0d5e5d0278467d7b800bbbc0c73c0b49"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000027_7.nntex",
+      "Length": 63386,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8866466+00:00",
+      "Sha256": "107b349544c1392fa225ced42fa32719146ff16e30d65e7b8f76bde505424bf6"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000028.nntex",
       "Length": 2102,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.244538+00:00",
@@ -2121,6 +2313,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1645043+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000028_7.nntex",
+      "Length": 124542,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8926449+00:00",
+      "Sha256": "fe84d7f6b7b39e3d8d0588da956877963ebb9f6e9ca643ae9d4ea4ab864b09c1"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000029.nntex",
@@ -2159,6 +2357,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000029_7.nntex",
+      "Length": 61622,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.8996473+00:00",
+      "Sha256": "026d3dbb5c249c1a3edd6dafe0ed08e8094b6043e64ae26026728facc218811c"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000030.nntex",
       "Length": 3478,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.263927+00:00",
@@ -2193,6 +2397,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1664997+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000030_7.nntex",
+      "Length": 86122,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9098745+00:00",
+      "Sha256": "8250dddca8a3fce4ae25d78a50685101feccc7984095600fe60e39ebce870dd3"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000031.nntex",
@@ -2231,6 +2441,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000031_7.nntex",
+      "Length": 109406,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9188779+00:00",
+      "Sha256": "a7d0bab7011fb16f2040d4b0e958a3d312da2b33e78a7b36de554337bc158983"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000032.nntex",
       "Length": 5142,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.2804819+00:00",
@@ -2265,6 +2481,12 @@
       "Length": 13742,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1674999+00:00",
       "Sha256": "4fdbd8db708fe7915a691e31d20131a48ea0dece67cb5e8729baea885a999737"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000032_7.nntex",
+      "Length": 69462,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9248806+00:00",
+      "Sha256": "2ec93dc05c59cc0d906add3dd4e31a36dda50b03b203d9f72bdfa05d79b600ec"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000033.nntex",
@@ -2303,6 +2525,12 @@
       "Sha256": "82bbd74cedaab59d02d248e67cf9700d0dc1bf5261b394a3c325460bc424dada"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000033_7.nntex",
+      "Length": 118822,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9328812+00:00",
+      "Sha256": "ea35b0d005c324532453663077ead57013a8c90168e6b1667a953a2c9ca3bea2"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000034.nntex",
       "Length": 4198,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.2981079+00:00",
@@ -2337,6 +2565,12 @@
       "Length": 12694,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1685+00:00",
       "Sha256": "2ed5e1e95affc370e11d6cc7c21684fd27a2cb54c01e088effd3716f29558b95"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000034_7.nntex",
+      "Length": 125182,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9410517+00:00",
+      "Sha256": "938f4d92ef38c1e2786247e3044fddf0dbb128676114356e6f48610d933644e7"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000035.nntex",
@@ -2375,6 +2609,12 @@
       "Sha256": "bd0d9e33dbb0c59e49f1022ca1522ca627a5c758f6eae2c5a366c48c75d63282"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000035_7.nntex",
+      "Length": 46658,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.946816+00:00",
+      "Sha256": "7ecbae71da86909918127234bd496f363a2f0a57481ecd645746e35153989de5"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000036.nntex",
       "Length": 4486,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3132255+00:00",
@@ -2409,6 +2649,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1704994+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000036_7.nntex",
+      "Length": 89650,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9556124+00:00",
+      "Sha256": "a98ce366f21b6f07ff2437b20084b6ec15da081b187d2cdb72010629a7e39188"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000037.nntex",
@@ -2447,6 +2693,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000037_7.nntex",
+      "Length": 132910,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9649162+00:00",
+      "Sha256": "1e4201b427b71250481eaa6092e5ceb5190aaf8e30eea7d7b28668d59865a6d4"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000038.nntex",
       "Length": 4246,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3341877+00:00",
@@ -2483,6 +2735,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000038_7.nntex",
+      "Length": 93622,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9728443+00:00",
+      "Sha256": "c824307411111dc5873eb0206cea35ebba749de392322da47f20db56042d7e61"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000039.nntex",
       "Length": 4198,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3434442+00:00",
@@ -2511,6 +2769,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1714999+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000039_6.nntex",
+      "Length": 99562,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9806458+00:00",
+      "Sha256": "54523a6d68c5027d4912d11569cdade758a5f24afb7772e0aa779e70cde687bd"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000040.nntex",
@@ -2549,6 +2813,12 @@
       "Sha256": "671f24cb9dfa6133a5f932da3249a2d8525329fdec117b3fa194912d829f4473"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000040_7.nntex",
+      "Length": 67126,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9874678+00:00",
+      "Sha256": "ac0d3622140803f9fd3e4f478eec5bc1a1668fe33cb70a9fdaedab8a65b9921d"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000041.nntex",
       "Length": 6262,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3582952+00:00",
@@ -2583,6 +2853,12 @@
       "Length": 29590,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1735008+00:00",
       "Sha256": "e4b6ba74a16accb5f34f4357476e3b2625575a8a92062e610102b482e268742f"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000041_7.nntex",
+      "Length": 71478,
+      "LastWriteTimeUtc": "2026-07-15T03:54:16.9946891+00:00",
+      "Sha256": "b7859e8f503e170fc70a962fb0120cef37717ad43bf347642566f952aacac65e"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000042.nntex",
@@ -2621,6 +2897,12 @@
       "Sha256": "799e82f0eaba2e30d05acc126ef533a04b48d05cda17b2d99de9cdcc27c92170"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000042_7.nntex",
+      "Length": 108438,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0209297+00:00",
+      "Sha256": "57a1d789a739ed7f0eb460dfd8a24a89246451988943ec2280619238a002e648"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000043.nntex",
       "Length": 4342,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3714871+00:00",
@@ -2655,6 +2937,12 @@
       "Length": 28974,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1755002+00:00",
       "Sha256": "a3839acfaf6995c65addad5eea6dc5b9c15036a7dee9d842f7f3084d3b5cc50a"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000043_7.nntex",
+      "Length": 141646,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0278392+00:00",
+      "Sha256": "01a1753de74233f993204d9bb9ad149e5355080a1b117d29a0dbdfd6c3514675"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000044.nntex",
@@ -2693,6 +2981,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000044_7.nntex",
+      "Length": 76390,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0360728+00:00",
+      "Sha256": "5501fe2cf1f4091b566d0db256f1fc61f2a8b7b9b48a3c6018ccccb7c57249be"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000045.nntex",
       "Length": 3734,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3846358+00:00",
@@ -2729,6 +3023,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000045_7.nntex",
+      "Length": 569002,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0491548+00:00",
+      "Sha256": "709fcbd41e0536382486e84b81779dfed0a6e0a3ec7c68024b62966817c63e29"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000046.nntex",
       "Length": 4342,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.3921086+00:00",
@@ -2763,6 +3063,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1765004+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000046_7.nntex",
+      "Length": 136662,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.05645+00:00",
+      "Sha256": "398fbb850ae52f0c8f6a6f95742b6293335df918c26c91b25ed9b10174f8a43a"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000047.nntex",
@@ -2807,6 +3113,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000047_8.nntex",
+      "Length": 208406,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0636929+00:00",
+      "Sha256": "d9e37a373d994744de290f33e48abd00ae5f13816394557321599494fb4aea2c"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000048.nntex",
       "Length": 4486,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.4086526+00:00",
@@ -2841,6 +3153,12 @@
       "Length": 16122,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1784996+00:00",
       "Sha256": "fba14b760847ed53ee40706c90f38ae10aa4ee92768f6612bf269ce37e78750f"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000048_7.nntex",
+      "Length": 132758,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0705262+00:00",
+      "Sha256": "6d9686cb962a7cc0b362f6df9853a869e11585ca473350fecfde29cc3e1e4384"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000049.nntex",
@@ -2879,6 +3197,12 @@
       "Sha256": "9fa6eeb1b9c6de3e5f3896590977962f459a54f32063b92541fcde27c47495aa"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000049_7.nntex",
+      "Length": 200434,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0765263+00:00",
+      "Sha256": "222b1c725ea52a63436a062ba5d053ee4b2acbe09192c579bbd604d62da8218e"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000050.nntex",
       "Length": 5942,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.4398262+00:00",
@@ -2915,6 +3239,12 @@
       "Sha256": "edd39a3218a3413ecf2ad217d13b8d9ff1498d60de8302d748162e830845f444"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000050_7.nntex",
+      "Length": 140422,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0850326+00:00",
+      "Sha256": "3375f2f657fa2859af9f589aeea057266c48cb703f9c6ececbee97de0c832747"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000051.nntex",
       "Length": 2422,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.4496537+00:00",
@@ -2949,6 +3279,12 @@
       "Length": 16262,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1805013+00:00",
       "Sha256": "8e87bf36e8778bebedd540bbebe07d0bbe1b8545ccca6311fc7dd079791b940d"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000051_7.nntex",
+      "Length": 86502,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.0923628+00:00",
+      "Sha256": "a7fc4872c4e2453bafd5d13f5a5caf36fd55773e90949bfa18d201907b9a2634"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000052.nntex",
@@ -3059,6 +3395,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000054_7.nntex",
+      "Length": 81366,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1121381+00:00",
+      "Sha256": "aa4f32f3e11caf24c78341621f77cbc6d2a6c37828ce9d522dc5ede2ec7ca353"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000055.nntex",
       "Length": 4630,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.4831079+00:00",
@@ -3093,6 +3435,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1834998+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000055_7.nntex",
+      "Length": 135486,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1205334+00:00",
+      "Sha256": "fec8caaa4ac7691fd125616e64ef621473413c1113ce0b5d2b74a22f469470e7"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000056.nntex",
@@ -3131,6 +3479,12 @@
       "Sha256": "729f82a7679211ff69ae1246b2e4ecf5d7f48bc435fca8c367fa017e920c4fab"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000056_7.nntex",
+      "Length": 63490,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.128862+00:00",
+      "Sha256": "13abcc4a011955f9f078bfc73c5a9313db5d3402bdc2b5d62a76e528d3809b27"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000057.nntex",
       "Length": 3606,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.4981209+00:00",
@@ -3165,6 +3519,12 @@
       "Length": 18166,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1845002+00:00",
       "Sha256": "4dea191c73888a1760598bd9d23b601e6cfd527665ad1b4f1df34392f317293e"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000057_7.nntex",
+      "Length": 275362,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1375199+00:00",
+      "Sha256": "c5e45715e55329e9989472ba2e94c91259b8f8356a8fdaa8668b3dc7531bfca1"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000058.nntex",
@@ -3203,6 +3563,12 @@
       "Sha256": "e66648113c2bf6b724f4e63a13492021ecb17ff2965b88b4ba82dfac290213ec"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000058_7.nntex",
+      "Length": 27434,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1454029+00:00",
+      "Sha256": "766bac5cbbae284a74fc8607d62ae10a58e63f1fb7e0ac9553cc4529ed8b15a9"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000059.nntex",
       "Length": 3734,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5147146+00:00",
@@ -3237,6 +3603,12 @@
       "Length": 17362,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1865019+00:00",
       "Sha256": "fbba91301826edb18a1235c3e5e05fdb30b9dd3cb0ca655850f53b818194ee1a"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000059_7.nntex",
+      "Length": 20606,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1527384+00:00",
+      "Sha256": "e9bfcb5ffca319b74f48d800eed29de5150c722cef3b2395caee2e2afa2469e5"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000060.nntex",
@@ -3275,6 +3647,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000060_7.nntex",
+      "Length": 31186,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1593666+00:00",
+      "Sha256": "267771d00de5d011e49cb23d26cc7a0bbf31aafd10ef7a19ee88154cff0f0c19"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000061.nntex",
       "Length": 3622,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5300758+00:00",
@@ -3311,6 +3689,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000061_7.nntex",
+      "Length": 12342,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1673686+00:00",
+      "Sha256": "73fb3438dbd75813cd82c8ea4a7496e3bdb762887dc2a519db4208aa12483d49"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000062.nntex",
       "Length": 3334,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5379395+00:00",
@@ -3339,6 +3723,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1885003+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000062_6.nntex",
+      "Length": 190002,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1760005+00:00",
+      "Sha256": "5438ab6e4944cf6da3607cf9c40aa8e4c2f8bf2aabedcd0882f370e8de7bb0a1"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000063.nntex",
@@ -3371,6 +3761,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000063_6.nntex",
+      "Length": 58222,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.183824+00:00",
+      "Sha256": "95739117b16d1b13cc79a47f1aa68d5fdd0b02dba130a71c318006f88a3af882"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000064.nntex",
       "Length": 2966,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5492288+00:00",
@@ -3399,6 +3795,12 @@
       "Length": 12902,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1895022+00:00",
       "Sha256": "223456011d1b2e0b94aeea02926d227a355ddfedf174499c0044eecd4ae54b6b"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000064_6.nntex",
+      "Length": 50702,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.189979+00:00",
+      "Sha256": "e494ce1cb39200896b18336cb4f8041beb9c542d46c22c2c624a2d6c88de144e"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000065.nntex",
@@ -3431,6 +3833,12 @@
       "Sha256": "6461997202505e0b27493e887aaa82668042b29591c6e84d89eea761b25ed9ce"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000065_6.nntex",
+      "Length": 67702,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.1970189+00:00",
+      "Sha256": "7317bcc9efc0b442008633c8420c4a6fb0ade474da0ba483d471f40fda8d5fa2"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000066.nntex",
       "Length": 3862,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5654673+00:00",
@@ -3459,6 +3867,12 @@
       "Length": 13590,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1915022+00:00",
       "Sha256": "3d52cdd5348d915b1ca79cd6360958ef3a98293082383ecc0aab4c6d259125ec"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000066_6.nntex",
+      "Length": 30290,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2049124+00:00",
+      "Sha256": "4059c98a89e68be2106f64891201d02ff0ae8ae0ef24605ed73c1c9b401c0d96"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000067.nntex",
@@ -3491,6 +3905,12 @@
       "Sha256": "b12589ef64618b23c6ac54615eee99f8b23c9335dde666f1f4af7f54f51b4f2c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000067_6.nntex",
+      "Length": 39402,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2129313+00:00",
+      "Sha256": "b2f939fca84fa627328e7f2c0e45d5cf1a668e7a7b8e39dc255987824d91cccd"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000068.nntex",
       "Length": 4198,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5816639+00:00",
@@ -3521,6 +3941,12 @@
       "Sha256": "3a6ed309610b1dbdf4fbacf1acd4eb3df13a14e3f9122f3b33fde33eb1274ada"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000068_6.nntex",
+      "Length": 44482,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2205947+00:00",
+      "Sha256": "c164789c197c4a724e31dd152768192ab62f770eb434be05f5aea303901248e0"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000069.nntex",
       "Length": 3606,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.5896635+00:00",
@@ -3549,6 +3975,12 @@
       "Length": 11502,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1935006+00:00",
       "Sha256": "9b08b227322f35128c945b7594895a8c510c2af175dc1ae7059bc1627c6bec4a"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000069_6.nntex",
+      "Length": 61622,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2334917+00:00",
+      "Sha256": "2285661a440a1d672f90706d38c55a9f15c2470a24125859bddff5a1313b6860"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000070.nntex",
@@ -3587,6 +4019,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000070_7.nntex",
+      "Length": 78518,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2409526+00:00",
+      "Sha256": "63ad31e1e10c3b30aac67664a9cac288170a96eb118c85664b2b8904a6e19674"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000071.nntex",
       "Length": 4342,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6046417+00:00",
@@ -3621,6 +4059,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1955013+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000071_7.nntex",
+      "Length": 75922,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2497955+00:00",
+      "Sha256": "03bdce6095acc07c601de8a54bd722ebc80dc49e6b5913b2b11dbb15c61ae5b9"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000072.nntex",
@@ -3659,6 +4103,12 @@
       "Sha256": "21f462878520942e5b98508b3dfe8590403b529ce02cc9f0db90dbb282ac7140"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000072_7.nntex",
+      "Length": 49486,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2580809+00:00",
+      "Sha256": "e8f159cb78a5ee954976480d8167c542935a985e137cb2b2aada38d59c39e801"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000073.nntex",
       "Length": 4342,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6194958+00:00",
@@ -3693,6 +4143,12 @@
       "Length": 31774,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1965009+00:00",
       "Sha256": "5abbe615a5b1a3d0b382dfbd1ec905cd1fd5b3b56d3a17be8ad4b944db6c7fdf"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000073_7.nntex",
+      "Length": 154882,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2675496+00:00",
+      "Sha256": "499bcb0add752b09cdbe60631031da19514db067a2c28eac9398ef971a060768"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000074.nntex",
@@ -3731,6 +4187,12 @@
       "Sha256": "0429302052512ed5d9bf58e9343cd86f6aac8b65fb89ccb23cacabee0b59baf8"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000074_7.nntex",
+      "Length": 52078,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2780726+00:00",
+      "Sha256": "2ef0e94dd1b37c791c34dd874bafd379579abcf842080219c01f11bec7755a98"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000075.nntex",
       "Length": 1466,
       "LastWriteTimeUtc": "2026-07-03T06:15:43.1090691+00:00",
@@ -3753,6 +4215,12 @@
       "Length": 29722,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1985007+00:00",
       "Sha256": "f7eb771dfbedc157eb11f8834e7be0c83a028a96954c8e4bbbbf6f0aa632b308"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000075_5.nntex",
+      "Length": 28582,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2861833+00:00",
+      "Sha256": "c8e6dd6b9c84dc5cfa1ca95ed2236f3370b7ebce29dcaaa97dc0015d22d8ed7e"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000076.nntex",
@@ -3779,6 +4247,12 @@
       "Sha256": "cac1de5a9afcfa6ed0d87637c83ab2db4d002fcc2d926e5d025bd7a10a82a9ff"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000076_5.nntex",
+      "Length": 57046,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.2951803+00:00",
+      "Sha256": "a3c7d9e0b8407c2ca9e57597b7d76623837cc03da461fb9e0d98b9327b706ea7"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000077.nntex",
       "Length": 1466,
       "LastWriteTimeUtc": "2026-07-03T06:15:43.12382+00:00",
@@ -3801,6 +4275,12 @@
       "Length": 16534,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.1995006+00:00",
       "Sha256": "798b40ecffdb677cfe832eff7483e75240ed38824373ea65b439dc9432492488"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000077_5.nntex",
+      "Length": 63862,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3034759+00:00",
+      "Sha256": "e8cdb8f317399090e9bd73e92b024ad6e8493104150d2ded5156609a58c8c5f6"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000078.nntex",
@@ -3827,6 +4307,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000078_5.nntex",
+      "Length": 43422,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3110601+00:00",
+      "Sha256": "a9eb1e505fcec70d596ade44affecac47507f17a8b34d71924c8554b2112206b"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000079.nntex",
       "Length": 1466,
       "LastWriteTimeUtc": "2026-07-03T06:15:43.1404164+00:00",
@@ -3849,6 +4335,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.2014997+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000079_5.nntex",
+      "Length": 99142,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3195664+00:00",
+      "Sha256": "c174d86d7a4ee4a995345e4dddb8c31de6d7f3a0564331e2d31a44d2c2050560"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000080.nntex",
@@ -3887,6 +4379,12 @@
       "Sha256": "febccfd12a9f2383453785e80bc6f30a2774ad1272661d18ea9e0587f516c5b9"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000080_7.nntex",
+      "Length": 67126,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.328446+00:00",
+      "Sha256": "0208b28739a6de4e1437edd69ba74a1d5a76d6877f744f42fabde0227e2bcf82"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000081.nntex",
       "Length": 2582,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6428269+00:00",
@@ -3923,6 +4421,12 @@
       "Sha256": "7277558cb5ff2505cf2fba87c6aaa9957b940a0e9c2c261b55bf4f00100f7628"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000081_7.nntex",
+      "Length": 68398,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3374463+00:00",
+      "Sha256": "ca983f5fde2ffb570f43619d566dbd186dce55b8eabde9023041c521507287f6"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000082.nntex",
       "Length": 3334,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6511303+00:00",
@@ -3951,6 +4455,12 @@
       "Length": 22702,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.2035001+00:00",
       "Sha256": "f6942ad95dcc44141f2bf7d016cf82dc4ccff82798e4883b4c79ba93c644b00f"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000082_6.nntex",
+      "Length": 20850,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3454503+00:00",
+      "Sha256": "407b2aaa0122f62c37ef3c9e06f7b9f3ed95fdf2c9fe9ead2734ed53911d2204"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000083.nntex",
@@ -3983,6 +4493,12 @@
       "Sha256": "fc171723db51501078cfbb3a69433d0271179c2c8fad8a7af6b059b2c01ccd6e"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000083_6.nntex",
+      "Length": 9502,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3529534+00:00",
+      "Sha256": "3312b6726ac962f11b1074167525d334a865931a7fbc9ecf8c3ee69611dfc4d3"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000084.nntex",
       "Length": 2582,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6744784+00:00",
@@ -4011,6 +4527,12 @@
       "Length": 20542,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.2045022+00:00",
       "Sha256": "6c3b89312912e1a9f87c1b9d4e28b8439d49264a8e452f69ccc2949aa24ab30e"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000084_6.nntex",
+      "Length": 20542,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3614314+00:00",
+      "Sha256": "688d378c55116f93b54fdc97a7778a38cfdd225767ddf299d1757577d8258cc6"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000085.nntex",
@@ -4043,6 +4565,12 @@
       "Sha256": "58958c872d66094da1ae23a73eb8007f6e8c4a955e80fe036612e586443655e6"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000085_6.nntex",
+      "Length": 20458,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3689587+00:00",
+      "Sha256": "d53b7d996e727aeb18e222947ec810ce934fa0b693a5a129fa4da1725a8f6340"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000086.nntex",
       "Length": 4486,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.6925033+00:00",
@@ -4073,6 +4601,12 @@
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
     },
     {
+      "RelativePath": "RuntimeTextures/Asset.000086_6.nntex",
+      "Length": 41778,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3765659+00:00",
+      "Sha256": "0ffa4e1db83180f3d166dcc5ae9d6af9b5da2b7157b629826c79227c837fd12f"
+    },
+    {
       "RelativePath": "RuntimeTextures/Asset.000087.nntex",
       "Length": 4198,
       "LastWriteTimeUtc": "2026-06-23T09:20:11.7011962+00:00",
@@ -4101,6 +4635,12 @@
       "Length": 26,
       "LastWriteTimeUtc": "2026-07-14T03:29:05.2075018+00:00",
       "Sha256": "03d7ba1621f24b56061b789da1cc66af83454055f382c5b577ce5e819a19fb4c"
+    },
+    {
+      "RelativePath": "RuntimeTextures/Asset.000087_6.nntex",
+      "Length": 43422,
+      "LastWriteTimeUtc": "2026-07-15T03:54:17.3850729+00:00",
+      "Sha256": "8dd56f7d16cbee6d44df43fa967e31cd5584c1041c7b1ad31ea0da31b654fa53"
     },
     {
       "RelativePath": "RuntimeTextures/Asset.000088.nntex",

@@ -43,195 +43,201 @@
       "AssetCount": 2
     },
     {
+      "Category": "角色",
+      "Name": "武器内观1",
+      "SortOrder": 5,
+      "AssetCount": 86
+    },
+    {
       "Category": "NPC",
       "Name": "npc2",
-      "SortOrder": 5,
+      "SortOrder": 6,
       "AssetCount": 1075
     },
     {
       "Category": "怪物",
       "Name": "Mon1",
-      "SortOrder": 6,
+      "SortOrder": 7,
       "AssetCount": 1086
     },
     {
       "Category": "怪物",
       "Name": "测试",
-      "SortOrder": 7,
+      "SortOrder": 8,
       "AssetCount": 30
     },
     {
       "Category": "技能",
       "Name": "技能图标",
-      "SortOrder": 8,
+      "SortOrder": 9,
       "AssetCount": 708
     },
     {
       "Category": "技能",
       "Name": "技能特效1",
-      "SortOrder": 9,
+      "SortOrder": 10,
       "AssetCount": 28
     },
     {
       "Category": "物品",
       "Name": "物品堆叠框动画",
-      "SortOrder": 10,
+      "SortOrder": 11,
       "AssetCount": 30
     },
     {
       "Category": "物品",
       "Name": "地上物品图标",
-      "SortOrder": 11,
+      "SortOrder": 12,
       "AssetCount": 2473
     },
     {
       "Category": "物品",
       "Name": "背包物品图标",
-      "SortOrder": 12,
+      "SortOrder": 13,
       "AssetCount": 2545
     },
     {
       "Category": "物品",
       "Name": "光柱1",
-      "SortOrder": 13,
+      "SortOrder": 14,
       "AssetCount": 12
     },
     {
       "Category": "物品",
       "Name": "其他",
-      "SortOrder": 14,
+      "SortOrder": 15,
       "AssetCount": 2
     },
     {
       "Category": "地图",
       "Name": "Legacy",
-      "SortOrder": 15,
+      "SortOrder": 16,
       "AssetCount": 2398
     },
     {
       "Category": "地图",
       "Name": "Cliffsc",
-      "SortOrder": 16,
+      "SortOrder": 17,
       "AssetCount": 0
     },
     {
       "Category": "地图",
       "Name": "Housesc",
-      "SortOrder": 17,
+      "SortOrder": 18,
       "AssetCount": 916
     },
     {
       "Category": "地图",
       "Name": "Object2c",
-      "SortOrder": 18,
+      "SortOrder": 19,
       "AssetCount": 12
     },
     {
       "Category": "地图",
       "Name": "Tiles30c",
-      "SortOrder": 19,
+      "SortOrder": 20,
       "AssetCount": 118
     },
     {
       "Category": "地图",
       "Name": "Tilesc",
-      "SortOrder": 20,
+      "SortOrder": 21,
       "AssetCount": 477
     },
     {
       "Category": "地图",
       "Name": "smObjectsc",
-      "SortOrder": 21,
+      "SortOrder": 22,
       "AssetCount": 631
     },
     {
       "Category": "地图",
       "Name": "wood_Cliffsc",
-      "SortOrder": 22,
-      "AssetCount": 0
-    },
-    {
-      "Category": "地图",
-      "Name": "wood_Furnituresc",
       "SortOrder": 23,
       "AssetCount": 0
     },
     {
       "Category": "地图",
-      "Name": "wood_Housesc",
+      "Name": "wood_Furnituresc",
       "SortOrder": 24,
+      "AssetCount": 0
+    },
+    {
+      "Category": "地图",
+      "Name": "wood_Housesc",
+      "SortOrder": 25,
       "AssetCount": 56
     },
     {
       "Category": "地图",
       "Name": "wood_smObjectsc",
-      "SortOrder": 25,
+      "SortOrder": 26,
       "AssetCount": 187
     },
     {
       "Category": "地图",
       "Name": "地图瓦片",
-      "SortOrder": 26,
+      "SortOrder": 27,
       "AssetCount": 4765
     },
     {
       "Category": "界面",
       "Name": "buff",
-      "SortOrder": 27,
+      "SortOrder": 28,
       "AssetCount": 20
     },
     {
       "Category": "界面",
       "Name": "主界面",
-      "SortOrder": 28,
+      "SortOrder": 29,
       "AssetCount": 78
     },
     {
       "Category": "界面",
       "Name": "提示框",
-      "SortOrder": 29,
+      "SortOrder": 30,
       "AssetCount": 3
     },
     {
       "Category": "界面",
       "Name": "游戏加载界面",
-      "SortOrder": 30,
+      "SortOrder": 31,
       "AssetCount": 101
     },
     {
       "Category": "界面",
       "Name": "登录界面",
-      "SortOrder": 31,
+      "SortOrder": 32,
       "AssetCount": 8
     },
     {
       "Category": "界面",
       "Name": "角色选择界面",
-      "SortOrder": 32,
+      "SortOrder": 33,
       "AssetCount": 24
     },
     {
       "Category": "界面",
       "Name": "人物属性面板",
-      "SortOrder": 33,
+      "SortOrder": 34,
       "AssetCount": 1
     },
     {
       "Category": "界面",
       "Name": "新界面素材",
-      "SortOrder": 34,
+      "SortOrder": 35,
       "AssetCount": 1504
     },
     {
       "Category": "小地图",
       "Name": "默认",
-      "SortOrder": 35,
+      "SortOrder": 36,
       "AssetCount": 1
     },
     {
       "Category": "音频",
       "Name": "默认",
-      "SortOrder": 36,
+      "SortOrder": 37,
       "AssetCount": 3
     }
   ],
@@ -272236,6 +272242,866 @@
       "Category": "角色",
       "Subcategory": "衣服内观",
       "RelativePath": "Client/Assets/角色/衣服内观/000600.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000000_9",
+      "DisplayName": "000000",
+      "SortOrder": 25294,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000000.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000001_9",
+      "DisplayName": "000001",
+      "SortOrder": 25295,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000001.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000002_9",
+      "DisplayName": "000002",
+      "SortOrder": 25296,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000002.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000003_9",
+      "DisplayName": "000003",
+      "SortOrder": 25297,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000003.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000004_8",
+      "DisplayName": "000004",
+      "SortOrder": 25298,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000004.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000005_8",
+      "DisplayName": "000005",
+      "SortOrder": 25299,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000005.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000006_8",
+      "DisplayName": "000006",
+      "SortOrder": 25300,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000006.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000007_8",
+      "DisplayName": "000007",
+      "SortOrder": 25301,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000007.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000008_8",
+      "DisplayName": "000008",
+      "SortOrder": 25302,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000008.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000009_8",
+      "DisplayName": "000009",
+      "SortOrder": 25303,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000009.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000010_9",
+      "DisplayName": "000010",
+      "SortOrder": 25304,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000010.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000011_9",
+      "DisplayName": "000011",
+      "SortOrder": 25305,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000011.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000012_8",
+      "DisplayName": "000012",
+      "SortOrder": 25306,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000012.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000013_8",
+      "DisplayName": "000013",
+      "SortOrder": 25307,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000013.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000014_8",
+      "DisplayName": "000014",
+      "SortOrder": 25308,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000014.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000015_8",
+      "DisplayName": "000015",
+      "SortOrder": 25309,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000015.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000016_8",
+      "DisplayName": "000016",
+      "SortOrder": 25310,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000016.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000017_8",
+      "DisplayName": "000017",
+      "SortOrder": 25311,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000017.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000018_7",
+      "DisplayName": "000018",
+      "SortOrder": 25312,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000018.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000019_7",
+      "DisplayName": "000019",
+      "SortOrder": 25313,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000019.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000020_7",
+      "DisplayName": "000020",
+      "SortOrder": 25314,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000020.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000021_7",
+      "DisplayName": "000021",
+      "SortOrder": 25315,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000021.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000022_8",
+      "DisplayName": "000022",
+      "SortOrder": 25316,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000022.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000023_7",
+      "DisplayName": "000023",
+      "SortOrder": 25317,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000023.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000024_7",
+      "DisplayName": "000024",
+      "SortOrder": 25318,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000024.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000025_8",
+      "DisplayName": "000025",
+      "SortOrder": 25319,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000025.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000026_7",
+      "DisplayName": "000026",
+      "SortOrder": 25320,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000026.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000027_7",
+      "DisplayName": "000027",
+      "SortOrder": 25321,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000027.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000028_7",
+      "DisplayName": "000028",
+      "SortOrder": 25322,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000028.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000029_7",
+      "DisplayName": "000029",
+      "SortOrder": 25323,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000029.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000030_7",
+      "DisplayName": "000030",
+      "SortOrder": 25324,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000030.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000031_7",
+      "DisplayName": "000031",
+      "SortOrder": 25325,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000031.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000032_7",
+      "DisplayName": "000032",
+      "SortOrder": 25326,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000032.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000033_7",
+      "DisplayName": "000033",
+      "SortOrder": 25327,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000033.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000034_7",
+      "DisplayName": "000034",
+      "SortOrder": 25328,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000034.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000035_7",
+      "DisplayName": "000035",
+      "SortOrder": 25329,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000035.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000036_7",
+      "DisplayName": "000036",
+      "SortOrder": 25330,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000036.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000037_7",
+      "DisplayName": "000037",
+      "SortOrder": 25331,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000037.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000038_7",
+      "DisplayName": "000038",
+      "SortOrder": 25332,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000038.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000039_6",
+      "DisplayName": "000039",
+      "SortOrder": 25333,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000039.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000040_7",
+      "DisplayName": "000040",
+      "SortOrder": 25334,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000040.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000041_7",
+      "DisplayName": "000041",
+      "SortOrder": 25335,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000041.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000042_7",
+      "DisplayName": "000042",
+      "SortOrder": 25336,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000042.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000043_7",
+      "DisplayName": "000043",
+      "SortOrder": 25337,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000043.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000044_7",
+      "DisplayName": "000044",
+      "SortOrder": 25338,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000044.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000045_7",
+      "DisplayName": "000045",
+      "SortOrder": 25339,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000045.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000046_7",
+      "DisplayName": "000046",
+      "SortOrder": 25340,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000046.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000047_8",
+      "DisplayName": "000047",
+      "SortOrder": 25341,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000047.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000048_7",
+      "DisplayName": "000048",
+      "SortOrder": 25342,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000048.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000049_7",
+      "DisplayName": "000049",
+      "SortOrder": 25343,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000049.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000050_7",
+      "DisplayName": "000050",
+      "SortOrder": 25344,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000050.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000051_7",
+      "DisplayName": "000051",
+      "SortOrder": 25345,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000051.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000054_7",
+      "DisplayName": "000054",
+      "SortOrder": 25348,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000054.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000055_7",
+      "DisplayName": "000055",
+      "SortOrder": 25349,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000055.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000056_7",
+      "DisplayName": "000056",
+      "SortOrder": 25350,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000056.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000057_7",
+      "DisplayName": "000057",
+      "SortOrder": 25351,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000057.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000058_7",
+      "DisplayName": "000058",
+      "SortOrder": 25352,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000058.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000059_7",
+      "DisplayName": "000059",
+      "SortOrder": 25353,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000059.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000060_7",
+      "DisplayName": "000060",
+      "SortOrder": 25354,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000060.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000061_7",
+      "DisplayName": "000061",
+      "SortOrder": 25355,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000061.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000062_6",
+      "DisplayName": "000062",
+      "SortOrder": 25356,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000062.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000063_6",
+      "DisplayName": "000063",
+      "SortOrder": 25357,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000063.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000064_6",
+      "DisplayName": "000064",
+      "SortOrder": 25358,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000064.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000065_6",
+      "DisplayName": "000065",
+      "SortOrder": 25359,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000065.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000066_6",
+      "DisplayName": "000066",
+      "SortOrder": 25360,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000066.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000067_6",
+      "DisplayName": "000067",
+      "SortOrder": 25361,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000067.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000068_6",
+      "DisplayName": "000068",
+      "SortOrder": 25362,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000068.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000069_6",
+      "DisplayName": "000069",
+      "SortOrder": 25363,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000069.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000070_7",
+      "DisplayName": "000070",
+      "SortOrder": 25364,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000070.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000071_7",
+      "DisplayName": "000071",
+      "SortOrder": 25365,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000071.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000072_7",
+      "DisplayName": "000072",
+      "SortOrder": 25366,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000072.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000073_7",
+      "DisplayName": "000073",
+      "SortOrder": 25367,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000073.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000074_7",
+      "DisplayName": "000074",
+      "SortOrder": 25368,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000074.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000075_5",
+      "DisplayName": "000075",
+      "SortOrder": 25369,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000075.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000076_5",
+      "DisplayName": "000076",
+      "SortOrder": 25370,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000076.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000077_5",
+      "DisplayName": "000077",
+      "SortOrder": 25371,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000077.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000078_5",
+      "DisplayName": "000078",
+      "SortOrder": 25372,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000078.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000079_5",
+      "DisplayName": "000079",
+      "SortOrder": 25373,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000079.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000080_7",
+      "DisplayName": "000080",
+      "SortOrder": 25374,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000080.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000081_7",
+      "DisplayName": "000081",
+      "SortOrder": 25375,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000081.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000082_6",
+      "DisplayName": "000082",
+      "SortOrder": 25376,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000082.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000083_6",
+      "DisplayName": "000083",
+      "SortOrder": 25377,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000083.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000084_6",
+      "DisplayName": "000084",
+      "SortOrder": 25378,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000084.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000085_6",
+      "DisplayName": "000085",
+      "SortOrder": 25379,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000085.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000086_6",
+      "DisplayName": "000086",
+      "SortOrder": 25380,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000086.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": "Asset.000087_6",
+      "DisplayName": "000087",
+      "SortOrder": 25381,
+      "Category": "角色",
+      "Subcategory": "武器内观1",
+      "RelativePath": "Client/Assets/角色/武器内观1/000087.png",
       "AudioUsage": null,
       "Tags": []
     }
