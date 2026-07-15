@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 3,
   "ScreenId": "Register",
   "DisplayName": "注册界面",
   "BackgroundMusicAssetId": "",
@@ -178,7 +178,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image2",
@@ -354,7 +355,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerPasswordInput",
@@ -377,10 +379,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -528,7 +530,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerConfirmPasswordInput",
@@ -551,10 +554,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -702,7 +705,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerAccountInput",
@@ -725,10 +729,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -876,7 +880,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerQuestion1Input",
@@ -899,10 +904,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1050,7 +1055,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerAnswer1Input",
@@ -1073,10 +1079,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1224,7 +1230,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerQuestion2Input",
@@ -1247,10 +1254,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1398,7 +1405,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerAnswer2Input",
@@ -1421,10 +1429,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1572,7 +1580,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerSubmitButton",
@@ -1746,7 +1755,8 @@
       "ButtonClickAreaWidth": 281,
       "ButtonClickAreaHeight": 50,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "registerBackButton",
@@ -1920,7 +1930,8 @@
       "ButtonClickAreaWidth": 273,
       "ButtonClickAreaHeight": 43,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

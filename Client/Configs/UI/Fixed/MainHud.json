@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "ScreenId": "MainHud",
   "DisplayName": "主界面 HUD",
   "BackgroundMusicAssetId": "",
@@ -218,7 +218,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image5",
@@ -432,7 +433,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image2",
@@ -646,7 +648,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image4",
@@ -860,7 +863,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "progressBar",
@@ -1072,7 +1076,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image3",
@@ -1286,7 +1291,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image6",
@@ -1500,7 +1506,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image7",
@@ -1714,7 +1721,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image9",
@@ -1928,7 +1936,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image10",
@@ -2142,7 +2151,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image11",
@@ -2356,7 +2366,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button",
@@ -2568,7 +2579,8 @@
       "ButtonClickAreaWidth": 36,
       "ButtonClickAreaHeight": 52,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button2",
@@ -2780,7 +2792,8 @@
       "ButtonClickAreaWidth": 38,
       "ButtonClickAreaHeight": 53,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "mainHudMessageDisplay",
@@ -2992,7 +3005,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button3",
@@ -3204,7 +3218,8 @@
       "ButtonClickAreaWidth": 38,
       "ButtonClickAreaHeight": 53,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button4",
@@ -3416,7 +3431,8 @@
       "ButtonClickAreaWidth": 32,
       "ButtonClickAreaHeight": 18,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "mainHudChatInput",
@@ -3628,7 +3644,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button5",
@@ -3840,7 +3857,8 @@
       "ButtonClickAreaWidth": 32,
       "ButtonClickAreaHeight": 18,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "mainHudExperienceGainDisplay",
@@ -4052,7 +4070,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "mainHudItemPickupDisplay",
@@ -4264,7 +4283,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "text",
@@ -4476,7 +4496,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "mainHudMessageScrollbar",
@@ -4688,7 +4709,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "text2",
@@ -4900,7 +4922,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "text3",
@@ -5112,7 +5135,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "progressBar3",
@@ -5337,7 +5361,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "progressBar2",
@@ -5549,7 +5574,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "progressBar32",
@@ -5773,7 +5799,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

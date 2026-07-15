@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "ScreenId": "Death",
   "DisplayName": "死亡页面",
   "BackgroundMusicAssetId": "",
@@ -221,7 +221,8 @@
       "IsVisibleByDefault": true,
       "EditorPreviewItemId": 0,
       "SlotInnerViewSourceControlIds": [],
-      "IsInventoryIconVisible": true
+      "IsInventoryIconVisible": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "deathNormalRespawnButton",
@@ -436,7 +437,8 @@
       "IsVisibleByDefault": true,
       "EditorPreviewItemId": 0,
       "SlotInnerViewSourceControlIds": [],
-      "IsInventoryIconVisible": true
+      "IsInventoryIconVisible": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

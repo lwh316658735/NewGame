@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 3,
   "ScreenId": "Loading",
   "DisplayName": "游戏加载",
   "BackgroundMusicAssetId": "",
@@ -178,7 +178,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "loadingProgressImage",
@@ -453,7 +454,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

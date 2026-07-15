@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 3,
   "ScreenId": "BuffLayer",
   "DisplayName": "Buff 图层",
   "BackgroundMusicAssetId": "",
@@ -184,7 +184,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

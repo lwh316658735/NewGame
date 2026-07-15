@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 3,
   "ScreenId": "CharacterCreate",
   "DisplayName": "创建角色",
   "BackgroundMusicAssetId": "",
@@ -178,7 +178,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image4",
@@ -354,7 +355,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image2",
@@ -530,7 +532,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateProfessionWarriorButton",
@@ -704,7 +707,8 @@
       "ButtonClickAreaWidth": 392,
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateProfessionMageButton",
@@ -878,7 +882,8 @@
       "ButtonClickAreaWidth": 392,
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateProfessionTaoistButton",
@@ -1052,7 +1057,8 @@
       "ButtonClickAreaWidth": 392,
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image3",
@@ -1228,7 +1234,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateGenderMaleButton",
@@ -1402,7 +1409,8 @@
       "ButtonClickAreaWidth": 192,
       "ButtonClickAreaHeight": 54,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateGenderFemaleButton",
@@ -1576,7 +1584,8 @@
       "ButtonClickAreaWidth": 191,
       "ButtonClickAreaHeight": 56,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image5",
@@ -1752,7 +1761,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateNameInput",
@@ -1775,10 +1785,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1926,7 +1936,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateSubmitButton",
@@ -2100,7 +2111,8 @@
       "ButtonClickAreaWidth": 336,
       "ButtonClickAreaHeight": 88,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateBackButton",
@@ -2274,7 +2286,8 @@
       "ButtonClickAreaWidth": 319,
       "ButtonClickAreaHeight": 79,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "characterCreateCharacterPreview",
@@ -2497,7 +2510,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }

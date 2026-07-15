@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 3,
   "ScreenId": "Login",
   "DisplayName": "登录界面",
   "BackgroundMusicAssetId": "Asset.log_in_long2",
@@ -178,7 +178,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "image2",
@@ -354,7 +355,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button",
@@ -528,7 +530,8 @@
       "ButtonClickAreaWidth": 165,
       "ButtonClickAreaHeight": 42,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "loginAccountInput",
@@ -551,10 +554,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -702,7 +705,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button2",
@@ -876,7 +880,8 @@
       "ButtonClickAreaWidth": 162,
       "ButtonClickAreaHeight": 38,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button3",
@@ -1050,7 +1055,8 @@
       "ButtonClickAreaWidth": 161,
       "ButtonClickAreaHeight": 39,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "button4",
@@ -1224,7 +1230,8 @@
       "ButtonClickAreaWidth": 233,
       "ButtonClickAreaHeight": 52,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     },
     {
       "ControlId": "loginPasswordInput",
@@ -1247,10 +1254,10 @@
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
-        "IsOutlineEnabled": true,
+        "IsOutlineEnabled": false,
         "OutlineColor": "#00000080",
         "OutlineWidth": 1,
-        "IsShadowEnabled": true,
+        "IsShadowEnabled": false,
         "ShadowColor": "#000000",
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
@@ -1398,7 +1405,8 @@
       "ButtonClickAreaWidth": 0,
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
-      "IsVisibleByDefault": true
+      "IsVisibleByDefault": true,
+      "IsEquipmentAppearanceVisible": false
     }
   ]
 }
