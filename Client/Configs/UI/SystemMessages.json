@@ -4,7 +4,7 @@
       "Version": 3,
       "MessageId": "LoginInputMissing",
       "DisplayName": "登录信息未填完整",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "登录失败",
       "Body": "请输入账号和密码。",
       "TitleTextStyle": {
@@ -24,7 +24,7 @@
       "Version": 3,
       "MessageId": "LoginInvalidCredentials",
       "DisplayName": "登录密码错误",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "账号或密码错误。",
       "TitleTextStyle": {
@@ -44,7 +44,7 @@
       "Version": 3,
       "MessageId": "LoginServerUnavailable",
       "DisplayName": "服务器未启动",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "无法连接服务器，请确认服务器已启动。",
       "TitleTextStyle": {
@@ -64,7 +64,7 @@
       "Version": 3,
       "MessageId": "RegisterInputMissing",
       "DisplayName": "注册信息未填完整",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "请填写账号、密码、确认密码、问题和答案。",
       "TitleTextStyle": {
@@ -84,7 +84,7 @@
       "Version": 3,
       "MessageId": "RegisterPasswordMismatch",
       "DisplayName": "注册密码不一致",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "两次输入的密码不一致，请重新输入。",
       "TitleTextStyle": {
@@ -104,7 +104,7 @@
       "Version": 3,
       "MessageId": "RegisterAccountAlreadyExists",
       "DisplayName": "注册账号已存在",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "该账号已存在，请更换账号后重试。",
       "TitleTextStyle": {
@@ -124,7 +124,7 @@
       "Version": 3,
       "MessageId": "RegisterRequestFailed",
       "DisplayName": "注册请求失败",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "注册请求未完成，请稍后再试。",
       "TitleTextStyle": {
@@ -144,7 +144,7 @@
       "Version": 3,
       "MessageId": "RegisterSucceeded",
       "DisplayName": "注册成功",
-      "TemplateId": "SystemMessageDialog",
+      "TemplateId": 2,
       "Title": "",
       "Body": "账号已创建，请返回登录界面登录。",
       "TitleTextStyle": {
@@ -164,7 +164,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordInputMissing",
       "DisplayName": "修改密码信息未填完整",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "请填写账号、原密码、新密码和确认密码。",
       "TitleTextStyle": {
@@ -184,7 +184,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordPasswordMismatch",
       "DisplayName": "修改密码输入不一致",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "两次输入的新密码不一致，请重新输入。",
       "TitleTextStyle": {
@@ -204,7 +204,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordAccountNotFound",
       "DisplayName": "修改密码账号不存在",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "未找到该账号，请确认账号是否填写正确。",
       "TitleTextStyle": {
@@ -224,7 +224,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordOldPasswordIncorrect",
       "DisplayName": "修改密码原密码错误",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "原密码不正确，请重新输入。",
       "TitleTextStyle": {
@@ -244,7 +244,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordRequestFailed",
       "DisplayName": "修改密码请求失败",
-      "TemplateId": "SystemErrorDialog",
+      "TemplateId": 3,
       "Title": "",
       "Body": "修改密码请求未完成，请稍后再试。",
       "TitleTextStyle": {
@@ -264,7 +264,7 @@
       "Version": 3,
       "MessageId": "ChangePasswordSucceeded",
       "DisplayName": "修改密码成功",
-      "TemplateId": "SystemMessageDialog",
+      "TemplateId": 2,
       "Title": "",
       "Body": "密码已修改，请使用新密码登录。",
       "TitleTextStyle": {

@@ -1,33 +1,31 @@
 {
   "Version": 1,
-  "TemplateId": "GroundItemStackTooltip",
-  "DisplayName": "物品叠加提示框",
-  "DisplayMode": "FollowMouse",
-  "HasPresentationScript": false,
+  "TemplateId": 6,
+  "DisplayName": "默认内容窗口",
+  "X": 0,
+  "Y": 0,
+  "Width": 600,
+  "Height": 480,
+  "DisplayMode": "FixedPosition",
   "Controls": [
     {
-      "ControlId": "groundItemStackTooltip",
-      "DisplayName": "物品堆叠提示框",
-      "Kind": "GroundItemStackTooltip",
-      "X": 156,
-      "Y": 190,
-      "Width": 223,
-      "Height": 548,
+      "ControlId": "button",
+      "DisplayName": "按钮 2",
+      "Kind": "Button",
+      "X": 380,
+      "Y": 424,
+      "Width": 220,
+      "Height": 56,
       "Anchor": "TopLeft",
       "IsLockedInEditor": false,
-      "ZIndex": 0,
+      "ZIndex": 2,
       "DragTargetControlIds": [],
-      "GroupMemberControlIds": [],
       "Text": "",
       "FontFamily": "NSimSun",
-      "FontSize": 12,
+      "FontSize": 16,
       "TextColor": "#FFFFFF",
       "TextPosition": "TopLeft",
-      "IsTextWrapEnabled": false,
-      "TextPaddingLeft": 0,
-      "TextPaddingTop": 0,
-      "TextPaddingRight": 0,
-      "TextPaddingBottom": 0,
+      "IsTextWrapEnabled": true,
       "TextEffect": {
         "IsOutlineEnabled": true,
         "OutlineColor": "#00000080",
@@ -38,18 +36,16 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "Asset.2_2",
-      "AssetIds": [
-        "Asset.2_2"
-      ],
+      "AssetId": "",
+      "AssetIds": [],
       "ImageFramesPerSecond": 4,
-      "ImageFillMode": "Center",
+      "ImageFillMode": "Fit",
       "ImageNineSlice": {
-        "IsEnabled": true,
-        "Left": 18,
-        "Top": 18,
-        "Right": 18,
-        "Bottom": 18
+        "IsEnabled": false,
+        "Left": 0,
+        "Top": 0,
+        "Right": 0,
+        "Bottom": 0
       },
       "ProgressCurrentValuePlaceholder": "",
       "ProgressMaximumValue": "",
@@ -70,72 +66,22 @@
       "ItemInfoTooltipDecorationInsetRight": 0,
       "ItemInfoTooltipDecorationInsetBottom": 0,
       "InputFocusedBackgroundColor": "",
-      "GroundItemStackTooltipBorderColor": "",
+      "GroundItemStackTooltipBorderColor": "#E2E8F096",
       "GroundItemStackTooltipBorderWidth": 1,
       "GroundItemStackTooltipCornerRadius": 0,
       "GroundItemStackTooltipIconVisible": false,
-      "GroundItemStackTooltipIconSize": 50,
-      "GroundItemStackTooltipIconFillMode": "Center",
-      "GroundItemStackTooltipPreviewIconAssetId": "Asset.000156",
-      "GroundItemStackTooltipIconEffectAssetId": "Asset.image_3",
-      "GroundItemStackTooltipIconEffectAssetIds": [
-        "Asset.image_3",
-        "Asset.image_5",
-        "Asset.image_7"
-      ],
-      "GroundItemStackTooltipIconEffectFramesPerSecond": 5,
+      "GroundItemStackTooltipIconSize": 20,
+      "GroundItemStackTooltipIconFillMode": "Fit",
+      "GroundItemStackTooltipPreviewIconAssetId": "",
+      "GroundItemStackTooltipIconEffectAssetId": "",
+      "GroundItemStackTooltipIconEffectAssetIds": [],
+      "GroundItemStackTooltipIconEffectFramesPerSecond": 4,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
-      "GroundItemStackTooltipPaddingX": 17,
-      "GroundItemStackTooltipPaddingY": 17,
-      "GroundItemStackTooltipRowSpacing": 5,
-      "GroundItemStackTooltipIconTextSpacing": 5,
-      "GroundItemStackTooltipPreviewItems": [
-        {
-          "DisplayName": "金币x130",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "金创药",
-          "Quantity": 3,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "回城卷轴",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        },
-        {
-          "DisplayName": "预览物品",
-          "Quantity": 1,
-          "GroundIconAssetId": ""
-        }
-      ],
+      "GroundItemStackTooltipPaddingX": 8,
+      "GroundItemStackTooltipPaddingY": 8,
+      "GroundItemStackTooltipRowSpacing": 4,
+      "GroundItemStackTooltipIconTextSpacing": 8,
+      "GroundItemStackTooltipPreviewItems": [],
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -150,8 +96,7 @@
       "InputMaxLength": 0,
       "HintText": "",
       "DefaultInputText": "",
-      "ActionId": "",
-      "ActionKind": "SystemEvent",
+      "ActionId": "action",
       "ClickSoundAssetId": "",
       "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
@@ -207,8 +152,8 @@
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
-      "ButtonClickAreaWidth": 0,
-      "ButtonClickAreaHeight": 0,
+      "ButtonClickAreaWidth": 220,
+      "ButtonClickAreaHeight": 56,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
       "SlotId": ""

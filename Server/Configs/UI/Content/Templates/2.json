@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "TemplateId": "SystemMessageDialog",
+  "TemplateId": 2,
   "DisplayName": "系统提示弹窗",
-  "PresentationScriptId": "system/ui/content/SystemMessageDialog",
+  "PresentationScriptId": "system/ui/content/2",
   "HasPresentationScript": false,
   "Actions": [
     {
@@ -11,7 +11,7 @@
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
-      "TargetTemplateId": "",
+      "TargetTemplateId": 0,
       "OpenTargetKind": "ContentTemplate",
       "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false

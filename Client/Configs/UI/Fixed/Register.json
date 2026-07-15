@@ -128,7 +128,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -304,7 +304,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -478,7 +478,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -652,7 +652,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -826,7 +826,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1000,7 +1000,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1174,7 +1174,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1348,7 +1348,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1522,7 +1522,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1696,7 +1696,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "Register",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
@@ -1870,7 +1870,7 @@
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
-      "ButtonTargetTemplateId": "",
+      "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {

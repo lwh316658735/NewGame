@@ -1,15 +1,16 @@
 {
   "Version": 1,
-  "TemplateId": "SystemErrorDialog",
-  "DisplayName": "系统错误弹窗",
+  "TemplateId": 6,
+  "DisplayName": "默认内容窗口",
+  "PresentationScriptId": "npc/ui/content/6",
   "Actions": [
     {
-      "ActionId": "ok",
-      "DisplayName": "确定动作",
+      "ActionId": "action",
+      "DisplayName": "按钮 2动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
-      "TargetTemplateId": "",
+      "TargetTemplateId": 0,
       "OpenTargetKind": "ContentTemplate",
       "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "TemplateId": "ItemInfoTooltip",
+  "TemplateId": 5,
   "DisplayName": "物品信息框",
-  "PresentationScriptId": "system/ui/content/ItemInfoTooltip",
+  "PresentationScriptId": "system/ui/content/5",
   "HasPresentationScript": false,
   "Actions": [],
   "Inputs": [],

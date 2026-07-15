@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "TemplateId": "SystemConfirmDialog",
+  "TemplateId": 1,
   "DisplayName": "系统确认弹窗",
   "Actions": [
     {
@@ -9,7 +9,7 @@
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
-      "TargetTemplateId": "",
+      "TargetTemplateId": 0,
       "OpenTargetKind": "ContentTemplate",
       "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false
@@ -20,7 +20,7 @@
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
-      "TargetTemplateId": "",
+      "TargetTemplateId": 0,
       "OpenTargetKind": "ContentTemplate",
       "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false
