@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "TemplateId": 1,
   "DisplayName": "系统确认弹窗",
   "X": 700,
@@ -113,7 +113,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "titleText",
@@ -218,7 +219,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "bodyText",
@@ -323,7 +325,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "dragHandle",
@@ -428,7 +431,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "confirmButton",
@@ -533,7 +537,8 @@
       "ButtonClickAreaHeight": 37,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "cancelButton",
@@ -638,7 +643,8 @@
       "ButtonClickAreaHeight": 35,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     }
   ]
 }

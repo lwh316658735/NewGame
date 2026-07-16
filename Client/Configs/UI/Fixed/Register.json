@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 4,
   "ScreenId": "Register",
   "DisplayName": "注册界面",
   "BackgroundMusicAssetId": "",
@@ -179,7 +179,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "image2",
@@ -356,7 +357,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerPasswordInput",
@@ -531,7 +533,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerConfirmPasswordInput",
@@ -706,7 +709,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerAccountInput",
@@ -881,7 +885,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerQuestion1Input",
@@ -1056,7 +1061,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerAnswer1Input",
@@ -1231,7 +1237,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerQuestion2Input",
@@ -1406,7 +1413,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerAnswer2Input",
@@ -1581,7 +1589,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerSubmitButton",
@@ -1756,7 +1765,8 @@
       "ButtonClickAreaHeight": 50,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "registerBackButton",
@@ -1931,7 +1941,8 @@
       "ButtonClickAreaHeight": 43,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     }
   ]
 }

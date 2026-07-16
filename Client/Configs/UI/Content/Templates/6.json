@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "TemplateId": 6,
   "DisplayName": "默认内容窗口",
   "X": 0,
@@ -156,7 +156,8 @@
       "ButtonClickAreaHeight": 56,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     }
   ]
 }

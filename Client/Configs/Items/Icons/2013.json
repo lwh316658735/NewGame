@@ -1,5 +1,11 @@
 {
   "ItemId": 2013,
   "InventoryIconAssetId": "Asset.000599",
+  "ItemSlotResource": {
+    "FramesPerSecond": 5,
+    "FrameAssetIds": [
+      "Asset.000599_6"
+    ]
+  },
   "GroundIconAssetId": "Asset.000599_2"
 }

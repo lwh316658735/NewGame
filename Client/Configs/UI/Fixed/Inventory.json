@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 4,
   "ScreenId": "Inventory",
   "DisplayName": "背包",
   "BackgroundMusicAssetId": "",
@@ -217,7 +217,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "text",
@@ -428,7 +429,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "dragHandle",
@@ -639,7 +641,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "inventoryGrid",
@@ -870,7 +873,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "inventoryRefreshButton",
@@ -1081,7 +1085,8 @@
       "ButtonClickAreaHeight": 38,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "inventoryPreviousPageButton",
@@ -1292,7 +1297,8 @@
       "ButtonClickAreaHeight": 34,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "inventoryNextPageButton",
@@ -1503,7 +1509,8 @@
       "ButtonClickAreaHeight": 38,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "text2",
@@ -1714,7 +1721,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     }
   ]
 }

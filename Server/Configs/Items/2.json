@@ -16,15 +16,7 @@
     "EquipRequirements": [
       {
         "RequirementType": "RequiredCharacterLevel",
-        "RequiredValue": 80
-      },
-      {
-        "RequirementType": "RequiredRebirthLevel",
-        "RequiredValue": 2
-      },
-      {
-        "RequirementType": "RequiredStrength",
-        "RequiredValue": 200
+        "RequiredValue": 30
       },
       {
         "RequirementType": "RequiredPhysicalAttack",

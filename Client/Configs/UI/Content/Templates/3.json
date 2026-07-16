@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "TemplateId": 3,
   "DisplayName": "系统错误弹窗",
   "X": 700,
@@ -113,7 +113,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "titleText",
@@ -218,7 +219,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "bodyText",
@@ -323,7 +325,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "dragHandle",
@@ -428,7 +431,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "okButton",
@@ -533,7 +537,8 @@
       "ButtonClickAreaHeight": 33,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     }
   ]
 }

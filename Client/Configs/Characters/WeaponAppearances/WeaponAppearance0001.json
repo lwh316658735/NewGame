@@ -936,13 +936,7 @@
           "FrameNumber": 3,
           "Placement": "InFrontOfCharacter"
         }
-      ],
-      "InnerView": {
-        "FramesPerSecond": 5,
-        "FrameAssetIds": [
-          "Asset.000054_7"
-        ]
-      }
+      ]
     },
     {
       "ModelId": "Female",
@@ -1871,13 +1865,7 @@
           ]
         }
       ],
-      "FrameLayerOverrides": [],
-      "InnerView": {
-        "FramesPerSecond": 5,
-        "FrameAssetIds": [
-          "Asset.000054_7"
-        ]
-      }
+      "FrameLayerOverrides": []
     }
   ]
 }

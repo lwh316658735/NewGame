@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 4,
   "ScreenId": "ServerSelect",
   "DisplayName": "区服选择",
   "BackgroundMusicAssetId": "",
@@ -179,7 +179,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "image2",
@@ -356,7 +357,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "serverSelectServerList",
@@ -608,7 +610,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "serverSelectEnterGameButton",
@@ -783,7 +786,8 @@
       "ButtonClickAreaHeight": 47,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "serverSelectRefreshListButton",
@@ -958,7 +962,8 @@
       "ButtonClickAreaHeight": 74,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": false,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     },
     {
       "ControlId": "serverSelectExitGameButton",
@@ -1133,7 +1138,8 @@
       "ButtonClickAreaHeight": 48,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false
+      "IsEquipmentAppearanceVisible": false,
+      "IsHiddenInEditor": false
     }
   ]
 }

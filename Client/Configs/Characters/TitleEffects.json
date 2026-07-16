@@ -1,0 +1,22 @@
+{
+  "Effects": [
+    {
+      "TitleEffectId": 1,
+      "DisplayName": "称号1",
+      "FramesPerSecond": 10,
+      "IsEffectMode": false,
+      "FrameAssetIds": [
+        "Asset.000460_6",
+        "Asset.000461_6",
+        "Asset.000462_6",
+        "Asset.000463_6",
+        "Asset.000464_6",
+        "Asset.000465_6",
+        "Asset.000466_6",
+        "Asset.000467_4",
+        "Asset.000468_4",
+        "Asset.000469_4"
+      ]
+    }
+  ]
+}

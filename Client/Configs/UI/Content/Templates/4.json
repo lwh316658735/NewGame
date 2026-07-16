@@ -1,5 +1,5 @@
 {
-  "Version": 2,
+  "Version": 3,
   "TemplateId": 4,
   "DisplayName": "物品叠加提示框",
   "DisplayMode": "FollowMouse",
@@ -211,7 +211,8 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
-      "SlotId": ""
+      "SlotId": "",
+      "IsHiddenInEditor": false
     }
   ]
 }

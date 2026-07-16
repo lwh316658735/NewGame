@@ -1,0 +1,39 @@
+{
+  "ItemId": 2017,
+  "DisplayName": "斗笠",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 1,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 60000,
+    "EquipLocations": [
+      "Douli"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "Strength",
+        "Operation": "Add",
+        "Value": 300
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

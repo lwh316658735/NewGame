@@ -928,13 +928,7 @@
             }
           ]
         }
-      ],
-      "InnerView": {
-        "FramesPerSecond": 5,
-        "FrameAssetIds": [
-          "Asset.000599_6"
-        ]
-      }
+      ]
     },
     {
       "ModelId": "Female",
@@ -1862,13 +1856,7 @@
             }
           ]
         }
-      ],
-      "InnerView": {
-        "FramesPerSecond": 5,
-        "FrameAssetIds": [
-          "Asset.000600_6"
-        ]
-      }
+      ]
     }
   ]
 }

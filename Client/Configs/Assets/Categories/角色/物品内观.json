@@ -1,0 +1,267 @@
+{
+  "Version": 6,
+  "Category": "角色",
+  "Subcategory": "物品内观",
+  "Assets": [
+    {
+      "AssetId": "Asset.000100_7",
+      "DisplayName": "000100",
+      "SortOrder": 25380,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000100.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1429,
+      "Width": 15,
+      "Height": 41,
+      "LastModifiedAt": "2026-07-16T00:54:23.1285621+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 85,
+        "OffsetY": -25
+      }
+    },
+    {
+      "AssetId": "Asset.000101_7",
+      "DisplayName": "000101",
+      "SortOrder": 25381,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000101.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1141,
+      "Width": 23,
+      "Height": 14,
+      "LastModifiedAt": "2026-07-16T00:54:23.1305649+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 81,
+        "OffsetY": -8
+      }
+    },
+    {
+      "AssetId": "Asset.000102_6",
+      "DisplayName": "000102",
+      "SortOrder": 25382,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000102.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2291,
+      "Width": 23,
+      "Height": 34,
+      "LastModifiedAt": "2026-07-16T00:54:23.1432007+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 81,
+        "OffsetY": -17
+      }
+    },
+    {
+      "AssetId": "Asset.000103_7",
+      "DisplayName": "000103",
+      "SortOrder": 25383,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000103.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1560,
+      "Width": 42,
+      "Height": 23,
+      "LastModifiedAt": "2026-07-16T00:54:23.1452015+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 72,
+        "OffsetY": -11
+      }
+    },
+    {
+      "AssetId": "Asset.000104_7",
+      "DisplayName": "000104",
+      "SortOrder": 25384,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000104.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1891,
+      "Width": 22,
+      "Height": 29,
+      "LastModifiedAt": "2026-07-16T00:54:23.146201+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.000105_7",
+      "DisplayName": "000105",
+      "SortOrder": 25385,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000105.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 985,
+      "Width": 24,
+      "Height": 15,
+      "LastModifiedAt": "2026-07-16T00:54:23.1622109+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 80,
+        "OffsetY": -8
+      }
+    },
+    {
+      "AssetId": "Asset.000106_7",
+      "DisplayName": "000106",
+      "SortOrder": 25386,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000106.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1584,
+      "Width": 23,
+      "Height": 29,
+      "LastModifiedAt": "2026-07-16T00:54:23.1642119+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 81,
+        "OffsetY": -9
+      }
+    },
+    {
+      "AssetId": "Asset.000107_7",
+      "DisplayName": "000107",
+      "SortOrder": 25387,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000107.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1077,
+      "Width": 16,
+      "Height": 26,
+      "LastModifiedAt": "2026-07-16T00:54:23.1652092+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 84,
+        "OffsetY": -16
+      }
+    },
+    {
+      "AssetId": "Asset.000109_7",
+      "DisplayName": "000109",
+      "SortOrder": 25388,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000109.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1349,
+      "Width": 16,
+      "Height": 27,
+      "LastModifiedAt": "2026-07-16T00:54:23.1672109+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 84,
+        "OffsetY": -12
+      }
+    },
+    {
+      "AssetId": "Asset.000110_6",
+      "DisplayName": "000110",
+      "SortOrder": 25389,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000110.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1492,
+      "Width": 18,
+      "Height": 26,
+      "LastModifiedAt": "2026-07-16T00:54:23.1702107+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 83,
+        "OffsetY": -10
+      }
+    },
+    {
+      "AssetId": "Asset.000111_7",
+      "DisplayName": "000111",
+      "SortOrder": 25390,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/000111.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1296,
+      "Width": 18,
+      "Height": 21,
+      "LastModifiedAt": "2026-07-16T00:54:23.1722108+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 76,
+        "OffsetY": -15
+      }
+    },
+    {
+      "AssetId": "Asset.002080_5",
+      "DisplayName": "002080",
+      "SortOrder": 25391,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/002080.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2343,
+      "Width": 39,
+      "Height": 27,
+      "LastModifiedAt": "2026-07-16T00:56:30.7147405+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": "Asset.002081_5",
+      "DisplayName": "002081",
+      "SortOrder": 25392,
+      "Category": "角色",
+      "Subcategory": "物品内观",
+      "RelativePath": "Client/Assets/角色/物品内观/002081.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1551,
+      "Width": 39,
+      "Height": 19,
+      "LastModifiedAt": "2026-07-16T00:56:30.7157425+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 73,
+        "OffsetY": -8
+      }
+    }
+  ]
+}

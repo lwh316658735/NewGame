@@ -1,0 +1,11 @@
+{
+  "ItemId": 2017,
+  "InventoryIconAssetId": "Asset.002080_5",
+  "ItemSlotResource": {
+    "FramesPerSecond": 5,
+    "FrameAssetIds": [
+      "Asset.002080_5"
+    ]
+  },
+  "GroundIconAssetId": "Asset.002080_5"
+}
