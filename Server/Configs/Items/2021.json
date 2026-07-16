@@ -1,0 +1,44 @@
+{
+  "ItemId": 2021,
+  "DisplayName": "翅膀",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 1,
+  "IsCharacterBound": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 60000,
+    "EquipLocations": [
+      "Wing"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [
+      {
+        "AttributeId": "MinPhysicalDefense",
+        "Operation": "Add",
+        "Value": 1100
+      },
+      {
+        "AttributeId": "MaxPhysicalDefense",
+        "Operation": "Add",
+        "Value": 3200
+      }
+    ],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}
