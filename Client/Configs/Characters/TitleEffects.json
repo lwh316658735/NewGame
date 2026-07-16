@@ -17,6 +17,48 @@
         "Asset.000468_4",
         "Asset.000469_4"
       ]
+    },
+    {
+      "TitleEffectId": 2,
+      "DisplayName": "称号2",
+      "FramesPerSecond": 5,
+      "IsEffectMode": true,
+      "FrameAssetIds": [
+        "Asset.000710_6",
+        "Asset.000711_6",
+        "Asset.000712_6",
+        "Asset.000713_6",
+        "Asset.000714_6",
+        "Asset.000715_6",
+        "Asset.000716_4",
+        "Asset.000717_4",
+        "Asset.000718_4",
+        "Asset.000719_4",
+        "Asset.000720_6",
+        "Asset.000721_6",
+        "Asset.000722_6",
+        "Asset.000723_6",
+        "Asset.000724_6",
+        "Asset.000725_6",
+        "Asset.000726_6",
+        "Asset.000727_4"
+      ]
+    },
+    {
+      "TitleEffectId": 3,
+      "DisplayName": "称号3",
+      "FramesPerSecond": 5,
+      "IsEffectMode": true,
+      "FrameAssetIds": [
+        "Asset.001605_2",
+        "Asset.001606_2",
+        "Asset.001607_2",
+        "Asset.001608_2",
+        "Asset.001609_2",
+        "Asset.001610_4",
+        "Asset.001611_4",
+        "Asset.001612_4"
+      ]
     }
   ]
 }
