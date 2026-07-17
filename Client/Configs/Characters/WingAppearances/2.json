@@ -55,7 +55,7 @@
       "Animations": [
         {
           "Action": "Idle",
-          "FramesPerSecond": 5,
+          "FramesPerSecond": 7,
           "Directions": [
             {
               "Direction": "Up",
@@ -227,7 +227,7 @@
         },
         {
           "Action": "Run",
-          "FramesPerSecond": 5,
+          "FramesPerSecond": 9,
           "Directions": [
             {
               "Direction": "Up",

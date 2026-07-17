@@ -1,0 +1,38 @@
+{
+  "SkillId": 1,
+  "DisplayName": "火球术",
+  "Category": "Active",
+  "SkillType": "Release",
+  "TargetType": "Target",
+  "Range": {
+    "RangeType": "SingleTarget",
+    "CastRangeCells": 6,
+    "LengthCells": 0,
+    "WidthCells": 0,
+    "RadiusCells": 0,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 0,
+  "PostSwingMilliseconds": 0,
+  "CooldownMilliseconds": 1000,
+  "CooldownGroupId": "0",
+  "ManaCost": 50,
+  "HealthCost": 0,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      100,
+      200
+    ],
+    "MaxExpLevel": 3,
+    "MaxLevel": 4,
+    "KillExperiencePercent": 0
+  },
+  "ActiveEffects": [],
+  "PassiveEffects": [],
+  "ComboNextSkillId": null,
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": null,
+  "TagIds": []
+}
