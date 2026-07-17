@@ -51,11 +51,5 @@
     "MagicDefense": 0,
     "Hit": 0,
     "Dodge": 0
-  },
-  "SkillUnlocks": [
-    {
-      "SkillId": "WarriorBasicAttack",
-      "RequiredLevel": 1
-    }
-  ]
+  }
 }

@@ -11,6 +11,14 @@
     {
       "CategoryId": 2,
       "DisplayName": "<c:FBFF00>防御</>"
+    },
+    {
+      "CategoryId": 3,
+      "DisplayName": "<c:432BF7>法术</>"
+    },
+    {
+      "CategoryId": 4,
+      "DisplayName": "<c:FF0000>火焰</>"
     }
   ]
 }

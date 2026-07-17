@@ -1,21 +1,10 @@
 {
   "Version": 2,
   "TemplateId": 6,
-  "DisplayName": "默认内容窗口",
-  "PresentationScriptId": "npc/ui/content/6",
-  "Actions": [
-    {
-      "ActionId": "action",
-      "DisplayName": "按钮 2动作",
-      "Kind": "SystemEvent",
-      "SystemEvent": "CloseWindow",
-      "ScriptId": "",
-      "TargetTemplateId": 0,
-      "OpenTargetKind": "ContentTemplate",
-      "TargetFixedScreenId": "Inventory",
-      "CloseWindowAfterAction": false
-    }
-  ],
+  "DisplayName": "技能信息框",
+  "PresentationScriptId": "system/ui/content/6",
+  "HasPresentationScript": false,
+  "Actions": [],
   "Inputs": [],
   "ItemSlots": []
 }

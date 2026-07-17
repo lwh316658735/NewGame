@@ -51,11 +51,5 @@
     "MagicDefense": 1,
     "Hit": 100,
     "Dodge": 0
-  },
-  "SkillUnlocks": [
-    {
-      "SkillId": "MageBasicAttack",
-      "RequiredLevel": 1
-    }
-  ]
+  }
 }

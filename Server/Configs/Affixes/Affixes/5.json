@@ -1,0 +1,28 @@
+{
+  "AffixId": 5,
+  "DisplayName": "技能-火球术",
+  "CategoryIds": [
+    3,
+    4
+  ],
+  "AffixType": "Base",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipped",
+      "ScriptId": "affix/5/OnItemEquipped",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    5
+  ]
+}

@@ -8,6 +8,7 @@
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
@@ -47,92 +48,228 @@
       "IsEffectMode": true,
       "DirectionSet": "None",
       "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000000_12",
+            "Asset.000001_12",
+            "Asset.000002_12",
+            "Asset.000003_12",
+            "Asset.000004_11",
+            "Asset.000005_11",
+            "Asset.000006_11",
+            "Asset.000007_11",
+            "Asset.000008_11"
+          ]
         }
       ]
     },
     "ProjectileEffect": {
       "IsEffectMode": true,
       "DirectionSet": "Sixteen",
-      "FramesPerSecond": 8,
+      "FramesPerSecond": 19,
+      "FramesPerDirection": 6,
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000010_12",
+            "Asset.000011_12",
+            "Asset.000012_11",
+            "Asset.000013_11",
+            "Asset.000014_11",
+            "Asset.000015_11"
+          ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000020_10",
+            "Asset.000021_10",
+            "Asset.000022_11",
+            "Asset.000023_10",
+            "Asset.000024_10",
+            "Asset.000025_11"
+          ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000030_10",
+            "Asset.000031_10",
+            "Asset.000032_10",
+            "Asset.000033_10",
+            "Asset.000034_10",
+            "Asset.000035_10"
+          ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000040_10",
+            "Asset.000041_10",
+            "Asset.000042_10",
+            "Asset.000043_9",
+            "Asset.000044_9",
+            "Asset.000045_9"
+          ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000050_9",
+            "Asset.000051_9",
+            "Asset.000052_8",
+            "Asset.000053_8",
+            "Asset.000054_9",
+            "Asset.000055_9"
+          ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000060_9",
+            "Asset.000061_9",
+            "Asset.000062_8",
+            "Asset.000063_8",
+            "Asset.000064_8",
+            "Asset.000065_8"
+          ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000070_9",
+            "Asset.000071_9",
+            "Asset.000072_9",
+            "Asset.000073_9",
+            "Asset.000074_9",
+            "Asset.000075_7"
+          ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000080_9",
+            "Asset.000081_9",
+            "Asset.000082_8",
+            "Asset.000083_8",
+            "Asset.000084_8",
+            "Asset.000085_8"
+          ]
         },
         {
           "DirectionIndex": 8,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000090_8",
+            "Asset.000091_6",
+            "Asset.000092_6",
+            "Asset.000093_6",
+            "Asset.000094_6",
+            "Asset.000095_6"
+          ]
         },
         {
           "DirectionIndex": 9,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000100_9",
+            "Asset.000101_9",
+            "Asset.000102_8",
+            "Asset.000103_9",
+            "Asset.000104_9",
+            "Asset.000105_9"
+          ]
         },
         {
           "DirectionIndex": 10,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000110_8",
+            "Asset.000111_9",
+            "Asset.000112_8",
+            "Asset.000113_8",
+            "Asset.000114_8",
+            "Asset.000115_8"
+          ]
         },
         {
           "DirectionIndex": 11,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000120_8",
+            "Asset.000121_8",
+            "Asset.000122_8",
+            "Asset.000123_6",
+            "Asset.000124_6",
+            "Asset.000125_6"
+          ]
         },
         {
           "DirectionIndex": 12,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000130_8",
+            "Asset.000131_8",
+            "Asset.000132_6",
+            "Asset.000133_6",
+            "Asset.000134_5",
+            "Asset.000135_6"
+          ]
         },
         {
           "DirectionIndex": 13,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000140_8",
+            "Asset.000141_8",
+            "Asset.000142_8",
+            "Asset.000143_8",
+            "Asset.000144_7",
+            "Asset.000145_7"
+          ]
         },
         {
           "DirectionIndex": 14,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000150_9",
+            "Asset.000151_8",
+            "Asset.000152_8",
+            "Asset.000153_8",
+            "Asset.000154_7",
+            "Asset.000155_7"
+          ]
         },
         {
           "DirectionIndex": 15,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000160_8",
+            "Asset.000161_8",
+            "Asset.000162_8",
+            "Asset.000163_8",
+            "Asset.000164_7",
+            "Asset.000165_7"
+          ]
         }
       ]
     },
     "HitEffect": {
       "IsEffectMode": true,
       "DirectionSet": "None",
-      "FramesPerSecond": 8,
+      "FramesPerSecond": 10,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            "Asset.000170_8",
+            "Asset.000171_8",
+            "Asset.000172_8",
+            "Asset.000173_8",
+            "Asset.000174_8",
+            "Asset.000175_8",
+            "Asset.000176_8",
+            "Asset.000177_8",
+            "Asset.000178_7",
+            "Asset.000179_7"
+          ]
         }
       ]
     },
@@ -140,6 +277,7 @@
       "IsEffectMode": true,
       "DirectionSet": "None",
       "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
@@ -151,6 +289,7 @@
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
@@ -190,6 +329,7 @@
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
       "Directions": [
         {
           "DirectionIndex": 0,
