@@ -16,9 +16,9 @@
   "MaxStacks": 1,
   "ScriptBindings": [
     {
-      "Event": "OnItemEquipped",
-      "ScriptId": "affix/5/OnItemEquipped",
-      "Priority": 0,
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/5/OnSkillInitialize",
+      "Priority": 1,
       "IsEnabled": true
     }
   ],

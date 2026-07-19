@@ -1,8 +1,8 @@
 {
-  "SkillId": 1,
-  "DisplayName": "火球术",
-  "Description": "这是一个火球术",
-  "IconAssetId": "Asset.MagIcon_0002",
+  "SkillId": 3,
+  "DisplayName": "刺杀剑法",
+  "Description": "填写技能用途、释放方式和客户端展示说明。",
+  "IconAssetId": "",
   "Visual": {
     "AttackEffect": {
       "IsEffectMode": true,
@@ -47,6 +47,89 @@
     },
     "CastEffect": {
       "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileTravelMillisecondsPerCell": 100,
+    "HitEffect": {
+      "IsEffectMode": true,
       "DirectionSet": "None",
       "FramesPerSecond": 8,
       "FramesPerDirection": 4,
@@ -54,62 +137,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            "Asset.000000_12",
-            "Asset.000001_12",
-            "Asset.000002_12",
-            "Asset.000003_12",
-            "Asset.000004_11",
-            "Asset.000005_11",
-            "Asset.000006_11",
-            "Asset.000007_11",
-            "Asset.000008_11"
-          ]
-        }
-      ]
-    },
-    "ProjectileEffect": {
-      "IsEffectMode": true,
-      "DirectionSet": "AutoRotate",
-      "FramesPerSecond": 20,
-      "FramesPerDirection": 6,
-      "RetainedDirectionArchive": null,
-      "Directions": [
-        {
-          "DirectionIndex": 0,
-          "FrameAssetIds": [
-            "Asset.000010_12",
-            "Asset.000011_12",
-            "Asset.000012_11",
-            "Asset.000013_11",
-            "Asset.000014_11",
-            "Asset.000015_11"
-          ]
-        }
-      ]
-    },
-    "ProjectileTravelMillisecondsPerCell": 50,
-    "HitEffect": {
-      "IsEffectMode": true,
-      "DirectionSet": "None",
-      "FramesPerSecond": 10,
-      "FramesPerDirection": 4,
-      "RetainedDirectionArchive": null,
-      "Directions": [
-        {
-          "DirectionIndex": 0,
-          "FrameAssetIds": [
-            "Asset.000170_8",
-            "Asset.000171_8",
-            "Asset.000172_8",
-            "Asset.000173_8",
-            "Asset.000174_8",
-            "Asset.000175_8",
-            "Asset.000176_8",
-            "Asset.000177_8",
-            "Asset.000178_7",
-            "Asset.000179_7"
-          ]
+          "FrameAssetIds": []
         }
       ]
     },

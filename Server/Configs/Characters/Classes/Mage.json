@@ -22,7 +22,7 @@
   },
   "BaseCombatAttributes": {
     "MaxHealth": 300000000,
-    "MaxMana": 20,
+    "MaxMana": 80000,
     "MinPhysicalAttack": 1,
     "MaxPhysicalAttack": 3,
     "MinMagicAttack": 0,
@@ -35,7 +35,7 @@
     "MaxMagicDefense": 2,
     "Hit": 10000,
     "Dodge": 300,
-    "AttackSpeed": 1500,
+    "AttackSpeed": 5000,
     "CastSpeed": 1000
   },
   "MovementTiming": {
