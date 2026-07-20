@@ -1,13 +1,15 @@
 {
-  "AffixId": 4,
-  "DisplayName": "戒指-几率提升暴击伤害",
+  "AffixId": 6,
+  "DisplayName": "技能_刺杀剑法_主动",
   "CategoryIds": [
-    0
+    0,
+    5,
+    6
   ],
-  "AffixType": "NormalSuffix",
-  "Weight": 10,
+  "AffixType": "Special",
+  "Weight": 100,
   "AllowedLocations": [
-    "Ring"
+    "Skill"
   ],
   "Tags": [],
   "ConflictGroup": 0,
@@ -15,13 +17,13 @@
   "MaxStacks": 1,
   "ScriptBindings": [
     {
-      "Event": "OnDamageDealt",
-      "ScriptId": "affix/4/OnDamageDealt",
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/6/OnSkillInitialize",
       "Priority": 0,
       "IsEnabled": true
     }
   ],
   "TierSetIds": [
-    0
+    6
   ]
 }

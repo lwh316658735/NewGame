@@ -19,6 +19,14 @@
     {
       "CategoryId": 4,
       "DisplayName": "<c:FF0000>火焰</>"
+    },
+    {
+      "CategoryId": 5,
+      "DisplayName": "<c:6B6B6B>物理</>"
+    },
+    {
+      "CategoryId": 6,
+      "DisplayName": "<c:BC9A9A>近战</>"
     }
   ]
 }

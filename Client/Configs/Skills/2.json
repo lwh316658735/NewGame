@@ -3,6 +3,7 @@
   "DisplayName": "刺杀剑法-主动",
   "Description": "这是一个近战技能",
   "IconAssetId": "Asset.MagIcon_0001",
+  "IsProjectileSkill": false,
   "Visual": {
     "AttackEffect": {
       "IsEffectMode": true,

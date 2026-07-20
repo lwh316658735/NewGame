@@ -29,7 +29,11 @@
     "KillExperiencePercent": 0
   },
   "ActiveEffects": [],
-  "PassiveEffects": [],
+  "PassiveEffects": [
+    {
+      "AffixId": 6
+    }
+  ],
   "ComboNextSkillId": null,
   "ComboWindowMilliseconds": 0,
   "ReferenceSkillId": null
