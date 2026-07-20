@@ -3,6 +3,7 @@
   "DisplayName": "刺杀剑法",
   "Category": "Passive",
   "SkillType": null,
+  "TriggerPriority": 0,
   "TargetType": "Self",
   "Range": {
     "RangeType": "Rectangle",

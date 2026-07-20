@@ -3,6 +3,7 @@
   "DisplayName": "火球术",
   "Category": "Active",
   "SkillType": "Release",
+  "TriggerPriority": 0,
   "TargetType": "Target",
   "Range": {
     "RangeType": "SingleTarget",

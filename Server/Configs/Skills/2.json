@@ -3,6 +3,7 @@
   "DisplayName": "刺杀剑法-主动",
   "Category": "Active",
   "SkillType": "Attack",
+  "TriggerPriority": 0,
   "TargetType": "Target",
   "Range": {
     "RangeType": "Line",
