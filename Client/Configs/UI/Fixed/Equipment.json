@@ -2056,7 +2056,6 @@
       "ItemSlotResourceOffsetY": 0,
       "ItemSlotResourceFillMode": "Fit",
       "AllowedSlotLocations": [
-        "Weapon",
         "Bracelet"
       ],
       "AllowedEquipSides": [
@@ -2345,7 +2344,6 @@
       "ItemSlotResourceOffsetY": 0,
       "ItemSlotResourceFillMode": "Fit",
       "AllowedSlotLocations": [
-        "Weapon",
         "Bracelet"
       ],
       "AllowedEquipSides": [
@@ -2634,7 +2632,6 @@
       "ItemSlotResourceOffsetY": 0,
       "ItemSlotResourceFillMode": "Fit",
       "AllowedSlotLocations": [
-        "Weapon",
         "Ring"
       ],
       "AllowedEquipSides": [
@@ -2923,7 +2920,6 @@
       "ItemSlotResourceOffsetY": 0,
       "ItemSlotResourceFillMode": "Fit",
       "AllowedSlotLocations": [
-        "Weapon",
         "Ring"
       ],
       "AllowedEquipSides": [
@@ -5214,8 +5210,7 @@
       "ItemSlotResourceOffsetY": 0,
       "ItemSlotResourceFillMode": "Fit",
       "AllowedSlotLocations": [
-        "Necklace",
-        "Weapon"
+        "Necklace"
       ],
       "AllowedEquipSides": [],
       "AllowedItemKinds": [],
