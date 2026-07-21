@@ -70,8 +70,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 2.5,
-          "MaxValue": 2.5
+          "MinValue": 3,
+          "MaxValue": 3
         },
         {
           "RangeId": 1,

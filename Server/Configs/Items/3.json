@@ -168,11 +168,6 @@
         "Value": 1000
       },
       {
-        "AttributeId": "MagicHit",
-        "Operation": "Add",
-        "Value": 1000
-      },
-      {
         "AttributeId": "MagicDodge",
         "Operation": "Add",
         "Value": 1000

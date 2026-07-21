@@ -23,19 +23,19 @@
   "BaseCombatAttributes": {
     "MaxHealth": 300000000,
     "MaxMana": 80000,
-    "MinPhysicalAttack": 1,
-    "MaxPhysicalAttack": 3,
+    "MinPhysicalAttack": 100,
+    "MaxPhysicalAttack": 100,
     "MinMagicAttack": 0,
-    "MaxMagicAttack": 2,
+    "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,
-    "MaxTaoismAttack": 2,
+    "MaxTaoismAttack": 0,
     "MinPhysicalDefense": 0,
-    "MaxPhysicalDefense": 2,
+    "MaxPhysicalDefense": 0,
     "MinMagicDefense": 0,
-    "MaxMagicDefense": 2,
+    "MaxMagicDefense": 0,
     "Hit": 10000,
     "Dodge": 300,
-    "AttackSpeed": 5000,
+    "AttackSpeed": 2000,
     "CastSpeed": 1000
   },
   "MovementTiming": {
@@ -44,12 +44,12 @@
   "GrowthPerLevel": {
     "MaxHealth": 5,
     "MaxMana": 3,
-    "PhysicalAttack": 1,
-    "MagicAttack": 1,
-    "TaoismAttack": 1,
-    "PhysicalDefense": 1,
-    "MagicDefense": 1,
-    "Hit": 100,
+    "PhysicalAttack": 0,
+    "MagicAttack": 0,
+    "TaoismAttack": 0,
+    "PhysicalDefense": 0,
+    "MagicDefense": 0,
+    "Hit": 0,
     "Dodge": 0
   }
 }

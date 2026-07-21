@@ -1,11 +1,109 @@
 {
   "SkillId": 3,
-  "DisplayName": "刺杀剑法",
-  "Description": "填写技能用途、释放方式和客户端展示说明。",
-  "IconAssetId": "",
+  "DisplayName": "烈火剑法",
+  "Description": "这是烈火剑法",
+  "IconAssetId": "Asset.MagIcon_0011",
+  "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {
     "AttackEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 6,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.003480_3",
+            "Asset.003481_3",
+            "Asset.003482_3",
+            "Asset.003483_3",
+            "Asset.003484_3",
+            "Asset.003485_3"
+          ]
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": [
+            "Asset.003490_3",
+            "Asset.003491_3",
+            "Asset.003492_3",
+            "Asset.003493_3",
+            "Asset.003494_3",
+            "Asset.003495_3"
+          ]
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": [
+            "Asset.003500_3",
+            "Asset.003501_3",
+            "Asset.003502_3",
+            "Asset.003503_3",
+            "Asset.003504_3",
+            "Asset.003505_3"
+          ]
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": [
+            "Asset.003510_3",
+            "Asset.003511_3",
+            "Asset.003512_3",
+            "Asset.003513_3",
+            "Asset.003514_3",
+            "Asset.003515_3"
+          ]
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": [
+            "Asset.003520_3",
+            "Asset.003521_3",
+            "Asset.003522_3",
+            "Asset.003523_3",
+            "Asset.003524_3",
+            "Asset.003525_3"
+          ]
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": [
+            "Asset.003530_3",
+            "Asset.003531_3",
+            "Asset.003532_3",
+            "Asset.003533_3",
+            "Asset.003534_3",
+            "Asset.003535_3"
+          ]
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": [
+            "Asset.003540_3",
+            "Asset.003541_3",
+            "Asset.003542_3",
+            "Asset.003543_3",
+            "Asset.003544_3",
+            "Asset.003545_3"
+          ]
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": [
+            "Asset.003550_3",
+            "Asset.003551_3",
+            "Asset.003552_3",
+            "Asset.003553_3",
+            "Asset.003554_3",
+            "Asset.003555_3"
+          ]
+        }
+      ]
+    },
+    "AttackFollowUpEffect": {
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,

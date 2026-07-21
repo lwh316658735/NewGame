@@ -1,0 +1,30 @@
+{
+  "AffixId": 7,
+  "DisplayName": "技能_烈火剑法",
+  "CategoryIds": [
+    0,
+    4,
+    5,
+    6
+  ],
+  "AffixType": "Special",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/7/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    7
+  ]
+}

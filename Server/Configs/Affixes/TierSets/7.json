@@ -1,0 +1,127 @@
+{
+  "TierSetId": 7,
+  "DisplayName": "技能_烈火剑法",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "附加火焰伤害1",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Integer",
+      "ValueStep": 50
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "物理伤害百分比",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Percent",
+      "ValueStep": 10000
+    },
+    {
+      "RangeId": 2,
+      "DisplayName": "附加火焰伤害2",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Integer",
+      "ValueStep": 100
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 1,
+      "MaxItemLevel": 1,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 50,
+          "MaxValue": 50
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 10000,
+          "MaxValue": 10000
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 100,
+          "MaxValue": 100
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 2,
+      "MaxItemLevel": 2,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 100,
+          "MaxValue": 100
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 20000,
+          "MaxValue": 20000
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 200,
+          "MaxValue": 200
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 3,
+      "MaxItemLevel": 3,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 150,
+          "MaxValue": 150
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 30000,
+          "MaxValue": 30000
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 300,
+          "MaxValue": 300
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 4,
+      "MaxItemLevel": 4,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 200,
+          "MaxValue": 200
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 40000,
+          "MaxValue": 40000
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 400,
+          "MaxValue": 400
+        }
+      ]
+    }
+  ]
+}

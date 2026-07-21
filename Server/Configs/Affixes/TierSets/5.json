@@ -10,8 +10,8 @@
   "RangeDefinitions": [
     {
       "RangeId": 0,
-      "DisplayName": "百分比伤害",
-      "Description": "默认词缀数值范围。",
+      "DisplayName": "伤害倍率变化值",
+      "Description": "传给设置伤害倍率的变化值；0 表示 100%，5000 表示 150%。",
       "ValueKind": "Percent",
       "ValueStep": 5000
     },
@@ -86,8 +86,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 25000,
-          "MaxValue": 25000
+          "MinValue": 30000,
+          "MaxValue": 30000
         },
         {
           "RangeId": 1,

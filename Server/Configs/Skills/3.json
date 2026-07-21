@@ -1,16 +1,16 @@
 {
   "SkillId": 3,
-  "DisplayName": "刺杀剑法",
-  "Category": "Passive",
-  "SkillType": null,
+  "DisplayName": "烈火剑法",
+  "Category": "Active",
+  "SkillType": "Attack",
   "TriggerPriority": 0,
-  "TargetType": "Self",
+  "TargetType": "Target",
   "Range": {
-    "RangeType": "Rectangle",
-    "CastRangeCells": 0,
+    "RangeType": "SingleTarget",
+    "CastRangeCells": 1,
     "LengthCells": 0,
     "WidthCells": 0,
-    "RadiusCells": 1,
+    "RadiusCells": 0,
     "AngleDegrees": 0
   },
   "PreSwingMilliseconds": 0,
@@ -29,12 +29,12 @@
     "MaxLevel": 3,
     "KillExperiencePercent": 0
   },
-  "ActiveEffects": [],
-  "PassiveEffects": [
+  "ActiveEffects": [
     {
-      "AffixId": 6
+      "AffixId": 7
     }
   ],
+  "PassiveEffects": [],
   "ComboNextSkillId": null,
   "ComboWindowMilliseconds": 0,
   "ReferenceSkillId": null

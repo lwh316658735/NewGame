@@ -1,6 +1,6 @@
 {
   "SkillId": 2,
-  "DisplayName": "刺杀剑法-主动",
+  "DisplayName": "刺杀剑法",
   "Category": "Active",
   "SkillType": "Attack",
   "TriggerPriority": 0,
@@ -29,7 +29,11 @@
     "MaxLevel": 5,
     "KillExperiencePercent": 0
   },
-  "ActiveEffects": [],
+  "ActiveEffects": [
+    {
+      "AffixId": 6
+    }
+  ],
   "PassiveEffects": [],
   "ComboNextSkillId": null,
   "ComboWindowMilliseconds": 0,

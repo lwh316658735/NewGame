@@ -1,0 +1,37 @@
+{
+  "SkillId": 4,
+  "DisplayName": "开天斩",
+  "Category": "Active",
+  "SkillType": "Attack",
+  "TriggerPriority": 1,
+  "TargetType": "Target",
+  "Range": {
+    "RangeType": "Line",
+    "CastRangeCells": 3,
+    "LengthCells": 3,
+    "WidthCells": 1,
+    "RadiusCells": 0,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 0,
+  "PostSwingMilliseconds": 0,
+  "CooldownMilliseconds": 0,
+  "CooldownGroupId": 0,
+  "ManaCost": 0,
+  "HealthCost": 0,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      100
+    ],
+    "MaxExpLevel": 2,
+    "MaxLevel": 4,
+    "KillExperiencePercent": 20
+  },
+  "ActiveEffects": [],
+  "PassiveEffects": [],
+  "ComboNextSkillId": null,
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": null
+}

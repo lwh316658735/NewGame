@@ -1,0 +1,387 @@
+{
+  "SkillId": 4,
+  "DisplayName": "开天斩",
+  "Description": "填写技能用途、释放方式和客户端展示说明。",
+  "IconAssetId": "",
+  "ReplacesBasicAttack": true,
+  "IsProjectileSkill": false,
+  "Visual": {
+    "AttackEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 6,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.000470_8",
+            "Asset.000471_8",
+            "Asset.000472_8",
+            "Asset.000473_8",
+            "Asset.000474_8",
+            "Asset.000475_8"
+          ]
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": [
+            "Asset.000480_9",
+            "Asset.000481_9",
+            "Asset.000482_9",
+            "Asset.000483_9",
+            "Asset.000484_9",
+            "Asset.000485_7"
+          ]
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": [
+            "Asset.000490_8",
+            "Asset.000491_8",
+            "Asset.000492_6",
+            "Asset.000493_6",
+            "Asset.000494_6",
+            "Asset.000495_6"
+          ]
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": [
+            "Asset.000500_9",
+            "Asset.000501_9",
+            "Asset.000502_9",
+            "Asset.000503_9",
+            "Asset.000504_9",
+            "Asset.000505_9"
+          ]
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": [
+            "Asset.000510_9",
+            "Asset.000511_8",
+            "Asset.000512_8",
+            "Asset.000513_8",
+            "Asset.000514_8",
+            "Asset.000515_8"
+          ]
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": [
+            "Asset.000520_9",
+            "Asset.000521_9",
+            "Asset.000522_9",
+            "Asset.000523_9",
+            "Asset.000524_9",
+            "Asset.000525_9"
+          ]
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": [
+            "Asset.000530_9",
+            "Asset.000531_9",
+            "Asset.000532_8",
+            "Asset.000533_8",
+            "Asset.000534_8",
+            "Asset.000535_6"
+          ]
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": [
+            "Asset.000540_9",
+            "Asset.000541_9",
+            "Asset.000542_9",
+            "Asset.000543_9",
+            "Asset.000544_9",
+            "Asset.000545_9"
+          ]
+        }
+      ]
+    },
+    "AttackFollowUpEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 10,
+      "FramesPerDirection": 5,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": [
+            "Asset.000555_8",
+            "Asset.000556_8",
+            "Asset.000557_8",
+            "Asset.000558_6",
+            "Asset.000559_6"
+          ]
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": [
+            "Asset.000565_8",
+            "Asset.000566_8",
+            "Asset.000567_8",
+            "Asset.000568_6",
+            "Asset.000569_6"
+          ]
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": [
+            "Asset.000575_8",
+            "Asset.000576_8",
+            "Asset.000577_8",
+            "Asset.000578_8",
+            "Asset.000579_8"
+          ]
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": [
+            "Asset.000585_8",
+            "Asset.000586_8",
+            "Asset.000587_8",
+            "Asset.000588_8",
+            "Asset.000589_8"
+          ]
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": [
+            "Asset.000595_8",
+            "Asset.000596_8",
+            "Asset.000597_8",
+            "Asset.000598_8",
+            "Asset.000599_9"
+          ]
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": [
+            "Asset.000605_8",
+            "Asset.000606_8",
+            "Asset.000607_6",
+            "Asset.000608_6",
+            "Asset.000609_6"
+          ]
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": [
+            "Asset.000615_8",
+            "Asset.000616_8",
+            "Asset.000617_8",
+            "Asset.000618_8",
+            "Asset.000619_8"
+          ]
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": [
+            "Asset.000625_6",
+            "Asset.000626_6",
+            "Asset.000627_6",
+            "Asset.000628_6",
+            "Asset.000629_6"
+          ]
+        }
+      ]
+    },
+    "CastEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileTravelMillisecondsPerCell": 100,
+    "HitEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "AreaEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ContinuousEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ReceivedHitEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    }
+  }
+}

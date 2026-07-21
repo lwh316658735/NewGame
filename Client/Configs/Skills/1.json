@@ -1,11 +1,53 @@
 {
   "SkillId": 1,
   "DisplayName": "火球术",
-  "Description": "这是一个火球术",
+  "Description": "这是一个火球术.",
   "IconAssetId": "Asset.MagIcon_0002",
+  "ReplacesBasicAttack": false,
   "IsProjectileSkill": true,
   "Visual": {
     "AttackEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "AttackFollowUpEffect": {
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,
