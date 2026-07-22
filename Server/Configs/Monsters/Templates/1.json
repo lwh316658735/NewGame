@@ -43,7 +43,7 @@
       "DropTable0001"
     ],
     "DropRateBonus": {
-      "IsEnabled": false,
+      "IsEnabled": true,
       "Mode": "Add",
       "Value": 0
     }
