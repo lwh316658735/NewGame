@@ -1,0 +1,34 @@
+{
+  "TierSetId": 8,
+  "DisplayName": "戒指_开天斩",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "触发几率",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Percent",
+      "ValueStep": 6000
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 1000,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 6000,
+          "MaxValue": 6000
+        }
+      ]
+    }
+  ]
+}

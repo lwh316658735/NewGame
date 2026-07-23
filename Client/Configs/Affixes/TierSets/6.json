@@ -10,8 +10,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 1,
-          "MaxValue": 1
+          "MinValue": 0.1,
+          "MaxValue": 0.1
         }
       ]
     },
@@ -24,8 +24,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 1.1,
-          "MaxValue": 1.1
+          "MinValue": 0.2,
+          "MaxValue": 0.2
         }
       ]
     },
@@ -38,8 +38,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 1.2,
-          "MaxValue": 1.2
+          "MinValue": 0.3,
+          "MaxValue": 0.3
         }
       ]
     },
@@ -52,8 +52,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 1.3,
-          "MaxValue": 1.3
+          "MinValue": 0.4,
+          "MaxValue": 0.4
         }
       ]
     },
@@ -66,8 +66,8 @@
         {
           "RangeId": 0,
           "ValueKind": "Percent",
-          "MinValue": 1.4,
-          "MaxValue": 1.4
+          "MinValue": 0.5,
+          "MaxValue": 0.5
         }
       ]
     }

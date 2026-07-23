@@ -27,22 +27,16 @@
     },
     "FixedAttributes": [
       {
-        "AttributeId": "MinPhysicalAttack",
-        "Operation": "Add",
-        "Value": 0
-      },
-      {
-        "AttributeId": "MaxPhysicalAttack",
-        "Operation": "Add",
-        "Value": 20000
-      },
-      {
         "AttributeId": "HealthLeech",
         "Operation": "Add",
         "Value": 1000
       }
     ],
-    "FixedAffixRules": []
+    "FixedAffixRules": [
+      {
+        "AffixId": 8
+      }
+    ]
   },
   "ConsumableItem": null,
   "MaterialItem": null

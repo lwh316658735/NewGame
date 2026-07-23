@@ -1,0 +1,29 @@
+{
+  "AffixId": 8,
+  "DisplayName": "戒指-开天斩",
+  "CategoryIds": [
+    0,
+    5,
+    6
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Ring"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnAttack",
+      "ScriptId": "affix/8/OnAttack",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    8
+  ]
+}
