@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "物品",
   "Subcategory": "其他",
   "Assets": [
     {
-      "AssetId": "Asset.2_2",
+      "AssetId": 27531,
       "DisplayName": "2",
       "SortOrder": 17756,
       "Category": "物品",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000047_3",
+      "AssetId": 544,
       "DisplayName": "000047",
       "SortOrder": 17758,
       "Category": "物品",

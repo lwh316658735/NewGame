@@ -2,7 +2,7 @@
   "SkillId": 4,
   "DisplayName": "开天斩",
   "Description": "填写技能用途、释放方式和客户端展示说明。",
-  "IconAssetId": "",
+  "IconAssetId": 0,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {
@@ -16,89 +16,89 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.000470_8",
-            "Asset.000471_8",
-            "Asset.000472_8",
-            "Asset.000473_8",
-            "Asset.000474_8",
-            "Asset.000475_8"
+            3879,
+            3887,
+            3895,
+            3903,
+            3911,
+            3919
           ]
         },
         {
           "DirectionIndex": 1,
           "FrameAssetIds": [
-            "Asset.000480_9",
-            "Asset.000481_9",
-            "Asset.000482_9",
-            "Asset.000483_9",
-            "Asset.000484_9",
-            "Asset.000485_7"
+            3960,
+            3969,
+            3978,
+            3987,
+            3996,
+            4003
           ]
         },
         {
           "DirectionIndex": 2,
           "FrameAssetIds": [
-            "Asset.000490_8",
-            "Asset.000491_8",
-            "Asset.000492_6",
-            "Asset.000493_6",
-            "Asset.000494_6",
-            "Asset.000495_6"
+            4039,
+            4047,
+            4053,
+            4059,
+            4065,
+            4071
           ]
         },
         {
           "DirectionIndex": 3,
           "FrameAssetIds": [
-            "Asset.000500_9",
-            "Asset.000501_9",
-            "Asset.000502_9",
-            "Asset.000503_9",
-            "Asset.000504_9",
-            "Asset.000505_9"
+            4105,
+            4114,
+            4123,
+            4132,
+            4141,
+            4150
           ]
         },
         {
           "DirectionIndex": 4,
           "FrameAssetIds": [
-            "Asset.000510_9",
-            "Asset.000511_8",
-            "Asset.000512_8",
-            "Asset.000513_8",
-            "Asset.000514_8",
-            "Asset.000515_8"
+            4187,
+            4195,
+            4203,
+            4211,
+            4219,
+            4227
           ]
         },
         {
           "DirectionIndex": 5,
           "FrameAssetIds": [
-            "Asset.000520_9",
-            "Asset.000521_9",
-            "Asset.000522_9",
-            "Asset.000523_9",
-            "Asset.000524_9",
-            "Asset.000525_9"
+            4268,
+            4277,
+            4286,
+            4295,
+            4304,
+            4313
           ]
         },
         {
           "DirectionIndex": 6,
           "FrameAssetIds": [
-            "Asset.000530_9",
-            "Asset.000531_9",
-            "Asset.000532_8",
-            "Asset.000533_8",
-            "Asset.000534_8",
-            "Asset.000535_6"
+            4358,
+            4367,
+            4375,
+            4383,
+            4391,
+            4397
           ]
         },
         {
           "DirectionIndex": 7,
           "FrameAssetIds": [
-            "Asset.000540_9",
-            "Asset.000541_9",
-            "Asset.000542_9",
-            "Asset.000543_9",
-            "Asset.000544_9",
-            "Asset.000545_9"
+            4430,
+            4439,
+            4448,
+            4457,
+            4466,
+            4475
           ]
         }
       ]
@@ -113,81 +113,81 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.000555_8",
-            "Asset.000556_8",
-            "Asset.000557_8",
-            "Asset.000558_6",
-            "Asset.000559_6"
+            4560,
+            4568,
+            4576,
+            4582,
+            4588
           ]
         },
         {
           "DirectionIndex": 1,
           "FrameAssetIds": [
-            "Asset.000565_8",
-            "Asset.000566_8",
-            "Asset.000567_8",
-            "Asset.000568_6",
-            "Asset.000569_6"
+            4636,
+            4644,
+            4652,
+            4658,
+            4664
           ]
         },
         {
           "DirectionIndex": 2,
           "FrameAssetIds": [
-            "Asset.000575_8",
-            "Asset.000576_8",
-            "Asset.000577_8",
-            "Asset.000578_8",
-            "Asset.000579_8"
+            4712,
+            4720,
+            4728,
+            4736,
+            4744
           ]
         },
         {
           "DirectionIndex": 3,
           "FrameAssetIds": [
-            "Asset.000585_8",
-            "Asset.000586_8",
-            "Asset.000587_8",
-            "Asset.000588_8",
-            "Asset.000589_8"
+            4792,
+            4800,
+            4808,
+            4816,
+            4824
           ]
         },
         {
           "DirectionIndex": 4,
           "FrameAssetIds": [
-            "Asset.000595_8",
-            "Asset.000596_8",
-            "Asset.000597_8",
-            "Asset.000598_8",
-            "Asset.000599_9"
+            4870,
+            4878,
+            4886,
+            4894,
+            4903
           ]
         },
         {
           "DirectionIndex": 5,
           "FrameAssetIds": [
-            "Asset.000605_8",
-            "Asset.000606_8",
-            "Asset.000607_6",
-            "Asset.000608_6",
-            "Asset.000609_6"
+            4949,
+            4957,
+            4963,
+            4969,
+            4975
           ]
         },
         {
           "DirectionIndex": 6,
           "FrameAssetIds": [
-            "Asset.000615_8",
-            "Asset.000616_8",
-            "Asset.000617_8",
-            "Asset.000618_8",
-            "Asset.000619_8"
+            5023,
+            5031,
+            5039,
+            5047,
+            5055
           ]
         },
         {
           "DirectionIndex": 7,
           "FrameAssetIds": [
-            "Asset.000625_6",
-            "Asset.000626_6",
-            "Asset.000627_6",
-            "Asset.000628_6",
-            "Asset.000629_6"
+            5105,
+            5111,
+            5117,
+            5123,
+            5129
           ]
         }
       ]

@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "角色选择界面",
   "Assets": [
     {
-      "AssetId": "Asset.Asset_4",
+      "AssetId": 27573,
       "DisplayName": "男道士_展示待机_正面_静态展示",
       "SortOrder": 10368,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_5",
+      "AssetId": 27579,
       "DisplayName": "男法师_展示待机_正面_静态展示",
       "SortOrder": 10369,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_6",
+      "AssetId": 27580,
       "DisplayName": "男战士_展示待机_正面_静态展示",
       "SortOrder": 10370,
       "Category": "界面",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_7",
+      "AssetId": 27581,
       "DisplayName": "女道士_展示待机_正面_静态展示",
       "SortOrder": 10371,
       "Category": "界面",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_8",
+      "AssetId": 27582,
       "DisplayName": "女法师_展示待机_正面_静态展示",
       "SortOrder": 10372,
       "Category": "界面",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_9",
+      "AssetId": 27583,
       "DisplayName": "女战士_展示待机_正面_静态展示",
       "SortOrder": 10373,
       "Category": "界面",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.12",
+      "AssetId": 27527,
       "DisplayName": "图层 12",
       "SortOrder": 10374,
       "Category": "界面",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.0",
+      "AssetId": 1,
       "DisplayName": "图层 0",
       "SortOrder": 10375,
       "Category": "界面",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.13",
+      "AssetId": 27528,
       "DisplayName": "图层 13",
       "SortOrder": 10376,
       "Category": "界面",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.1_2",
+      "AssetId": 27529,
       "DisplayName": "图层1-2",
       "SortOrder": 10377,
       "Category": "界面",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_16",
+      "AssetId": 27547,
       "DisplayName": "职业_战士_选中",
       "SortOrder": 10378,
       "Category": "界面",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_11",
+      "AssetId": 27542,
       "DisplayName": "职业_战士_默认",
       "SortOrder": 10379,
       "Category": "界面",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_12",
+      "AssetId": 27543,
       "DisplayName": "职业_道士_默认",
       "SortOrder": 10380,
       "Category": "界面",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_13",
+      "AssetId": 27544,
       "DisplayName": "职业_道士_选中",
       "SortOrder": 10381,
       "Category": "界面",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_14",
+      "AssetId": 27545,
       "DisplayName": "职业_法师_默认",
       "SortOrder": 10382,
       "Category": "界面",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_15",
+      "AssetId": 27546,
       "DisplayName": "职业_法师_选中",
       "SortOrder": 10383,
       "Category": "界面",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160_6",
+      "AssetId": 27538,
       "DisplayName": "角色选择_纯背景_无斑点_清晰优化版_3840x2160",
       "SortOrder": 10396,
       "Category": "界面",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_3",
+      "AssetId": 27562,
       "DisplayName": "角色选择_右侧按钮栏_无斑点_高清设计",
       "SortOrder": 10397,
       "Category": "界面",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.0_2_2",
+      "AssetId": 27518,
       "DisplayName": "图层 0-2",
       "SortOrder": 10398,
       "Category": "界面",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.2",
+      "AssetId": 27530,
       "DisplayName": "2",
       "SortOrder": 10399,
       "Category": "界面",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.3",
+      "AssetId": 27532,
       "DisplayName": "3",
       "SortOrder": 10400,
       "Category": "界面",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_10",
+      "AssetId": 27541,
       "DisplayName": "角色选择_标题文案_创建角色_透明",
       "SortOrder": 10401,
       "Category": "界面",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_20",
+      "AssetId": 27552,
       "DisplayName": "角色选择_标题文案_选择角色_透明",
       "SortOrder": 10402,
       "Category": "界面",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_21",
+      "AssetId": 27553,
       "DisplayName": "角色选择_顶部标题牌_无斑点_无文字_高清设计",
       "SortOrder": 10403,
       "Category": "界面",

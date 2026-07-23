@@ -26,7 +26,7 @@
   "TextPaddingTop": 9,
   "TextPaddingRight": 16,
   "TextPaddingBottom": 5,
-  "BackgroundAssetId": "",
+  "BackgroundAssetId": 0,
   "BackgroundAssetIds": [],
   "ImageFramesPerSecond": 5,
   "ImageFillMode": "Fit",

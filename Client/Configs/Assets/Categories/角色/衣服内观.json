@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "角色",
   "Subcategory": "衣服内观",
   "Assets": [
     {
-      "AssetId": "Asset.000599_6",
+      "AssetId": 4900,
       "DisplayName": "000599",
       "SortOrder": 25292,
       "Category": "角色",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000600_6",
+      "AssetId": 4910,
       "DisplayName": "000600",
       "SortOrder": 25293,
       "Category": "角色",

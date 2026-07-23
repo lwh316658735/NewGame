@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "游戏加载界面",
   "Assets": [
     {
-      "AssetId": "Asset.0001",
+      "AssetId": 1013,
       "DisplayName": "加载进度条_0001",
       "SortOrder": 10268,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.0002",
+      "AssetId": 1845,
       "DisplayName": "加载进度条_0002",
       "SortOrder": 10269,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.0003",
+      "AssetId": 2659,
       "DisplayName": "加载进度条_0003",
       "SortOrder": 10270,
       "Category": "界面",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.0004",
+      "AssetId": 3347,
       "DisplayName": "加载进度条_0004",
       "SortOrder": 10271,
       "Category": "界面",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.0005",
+      "AssetId": 4096,
       "DisplayName": "加载进度条_0005",
       "SortOrder": 10272,
       "Category": "界面",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.0006",
+      "AssetId": 4904,
       "DisplayName": "加载进度条_0006",
       "SortOrder": 10273,
       "Category": "界面",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.0007",
+      "AssetId": 5670,
       "DisplayName": "加载进度条_0007",
       "SortOrder": 10274,
       "Category": "界面",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.0008",
+      "AssetId": 6481,
       "DisplayName": "加载进度条_0008",
       "SortOrder": 10275,
       "Category": "界面",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.0009",
+      "AssetId": 7188,
       "DisplayName": "加载进度条_0009",
       "SortOrder": 10276,
       "Category": "界面",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.0010",
+      "AssetId": 7886,
       "DisplayName": "加载进度条_0010",
       "SortOrder": 10277,
       "Category": "界面",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.0011",
+      "AssetId": 8651,
       "DisplayName": "加载进度条_0011",
       "SortOrder": 10278,
       "Category": "界面",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.0012",
+      "AssetId": 9374,
       "DisplayName": "加载进度条_0012",
       "SortOrder": 10279,
       "Category": "界面",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.0013",
+      "AssetId": 9901,
       "DisplayName": "加载进度条_0013",
       "SortOrder": 10280,
       "Category": "界面",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.0014",
+      "AssetId": 10421,
       "DisplayName": "加载进度条_0014",
       "SortOrder": 10281,
       "Category": "界面",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.0015",
+      "AssetId": 10947,
       "DisplayName": "加载进度条_0015",
       "SortOrder": 10282,
       "Category": "界面",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.0016",
+      "AssetId": 11478,
       "DisplayName": "加载进度条_0016",
       "SortOrder": 10283,
       "Category": "界面",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.0017",
+      "AssetId": 12089,
       "DisplayName": "加载进度条_0017",
       "SortOrder": 10284,
       "Category": "界面",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.0018",
+      "AssetId": 12655,
       "DisplayName": "加载进度条_0018",
       "SortOrder": 10285,
       "Category": "界面",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.0019",
+      "AssetId": 13086,
       "DisplayName": "加载进度条_0019",
       "SortOrder": 10286,
       "Category": "界面",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.0020",
+      "AssetId": 13579,
       "DisplayName": "加载进度条_0020",
       "SortOrder": 10287,
       "Category": "界面",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.0021",
+      "AssetId": 14090,
       "DisplayName": "加载进度条_0021",
       "SortOrder": 10288,
       "Category": "界面",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.0022",
+      "AssetId": 14569,
       "DisplayName": "加载进度条_0022",
       "SortOrder": 10289,
       "Category": "界面",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.0023",
+      "AssetId": 15048,
       "DisplayName": "加载进度条_0023",
       "SortOrder": 10290,
       "Category": "界面",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.0024",
+      "AssetId": 15504,
       "DisplayName": "加载进度条_0024",
       "SortOrder": 10291,
       "Category": "界面",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.0025",
+      "AssetId": 15986,
       "DisplayName": "加载进度条_0025",
       "SortOrder": 10292,
       "Category": "界面",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.0026",
+      "AssetId": 16384,
       "DisplayName": "加载进度条_0026",
       "SortOrder": 10293,
       "Category": "界面",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.0027",
+      "AssetId": 16727,
       "DisplayName": "加载进度条_0027",
       "SortOrder": 10294,
       "Category": "界面",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.0028",
+      "AssetId": 17210,
       "DisplayName": "加载进度条_0028",
       "SortOrder": 10295,
       "Category": "界面",
@@ -564,7 +564,7 @@
       }
     },
     {
-      "AssetId": "Asset.0029",
+      "AssetId": 17607,
       "DisplayName": "加载进度条_0029",
       "SortOrder": 10296,
       "Category": "界面",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "AssetId": "Asset.0030",
+      "AssetId": 17908,
       "DisplayName": "加载进度条_0030",
       "SortOrder": 10297,
       "Category": "界面",
@@ -604,7 +604,7 @@
       }
     },
     {
-      "AssetId": "Asset.0031",
+      "AssetId": 18305,
       "DisplayName": "加载进度条_0031",
       "SortOrder": 10298,
       "Category": "界面",
@@ -624,7 +624,7 @@
       }
     },
     {
-      "AssetId": "Asset.0032",
+      "AssetId": 18668,
       "DisplayName": "加载进度条_0032",
       "SortOrder": 10299,
       "Category": "界面",
@@ -644,7 +644,7 @@
       }
     },
     {
-      "AssetId": "Asset.0033",
+      "AssetId": 19057,
       "DisplayName": "加载进度条_0033",
       "SortOrder": 10300,
       "Category": "界面",
@@ -664,7 +664,7 @@
       }
     },
     {
-      "AssetId": "Asset.0034",
+      "AssetId": 19490,
       "DisplayName": "加载进度条_0034",
       "SortOrder": 10301,
       "Category": "界面",
@@ -684,7 +684,7 @@
       }
     },
     {
-      "AssetId": "Asset.0035",
+      "AssetId": 19862,
       "DisplayName": "加载进度条_0035",
       "SortOrder": 10302,
       "Category": "界面",
@@ -704,7 +704,7 @@
       }
     },
     {
-      "AssetId": "Asset.0036",
+      "AssetId": 20163,
       "DisplayName": "加载进度条_0036",
       "SortOrder": 10303,
       "Category": "界面",
@@ -724,7 +724,7 @@
       }
     },
     {
-      "AssetId": "Asset.0037",
+      "AssetId": 20372,
       "DisplayName": "加载进度条_0037",
       "SortOrder": 10304,
       "Category": "界面",
@@ -744,7 +744,7 @@
       }
     },
     {
-      "AssetId": "Asset.0038",
+      "AssetId": 20657,
       "DisplayName": "加载进度条_0038",
       "SortOrder": 10305,
       "Category": "界面",
@@ -764,7 +764,7 @@
       }
     },
     {
-      "AssetId": "Asset.0039",
+      "AssetId": 20884,
       "DisplayName": "加载进度条_0039",
       "SortOrder": 10306,
       "Category": "界面",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "AssetId": "Asset.0040",
+      "AssetId": 21123,
       "DisplayName": "加载进度条_0040",
       "SortOrder": 10307,
       "Category": "界面",
@@ -804,7 +804,7 @@
       }
     },
     {
-      "AssetId": "Asset.0041",
+      "AssetId": 21343,
       "DisplayName": "加载进度条_0041",
       "SortOrder": 10308,
       "Category": "界面",
@@ -824,7 +824,7 @@
       }
     },
     {
-      "AssetId": "Asset.0042",
+      "AssetId": 21568,
       "DisplayName": "加载进度条_0042",
       "SortOrder": 10309,
       "Category": "界面",
@@ -844,7 +844,7 @@
       }
     },
     {
-      "AssetId": "Asset.0043",
+      "AssetId": 21764,
       "DisplayName": "加载进度条_0043",
       "SortOrder": 10310,
       "Category": "界面",
@@ -864,7 +864,7 @@
       }
     },
     {
-      "AssetId": "Asset.0044",
+      "AssetId": 22020,
       "DisplayName": "加载进度条_0044",
       "SortOrder": 10311,
       "Category": "界面",
@@ -884,7 +884,7 @@
       }
     },
     {
-      "AssetId": "Asset.0045",
+      "AssetId": 22311,
       "DisplayName": "加载进度条_0045",
       "SortOrder": 10312,
       "Category": "界面",
@@ -904,7 +904,7 @@
       }
     },
     {
-      "AssetId": "Asset.0046",
+      "AssetId": 22462,
       "DisplayName": "加载进度条_0046",
       "SortOrder": 10313,
       "Category": "界面",
@@ -924,7 +924,7 @@
       }
     },
     {
-      "AssetId": "Asset.0047",
+      "AssetId": 22563,
       "DisplayName": "加载进度条_0047",
       "SortOrder": 10314,
       "Category": "界面",
@@ -944,7 +944,7 @@
       }
     },
     {
-      "AssetId": "Asset.0048",
+      "AssetId": 22664,
       "DisplayName": "加载进度条_0048",
       "SortOrder": 10315,
       "Category": "界面",
@@ -964,7 +964,7 @@
       }
     },
     {
-      "AssetId": "Asset.0049",
+      "AssetId": 22763,
       "DisplayName": "加载进度条_0049",
       "SortOrder": 10316,
       "Category": "界面",
@@ -984,7 +984,7 @@
       }
     },
     {
-      "AssetId": "Asset.0050",
+      "AssetId": 22864,
       "DisplayName": "加载进度条_0050",
       "SortOrder": 10317,
       "Category": "界面",
@@ -1004,7 +1004,7 @@
       }
     },
     {
-      "AssetId": "Asset.0051",
+      "AssetId": 22965,
       "DisplayName": "加载进度条_0051",
       "SortOrder": 10318,
       "Category": "界面",
@@ -1024,7 +1024,7 @@
       }
     },
     {
-      "AssetId": "Asset.0052",
+      "AssetId": 23066,
       "DisplayName": "加载进度条_0052",
       "SortOrder": 10319,
       "Category": "界面",
@@ -1044,7 +1044,7 @@
       }
     },
     {
-      "AssetId": "Asset.0053",
+      "AssetId": 23167,
       "DisplayName": "加载进度条_0053",
       "SortOrder": 10320,
       "Category": "界面",
@@ -1064,7 +1064,7 @@
       }
     },
     {
-      "AssetId": "Asset.0054",
+      "AssetId": 23268,
       "DisplayName": "加载进度条_0054",
       "SortOrder": 10321,
       "Category": "界面",
@@ -1084,7 +1084,7 @@
       }
     },
     {
-      "AssetId": "Asset.0055",
+      "AssetId": 23369,
       "DisplayName": "加载进度条_0055",
       "SortOrder": 10322,
       "Category": "界面",
@@ -1104,7 +1104,7 @@
       }
     },
     {
-      "AssetId": "Asset.0056",
+      "AssetId": 23470,
       "DisplayName": "加载进度条_0056",
       "SortOrder": 10323,
       "Category": "界面",
@@ -1124,7 +1124,7 @@
       }
     },
     {
-      "AssetId": "Asset.0057",
+      "AssetId": 23571,
       "DisplayName": "加载进度条_0057",
       "SortOrder": 10324,
       "Category": "界面",
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "AssetId": "Asset.0058",
+      "AssetId": 23672,
       "DisplayName": "加载进度条_0058",
       "SortOrder": 10325,
       "Category": "界面",
@@ -1164,7 +1164,7 @@
       }
     },
     {
-      "AssetId": "Asset.0059",
+      "AssetId": 23773,
       "DisplayName": "加载进度条_0059",
       "SortOrder": 10326,
       "Category": "界面",
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "AssetId": "Asset.0060",
+      "AssetId": 23874,
       "DisplayName": "加载进度条_0060",
       "SortOrder": 10327,
       "Category": "界面",
@@ -1204,7 +1204,7 @@
       }
     },
     {
-      "AssetId": "Asset.0061",
+      "AssetId": 23975,
       "DisplayName": "加载进度条_0061",
       "SortOrder": 10328,
       "Category": "界面",
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "AssetId": "Asset.0062",
+      "AssetId": 24076,
       "DisplayName": "加载进度条_0062",
       "SortOrder": 10329,
       "Category": "界面",
@@ -1244,7 +1244,7 @@
       }
     },
     {
-      "AssetId": "Asset.0063",
+      "AssetId": 24177,
       "DisplayName": "加载进度条_0063",
       "SortOrder": 10330,
       "Category": "界面",
@@ -1264,7 +1264,7 @@
       }
     },
     {
-      "AssetId": "Asset.0064",
+      "AssetId": 24278,
       "DisplayName": "加载进度条_0064",
       "SortOrder": 10331,
       "Category": "界面",
@@ -1284,7 +1284,7 @@
       }
     },
     {
-      "AssetId": "Asset.0065",
+      "AssetId": 24379,
       "DisplayName": "加载进度条_0065",
       "SortOrder": 10332,
       "Category": "界面",
@@ -1304,7 +1304,7 @@
       }
     },
     {
-      "AssetId": "Asset.0066",
+      "AssetId": 24480,
       "DisplayName": "加载进度条_0066",
       "SortOrder": 10333,
       "Category": "界面",
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "AssetId": "Asset.0067",
+      "AssetId": 24581,
       "DisplayName": "加载进度条_0067",
       "SortOrder": 10334,
       "Category": "界面",
@@ -1344,7 +1344,7 @@
       }
     },
     {
-      "AssetId": "Asset.0068",
+      "AssetId": 24682,
       "DisplayName": "加载进度条_0068",
       "SortOrder": 10335,
       "Category": "界面",
@@ -1364,7 +1364,7 @@
       }
     },
     {
-      "AssetId": "Asset.0069",
+      "AssetId": 24783,
       "DisplayName": "加载进度条_0069",
       "SortOrder": 10336,
       "Category": "界面",
@@ -1384,7 +1384,7 @@
       }
     },
     {
-      "AssetId": "Asset.0070",
+      "AssetId": 24884,
       "DisplayName": "加载进度条_0070",
       "SortOrder": 10337,
       "Category": "界面",
@@ -1404,7 +1404,7 @@
       }
     },
     {
-      "AssetId": "Asset.0071",
+      "AssetId": 24985,
       "DisplayName": "加载进度条_0071",
       "SortOrder": 10338,
       "Category": "界面",
@@ -1424,7 +1424,7 @@
       }
     },
     {
-      "AssetId": "Asset.0072",
+      "AssetId": 25086,
       "DisplayName": "加载进度条_0072",
       "SortOrder": 10339,
       "Category": "界面",
@@ -1444,7 +1444,7 @@
       }
     },
     {
-      "AssetId": "Asset.0073",
+      "AssetId": 25187,
       "DisplayName": "加载进度条_0073",
       "SortOrder": 10340,
       "Category": "界面",
@@ -1464,7 +1464,7 @@
       }
     },
     {
-      "AssetId": "Asset.0074",
+      "AssetId": 25288,
       "DisplayName": "加载进度条_0074",
       "SortOrder": 10341,
       "Category": "界面",
@@ -1484,7 +1484,7 @@
       }
     },
     {
-      "AssetId": "Asset.0075",
+      "AssetId": 25389,
       "DisplayName": "加载进度条_0075",
       "SortOrder": 10342,
       "Category": "界面",
@@ -1504,7 +1504,7 @@
       }
     },
     {
-      "AssetId": "Asset.0076",
+      "AssetId": 25490,
       "DisplayName": "加载进度条_0076",
       "SortOrder": 10343,
       "Category": "界面",
@@ -1524,7 +1524,7 @@
       }
     },
     {
-      "AssetId": "Asset.0077",
+      "AssetId": 25591,
       "DisplayName": "加载进度条_0077",
       "SortOrder": 10344,
       "Category": "界面",
@@ -1544,7 +1544,7 @@
       }
     },
     {
-      "AssetId": "Asset.0078",
+      "AssetId": 25692,
       "DisplayName": "加载进度条_0078",
       "SortOrder": 10345,
       "Category": "界面",
@@ -1564,7 +1564,7 @@
       }
     },
     {
-      "AssetId": "Asset.0079",
+      "AssetId": 25793,
       "DisplayName": "加载进度条_0079",
       "SortOrder": 10346,
       "Category": "界面",
@@ -1584,7 +1584,7 @@
       }
     },
     {
-      "AssetId": "Asset.0080",
+      "AssetId": 25894,
       "DisplayName": "加载进度条_0080",
       "SortOrder": 10347,
       "Category": "界面",
@@ -1604,7 +1604,7 @@
       }
     },
     {
-      "AssetId": "Asset.0081",
+      "AssetId": 25995,
       "DisplayName": "加载进度条_0081",
       "SortOrder": 10348,
       "Category": "界面",
@@ -1624,7 +1624,7 @@
       }
     },
     {
-      "AssetId": "Asset.0082",
+      "AssetId": 26096,
       "DisplayName": "加载进度条_0082",
       "SortOrder": 10349,
       "Category": "界面",
@@ -1644,7 +1644,7 @@
       }
     },
     {
-      "AssetId": "Asset.0083",
+      "AssetId": 26197,
       "DisplayName": "加载进度条_0083",
       "SortOrder": 10350,
       "Category": "界面",
@@ -1664,7 +1664,7 @@
       }
     },
     {
-      "AssetId": "Asset.0084",
+      "AssetId": 26298,
       "DisplayName": "加载进度条_0084",
       "SortOrder": 10351,
       "Category": "界面",
@@ -1684,7 +1684,7 @@
       }
     },
     {
-      "AssetId": "Asset.0085",
+      "AssetId": 26399,
       "DisplayName": "加载进度条_0085",
       "SortOrder": 10352,
       "Category": "界面",
@@ -1704,7 +1704,7 @@
       }
     },
     {
-      "AssetId": "Asset.0086",
+      "AssetId": 26500,
       "DisplayName": "加载进度条_0086",
       "SortOrder": 10353,
       "Category": "界面",
@@ -1724,7 +1724,7 @@
       }
     },
     {
-      "AssetId": "Asset.0087",
+      "AssetId": 26601,
       "DisplayName": "加载进度条_0087",
       "SortOrder": 10354,
       "Category": "界面",
@@ -1744,7 +1744,7 @@
       }
     },
     {
-      "AssetId": "Asset.0088",
+      "AssetId": 26702,
       "DisplayName": "加载进度条_0088",
       "SortOrder": 10355,
       "Category": "界面",
@@ -1764,7 +1764,7 @@
       }
     },
     {
-      "AssetId": "Asset.0089",
+      "AssetId": 26803,
       "DisplayName": "加载进度条_0089",
       "SortOrder": 10356,
       "Category": "界面",
@@ -1784,7 +1784,7 @@
       }
     },
     {
-      "AssetId": "Asset.0090",
+      "AssetId": 26904,
       "DisplayName": "加载进度条_0090",
       "SortOrder": 10357,
       "Category": "界面",
@@ -1804,7 +1804,7 @@
       }
     },
     {
-      "AssetId": "Asset.0091",
+      "AssetId": 27005,
       "DisplayName": "加载进度条_0091",
       "SortOrder": 10358,
       "Category": "界面",
@@ -1824,7 +1824,7 @@
       }
     },
     {
-      "AssetId": "Asset.0092",
+      "AssetId": 27106,
       "DisplayName": "加载进度条_0092",
       "SortOrder": 10359,
       "Category": "界面",
@@ -1844,7 +1844,7 @@
       }
     },
     {
-      "AssetId": "Asset.0093",
+      "AssetId": 27207,
       "DisplayName": "加载进度条_0093",
       "SortOrder": 10360,
       "Category": "界面",
@@ -1864,7 +1864,7 @@
       }
     },
     {
-      "AssetId": "Asset.0094",
+      "AssetId": 27308,
       "DisplayName": "加载进度条_0094",
       "SortOrder": 10361,
       "Category": "界面",
@@ -1884,7 +1884,7 @@
       }
     },
     {
-      "AssetId": "Asset.0095",
+      "AssetId": 27409,
       "DisplayName": "加载进度条_0095",
       "SortOrder": 10362,
       "Category": "界面",
@@ -1904,7 +1904,7 @@
       }
     },
     {
-      "AssetId": "Asset.0096",
+      "AssetId": 27510,
       "DisplayName": "加载进度条_0096",
       "SortOrder": 10363,
       "Category": "界面",
@@ -1924,7 +1924,7 @@
       }
     },
     {
-      "AssetId": "Asset.0097",
+      "AssetId": 27511,
       "DisplayName": "加载进度条_0097",
       "SortOrder": 10364,
       "Category": "界面",
@@ -1944,7 +1944,7 @@
       }
     },
     {
-      "AssetId": "Asset.0098",
+      "AssetId": 27512,
       "DisplayName": "加载进度条_0098",
       "SortOrder": 10365,
       "Category": "界面",
@@ -1964,7 +1964,7 @@
       }
     },
     {
-      "AssetId": "Asset.0099",
+      "AssetId": 27513,
       "DisplayName": "加载进度条_0099",
       "SortOrder": 10366,
       "Category": "界面",
@@ -1984,7 +1984,7 @@
       }
     },
     {
-      "AssetId": "Asset.0100",
+      "AssetId": 27515,
       "DisplayName": "加载进度条_0100",
       "SortOrder": 10367,
       "Category": "界面",
@@ -2004,7 +2004,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset",
+      "AssetId": 27540,
       "DisplayName": "加载背景_深渊法阵_重设计无麻点_含加载文字无进度条",
       "SortOrder": 10394,
       "Category": "界面",

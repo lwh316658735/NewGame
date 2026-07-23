@@ -2,7 +2,7 @@
   "SkillId": 1,
   "DisplayName": "火球术",
   "Description": "这是一个火球术.",
-  "IconAssetId": "Asset.MagIcon_0002",
+  "IconAssetId": 27586,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": true,
   "Visual": {
@@ -98,15 +98,15 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.000000_12",
-            "Asset.000001_12",
-            "Asset.000002_12",
-            "Asset.000003_12",
-            "Asset.000004_11",
-            "Asset.000005_11",
-            "Asset.000006_11",
-            "Asset.000007_11",
-            "Asset.000008_11"
+            5,
+            18,
+            31,
+            44,
+            56,
+            68,
+            80,
+            92,
+            104
           ]
         }
       ]
@@ -121,177 +121,177 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.000010_12",
-            "Asset.000011_12",
-            "Asset.000012_11",
-            "Asset.000013_11",
-            "Asset.000014_11",
-            "Asset.000015_11"
+            129,
+            142,
+            154,
+            166,
+            178,
+            190
           ]
         },
         {
           "DirectionIndex": 1,
           "FrameAssetIds": [
-            "Asset.000020_10",
-            "Asset.000021_10",
-            "Asset.000022_11",
-            "Asset.000023_10",
-            "Asset.000024_10",
-            "Asset.000025_11"
+            247,
+            258,
+            270,
+            281,
+            292,
+            304
           ]
         },
         {
           "DirectionIndex": 2,
           "FrameAssetIds": [
-            "Asset.000030_10",
-            "Asset.000031_10",
-            "Asset.000032_10",
-            "Asset.000033_10",
-            "Asset.000034_10",
-            "Asset.000035_10"
+            359,
+            370,
+            381,
+            392,
+            403,
+            414
           ]
         },
         {
           "DirectionIndex": 3,
           "FrameAssetIds": [
-            "Asset.000040_10",
-            "Asset.000041_10",
-            "Asset.000042_10",
-            "Asset.000043_9",
-            "Asset.000044_9",
-            "Asset.000045_9"
+            468,
+            479,
+            490,
+            509,
+            519,
+            529
           ]
         },
         {
           "DirectionIndex": 4,
           "FrameAssetIds": [
-            "Asset.000050_9",
-            "Asset.000051_9",
-            "Asset.000052_8",
-            "Asset.000053_8",
-            "Asset.000054_9",
-            "Asset.000055_9"
+            580,
+            590,
+            598,
+            607,
+            618,
+            628
           ]
         },
         {
           "DirectionIndex": 5,
           "FrameAssetIds": [
-            "Asset.000060_9",
-            "Asset.000061_9",
-            "Asset.000062_8",
-            "Asset.000063_8",
-            "Asset.000064_8",
-            "Asset.000065_8"
+            678,
+            688,
+            696,
+            705,
+            714,
+            723
           ]
         },
         {
           "DirectionIndex": 6,
           "FrameAssetIds": [
-            "Asset.000070_9",
-            "Asset.000071_9",
-            "Asset.000072_9",
-            "Asset.000073_9",
-            "Asset.000074_9",
-            "Asset.000075_7"
+            770,
+            780,
+            790,
+            800,
+            810,
+            817
           ]
         },
         {
           "DirectionIndex": 7,
           "FrameAssetIds": [
-            "Asset.000080_9",
-            "Asset.000081_9",
-            "Asset.000082_8",
-            "Asset.000083_8",
-            "Asset.000084_8",
-            "Asset.000085_8"
+            860,
+            870,
+            878,
+            887,
+            896,
+            905
           ]
         },
         {
           "DirectionIndex": 8,
           "FrameAssetIds": [
-            "Asset.000090_8",
-            "Asset.000091_6",
-            "Asset.000092_6",
-            "Asset.000093_6",
-            "Asset.000094_6",
-            "Asset.000095_6"
+            948,
+            955,
+            962,
+            969,
+            976,
+            983
           ]
         },
         {
           "DirectionIndex": 9,
           "FrameAssetIds": [
-            "Asset.000100_9",
-            "Asset.000101_9",
-            "Asset.000102_8",
-            "Asset.000103_9",
-            "Asset.000104_9",
-            "Asset.000105_9"
+            1023,
+            1033,
+            1041,
+            1052,
+            1062,
+            1072
           ]
         },
         {
           "DirectionIndex": 10,
           "FrameAssetIds": [
-            "Asset.000110_8",
-            "Asset.000111_9",
-            "Asset.000112_8",
-            "Asset.000113_8",
-            "Asset.000114_8",
-            "Asset.000115_8"
+            1119,
+            1130,
+            1138,
+            1147,
+            1156,
+            1165
           ]
         },
         {
           "DirectionIndex": 11,
           "FrameAssetIds": [
-            "Asset.000120_8",
-            "Asset.000121_8",
-            "Asset.000122_8",
-            "Asset.000123_6",
-            "Asset.000124_6",
-            "Asset.000125_6"
+            1208,
+            1217,
+            1226,
+            1233,
+            1240,
+            1247
           ]
         },
         {
           "DirectionIndex": 12,
           "FrameAssetIds": [
-            "Asset.000130_8",
-            "Asset.000131_8",
-            "Asset.000132_6",
-            "Asset.000133_6",
-            "Asset.000134_5",
-            "Asset.000135_6"
+            1284,
+            1293,
+            1300,
+            1307,
+            1313,
+            1320
           ]
         },
         {
           "DirectionIndex": 13,
           "FrameAssetIds": [
-            "Asset.000140_8",
-            "Asset.000141_8",
-            "Asset.000142_8",
-            "Asset.000143_8",
-            "Asset.000144_7",
-            "Asset.000145_7"
+            1355,
+            1364,
+            1373,
+            1382,
+            1390,
+            1398
           ]
         },
         {
           "DirectionIndex": 14,
           "FrameAssetIds": [
-            "Asset.000150_9",
-            "Asset.000151_8",
-            "Asset.000152_8",
-            "Asset.000153_8",
-            "Asset.000154_7",
-            "Asset.000155_7"
+            1441,
+            1449,
+            1458,
+            1467,
+            1475,
+            1483
           ]
         },
         {
           "DirectionIndex": 15,
           "FrameAssetIds": [
-            "Asset.000160_8",
-            "Asset.000161_8",
-            "Asset.000162_8",
-            "Asset.000163_8",
-            "Asset.000164_7",
-            "Asset.000165_7"
+            1524,
+            1533,
+            1542,
+            1551,
+            1559,
+            1567
           ]
         }
       ]
@@ -307,16 +307,16 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.000170_8",
-            "Asset.000171_8",
-            "Asset.000172_8",
-            "Asset.000173_8",
-            "Asset.000174_8",
-            "Asset.000175_8",
-            "Asset.000176_8",
-            "Asset.000177_8",
-            "Asset.000178_7",
-            "Asset.000179_7"
+            1608,
+            1617,
+            1626,
+            1635,
+            1644,
+            1653,
+            1662,
+            1671,
+            1679,
+            1687
           ]
         }
       ]

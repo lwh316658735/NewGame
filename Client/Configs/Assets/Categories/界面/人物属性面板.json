@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "人物属性面板",
   "Assets": [
     {
-      "AssetId": "Asset.640x760_v2",
+      "AssetId": 27539,
       "DisplayName": "人物属性背景_640x760_顶部装饰_v2_透明",
       "SortOrder": 17759,
       "Category": "界面",

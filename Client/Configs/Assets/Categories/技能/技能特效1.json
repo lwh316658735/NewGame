@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "技能",
   "Subcategory": "技能特效1",
   "Assets": [
     {
-      "AssetId": "Asset.000250_4",
+      "AssetId": 2260,
       "DisplayName": "000250",
       "SortOrder": 19264,
       "Category": "技能",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000251_4",
+      "AssetId": 2270,
       "DisplayName": "000251",
       "SortOrder": 19265,
       "Category": "技能",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.000252_3",
+      "AssetId": 2278,
       "DisplayName": "000252",
       "SortOrder": 19266,
       "Category": "技能",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.000253_3",
+      "AssetId": 2287,
       "DisplayName": "000253",
       "SortOrder": 19267,
       "Category": "技能",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.000254_3",
+      "AssetId": 2296,
       "DisplayName": "000254",
       "SortOrder": 19268,
       "Category": "技能",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000255_3",
+      "AssetId": 2305,
       "DisplayName": "000255",
       "SortOrder": 19269,
       "Category": "技能",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000256_3",
+      "AssetId": 2314,
       "DisplayName": "000256",
       "SortOrder": 19270,
       "Category": "技能",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000257_3",
+      "AssetId": 2323,
       "DisplayName": "000257",
       "SortOrder": 19271,
       "Category": "技能",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000258_3",
+      "AssetId": 2332,
       "DisplayName": "000258",
       "SortOrder": 19272,
       "Category": "技能",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000259_4",
+      "AssetId": 2343,
       "DisplayName": "000259",
       "SortOrder": 19273,
       "Category": "技能",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000260_3",
+      "AssetId": 2351,
       "DisplayName": "000260",
       "SortOrder": 19274,
       "Category": "技能",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000261_3",
+      "AssetId": 2360,
       "DisplayName": "000261",
       "SortOrder": 19275,
       "Category": "技能",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.000262_3",
+      "AssetId": 2369,
       "DisplayName": "000262",
       "SortOrder": 19276,
       "Category": "技能",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.000263_3",
+      "AssetId": 2378,
       "DisplayName": "000263",
       "SortOrder": 19277,
       "Category": "技能",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.000264_3",
+      "AssetId": 2387,
       "DisplayName": "000264",
       "SortOrder": 19278,
       "Category": "技能",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.000265_3",
+      "AssetId": 2396,
       "DisplayName": "000265",
       "SortOrder": 19279,
       "Category": "技能",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.000266_3",
+      "AssetId": 2405,
       "DisplayName": "000266",
       "SortOrder": 19280,
       "Category": "技能",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.000267_3",
+      "AssetId": 2414,
       "DisplayName": "000267",
       "SortOrder": 19281,
       "Category": "技能",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.000268_3",
+      "AssetId": 2423,
       "DisplayName": "000268",
       "SortOrder": 19282,
       "Category": "技能",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.000269_3",
+      "AssetId": 2432,
       "DisplayName": "000269",
       "SortOrder": 19283,
       "Category": "技能",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.10000",
+      "AssetId": 27519,
       "DisplayName": "10000",
       "SortOrder": 19284,
       "Category": "技能",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.10001",
+      "AssetId": 27520,
       "DisplayName": "10001",
       "SortOrder": 19285,
       "Category": "技能",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.10002",
+      "AssetId": 27521,
       "DisplayName": "10002",
       "SortOrder": 19286,
       "Category": "技能",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.10003",
+      "AssetId": 27522,
       "DisplayName": "10003",
       "SortOrder": 19287,
       "Category": "技能",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.10004",
+      "AssetId": 27523,
       "DisplayName": "10004",
       "SortOrder": 19288,
       "Category": "技能",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.10005",
+      "AssetId": 27524,
       "DisplayName": "10005",
       "SortOrder": 19289,
       "Category": "技能",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.10006",
+      "AssetId": 27525,
       "DisplayName": "10006",
       "SortOrder": 19290,
       "Category": "技能",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.10007",
+      "AssetId": 27526,
       "DisplayName": "10007",
       "SortOrder": 19291,
       "Category": "技能",

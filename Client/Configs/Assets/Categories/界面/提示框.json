@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "提示框",
   "Assets": [
     {
-      "AssetId": "Asset.Asset_17",
+      "AssetId": 27548,
       "DisplayName": "系统错误弹窗",
       "SortOrder": 10384,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_18",
+      "AssetId": 27549,
       "DisplayName": "系统确认弹窗",
       "SortOrder": 10385,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_19",
+      "AssetId": 27550,
       "DisplayName": "系统提示弹窗",
       "SortOrder": 10386,
       "Category": "界面",

@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "小地图",
   "Subcategory": "默认",
   "Assets": [
     {
-      "AssetId": "UI.LegacyMinimap.0",
+      "AssetId": 40077,
       "DisplayName": "0 小地图",
       "SortOrder": 10404,
       "Category": "小地图",

@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "buff",
   "Assets": [
     {
-      "AssetId": "Asset.Asset_23",
+      "AssetId": 27555,
       "DisplayName": "霸体",
       "SortOrder": 17662,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_24",
+      "AssetId": 27556,
       "DisplayName": "赤手空拳",
       "SortOrder": 17663,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_25",
+      "AssetId": 27557,
       "DisplayName": "穿云",
       "SortOrder": 17664,
       "Category": "界面",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_26",
+      "AssetId": 27558,
       "DisplayName": "摧城",
       "SortOrder": 17665,
       "Category": "界面",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_27",
+      "AssetId": 27559,
       "DisplayName": "断浪",
       "SortOrder": 17666,
       "Category": "界面",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_28",
+      "AssetId": 27560,
       "DisplayName": "焚心",
       "SortOrder": 17667,
       "Category": "界面",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_29",
+      "AssetId": 27561,
       "DisplayName": "归元",
       "SortOrder": 17668,
       "Category": "界面",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_30",
+      "AssetId": 27563,
       "DisplayName": "弧光",
       "SortOrder": 17669,
       "Category": "界面",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_31",
+      "AssetId": 27564,
       "DisplayName": "虎跑",
       "SortOrder": 17670,
       "Category": "界面",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_32",
+      "AssetId": 27565,
       "DisplayName": "剑鸣",
       "SortOrder": 17671,
       "Category": "界面",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_33",
+      "AssetId": 27566,
       "DisplayName": "剑气护体",
       "SortOrder": 17672,
       "Category": "界面",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_34",
+      "AssetId": 27567,
       "DisplayName": "狂击",
       "SortOrder": 17673,
       "Category": "界面",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_35",
+      "AssetId": 27568,
       "DisplayName": "裂空",
       "SortOrder": 17674,
       "Category": "界面",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_36",
+      "AssetId": 27569,
       "DisplayName": "灭杀",
       "SortOrder": 17675,
       "Category": "界面",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_37",
+      "AssetId": 27570,
       "DisplayName": "蔑世",
       "SortOrder": 17676,
       "Category": "界面",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_38",
+      "AssetId": 27571,
       "DisplayName": "怒斩",
       "SortOrder": 17677,
       "Category": "界面",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_39",
+      "AssetId": 27572,
       "DisplayName": "人剑合一",
       "SortOrder": 17678,
       "Category": "界面",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_40",
+      "AssetId": 27574,
       "DisplayName": "万剑归宗",
       "SortOrder": 17679,
       "Category": "界面",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_41",
+      "AssetId": 27575,
       "DisplayName": "燕返",
       "SortOrder": 17680,
       "Category": "界面",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_42",
+      "AssetId": 27576,
       "DisplayName": "斩影",
       "SortOrder": 17681,
       "Category": "界面",

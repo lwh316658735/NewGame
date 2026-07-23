@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "怪物",
   "Subcategory": "测试",
   "Assets": [
     {
-      "AssetId": "Asset.image_1_2",
+      "AssetId": 29392,
       "DisplayName": "image 1",
       "SortOrder": 17714,
       "Category": "怪物",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_3_2",
+      "AssetId": 29414,
       "DisplayName": "image 3",
       "SortOrder": 17715,
       "Category": "怪物",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_5_2",
+      "AssetId": 29436,
       "DisplayName": "image 5",
       "SortOrder": 17716,
       "Category": "怪物",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_7_2",
+      "AssetId": 29438,
       "DisplayName": "image 7",
       "SortOrder": 17717,
       "Category": "怪物",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_9_2",
+      "AssetId": 29440,
       "DisplayName": "image 9",
       "SortOrder": 17718,
       "Category": "怪物",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_11_2",
+      "AssetId": 29383,
       "DisplayName": "image 11",
       "SortOrder": 17719,
       "Category": "怪物",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_13_2",
+      "AssetId": 29385,
       "DisplayName": "image 13",
       "SortOrder": 17720,
       "Category": "怪物",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_15_2",
+      "AssetId": 29387,
       "DisplayName": "image 15",
       "SortOrder": 17721,
       "Category": "怪物",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_17_2",
+      "AssetId": 29389,
       "DisplayName": "image 17",
       "SortOrder": 17722,
       "Category": "怪物",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_19_2",
+      "AssetId": 29391,
       "DisplayName": "image 19",
       "SortOrder": 17723,
       "Category": "怪物",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_21_2",
+      "AssetId": 29394,
       "DisplayName": "image 21",
       "SortOrder": 17724,
       "Category": "怪物",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_23_2",
+      "AssetId": 29396,
       "DisplayName": "image 23",
       "SortOrder": 17725,
       "Category": "怪物",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_25_2",
+      "AssetId": 29398,
       "DisplayName": "image 25",
       "SortOrder": 17726,
       "Category": "怪物",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_27_2",
+      "AssetId": 29400,
       "DisplayName": "image 27",
       "SortOrder": 17727,
       "Category": "怪物",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_29_2",
+      "AssetId": 29402,
       "DisplayName": "image 29",
       "SortOrder": 17728,
       "Category": "怪物",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_31_2",
+      "AssetId": 29405,
       "DisplayName": "image 31",
       "SortOrder": 17729,
       "Category": "怪物",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_33_2",
+      "AssetId": 29407,
       "DisplayName": "image 33",
       "SortOrder": 17730,
       "Category": "怪物",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_35_2",
+      "AssetId": 29409,
       "DisplayName": "image 35",
       "SortOrder": 17731,
       "Category": "怪物",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_37_2",
+      "AssetId": 29411,
       "DisplayName": "image 37",
       "SortOrder": 17732,
       "Category": "怪物",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_39_2",
+      "AssetId": 29413,
       "DisplayName": "image 39",
       "SortOrder": 17733,
       "Category": "怪物",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_41_2",
+      "AssetId": 29416,
       "DisplayName": "image 41",
       "SortOrder": 17734,
       "Category": "怪物",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_43_2",
+      "AssetId": 29418,
       "DisplayName": "image 43",
       "SortOrder": 17735,
       "Category": "怪物",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_45_2",
+      "AssetId": 29420,
       "DisplayName": "image 45",
       "SortOrder": 17736,
       "Category": "怪物",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_47_2",
+      "AssetId": 29422,
       "DisplayName": "image 47",
       "SortOrder": 17737,
       "Category": "怪物",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_49_2",
+      "AssetId": 29424,
       "DisplayName": "image 49",
       "SortOrder": 17738,
       "Category": "怪物",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_51_2",
+      "AssetId": 29427,
       "DisplayName": "image 51",
       "SortOrder": 17739,
       "Category": "怪物",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_53_2",
+      "AssetId": 29429,
       "DisplayName": "image 53",
       "SortOrder": 17740,
       "Category": "怪物",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_55_2",
+      "AssetId": 29431,
       "DisplayName": "image 55",
       "SortOrder": 17741,
       "Category": "怪物",
@@ -564,7 +564,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_57_2",
+      "AssetId": 29433,
       "DisplayName": "image 57",
       "SortOrder": 17742,
       "Category": "怪物",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_59_2",
+      "AssetId": 29435,
       "DisplayName": "image 59",
       "SortOrder": 17743,
       "Category": "怪物",

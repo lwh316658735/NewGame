@@ -2,7 +2,7 @@
   "SkillId": 2,
   "DisplayName": "刺杀剑法",
   "Description": "这是一个近战技能",
-  "IconAssetId": "Asset.MagIcon_0001",
+  "IconAssetId": 27585,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {
@@ -16,89 +16,89 @@
         {
           "DirectionIndex": 0,
           "FrameAssetIds": [
-            "Asset.001410_6",
-            "Asset.001411_6",
-            "Asset.001412_6",
-            "Asset.001413_6",
-            "Asset.001414_6",
-            "Asset.001415_6"
+            10483,
+            10489,
+            10495,
+            10501,
+            10507,
+            10513
           ]
         },
         {
           "DirectionIndex": 1,
           "FrameAssetIds": [
-            "Asset.001420_6",
-            "Asset.001421_6",
-            "Asset.001422_4",
-            "Asset.001423_4",
-            "Asset.001424_4",
-            "Asset.001425_6"
+            10539,
+            10545,
+            10549,
+            10553,
+            10557,
+            10563
           ]
         },
         {
           "DirectionIndex": 2,
           "FrameAssetIds": [
-            "Asset.001430_6",
-            "Asset.001431_6",
-            "Asset.001432_6",
-            "Asset.001433_6",
-            "Asset.001434_6",
-            "Asset.001435_6"
+            10593,
+            10599,
+            10605,
+            10611,
+            10617,
+            10623
           ]
         },
         {
           "DirectionIndex": 3,
           "FrameAssetIds": [
-            "Asset.001440_6",
-            "Asset.001441_6",
-            "Asset.001442_6",
-            "Asset.001443_6",
-            "Asset.001444_4",
-            "Asset.001445_6"
+            10653,
+            10659,
+            10665,
+            10671,
+            10675,
+            10681
           ]
         },
         {
           "DirectionIndex": 4,
           "FrameAssetIds": [
-            "Asset.001450_6",
-            "Asset.001451_6",
-            "Asset.001452_6",
-            "Asset.001453_6",
-            "Asset.001454_4",
-            "Asset.001455_5"
+            10711,
+            10717,
+            10723,
+            10729,
+            10733,
+            10738
           ]
         },
         {
           "DirectionIndex": 5,
           "FrameAssetIds": [
-            "Asset.001460_5",
-            "Asset.001461_6",
-            "Asset.001462_6",
-            "Asset.001463_6",
-            "Asset.001464_4",
-            "Asset.001465_4"
+            10766,
+            10772,
+            10778,
+            10784,
+            10788,
+            10792
           ]
         },
         {
           "DirectionIndex": 6,
           "FrameAssetIds": [
-            "Asset.001470_4",
-            "Asset.001471_4",
-            "Asset.001472_4",
-            "Asset.001473_6",
-            "Asset.001474_4",
-            "Asset.001475_5"
+            10812,
+            10816,
+            10820,
+            10826,
+            10830,
+            10835
           ]
         },
         {
           "DirectionIndex": 7,
           "FrameAssetIds": [
-            "Asset.001480_5",
-            "Asset.001481_6",
-            "Asset.001482_6",
-            "Asset.001483_4",
-            "Asset.001484_4",
-            "Asset.001485_4"
+            10860,
+            10866,
+            10872,
+            10876,
+            10880,
+            10884
           ]
         }
       ]

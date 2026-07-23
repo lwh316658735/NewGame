@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "物品",
   "Subcategory": "光柱1",
   "Assets": [
     {
-      "AssetId": "Asset.000000_4",
+      "AssetId": 9,
       "DisplayName": "000000",
       "SortOrder": 17744,
       "Category": "物品",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000001_4",
+      "AssetId": 22,
       "DisplayName": "000001",
       "SortOrder": 17745,
       "Category": "物品",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.000002_4",
+      "AssetId": 35,
       "DisplayName": "000002",
       "SortOrder": 17746,
       "Category": "物品",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.000003_4",
+      "AssetId": 48,
       "DisplayName": "000003",
       "SortOrder": 17747,
       "Category": "物品",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.000004_3",
+      "AssetId": 59,
       "DisplayName": "000004",
       "SortOrder": 17748,
       "Category": "物品",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000005_3",
+      "AssetId": 71,
       "DisplayName": "000005",
       "SortOrder": 17749,
       "Category": "物品",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000006_3",
+      "AssetId": 83,
       "DisplayName": "000006",
       "SortOrder": 17750,
       "Category": "物品",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000007_3",
+      "AssetId": 95,
       "DisplayName": "000007",
       "SortOrder": 17751,
       "Category": "物品",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000008_3",
+      "AssetId": 107,
       "DisplayName": "000008",
       "SortOrder": 17752,
       "Category": "物品",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000009_3",
+      "AssetId": 119,
       "DisplayName": "000009",
       "SortOrder": 17753,
       "Category": "物品",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000010_4",
+      "AssetId": 133,
       "DisplayName": "000010",
       "SortOrder": 17754,
       "Category": "物品",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000011_4",
+      "AssetId": 146,
       "DisplayName": "000011",
       "SortOrder": 17755,
       "Category": "物品",

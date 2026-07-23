@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "主界面",
   "Assets": [
     {
-      "AssetId": "Asset.000000_3",
+      "AssetId": 8,
       "DisplayName": "000000",
       "SortOrder": 17584,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000001_3",
+      "AssetId": 21,
       "DisplayName": "000001",
       "SortOrder": 17585,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.000002_3",
+      "AssetId": 34,
       "DisplayName": "000002",
       "SortOrder": 17586,
       "Category": "界面",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.000003_3",
+      "AssetId": 47,
       "DisplayName": "000003",
       "SortOrder": 17587,
       "Category": "界面",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.000010_3",
+      "AssetId": 132,
       "DisplayName": "000010",
       "SortOrder": 17588,
       "Category": "界面",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000011_3",
+      "AssetId": 145,
       "DisplayName": "000011",
       "SortOrder": 17589,
       "Category": "界面",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000012_3",
+      "AssetId": 157,
       "DisplayName": "000012",
       "SortOrder": 17590,
       "Category": "界面",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000013_3",
+      "AssetId": 169,
       "DisplayName": "000013",
       "SortOrder": 17591,
       "Category": "界面",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000014_3",
+      "AssetId": 181,
       "DisplayName": "000014",
       "SortOrder": 17592,
       "Category": "界面",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000015_3",
+      "AssetId": 193,
       "DisplayName": "000015",
       "SortOrder": 17593,
       "Category": "界面",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000016_3",
+      "AssetId": 205,
       "DisplayName": "000016",
       "SortOrder": 17594,
       "Category": "界面",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000017_3",
+      "AssetId": 217,
       "DisplayName": "000017",
       "SortOrder": 17595,
       "Category": "界面",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.000150_3",
+      "AssetId": 1435,
       "DisplayName": "000150",
       "SortOrder": 17596,
       "Category": "界面",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.000231_3",
+      "AssetId": 2103,
       "DisplayName": "000231",
       "SortOrder": 17597,
       "Category": "界面",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.000800_3",
+      "AssetId": 6484,
       "DisplayName": "000800",
       "SortOrder": 17598,
       "Category": "界面",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.000801_3",
+      "AssetId": 6493,
       "DisplayName": "000801",
       "SortOrder": 17599,
       "Category": "界面",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.000802_3",
+      "AssetId": 6502,
       "DisplayName": "000802",
       "SortOrder": 17600,
       "Category": "界面",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.000803_3",
+      "AssetId": 6511,
       "DisplayName": "000803",
       "SortOrder": 17601,
       "Category": "界面",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.000804_3",
+      "AssetId": 6520,
       "DisplayName": "000804",
       "SortOrder": 17602,
       "Category": "界面",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.000805_3",
+      "AssetId": 6529,
       "DisplayName": "000805",
       "SortOrder": 17603,
       "Category": "界面",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.000806_3",
+      "AssetId": 6538,
       "DisplayName": "000806",
       "SortOrder": 17604,
       "Category": "界面",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.000807_3",
+      "AssetId": 6547,
       "DisplayName": "000807",
       "SortOrder": 17605,
       "Category": "界面",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.000808_3",
+      "AssetId": 6556,
       "DisplayName": "000808",
       "SortOrder": 17606,
       "Category": "界面",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.001000_2",
+      "AssetId": 7888,
       "DisplayName": "001000",
       "SortOrder": 17607,
       "Category": "界面",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.001001_2",
+      "AssetId": 7896,
       "DisplayName": "001001",
       "SortOrder": 17608,
       "Category": "界面",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.001002_2",
+      "AssetId": 7904,
       "DisplayName": "001002",
       "SortOrder": 17609,
       "Category": "界面",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.001003_2",
+      "AssetId": 7912,
       "DisplayName": "001003",
       "SortOrder": 17610,
       "Category": "界面",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.001004_2",
+      "AssetId": 7920,
       "DisplayName": "001004",
       "SortOrder": 17611,
       "Category": "界面",
@@ -564,7 +564,7 @@
       }
     },
     {
-      "AssetId": "Asset.001005_2",
+      "AssetId": 7928,
       "DisplayName": "001005",
       "SortOrder": 17612,
       "Category": "界面",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "AssetId": "Asset.001006_3",
+      "AssetId": 7937,
       "DisplayName": "001006",
       "SortOrder": 17613,
       "Category": "界面",
@@ -604,7 +604,7 @@
       }
     },
     {
-      "AssetId": "Asset.001007_3",
+      "AssetId": 7946,
       "DisplayName": "001007",
       "SortOrder": 17614,
       "Category": "界面",
@@ -624,7 +624,7 @@
       }
     },
     {
-      "AssetId": "Asset.001008_3",
+      "AssetId": 7955,
       "DisplayName": "001008",
       "SortOrder": 17615,
       "Category": "界面",
@@ -644,7 +644,7 @@
       }
     },
     {
-      "AssetId": "Asset.001009_3",
+      "AssetId": 7963,
       "DisplayName": "001009",
       "SortOrder": 17616,
       "Category": "界面",
@@ -664,7 +664,7 @@
       }
     },
     {
-      "AssetId": "Asset.001010_3",
+      "AssetId": 7971,
       "DisplayName": "001010",
       "SortOrder": 17617,
       "Category": "界面",
@@ -684,7 +684,7 @@
       }
     },
     {
-      "AssetId": "Asset.001011_3",
+      "AssetId": 7980,
       "DisplayName": "001011",
       "SortOrder": 17618,
       "Category": "界面",
@@ -704,7 +704,7 @@
       }
     },
     {
-      "AssetId": "Asset.001012_2",
+      "AssetId": 7988,
       "DisplayName": "001012",
       "SortOrder": 17619,
       "Category": "界面",
@@ -724,7 +724,7 @@
       }
     },
     {
-      "AssetId": "Asset.001013_2",
+      "AssetId": 7996,
       "DisplayName": "001013",
       "SortOrder": 17620,
       "Category": "界面",
@@ -744,7 +744,7 @@
       }
     },
     {
-      "AssetId": "Asset.001014_3",
+      "AssetId": 8005,
       "DisplayName": "001014",
       "SortOrder": 17621,
       "Category": "界面",
@@ -764,7 +764,7 @@
       }
     },
     {
-      "AssetId": "Asset.001015_3",
+      "AssetId": 8014,
       "DisplayName": "001015",
       "SortOrder": 17622,
       "Category": "界面",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "AssetId": "Asset.001016_3",
+      "AssetId": 8023,
       "DisplayName": "001016",
       "SortOrder": 17623,
       "Category": "界面",
@@ -804,7 +804,7 @@
       }
     },
     {
-      "AssetId": "Asset.001017_3",
+      "AssetId": 8032,
       "DisplayName": "001017",
       "SortOrder": 17624,
       "Category": "界面",
@@ -824,7 +824,7 @@
       }
     },
     {
-      "AssetId": "Asset.001018_3",
+      "AssetId": 8041,
       "DisplayName": "001018",
       "SortOrder": 17625,
       "Category": "界面",
@@ -844,7 +844,7 @@
       }
     },
     {
-      "AssetId": "Asset.001019_3",
+      "AssetId": 8050,
       "DisplayName": "001019",
       "SortOrder": 17626,
       "Category": "界面",
@@ -864,7 +864,7 @@
       }
     },
     {
-      "AssetId": "Asset.001020_3",
+      "AssetId": 8058,
       "DisplayName": "001020",
       "SortOrder": 17627,
       "Category": "界面",
@@ -884,7 +884,7 @@
       }
     },
     {
-      "AssetId": "Asset.001021_3",
+      "AssetId": 8067,
       "DisplayName": "001021",
       "SortOrder": 17628,
       "Category": "界面",
@@ -904,7 +904,7 @@
       }
     },
     {
-      "AssetId": "Asset.001022_2",
+      "AssetId": 8075,
       "DisplayName": "001022",
       "SortOrder": 17629,
       "Category": "界面",
@@ -924,7 +924,7 @@
       }
     },
     {
-      "AssetId": "Asset.000022_3",
+      "AssetId": 273,
       "DisplayName": "000022",
       "SortOrder": 17630,
       "Category": "界面",
@@ -944,7 +944,7 @@
       }
     },
     {
-      "AssetId": "Asset.000025_3",
+      "AssetId": 307,
       "DisplayName": "000025",
       "SortOrder": 17631,
       "Category": "界面",
@@ -964,7 +964,7 @@
       }
     },
     {
-      "AssetId": "Asset.000820_3",
+      "AssetId": 6637,
       "DisplayName": "000820",
       "SortOrder": 17632,
       "Category": "界面",
@@ -984,7 +984,7 @@
       }
     },
     {
-      "AssetId": "Asset.000821_3",
+      "AssetId": 6645,
       "DisplayName": "000821",
       "SortOrder": 17633,
       "Category": "界面",
@@ -1004,7 +1004,7 @@
       }
     },
     {
-      "AssetId": "Asset.000822_3",
+      "AssetId": 6653,
       "DisplayName": "000822",
       "SortOrder": 17634,
       "Category": "界面",
@@ -1024,7 +1024,7 @@
       }
     },
     {
-      "AssetId": "Asset.000823_3",
+      "AssetId": 6661,
       "DisplayName": "000823",
       "SortOrder": 17635,
       "Category": "界面",
@@ -1044,7 +1044,7 @@
       }
     },
     {
-      "AssetId": "Asset.000824_3",
+      "AssetId": 6669,
       "DisplayName": "000824",
       "SortOrder": 17636,
       "Category": "界面",
@@ -1064,7 +1064,7 @@
       }
     },
     {
-      "AssetId": "Asset.000825_3",
+      "AssetId": 6677,
       "DisplayName": "000825",
       "SortOrder": 17637,
       "Category": "界面",
@@ -1084,7 +1084,7 @@
       }
     },
     {
-      "AssetId": "Asset.000826_3",
+      "AssetId": 6685,
       "DisplayName": "000826",
       "SortOrder": 17638,
       "Category": "界面",
@@ -1104,7 +1104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000827_3",
+      "AssetId": 6693,
       "DisplayName": "000827",
       "SortOrder": 17639,
       "Category": "界面",
@@ -1124,7 +1124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000828_3",
+      "AssetId": 6701,
       "DisplayName": "000828",
       "SortOrder": 17640,
       "Category": "界面",
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000829",
+      "AssetId": 6707,
       "DisplayName": "000829",
       "SortOrder": 17641,
       "Category": "界面",
@@ -1164,7 +1164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000830_3",
+      "AssetId": 6715,
       "DisplayName": "000830",
       "SortOrder": 17642,
       "Category": "界面",
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000831_3",
+      "AssetId": 6723,
       "DisplayName": "000831",
       "SortOrder": 17643,
       "Category": "界面",
@@ -1204,7 +1204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000832_3",
+      "AssetId": 6731,
       "DisplayName": "000832",
       "SortOrder": 17644,
       "Category": "界面",
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000833_3",
+      "AssetId": 6739,
       "DisplayName": "000833",
       "SortOrder": 17645,
       "Category": "界面",
@@ -1244,7 +1244,7 @@
       }
     },
     {
-      "AssetId": "Asset.000834_3",
+      "AssetId": 6747,
       "DisplayName": "000834",
       "SortOrder": 17646,
       "Category": "界面",
@@ -1264,7 +1264,7 @@
       }
     },
     {
-      "AssetId": "Asset.000835_3",
+      "AssetId": 6755,
       "DisplayName": "000835",
       "SortOrder": 17647,
       "Category": "界面",
@@ -1284,7 +1284,7 @@
       }
     },
     {
-      "AssetId": "Asset.000836_3",
+      "AssetId": 6763,
       "DisplayName": "000836",
       "SortOrder": 17648,
       "Category": "界面",
@@ -1304,7 +1304,7 @@
       }
     },
     {
-      "AssetId": "Asset.000837",
+      "AssetId": 6769,
       "DisplayName": "000837",
       "SortOrder": 17649,
       "Category": "界面",
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "AssetId": "Asset.000838",
+      "AssetId": 6775,
       "DisplayName": "000838",
       "SortOrder": 17650,
       "Category": "界面",
@@ -1344,7 +1344,7 @@
       }
     },
     {
-      "AssetId": "Asset.000839",
+      "AssetId": 6781,
       "DisplayName": "000839",
       "SortOrder": 17651,
       "Category": "界面",
@@ -1364,7 +1364,7 @@
       }
     },
     {
-      "AssetId": "Asset.000840_3",
+      "AssetId": 6789,
       "DisplayName": "000840",
       "SortOrder": 17652,
       "Category": "界面",
@@ -1384,7 +1384,7 @@
       }
     },
     {
-      "AssetId": "Asset.000841_3",
+      "AssetId": 6797,
       "DisplayName": "000841",
       "SortOrder": 17653,
       "Category": "界面",
@@ -1404,7 +1404,7 @@
       }
     },
     {
-      "AssetId": "Asset.000842_3",
+      "AssetId": 6805,
       "DisplayName": "000842",
       "SortOrder": 17654,
       "Category": "界面",
@@ -1424,7 +1424,7 @@
       }
     },
     {
-      "AssetId": "Asset.000843_3",
+      "AssetId": 6813,
       "DisplayName": "000843",
       "SortOrder": 17655,
       "Category": "界面",
@@ -1444,7 +1444,7 @@
       }
     },
     {
-      "AssetId": "Asset.000844_3",
+      "AssetId": 6821,
       "DisplayName": "000844",
       "SortOrder": 17656,
       "Category": "界面",
@@ -1464,7 +1464,7 @@
       }
     },
     {
-      "AssetId": "Asset.000845_3",
+      "AssetId": 6829,
       "DisplayName": "000845",
       "SortOrder": 17657,
       "Category": "界面",
@@ -1484,7 +1484,7 @@
       }
     },
     {
-      "AssetId": "Asset.000846_3",
+      "AssetId": 6837,
       "DisplayName": "000846",
       "SortOrder": 17658,
       "Category": "界面",
@@ -1504,7 +1504,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_43",
+      "AssetId": 27577,
       "DisplayName": "死亡提示_您已经阵亡_透明初稿_修正版",
       "SortOrder": 17682,
       "Category": "界面",
@@ -1524,7 +1524,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_44",
+      "AssetId": 27578,
       "DisplayName": "复活按钮_普通_透明",
       "SortOrder": 17683,
       "Category": "界面",
@@ -1544,7 +1544,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_2",
+      "AssetId": 27551,
       "DisplayName": "背包窗口_透明整窗_去绿底",
       "SortOrder": 17757,
       "Category": "界面",

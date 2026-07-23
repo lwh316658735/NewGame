@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "音频",
   "Subcategory": "默认",
   "Assets": [
     {
-      "AssetId": "Asset.log_in_long2",
+      "AssetId": 34235,
       "DisplayName": "log-in-long2",
       "SortOrder": 17659,
       "Category": "音频",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.main_theme",
+      "AssetId": 34236,
       "DisplayName": "main_theme",
       "SortOrder": 17660,
       "Category": "音频",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.Asset_22",
+      "AssetId": 27554,
       "DisplayName": "攻击",
       "SortOrder": 17661,
       "Category": "音频",

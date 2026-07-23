@@ -36,9 +36,9 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "Asset.Asset_17",
+      "AssetId": 27548,
       "AssetIds": [
-        "Asset.Asset_17"
+        27548
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -66,7 +66,7 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -80,7 +80,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -94,7 +94,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -144,7 +144,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": 0,
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -172,7 +172,7 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -186,7 +186,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -200,7 +200,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -250,7 +250,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": 0,
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -278,7 +278,7 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -292,7 +292,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -306,7 +306,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -356,7 +356,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": 0,
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -384,7 +384,7 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -398,7 +398,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -412,7 +412,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -462,7 +462,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": 0,
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -490,7 +490,7 @@
       "DefaultInputText": "",
       "ActionId": "ok",
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -504,7 +504,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -518,7 +518,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,

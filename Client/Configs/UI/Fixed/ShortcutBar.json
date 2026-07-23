@@ -2,6 +2,6 @@
   "Version": 4,
   "ScreenId": "ShortcutBar",
   "DisplayName": "快捷栏",
-  "BackgroundMusicAssetId": "",
+  "BackgroundMusicAssetId": 0,
   "Controls": []
 }

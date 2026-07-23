@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "物品",
   "Subcategory": "物品堆叠框动画",
   "Assets": [
     {
-      "AssetId": "Asset.image_1",
+      "AssetId": 29381,
       "DisplayName": "image 1",
       "SortOrder": 17684,
       "Category": "物品",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_3",
+      "AssetId": 29403,
       "DisplayName": "image 3",
       "SortOrder": 17685,
       "Category": "物品",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_5",
+      "AssetId": 29425,
       "DisplayName": "image 5",
       "SortOrder": 17686,
       "Category": "物品",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_7",
+      "AssetId": 29437,
       "DisplayName": "image 7",
       "SortOrder": 17687,
       "Category": "物品",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_9",
+      "AssetId": 29439,
       "DisplayName": "image 9",
       "SortOrder": 17688,
       "Category": "物品",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_11",
+      "AssetId": 29382,
       "DisplayName": "image 11",
       "SortOrder": 17689,
       "Category": "物品",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_13",
+      "AssetId": 29384,
       "DisplayName": "image 13",
       "SortOrder": 17690,
       "Category": "物品",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_15",
+      "AssetId": 29386,
       "DisplayName": "image 15",
       "SortOrder": 17691,
       "Category": "物品",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_17",
+      "AssetId": 29388,
       "DisplayName": "image 17",
       "SortOrder": 17692,
       "Category": "物品",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_19",
+      "AssetId": 29390,
       "DisplayName": "image 19",
       "SortOrder": 17693,
       "Category": "物品",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_21",
+      "AssetId": 29393,
       "DisplayName": "image 21",
       "SortOrder": 17694,
       "Category": "物品",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_23",
+      "AssetId": 29395,
       "DisplayName": "image 23",
       "SortOrder": 17695,
       "Category": "物品",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_25",
+      "AssetId": 29397,
       "DisplayName": "image 25",
       "SortOrder": 17696,
       "Category": "物品",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_27",
+      "AssetId": 29399,
       "DisplayName": "image 27",
       "SortOrder": 17697,
       "Category": "物品",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_29",
+      "AssetId": 29401,
       "DisplayName": "image 29",
       "SortOrder": 17698,
       "Category": "物品",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_31",
+      "AssetId": 29404,
       "DisplayName": "image 31",
       "SortOrder": 17699,
       "Category": "物品",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_33",
+      "AssetId": 29406,
       "DisplayName": "image 33",
       "SortOrder": 17700,
       "Category": "物品",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_35",
+      "AssetId": 29408,
       "DisplayName": "image 35",
       "SortOrder": 17701,
       "Category": "物品",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_37",
+      "AssetId": 29410,
       "DisplayName": "image 37",
       "SortOrder": 17702,
       "Category": "物品",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_39",
+      "AssetId": 29412,
       "DisplayName": "image 39",
       "SortOrder": 17703,
       "Category": "物品",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_41",
+      "AssetId": 29415,
       "DisplayName": "image 41",
       "SortOrder": 17704,
       "Category": "物品",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_43",
+      "AssetId": 29417,
       "DisplayName": "image 43",
       "SortOrder": 17705,
       "Category": "物品",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_45",
+      "AssetId": 29419,
       "DisplayName": "image 45",
       "SortOrder": 17706,
       "Category": "物品",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_47",
+      "AssetId": 29421,
       "DisplayName": "image 47",
       "SortOrder": 17707,
       "Category": "物品",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_49",
+      "AssetId": 29423,
       "DisplayName": "image 49",
       "SortOrder": 17708,
       "Category": "物品",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_51",
+      "AssetId": 29426,
       "DisplayName": "image 51",
       "SortOrder": 17709,
       "Category": "物品",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_53",
+      "AssetId": 29428,
       "DisplayName": "image 53",
       "SortOrder": 17710,
       "Category": "物品",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_55",
+      "AssetId": 29430,
       "DisplayName": "image 55",
       "SortOrder": 17711,
       "Category": "物品",
@@ -564,7 +564,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_57",
+      "AssetId": 29432,
       "DisplayName": "image 57",
       "SortOrder": 17712,
       "Category": "物品",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "AssetId": "Asset.image_59",
+      "AssetId": 29434,
       "DisplayName": "image 59",
       "SortOrder": 17713,
       "Category": "物品",

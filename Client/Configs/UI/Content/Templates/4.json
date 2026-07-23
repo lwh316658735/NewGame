@@ -38,9 +38,9 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "Asset.2_2",
+      "AssetId": 27531,
       "AssetIds": [
-        "Asset.2_2"
+        27531
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Center",
@@ -76,12 +76,12 @@
       "GroundItemStackTooltipIconVisible": false,
       "GroundItemStackTooltipIconSize": 50,
       "GroundItemStackTooltipIconFillMode": "Center",
-      "GroundItemStackTooltipPreviewIconAssetId": "Asset.000156",
-      "GroundItemStackTooltipIconEffectAssetId": "Asset.image_3",
+      "GroundItemStackTooltipPreviewIconAssetId": 1485,
+      "GroundItemStackTooltipIconEffectAssetId": 29403,
       "GroundItemStackTooltipIconEffectAssetIds": [
-        "Asset.image_3",
-        "Asset.image_5",
-        "Asset.image_7"
+        29403,
+        29425,
+        29437
       ],
       "GroundItemStackTooltipIconEffectFramesPerSecond": 5,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
@@ -93,47 +93,47 @@
         {
           "DisplayName": "金币x130",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "金创药",
           "Quantity": 3,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "回城卷轴",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         },
         {
           "DisplayName": "预览物品",
           "Quantity": 1,
-          "GroundIconAssetId": ""
+          "GroundIconAssetId": 0
         }
       ],
       "InputBorderColor": "",
@@ -152,10 +152,10 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ActionKind": "SystemEvent",
-      "ClickSoundAssetId": "",
+      "ClickSoundAssetId": 0,
       "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -172,7 +172,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -189,7 +189,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,

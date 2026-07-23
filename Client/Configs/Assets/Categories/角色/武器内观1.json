@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "角色",
   "Subcategory": "武器内观1",
   "Assets": [
     {
-      "AssetId": "Asset.000000_9",
+      "AssetId": 14,
       "DisplayName": "000000",
       "SortOrder": 25294,
       "Category": "角色",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000001_9",
+      "AssetId": 27,
       "DisplayName": "000001",
       "SortOrder": 25295,
       "Category": "角色",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.000002_9",
+      "AssetId": 40,
       "DisplayName": "000002",
       "SortOrder": 25296,
       "Category": "角色",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.000003_9",
+      "AssetId": 53,
       "DisplayName": "000003",
       "SortOrder": 25297,
       "Category": "角色",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.000004_8",
+      "AssetId": 64,
       "DisplayName": "000004",
       "SortOrder": 25298,
       "Category": "角色",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000005_8",
+      "AssetId": 76,
       "DisplayName": "000005",
       "SortOrder": 25299,
       "Category": "角色",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000006_8",
+      "AssetId": 88,
       "DisplayName": "000006",
       "SortOrder": 25300,
       "Category": "角色",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000007_8",
+      "AssetId": 100,
       "DisplayName": "000007",
       "SortOrder": 25301,
       "Category": "角色",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000008_8",
+      "AssetId": 112,
       "DisplayName": "000008",
       "SortOrder": 25302,
       "Category": "角色",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000009_8",
+      "AssetId": 124,
       "DisplayName": "000009",
       "SortOrder": 25303,
       "Category": "角色",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000010_9",
+      "AssetId": 138,
       "DisplayName": "000010",
       "SortOrder": 25304,
       "Category": "角色",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000011_9",
+      "AssetId": 151,
       "DisplayName": "000011",
       "SortOrder": 25305,
       "Category": "角色",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.000012_8",
+      "AssetId": 162,
       "DisplayName": "000012",
       "SortOrder": 25306,
       "Category": "角色",
@@ -264,7 +264,7 @@
       }
     },
     {
-      "AssetId": "Asset.000013_8",
+      "AssetId": 174,
       "DisplayName": "000013",
       "SortOrder": 25307,
       "Category": "角色",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "AssetId": "Asset.000014_8",
+      "AssetId": 186,
       "DisplayName": "000014",
       "SortOrder": 25308,
       "Category": "角色",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "AssetId": "Asset.000015_8",
+      "AssetId": 198,
       "DisplayName": "000015",
       "SortOrder": 25309,
       "Category": "角色",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "AssetId": "Asset.000016_8",
+      "AssetId": 210,
       "DisplayName": "000016",
       "SortOrder": 25310,
       "Category": "角色",
@@ -344,7 +344,7 @@
       }
     },
     {
-      "AssetId": "Asset.000017_8",
+      "AssetId": 222,
       "DisplayName": "000017",
       "SortOrder": 25311,
       "Category": "角色",
@@ -364,7 +364,7 @@
       }
     },
     {
-      "AssetId": "Asset.000018_7",
+      "AssetId": 232,
       "DisplayName": "000018",
       "SortOrder": 25312,
       "Category": "角色",
@@ -384,7 +384,7 @@
       }
     },
     {
-      "AssetId": "Asset.000019_7",
+      "AssetId": 243,
       "DisplayName": "000019",
       "SortOrder": 25313,
       "Category": "角色",
@@ -404,7 +404,7 @@
       }
     },
     {
-      "AssetId": "Asset.000020_7",
+      "AssetId": 254,
       "DisplayName": "000020",
       "SortOrder": 25314,
       "Category": "角色",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "AssetId": "Asset.000021_7",
+      "AssetId": 265,
       "DisplayName": "000021",
       "SortOrder": 25315,
       "Category": "角色",
@@ -444,7 +444,7 @@
       }
     },
     {
-      "AssetId": "Asset.000022_8",
+      "AssetId": 278,
       "DisplayName": "000022",
       "SortOrder": 25316,
       "Category": "角色",
@@ -464,7 +464,7 @@
       }
     },
     {
-      "AssetId": "Asset.000023_7",
+      "AssetId": 288,
       "DisplayName": "000023",
       "SortOrder": 25317,
       "Category": "角色",
@@ -484,7 +484,7 @@
       }
     },
     {
-      "AssetId": "Asset.000024_7",
+      "AssetId": 299,
       "DisplayName": "000024",
       "SortOrder": 25318,
       "Category": "角色",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "AssetId": "Asset.000025_8",
+      "AssetId": 312,
       "DisplayName": "000025",
       "SortOrder": 25319,
       "Category": "角色",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "AssetId": "Asset.000026_7",
+      "AssetId": 322,
       "DisplayName": "000026",
       "SortOrder": 25320,
       "Category": "角色",
@@ -544,7 +544,7 @@
       }
     },
     {
-      "AssetId": "Asset.000027_7",
+      "AssetId": 333,
       "DisplayName": "000027",
       "SortOrder": 25321,
       "Category": "角色",
@@ -564,7 +564,7 @@
       }
     },
     {
-      "AssetId": "Asset.000028_7",
+      "AssetId": 344,
       "DisplayName": "000028",
       "SortOrder": 25322,
       "Category": "角色",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "AssetId": "Asset.000029_7",
+      "AssetId": 355,
       "DisplayName": "000029",
       "SortOrder": 25323,
       "Category": "角色",
@@ -604,7 +604,7 @@
       }
     },
     {
-      "AssetId": "Asset.000030_7",
+      "AssetId": 366,
       "DisplayName": "000030",
       "SortOrder": 25324,
       "Category": "角色",
@@ -624,7 +624,7 @@
       }
     },
     {
-      "AssetId": "Asset.000031_7",
+      "AssetId": 377,
       "DisplayName": "000031",
       "SortOrder": 25325,
       "Category": "角色",
@@ -644,7 +644,7 @@
       }
     },
     {
-      "AssetId": "Asset.000032_7",
+      "AssetId": 388,
       "DisplayName": "000032",
       "SortOrder": 25326,
       "Category": "角色",
@@ -664,7 +664,7 @@
       }
     },
     {
-      "AssetId": "Asset.000033_7",
+      "AssetId": 399,
       "DisplayName": "000033",
       "SortOrder": 25327,
       "Category": "角色",
@@ -684,7 +684,7 @@
       }
     },
     {
-      "AssetId": "Asset.000034_7",
+      "AssetId": 410,
       "DisplayName": "000034",
       "SortOrder": 25328,
       "Category": "角色",
@@ -704,7 +704,7 @@
       }
     },
     {
-      "AssetId": "Asset.000035_7",
+      "AssetId": 421,
       "DisplayName": "000035",
       "SortOrder": 25329,
       "Category": "角色",
@@ -724,7 +724,7 @@
       }
     },
     {
-      "AssetId": "Asset.000036_7",
+      "AssetId": 432,
       "DisplayName": "000036",
       "SortOrder": 25330,
       "Category": "角色",
@@ -744,7 +744,7 @@
       }
     },
     {
-      "AssetId": "Asset.000037_7",
+      "AssetId": 443,
       "DisplayName": "000037",
       "SortOrder": 25331,
       "Category": "角色",
@@ -764,7 +764,7 @@
       }
     },
     {
-      "AssetId": "Asset.000038_7",
+      "AssetId": 454,
       "DisplayName": "000038",
       "SortOrder": 25332,
       "Category": "角色",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "AssetId": "Asset.000039_6",
+      "AssetId": 463,
       "DisplayName": "000039",
       "SortOrder": 25333,
       "Category": "角色",
@@ -804,7 +804,7 @@
       }
     },
     {
-      "AssetId": "Asset.000040_7",
+      "AssetId": 475,
       "DisplayName": "000040",
       "SortOrder": 25334,
       "Category": "角色",
@@ -824,7 +824,7 @@
       }
     },
     {
-      "AssetId": "Asset.000041_7",
+      "AssetId": 486,
       "DisplayName": "000041",
       "SortOrder": 25335,
       "Category": "角色",
@@ -844,7 +844,7 @@
       }
     },
     {
-      "AssetId": "Asset.000042_7",
+      "AssetId": 497,
       "DisplayName": "000042",
       "SortOrder": 25336,
       "Category": "角色",
@@ -864,7 +864,7 @@
       }
     },
     {
-      "AssetId": "Asset.000043_7",
+      "AssetId": 507,
       "DisplayName": "000043",
       "SortOrder": 25337,
       "Category": "角色",
@@ -884,7 +884,7 @@
       }
     },
     {
-      "AssetId": "Asset.000044_7",
+      "AssetId": 517,
       "DisplayName": "000044",
       "SortOrder": 25338,
       "Category": "角色",
@@ -904,7 +904,7 @@
       }
     },
     {
-      "AssetId": "Asset.000045_7",
+      "AssetId": 527,
       "DisplayName": "000045",
       "SortOrder": 25339,
       "Category": "角色",
@@ -924,7 +924,7 @@
       }
     },
     {
-      "AssetId": "Asset.000046_7",
+      "AssetId": 537,
       "DisplayName": "000046",
       "SortOrder": 25340,
       "Category": "角色",
@@ -944,7 +944,7 @@
       }
     },
     {
-      "AssetId": "Asset.000047_8",
+      "AssetId": 549,
       "DisplayName": "000047",
       "SortOrder": 25341,
       "Category": "角色",
@@ -964,7 +964,7 @@
       }
     },
     {
-      "AssetId": "Asset.000048_7",
+      "AssetId": 558,
       "DisplayName": "000048",
       "SortOrder": 25342,
       "Category": "角色",
@@ -984,7 +984,7 @@
       }
     },
     {
-      "AssetId": "Asset.000049_7",
+      "AssetId": 568,
       "DisplayName": "000049",
       "SortOrder": 25343,
       "Category": "角色",
@@ -1004,7 +1004,7 @@
       }
     },
     {
-      "AssetId": "Asset.000050_7",
+      "AssetId": 578,
       "DisplayName": "000050",
       "SortOrder": 25344,
       "Category": "角色",
@@ -1024,7 +1024,7 @@
       }
     },
     {
-      "AssetId": "Asset.000051_7",
+      "AssetId": 588,
       "DisplayName": "000051",
       "SortOrder": 25345,
       "Category": "角色",
@@ -1044,7 +1044,7 @@
       }
     },
     {
-      "AssetId": "Asset.000054_7",
+      "AssetId": 616,
       "DisplayName": "000054",
       "SortOrder": 25346,
       "Category": "角色",
@@ -1064,7 +1064,7 @@
       }
     },
     {
-      "AssetId": "Asset.000055_7",
+      "AssetId": 626,
       "DisplayName": "000055",
       "SortOrder": 25347,
       "Category": "角色",
@@ -1084,7 +1084,7 @@
       }
     },
     {
-      "AssetId": "Asset.000056_7",
+      "AssetId": 636,
       "DisplayName": "000056",
       "SortOrder": 25348,
       "Category": "角色",
@@ -1104,7 +1104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000057_7",
+      "AssetId": 646,
       "DisplayName": "000057",
       "SortOrder": 25349,
       "Category": "角色",
@@ -1124,7 +1124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000058_7",
+      "AssetId": 656,
       "DisplayName": "000058",
       "SortOrder": 25350,
       "Category": "角色",
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000059_7",
+      "AssetId": 666,
       "DisplayName": "000059",
       "SortOrder": 25351,
       "Category": "角色",
@@ -1164,7 +1164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000060_7",
+      "AssetId": 676,
       "DisplayName": "000060",
       "SortOrder": 25352,
       "Category": "角色",
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000061_7",
+      "AssetId": 686,
       "DisplayName": "000061",
       "SortOrder": 25353,
       "Category": "角色",
@@ -1204,7 +1204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000062_6",
+      "AssetId": 694,
       "DisplayName": "000062",
       "SortOrder": 25354,
       "Category": "角色",
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "AssetId": "Asset.000063_6",
+      "AssetId": 703,
       "DisplayName": "000063",
       "SortOrder": 25355,
       "Category": "角色",
@@ -1244,7 +1244,7 @@
       }
     },
     {
-      "AssetId": "Asset.000064_6",
+      "AssetId": 712,
       "DisplayName": "000064",
       "SortOrder": 25356,
       "Category": "角色",
@@ -1264,7 +1264,7 @@
       }
     },
     {
-      "AssetId": "Asset.000065_6",
+      "AssetId": 721,
       "DisplayName": "000065",
       "SortOrder": 25357,
       "Category": "角色",
@@ -1284,7 +1284,7 @@
       }
     },
     {
-      "AssetId": "Asset.000066_6",
+      "AssetId": 730,
       "DisplayName": "000066",
       "SortOrder": 25358,
       "Category": "角色",
@@ -1304,7 +1304,7 @@
       }
     },
     {
-      "AssetId": "Asset.000067_6",
+      "AssetId": 739,
       "DisplayName": "000067",
       "SortOrder": 25359,
       "Category": "角色",
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "AssetId": "Asset.000068_6",
+      "AssetId": 748,
       "DisplayName": "000068",
       "SortOrder": 25360,
       "Category": "角色",
@@ -1344,7 +1344,7 @@
       }
     },
     {
-      "AssetId": "Asset.000069_6",
+      "AssetId": 757,
       "DisplayName": "000069",
       "SortOrder": 25361,
       "Category": "角色",
@@ -1364,7 +1364,7 @@
       }
     },
     {
-      "AssetId": "Asset.000070_7",
+      "AssetId": 768,
       "DisplayName": "000070",
       "SortOrder": 25362,
       "Category": "角色",
@@ -1384,7 +1384,7 @@
       }
     },
     {
-      "AssetId": "Asset.000071_7",
+      "AssetId": 778,
       "DisplayName": "000071",
       "SortOrder": 25363,
       "Category": "角色",
@@ -1404,7 +1404,7 @@
       }
     },
     {
-      "AssetId": "Asset.000072_7",
+      "AssetId": 788,
       "DisplayName": "000072",
       "SortOrder": 25364,
       "Category": "角色",
@@ -1424,7 +1424,7 @@
       }
     },
     {
-      "AssetId": "Asset.000073_7",
+      "AssetId": 798,
       "DisplayName": "000073",
       "SortOrder": 25365,
       "Category": "角色",
@@ -1444,7 +1444,7 @@
       }
     },
     {
-      "AssetId": "Asset.000074_7",
+      "AssetId": 808,
       "DisplayName": "000074",
       "SortOrder": 25366,
       "Category": "角色",
@@ -1464,7 +1464,7 @@
       }
     },
     {
-      "AssetId": "Asset.000075_5",
+      "AssetId": 815,
       "DisplayName": "000075",
       "SortOrder": 25367,
       "Category": "角色",
@@ -1484,7 +1484,7 @@
       }
     },
     {
-      "AssetId": "Asset.000076_5",
+      "AssetId": 823,
       "DisplayName": "000076",
       "SortOrder": 25368,
       "Category": "角色",
@@ -1504,7 +1504,7 @@
       }
     },
     {
-      "AssetId": "Asset.000077_5",
+      "AssetId": 831,
       "DisplayName": "000077",
       "SortOrder": 25369,
       "Category": "角色",
@@ -1524,7 +1524,7 @@
       }
     },
     {
-      "AssetId": "Asset.000078_5",
+      "AssetId": 839,
       "DisplayName": "000078",
       "SortOrder": 25370,
       "Category": "角色",
@@ -1544,7 +1544,7 @@
       }
     },
     {
-      "AssetId": "Asset.000079_5",
+      "AssetId": 847,
       "DisplayName": "000079",
       "SortOrder": 25371,
       "Category": "角色",
@@ -1564,7 +1564,7 @@
       }
     },
     {
-      "AssetId": "Asset.000080_7",
+      "AssetId": 858,
       "DisplayName": "000080",
       "SortOrder": 25372,
       "Category": "角色",
@@ -1584,7 +1584,7 @@
       }
     },
     {
-      "AssetId": "Asset.000081_7",
+      "AssetId": 868,
       "DisplayName": "000081",
       "SortOrder": 25373,
       "Category": "角色",
@@ -1604,7 +1604,7 @@
       }
     },
     {
-      "AssetId": "Asset.000082_6",
+      "AssetId": 876,
       "DisplayName": "000082",
       "SortOrder": 25374,
       "Category": "角色",
@@ -1624,7 +1624,7 @@
       }
     },
     {
-      "AssetId": "Asset.000083_6",
+      "AssetId": 885,
       "DisplayName": "000083",
       "SortOrder": 25375,
       "Category": "角色",
@@ -1644,7 +1644,7 @@
       }
     },
     {
-      "AssetId": "Asset.000084_6",
+      "AssetId": 894,
       "DisplayName": "000084",
       "SortOrder": 25376,
       "Category": "角色",
@@ -1664,7 +1664,7 @@
       }
     },
     {
-      "AssetId": "Asset.000085_6",
+      "AssetId": 903,
       "DisplayName": "000085",
       "SortOrder": 25377,
       "Category": "角色",
@@ -1684,7 +1684,7 @@
       }
     },
     {
-      "AssetId": "Asset.000086_6",
+      "AssetId": 912,
       "DisplayName": "000086",
       "SortOrder": 25378,
       "Category": "角色",
@@ -1704,7 +1704,7 @@
       }
     },
     {
-      "AssetId": "Asset.000087_6",
+      "AssetId": 921,
       "DisplayName": "000087",
       "SortOrder": 25379,
       "Category": "角色",

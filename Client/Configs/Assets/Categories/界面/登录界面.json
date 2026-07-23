@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "界面",
   "Subcategory": "登录界面",
   "Assets": [
     {
-      "AssetId": "Asset.0_2",
+      "AssetId": 27517,
       "DisplayName": "图层 0",
       "SortOrder": 10387,
       "Category": "界面",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.01",
+      "AssetId": 27514,
       "DisplayName": "图层 01",
       "SortOrder": 10388,
       "Category": "界面",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.02",
+      "AssetId": 27516,
       "DisplayName": "图层 02",
       "SortOrder": 10389,
       "Category": "界面",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160",
+      "AssetId": 27533,
       "DisplayName": "登录背景_封印祭坛_纯背景_3840x2160_无斑点纯净版",
       "SortOrder": 10390,
       "Category": "界面",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160_2",
+      "AssetId": 27534,
       "DisplayName": "登录窗口_登录_高清设计_3840x2160",
       "SortOrder": 10391,
       "Category": "界面",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160_3",
+      "AssetId": 27535,
       "DisplayName": "登录窗口_修改密码_高清设计_3840x2160",
       "SortOrder": 10392,
       "Category": "界面",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160_4",
+      "AssetId": 27536,
       "DisplayName": "登录窗口_注册账号_重设计版_高清设计_3840x2160",
       "SortOrder": 10393,
       "Category": "界面",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.3840x2160_5",
+      "AssetId": 27537,
       "DisplayName": "登录窗口_选择区服_整区空白版_高清设计_3840x2160",
       "SortOrder": 10395,
       "Category": "界面",

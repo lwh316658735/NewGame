@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "角色",
   "Subcategory": "物品内观",
   "Assets": [
     {
-      "AssetId": "Asset.000100_7",
+      "AssetId": 1021,
       "DisplayName": "000100",
       "SortOrder": 25380,
       "Category": "角色",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.000101_7",
+      "AssetId": 1031,
       "DisplayName": "000101",
       "SortOrder": 25381,
       "Category": "角色",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.000102_6",
+      "AssetId": 1039,
       "DisplayName": "000102",
       "SortOrder": 25382,
       "Category": "角色",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.000103_7",
+      "AssetId": 1050,
       "DisplayName": "000103",
       "SortOrder": 25383,
       "Category": "角色",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.000104_7",
+      "AssetId": 1060,
       "DisplayName": "000104",
       "SortOrder": 25384,
       "Category": "角色",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.000105_7",
+      "AssetId": 1070,
       "DisplayName": "000105",
       "SortOrder": 25385,
       "Category": "角色",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.000106_7",
+      "AssetId": 1080,
       "DisplayName": "000106",
       "SortOrder": 25386,
       "Category": "角色",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.000107_7",
+      "AssetId": 1090,
       "DisplayName": "000107",
       "SortOrder": 25387,
       "Category": "角色",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.000109_7",
+      "AssetId": 1109,
       "DisplayName": "000109",
       "SortOrder": 25388,
       "Category": "角色",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.000110_6",
+      "AssetId": 1117,
       "DisplayName": "000110",
       "SortOrder": 25389,
       "Category": "角色",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.000111_7",
+      "AssetId": 1128,
       "DisplayName": "000111",
       "SortOrder": 25390,
       "Category": "角色",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.002080_5",
+      "AssetId": 13994,
       "DisplayName": "002080",
       "SortOrder": 25391,
       "Category": "角色",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "AssetId": "Asset.002081_5",
+      "AssetId": 14001,
       "DisplayName": "002081",
       "SortOrder": 25392,
       "Category": "角色",

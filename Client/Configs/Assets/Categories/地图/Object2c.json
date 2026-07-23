@@ -1,10 +1,10 @@
 {
-  "Version": 6,
+  "Version": 7,
   "Category": "地图",
   "Subcategory": "Object2c",
   "Assets": [
     {
-      "AssetId": "Asset.img_7837",
+      "AssetId": 34035,
       "DisplayName": "img_7837",
       "SortOrder": 3314,
       "Category": "地图",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7838",
+      "AssetId": 34037,
       "DisplayName": "img_7838",
       "SortOrder": 3315,
       "Category": "地图",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7843",
+      "AssetId": 34047,
       "DisplayName": "img_7843",
       "SortOrder": 3316,
       "Category": "地图",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7844",
+      "AssetId": 34051,
       "DisplayName": "img_7844",
       "SortOrder": 3317,
       "Category": "地图",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7845",
+      "AssetId": 34055,
       "DisplayName": "img_7845",
       "SortOrder": 3318,
       "Category": "地图",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7846",
+      "AssetId": 34059,
       "DisplayName": "img_7846",
       "SortOrder": 3319,
       "Category": "地图",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7847",
+      "AssetId": 34063,
       "DisplayName": "img_7847",
       "SortOrder": 3320,
       "Category": "地图",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7850",
+      "AssetId": 34067,
       "DisplayName": "img_7850",
       "SortOrder": 3321,
       "Category": "地图",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7851",
+      "AssetId": 34071,
       "DisplayName": "img_7851",
       "SortOrder": 3322,
       "Category": "地图",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7852",
+      "AssetId": 34075,
       "DisplayName": "img_7852",
       "SortOrder": 3323,
       "Category": "地图",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7853",
+      "AssetId": 34079,
       "DisplayName": "img_7853",
       "SortOrder": 3324,
       "Category": "地图",
@@ -224,7 +224,7 @@
       }
     },
     {
-      "AssetId": "Asset.img_7854",
+      "AssetId": 34083,
       "DisplayName": "img_7854",
       "SortOrder": 3325,
       "Category": "地图",

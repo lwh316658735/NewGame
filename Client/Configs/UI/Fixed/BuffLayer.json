@@ -2,7 +2,7 @@
   "Version": 4,
   "ScreenId": "BuffLayer",
   "DisplayName": "Buff 图层",
-  "BackgroundMusicAssetId": "",
+  "BackgroundMusicAssetId": 0,
   "Controls": [
     {
       "ControlId": "buffGrid",
@@ -34,7 +34,7 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": "",
+      "AssetId": 0,
       "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -65,10 +65,10 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": "",
-      "ScrollbarThumbAssetId": "",
-      "ScrollbarUpButtonAssetId": "",
-      "ScrollbarDownButtonAssetId": "",
+      "ScrollbarTrackAssetId": 0,
+      "ScrollbarThumbAssetId": 0,
+      "ScrollbarUpButtonAssetId": 0,
+      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -81,7 +81,7 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -92,7 +92,7 @@
         }
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -103,7 +103,7 @@
         }
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -127,9 +127,9 @@
       "BuffGridColumnSpacing": 9,
       "BuffGridRowSpacing": 6,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": "Asset.Asset_23",
+      "BuffGridPreviewIconAssetId": 27555,
       "ContentTemplate": null,
-      "ClickSoundAssetId": "",
+      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -138,7 +138,7 @@
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -152,7 +152,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -166,7 +166,7 @@
         "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
-        "AssetId": "",
+        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,

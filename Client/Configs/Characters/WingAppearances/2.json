@@ -60,73 +60,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008400",
-                "Asset.008401",
-                "Asset.008402",
-                "Asset.008403"
+                26299,
+                26300,
+                26301,
+                26302
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008408",
-                "Asset.008409",
-                "Asset.008410",
-                "Asset.008411"
+                26307,
+                26308,
+                26309,
+                26310
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008416",
-                "Asset.008417",
-                "Asset.008418",
-                "Asset.008419"
+                26315,
+                26316,
+                26317,
+                26318
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008424",
-                "Asset.008425",
-                "Asset.008426",
-                "Asset.008427"
+                26323,
+                26324,
+                26325,
+                26326
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008432",
-                "Asset.008433",
-                "Asset.008434",
-                "Asset.008435"
+                26331,
+                26332,
+                26333,
+                26334
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008440",
-                "Asset.008441",
-                "Asset.008442",
-                "Asset.008443"
+                26339,
+                26340,
+                26341,
+                26342
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008448",
-                "Asset.008449",
-                "Asset.008450",
-                "Asset.008451"
+                26347,
+                26348,
+                26349,
+                26350
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008456",
-                "Asset.008457",
-                "Asset.008458",
-                "Asset.008459"
+                26355,
+                26356,
+                26357,
+                26358
               ]
             }
           ]
@@ -138,89 +138,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008464",
-                "Asset.008465",
-                "Asset.008466",
-                "Asset.008467",
-                "Asset.008468",
-                "Asset.008469"
+                26363,
+                26364,
+                26365,
+                26366,
+                26367,
+                26368
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008472",
-                "Asset.008473",
-                "Asset.008474",
-                "Asset.008475",
-                "Asset.008476",
-                "Asset.008477"
+                26371,
+                26372,
+                26373,
+                26374,
+                26375,
+                26376
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008480",
-                "Asset.008481",
-                "Asset.008482",
-                "Asset.008483",
-                "Asset.008484",
-                "Asset.008485"
+                26379,
+                26380,
+                26381,
+                26382,
+                26383,
+                26384
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008488",
-                "Asset.008489",
-                "Asset.008490",
-                "Asset.008491",
-                "Asset.008492",
-                "Asset.008493"
+                26387,
+                26388,
+                26389,
+                26390,
+                26391,
+                26392
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008496",
-                "Asset.008497",
-                "Asset.008498",
-                "Asset.008499",
-                "Asset.008500",
-                "Asset.008501"
+                26395,
+                26396,
+                26397,
+                26398,
+                26400,
+                26401
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008504",
-                "Asset.008505",
-                "Asset.008506",
-                "Asset.008507",
-                "Asset.008508",
-                "Asset.008509"
+                26404,
+                26405,
+                26406,
+                26407,
+                26408,
+                26409
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008512",
-                "Asset.008513",
-                "Asset.008514",
-                "Asset.008515",
-                "Asset.008516",
-                "Asset.008517"
+                26412,
+                26413,
+                26414,
+                26415,
+                26416,
+                26417
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008520",
-                "Asset.008521",
-                "Asset.008522",
-                "Asset.008523",
-                "Asset.008524",
-                "Asset.008525"
+                26420,
+                26421,
+                26422,
+                26423,
+                26424,
+                26425
               ]
             }
           ]
@@ -232,89 +232,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008528",
-                "Asset.008529",
-                "Asset.008530",
-                "Asset.008531",
-                "Asset.008532",
-                "Asset.008533"
+                26428,
+                26429,
+                26430,
+                26431,
+                26432,
+                26433
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008536",
-                "Asset.008537",
-                "Asset.008538",
-                "Asset.008539",
-                "Asset.008540",
-                "Asset.008541"
+                26436,
+                26437,
+                26438,
+                26439,
+                26440,
+                26441
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008544",
-                "Asset.008545",
-                "Asset.008546",
-                "Asset.008547",
-                "Asset.008548",
-                "Asset.008549"
+                26444,
+                26445,
+                26446,
+                26447,
+                26448,
+                26449
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008552",
-                "Asset.008553",
-                "Asset.008554",
-                "Asset.008555",
-                "Asset.008556",
-                "Asset.008557"
+                26452,
+                26453,
+                26454,
+                26455,
+                26456,
+                26457
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008560",
-                "Asset.008561",
-                "Asset.008562",
-                "Asset.008563",
-                "Asset.008564",
-                "Asset.008565"
+                26460,
+                26461,
+                26462,
+                26463,
+                26464,
+                26465
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008568",
-                "Asset.008569",
-                "Asset.008570",
-                "Asset.008571",
-                "Asset.008572",
-                "Asset.008573"
+                26468,
+                26469,
+                26470,
+                26471,
+                26472,
+                26473
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008576",
-                "Asset.008577",
-                "Asset.008578",
-                "Asset.008579",
-                "Asset.008580",
-                "Asset.008581"
+                26476,
+                26477,
+                26478,
+                26479,
+                26480,
+                26481
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008584",
-                "Asset.008585",
-                "Asset.008586",
-                "Asset.008587",
-                "Asset.008588",
-                "Asset.008589"
+                26484,
+                26485,
+                26486,
+                26487,
+                26488,
+                26489
               ]
             }
           ]
@@ -326,49 +326,49 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008592"
+                26492
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008593"
+                26493
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008594"
+                26494
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008595"
+                26495
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008596"
+                26496
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008597"
+                26497
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008598"
+                26498
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008599"
+                26499
               ]
             }
           ]
@@ -380,89 +380,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008600",
-                "Asset.008601",
-                "Asset.008602",
-                "Asset.008603",
-                "Asset.008604",
-                "Asset.008605"
+                26501,
+                26502,
+                26503,
+                26504,
+                26505,
+                26506
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008608",
-                "Asset.008609",
-                "Asset.008610",
-                "Asset.008611",
-                "Asset.008612",
-                "Asset.008613"
+                26509,
+                26510,
+                26511,
+                26512,
+                26513,
+                26514
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008616",
-                "Asset.008617",
-                "Asset.008618",
-                "Asset.008619",
-                "Asset.008620",
-                "Asset.008621"
+                26517,
+                26518,
+                26519,
+                26520,
+                26521,
+                26522
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008624",
-                "Asset.008625",
-                "Asset.008626",
-                "Asset.008627",
-                "Asset.008628",
-                "Asset.008629"
+                26525,
+                26526,
+                26527,
+                26528,
+                26529,
+                26530
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008632",
-                "Asset.008633",
-                "Asset.008634",
-                "Asset.008635",
-                "Asset.008636",
-                "Asset.008637"
+                26533,
+                26534,
+                26535,
+                26536,
+                26537,
+                26538
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008640",
-                "Asset.008641",
-                "Asset.008642",
-                "Asset.008643",
-                "Asset.008644",
-                "Asset.008645"
+                26541,
+                26542,
+                26543,
+                26544,
+                26545,
+                26546
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008648",
-                "Asset.008649",
-                "Asset.008650",
-                "Asset.008651",
-                "Asset.008652",
-                "Asset.008653"
+                26549,
+                26550,
+                26551,
+                26552,
+                26553,
+                26554
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008656",
-                "Asset.008657",
-                "Asset.008658",
-                "Asset.008659",
-                "Asset.008660",
-                "Asset.008661"
+                26557,
+                26558,
+                26559,
+                26560,
+                26561,
+                26562
               ]
             }
           ]
@@ -474,89 +474,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008664",
-                "Asset.008665",
-                "Asset.008666",
-                "Asset.008667",
-                "Asset.008668",
-                "Asset.008669"
+                26565,
+                26566,
+                26567,
+                26568,
+                26569,
+                26570
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008672",
-                "Asset.008673",
-                "Asset.008674",
-                "Asset.008675",
-                "Asset.008676",
-                "Asset.008677"
+                26573,
+                26574,
+                26575,
+                26576,
+                26577,
+                26578
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008680",
-                "Asset.008681",
-                "Asset.008682",
-                "Asset.008683",
-                "Asset.008684",
-                "Asset.008685"
+                26581,
+                26582,
+                26583,
+                26584,
+                26585,
+                26586
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008688",
-                "Asset.008689",
-                "Asset.008690",
-                "Asset.008691",
-                "Asset.008692",
-                "Asset.008693"
+                26589,
+                26590,
+                26591,
+                26592,
+                26593,
+                26594
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008696",
-                "Asset.008697",
-                "Asset.008698",
-                "Asset.008699",
-                "Asset.008700",
-                "Asset.008701"
+                26597,
+                26598,
+                26599,
+                26600,
+                26602,
+                26603
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008704",
-                "Asset.008705",
-                "Asset.008706",
-                "Asset.008707",
-                "Asset.008708",
-                "Asset.008709"
+                26606,
+                26607,
+                26608,
+                26609,
+                26610,
+                26611
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008712",
-                "Asset.008713",
-                "Asset.008714",
-                "Asset.008715",
-                "Asset.008716",
-                "Asset.008717"
+                26614,
+                26615,
+                26616,
+                26617,
+                26618,
+                26619
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008720",
-                "Asset.008721",
-                "Asset.008722",
-                "Asset.008723",
-                "Asset.008724",
-                "Asset.008725"
+                26622,
+                26623,
+                26624,
+                26625,
+                26626,
+                26627
               ]
             }
           ]
@@ -568,105 +568,105 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008728",
-                "Asset.008729",
-                "Asset.008730",
-                "Asset.008731",
-                "Asset.008732",
-                "Asset.008733",
-                "Asset.008734",
-                "Asset.008735"
+                26630,
+                26631,
+                26632,
+                26633,
+                26634,
+                26635,
+                26636,
+                26637
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008736",
-                "Asset.008737",
-                "Asset.008738",
-                "Asset.008739",
-                "Asset.008740",
-                "Asset.008741",
-                "Asset.008742",
-                "Asset.008743"
+                26638,
+                26639,
+                26640,
+                26641,
+                26642,
+                26643,
+                26644,
+                26645
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008744",
-                "Asset.008745",
-                "Asset.008746",
-                "Asset.008747",
-                "Asset.008748",
-                "Asset.008749",
-                "Asset.008750",
-                "Asset.008751"
+                26646,
+                26647,
+                26648,
+                26649,
+                26650,
+                26651,
+                26652,
+                26653
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008752",
-                "Asset.008753",
-                "Asset.008754",
-                "Asset.008755",
-                "Asset.008756",
-                "Asset.008757",
-                "Asset.008758",
-                "Asset.008759"
+                26654,
+                26655,
+                26656,
+                26657,
+                26658,
+                26659,
+                26660,
+                26661
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008760",
-                "Asset.008761",
-                "Asset.008762",
-                "Asset.008763",
-                "Asset.008764",
-                "Asset.008765",
-                "Asset.008766",
-                "Asset.008767"
+                26662,
+                26663,
+                26664,
+                26665,
+                26666,
+                26667,
+                26668,
+                26669
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008768",
-                "Asset.008769",
-                "Asset.008770",
-                "Asset.008771",
-                "Asset.008772",
-                "Asset.008773",
-                "Asset.008774",
-                "Asset.008775"
+                26670,
+                26671,
+                26672,
+                26673,
+                26674,
+                26675,
+                26676,
+                26677
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008776",
-                "Asset.008777",
-                "Asset.008778",
-                "Asset.008779",
-                "Asset.008780",
-                "Asset.008781",
-                "Asset.008782",
-                "Asset.008783"
+                26678,
+                26679,
+                26680,
+                26681,
+                26682,
+                26683,
+                26684,
+                26685
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008784",
-                "Asset.008785",
-                "Asset.008786",
-                "Asset.008787",
-                "Asset.008788",
-                "Asset.008789",
-                "Asset.008790",
-                "Asset.008791"
+                26686,
+                26687,
+                26688,
+                26689,
+                26690,
+                26691,
+                26692,
+                26693
               ]
             }
           ]
@@ -678,89 +678,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008792",
-                "Asset.008793",
-                "Asset.008794",
-                "Asset.008795",
-                "Asset.008796",
-                "Asset.008797"
+                26694,
+                26695,
+                26696,
+                26697,
+                26698,
+                26699
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008800",
-                "Asset.008801",
-                "Asset.008802",
-                "Asset.008803",
-                "Asset.008804",
-                "Asset.008805"
+                26703,
+                26704,
+                26705,
+                26706,
+                26707,
+                26708
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008808",
-                "Asset.008809",
-                "Asset.008810",
-                "Asset.008811",
-                "Asset.008812",
-                "Asset.008813"
+                26711,
+                26712,
+                26713,
+                26714,
+                26715,
+                26716
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008816",
-                "Asset.008817",
-                "Asset.008818",
-                "Asset.008819",
-                "Asset.008820",
-                "Asset.008821"
+                26719,
+                26720,
+                26721,
+                26722,
+                26723,
+                26724
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008824",
-                "Asset.008825",
-                "Asset.008826",
-                "Asset.008827",
-                "Asset.008828",
-                "Asset.008829"
+                26727,
+                26728,
+                26729,
+                26730,
+                26731,
+                26732
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008832",
-                "Asset.008833",
-                "Asset.008834",
-                "Asset.008835",
-                "Asset.008836",
-                "Asset.008837"
+                26735,
+                26736,
+                26737,
+                26738,
+                26739,
+                26740
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008840",
-                "Asset.008841",
-                "Asset.008842",
-                "Asset.008843",
-                "Asset.008844",
-                "Asset.008845"
+                26743,
+                26744,
+                26745,
+                26746,
+                26747,
+                26748
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008848",
-                "Asset.008849",
-                "Asset.008850",
-                "Asset.008851",
-                "Asset.008852",
-                "Asset.008853"
+                26751,
+                26752,
+                26753,
+                26754,
+                26755,
+                26756
               ]
             }
           ]
@@ -772,57 +772,57 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008856",
-                "Asset.008857"
+                26759,
+                26760
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008858",
-                "Asset.008859"
+                26761,
+                26762
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008860",
-                "Asset.008861"
+                26763,
+                26764
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008862",
-                "Asset.008863"
+                26765,
+                26766
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008864",
-                "Asset.008865"
+                26767,
+                26768
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008866",
-                "Asset.008867"
+                26769,
+                26770
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008868",
-                "Asset.008869"
+                26771,
+                26772
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008870",
-                "Asset.008871"
+                26773,
+                26774
               ]
             }
           ]
@@ -834,65 +834,65 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008872",
-                "Asset.008873",
-                "Asset.008874"
+                26775,
+                26776,
+                26777
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008880",
-                "Asset.008881",
-                "Asset.008882"
+                26783,
+                26784,
+                26785
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008888",
-                "Asset.008889",
-                "Asset.008890"
+                26791,
+                26792,
+                26793
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008896",
-                "Asset.008897",
-                "Asset.008898"
+                26799,
+                26800,
+                26801
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008904",
-                "Asset.008905",
-                "Asset.008906"
+                26808,
+                26809,
+                26810
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008912",
-                "Asset.008913",
-                "Asset.008914"
+                26816,
+                26817,
+                26818
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008920",
-                "Asset.008921",
-                "Asset.008922"
+                26824,
+                26825,
+                26826
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008928",
-                "Asset.008929",
-                "Asset.008930"
+                26832,
+                26833,
+                26834
               ]
             }
           ]
@@ -904,73 +904,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.008936",
-                "Asset.008937",
-                "Asset.008938",
-                "Asset.008939"
+                26840,
+                26841,
+                26842,
+                26843
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.008944",
-                "Asset.008945",
-                "Asset.008946",
-                "Asset.008947"
+                26848,
+                26849,
+                26850,
+                26851
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.008952",
-                "Asset.008953",
-                "Asset.008954",
-                "Asset.008955"
+                26856,
+                26857,
+                26858,
+                26859
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.008960",
-                "Asset.008961",
-                "Asset.008962",
-                "Asset.008963"
+                26864,
+                26865,
+                26866,
+                26867
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.008968",
-                "Asset.008969",
-                "Asset.008970",
-                "Asset.008971"
+                26872,
+                26873,
+                26874,
+                26875
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.008976",
-                "Asset.008977",
-                "Asset.008978",
-                "Asset.008979"
+                26880,
+                26881,
+                26882,
+                26883
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.008984",
-                "Asset.008985",
-                "Asset.008986",
-                "Asset.008987"
+                26888,
+                26889,
+                26890,
+                26891
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.008992",
-                "Asset.008993",
-                "Asset.008994",
-                "Asset.008995"
+                26896,
+                26897,
+                26898,
+                26899
               ]
             }
           ]
@@ -1548,73 +1548,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009000",
-                "Asset.009001",
-                "Asset.009002",
-                "Asset.009003"
+                26905,
+                26906,
+                26907,
+                26908
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009008",
-                "Asset.009009",
-                "Asset.009010",
-                "Asset.009011"
+                26913,
+                26914,
+                26915,
+                26916
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009016",
-                "Asset.009017",
-                "Asset.009018",
-                "Asset.009019"
+                26921,
+                26922,
+                26923,
+                26924
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009024",
-                "Asset.009025",
-                "Asset.009026",
-                "Asset.009027"
+                26929,
+                26930,
+                26931,
+                26932
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009032",
-                "Asset.009033",
-                "Asset.009034",
-                "Asset.009035"
+                26937,
+                26938,
+                26939,
+                26940
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009040",
-                "Asset.009041",
-                "Asset.009042",
-                "Asset.009043"
+                26945,
+                26946,
+                26947,
+                26948
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009048",
-                "Asset.009049",
-                "Asset.009050",
-                "Asset.009051"
+                26953,
+                26954,
+                26955,
+                26956
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009056",
-                "Asset.009057",
-                "Asset.009058",
-                "Asset.009059"
+                26961,
+                26962,
+                26963,
+                26964
               ]
             }
           ]
@@ -1626,89 +1626,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009064",
-                "Asset.009065",
-                "Asset.009066",
-                "Asset.009067",
-                "Asset.009068",
-                "Asset.009069"
+                26969,
+                26970,
+                26971,
+                26972,
+                26973,
+                26974
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009072",
-                "Asset.009073",
-                "Asset.009074",
-                "Asset.009075",
-                "Asset.009076",
-                "Asset.009077"
+                26977,
+                26978,
+                26979,
+                26980,
+                26981,
+                26982
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009080",
-                "Asset.009081",
-                "Asset.009082",
-                "Asset.009083",
-                "Asset.009084",
-                "Asset.009085"
+                26985,
+                26986,
+                26987,
+                26988,
+                26989,
+                26990
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009088",
-                "Asset.009089",
-                "Asset.009090",
-                "Asset.009091",
-                "Asset.009092",
-                "Asset.009093"
+                26993,
+                26994,
+                26995,
+                26996,
+                26997,
+                26998
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009096",
-                "Asset.009097",
-                "Asset.009098",
-                "Asset.009099",
-                "Asset.009100",
-                "Asset.009101"
+                27001,
+                27002,
+                27003,
+                27004,
+                27006,
+                27007
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009104",
-                "Asset.009105",
-                "Asset.009106",
-                "Asset.009107",
-                "Asset.009108",
-                "Asset.009109"
+                27010,
+                27011,
+                27012,
+                27013,
+                27014,
+                27015
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009112",
-                "Asset.009113",
-                "Asset.009114",
-                "Asset.009115",
-                "Asset.009116",
-                "Asset.009117"
+                27018,
+                27019,
+                27020,
+                27021,
+                27022,
+                27023
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009120",
-                "Asset.009121",
-                "Asset.009122",
-                "Asset.009123",
-                "Asset.009124",
-                "Asset.009125"
+                27026,
+                27027,
+                27028,
+                27029,
+                27030,
+                27031
               ]
             }
           ]
@@ -1720,89 +1720,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009128",
-                "Asset.009129",
-                "Asset.009130",
-                "Asset.009131",
-                "Asset.009132",
-                "Asset.009133"
+                27034,
+                27035,
+                27036,
+                27037,
+                27038,
+                27039
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009136",
-                "Asset.009137",
-                "Asset.009138",
-                "Asset.009139",
-                "Asset.009140",
-                "Asset.009141"
+                27042,
+                27043,
+                27044,
+                27045,
+                27046,
+                27047
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009144",
-                "Asset.009145",
-                "Asset.009146",
-                "Asset.009147",
-                "Asset.009148",
-                "Asset.009149"
+                27050,
+                27051,
+                27052,
+                27053,
+                27054,
+                27055
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009152",
-                "Asset.009153",
-                "Asset.009154",
-                "Asset.009155",
-                "Asset.009156",
-                "Asset.009157"
+                27058,
+                27059,
+                27060,
+                27061,
+                27062,
+                27063
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009160",
-                "Asset.009161",
-                "Asset.009162",
-                "Asset.009163",
-                "Asset.009164",
-                "Asset.009165"
+                27066,
+                27067,
+                27068,
+                27069,
+                27070,
+                27071
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009168",
-                "Asset.009169",
-                "Asset.009170",
-                "Asset.009171",
-                "Asset.009172",
-                "Asset.009173"
+                27074,
+                27075,
+                27076,
+                27077,
+                27078,
+                27079
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009176",
-                "Asset.009177",
-                "Asset.009178",
-                "Asset.009179",
-                "Asset.009180",
-                "Asset.009181"
+                27082,
+                27083,
+                27084,
+                27085,
+                27086,
+                27087
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009184",
-                "Asset.009185",
-                "Asset.009186",
-                "Asset.009187",
-                "Asset.009188",
-                "Asset.009189"
+                27090,
+                27091,
+                27092,
+                27093,
+                27094,
+                27095
               ]
             }
           ]
@@ -1814,49 +1814,49 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009192"
+                27098
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009193"
+                27099
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009194"
+                27100
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009195"
+                27101
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009196"
+                27102
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009197"
+                27103
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009198"
+                27104
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009199"
+                27105
               ]
             }
           ]
@@ -1868,89 +1868,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009200",
-                "Asset.009201",
-                "Asset.009202",
-                "Asset.009203",
-                "Asset.009204",
-                "Asset.009205"
+                27107,
+                27108,
+                27109,
+                27110,
+                27111,
+                27112
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009208",
-                "Asset.009209",
-                "Asset.009210",
-                "Asset.009211",
-                "Asset.009212",
-                "Asset.009213"
+                27115,
+                27116,
+                27117,
+                27118,
+                27119,
+                27120
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009216",
-                "Asset.009217",
-                "Asset.009218",
-                "Asset.009219",
-                "Asset.009220",
-                "Asset.009221"
+                27123,
+                27124,
+                27125,
+                27126,
+                27127,
+                27128
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009224",
-                "Asset.009225",
-                "Asset.009226",
-                "Asset.009227",
-                "Asset.009228",
-                "Asset.009229"
+                27131,
+                27132,
+                27133,
+                27134,
+                27135,
+                27136
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009232",
-                "Asset.009233",
-                "Asset.009234",
-                "Asset.009235",
-                "Asset.009236",
-                "Asset.009237"
+                27139,
+                27140,
+                27141,
+                27142,
+                27143,
+                27144
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009240",
-                "Asset.009241",
-                "Asset.009242",
-                "Asset.009243",
-                "Asset.009244",
-                "Asset.009245"
+                27147,
+                27148,
+                27149,
+                27150,
+                27151,
+                27152
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009248",
-                "Asset.009249",
-                "Asset.009250",
-                "Asset.009251",
-                "Asset.009252",
-                "Asset.009253"
+                27155,
+                27156,
+                27157,
+                27158,
+                27159,
+                27160
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009256",
-                "Asset.009257",
-                "Asset.009258",
-                "Asset.009259",
-                "Asset.009260",
-                "Asset.009261"
+                27163,
+                27164,
+                27165,
+                27166,
+                27167,
+                27168
               ]
             }
           ]
@@ -1962,89 +1962,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009264",
-                "Asset.009265",
-                "Asset.009266",
-                "Asset.009267",
-                "Asset.009268",
-                "Asset.009269"
+                27171,
+                27172,
+                27173,
+                27174,
+                27175,
+                27176
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009272",
-                "Asset.009273",
-                "Asset.009274",
-                "Asset.009275",
-                "Asset.009276",
-                "Asset.009277"
+                27179,
+                27180,
+                27181,
+                27182,
+                27183,
+                27184
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009280",
-                "Asset.009281",
-                "Asset.009282",
-                "Asset.009283",
-                "Asset.009284",
-                "Asset.009285"
+                27187,
+                27188,
+                27189,
+                27190,
+                27191,
+                27192
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009288",
-                "Asset.009289",
-                "Asset.009290",
-                "Asset.009291",
-                "Asset.009292",
-                "Asset.009293"
+                27195,
+                27196,
+                27197,
+                27198,
+                27199,
+                27200
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009296",
-                "Asset.009297",
-                "Asset.009298",
-                "Asset.009299",
-                "Asset.009300",
-                "Asset.009301"
+                27203,
+                27204,
+                27205,
+                27206,
+                27208,
+                27209
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009304",
-                "Asset.009305",
-                "Asset.009306",
-                "Asset.009307",
-                "Asset.009308",
-                "Asset.009309"
+                27212,
+                27213,
+                27214,
+                27215,
+                27216,
+                27217
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009312",
-                "Asset.009313",
-                "Asset.009314",
-                "Asset.009315",
-                "Asset.009316",
-                "Asset.009317"
+                27220,
+                27221,
+                27222,
+                27223,
+                27224,
+                27225
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009320",
-                "Asset.009321",
-                "Asset.009322",
-                "Asset.009323",
-                "Asset.009324",
-                "Asset.009325"
+                27228,
+                27229,
+                27230,
+                27231,
+                27232,
+                27233
               ]
             }
           ]
@@ -2056,105 +2056,105 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009328",
-                "Asset.009329",
-                "Asset.009330",
-                "Asset.009331",
-                "Asset.009332",
-                "Asset.009333",
-                "Asset.009334",
-                "Asset.009335"
+                27236,
+                27237,
+                27238,
+                27239,
+                27240,
+                27241,
+                27242,
+                27243
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009336",
-                "Asset.009337",
-                "Asset.009338",
-                "Asset.009339",
-                "Asset.009340",
-                "Asset.009341",
-                "Asset.009342",
-                "Asset.009343"
+                27244,
+                27245,
+                27246,
+                27247,
+                27248,
+                27249,
+                27250,
+                27251
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009344",
-                "Asset.009345",
-                "Asset.009346",
-                "Asset.009347",
-                "Asset.009348",
-                "Asset.009349",
-                "Asset.009350",
-                "Asset.009351"
+                27252,
+                27253,
+                27254,
+                27255,
+                27256,
+                27257,
+                27258,
+                27259
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009352",
-                "Asset.009353",
-                "Asset.009354",
-                "Asset.009355",
-                "Asset.009356",
-                "Asset.009357",
-                "Asset.009358",
-                "Asset.009359"
+                27260,
+                27261,
+                27262,
+                27263,
+                27264,
+                27265,
+                27266,
+                27267
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009360",
-                "Asset.009361",
-                "Asset.009362",
-                "Asset.009363",
-                "Asset.009364",
-                "Asset.009365",
-                "Asset.009366",
-                "Asset.009367"
+                27268,
+                27269,
+                27270,
+                27271,
+                27272,
+                27273,
+                27274,
+                27275
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009368",
-                "Asset.009369",
-                "Asset.009370",
-                "Asset.009371",
-                "Asset.009372",
-                "Asset.009373",
-                "Asset.009374",
-                "Asset.009375"
+                27276,
+                27277,
+                27278,
+                27279,
+                27280,
+                27281,
+                27282,
+                27283
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009376",
-                "Asset.009377",
-                "Asset.009378",
-                "Asset.009379",
-                "Asset.009380",
-                "Asset.009381",
-                "Asset.009382",
-                "Asset.009383"
+                27284,
+                27285,
+                27286,
+                27287,
+                27288,
+                27289,
+                27290,
+                27291
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009384",
-                "Asset.009385",
-                "Asset.009386",
-                "Asset.009387",
-                "Asset.009388",
-                "Asset.009389",
-                "Asset.009390",
-                "Asset.009391"
+                27292,
+                27293,
+                27294,
+                27295,
+                27296,
+                27297,
+                27298,
+                27299
               ]
             }
           ]
@@ -2166,89 +2166,89 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009392",
-                "Asset.009393",
-                "Asset.009394",
-                "Asset.009395",
-                "Asset.009396",
-                "Asset.009397"
+                27300,
+                27301,
+                27302,
+                27303,
+                27304,
+                27305
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009400",
-                "Asset.009401",
-                "Asset.009402",
-                "Asset.009403",
-                "Asset.009404",
-                "Asset.009405"
+                27309,
+                27310,
+                27311,
+                27312,
+                27313,
+                27314
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009408",
-                "Asset.009409",
-                "Asset.009410",
-                "Asset.009411",
-                "Asset.009412",
-                "Asset.009413"
+                27317,
+                27318,
+                27319,
+                27320,
+                27321,
+                27322
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009416",
-                "Asset.009417",
-                "Asset.009418",
-                "Asset.009419",
-                "Asset.009420",
-                "Asset.009421"
+                27325,
+                27326,
+                27327,
+                27328,
+                27329,
+                27330
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009424",
-                "Asset.009425",
-                "Asset.009426",
-                "Asset.009427",
-                "Asset.009428",
-                "Asset.009429"
+                27333,
+                27334,
+                27335,
+                27336,
+                27337,
+                27338
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009432",
-                "Asset.009433",
-                "Asset.009434",
-                "Asset.009435",
-                "Asset.009436",
-                "Asset.009437"
+                27341,
+                27342,
+                27343,
+                27344,
+                27345,
+                27346
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009440",
-                "Asset.009441",
-                "Asset.009442",
-                "Asset.009443",
-                "Asset.009444",
-                "Asset.009445"
+                27349,
+                27350,
+                27351,
+                27352,
+                27353,
+                27354
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009448",
-                "Asset.009449",
-                "Asset.009450",
-                "Asset.009451",
-                "Asset.009452",
-                "Asset.009453"
+                27357,
+                27358,
+                27359,
+                27360,
+                27361,
+                27362
               ]
             }
           ]
@@ -2260,57 +2260,57 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009456",
-                "Asset.009457"
+                27365,
+                27366
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009458",
-                "Asset.009459"
+                27367,
+                27368
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009460",
-                "Asset.009461"
+                27369,
+                27370
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009462",
-                "Asset.009463"
+                27371,
+                27372
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009464",
-                "Asset.009465"
+                27373,
+                27374
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009466",
-                "Asset.009467"
+                27375,
+                27376
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009468",
-                "Asset.009469"
+                27377,
+                27378
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009470",
-                "Asset.009471"
+                27379,
+                27380
               ]
             }
           ]
@@ -2322,65 +2322,65 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009472",
-                "Asset.009473",
-                "Asset.009474"
+                27381,
+                27382,
+                27383
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009480",
-                "Asset.009481",
-                "Asset.009482"
+                27389,
+                27390,
+                27391
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009488",
-                "Asset.009489",
-                "Asset.009490"
+                27397,
+                27398,
+                27399
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009496",
-                "Asset.009497",
-                "Asset.009498"
+                27405,
+                27406,
+                27407
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009504",
-                "Asset.009505",
-                "Asset.009506"
+                27414,
+                27415,
+                27416
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009512",
-                "Asset.009513",
-                "Asset.009514"
+                27422,
+                27423,
+                27424
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009520",
-                "Asset.009521",
-                "Asset.009522"
+                27430,
+                27431,
+                27432
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009528",
-                "Asset.009529",
-                "Asset.009530"
+                27438,
+                27439,
+                27440
               ]
             }
           ]
@@ -2392,73 +2392,73 @@
             {
               "Direction": "Up",
               "FrameAssetIds": [
-                "Asset.009536",
-                "Asset.009537",
-                "Asset.009538",
-                "Asset.009539"
+                27446,
+                27447,
+                27448,
+                27449
               ]
             },
             {
               "Direction": "UpRight",
               "FrameAssetIds": [
-                "Asset.009544",
-                "Asset.009545",
-                "Asset.009546",
-                "Asset.009547"
+                27454,
+                27455,
+                27456,
+                27457
               ]
             },
             {
               "Direction": "Right",
               "FrameAssetIds": [
-                "Asset.009552",
-                "Asset.009553",
-                "Asset.009554",
-                "Asset.009555"
+                27462,
+                27463,
+                27464,
+                27465
               ]
             },
             {
               "Direction": "DownRight",
               "FrameAssetIds": [
-                "Asset.009560",
-                "Asset.009561",
-                "Asset.009562",
-                "Asset.009563"
+                27470,
+                27471,
+                27472,
+                27473
               ]
             },
             {
               "Direction": "Down",
               "FrameAssetIds": [
-                "Asset.009568",
-                "Asset.009569",
-                "Asset.009570",
-                "Asset.009571"
+                27478,
+                27479,
+                27480,
+                27481
               ]
             },
             {
               "Direction": "DownLeft",
               "FrameAssetIds": [
-                "Asset.009576",
-                "Asset.009577",
-                "Asset.009578",
-                "Asset.009579"
+                27486,
+                27487,
+                27488,
+                27489
               ]
             },
             {
               "Direction": "Left",
               "FrameAssetIds": [
-                "Asset.009584",
-                "Asset.009585",
-                "Asset.009586",
-                "Asset.009587"
+                27494,
+                27495,
+                27496,
+                27497
               ]
             },
             {
               "Direction": "UpLeft",
               "FrameAssetIds": [
-                "Asset.009592",
-                "Asset.009593",
-                "Asset.009594",
-                "Asset.009595"
+                27502,
+                27503,
+                27504,
+                27505
               ]
             }
           ]
