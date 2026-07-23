@@ -8,6 +8,10 @@
     "MaxMeleeMonsterAttackersPerPlayer": 8,
     "MaxTotalMonsterAttackersPerPlayer": 20
   },
+  "SummonRules": {
+    "DefaultMonsterSummonLimit": 3,
+    "DefaultCharacterSummonLimit": 1
+  },
   "LevelExperienceRules": {
     "ManualEntries": [
       {
