@@ -1,0 +1,4903 @@
+{
+  "Version": 7,
+  "Category": "地图",
+  "Subcategory": "Objects",
+  "Assets": [
+    {
+      "AssetId": 40093,
+      "DisplayName": "传奇素材 2/4430 Normal",
+      "SortOrder": 1,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4430.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3364,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2771221+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40094,
+      "DisplayName": "传奇素材 2/4431 Normal",
+      "SortOrder": 2,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4431.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3704,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2771221+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40095,
+      "DisplayName": "传奇素材 2/4432 Normal",
+      "SortOrder": 3,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4432.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3476,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2781266+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40096,
+      "DisplayName": "传奇素材 2/4433 Normal",
+      "SortOrder": 4,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4433.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3635,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2781266+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40097,
+      "DisplayName": "传奇素材 2/4434 Normal",
+      "SortOrder": 5,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4434.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3351,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2791258+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40098,
+      "DisplayName": "传奇素材 2/4435 Normal",
+      "SortOrder": 6,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4435.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3498,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2791258+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40099,
+      "DisplayName": "传奇素材 2/4436 Normal",
+      "SortOrder": 7,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4436.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3407,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2801255+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40100,
+      "DisplayName": "传奇素材 2/4437 Normal",
+      "SortOrder": 8,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4437.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3269,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2801255+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40101,
+      "DisplayName": "传奇素材 2/4438 Normal",
+      "SortOrder": 9,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4438.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3447,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2811254+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40102,
+      "DisplayName": "传奇素材 2/4439 Normal",
+      "SortOrder": 10,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4439.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 10498,
+      "Width": 48,
+      "Height": 155,
+      "LastModifiedAt": "2026-07-24T06:21:09.2821249+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -123
+      }
+    },
+    {
+      "AssetId": 40103,
+      "DisplayName": "传奇素材 2/4440 Normal",
+      "SortOrder": 11,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4440.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12052,
+      "Width": 48,
+      "Height": 144,
+      "LastModifiedAt": "2026-07-24T06:21:09.2821249+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -112
+      }
+    },
+    {
+      "AssetId": 40104,
+      "DisplayName": "传奇素材 2/4441 Normal",
+      "SortOrder": 12,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4441.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 9494,
+      "Width": 48,
+      "Height": 160,
+      "LastModifiedAt": "2026-07-24T06:21:09.2857837+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -128
+      }
+    },
+    {
+      "AssetId": 40105,
+      "DisplayName": "传奇素材 2/4443 Normal",
+      "SortOrder": 13,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4443.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3311,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2867886+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40106,
+      "DisplayName": "传奇素材 2/4444 Normal",
+      "SortOrder": 14,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4444.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3647,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2867886+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40107,
+      "DisplayName": "传奇素材 2/4445 Normal",
+      "SortOrder": 15,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4445.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3514,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2867886+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40108,
+      "DisplayName": "传奇素材 2/4446 Normal",
+      "SortOrder": 16,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4446.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3058,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2877895+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40109,
+      "DisplayName": "传奇素材 2/4447 Normal",
+      "SortOrder": 17,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4447.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3409,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2877895+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40110,
+      "DisplayName": "传奇素材 2/4448 Normal",
+      "SortOrder": 18,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4448.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3597,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2887912+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40111,
+      "DisplayName": "传奇素材 2/4449 Normal",
+      "SortOrder": 19,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4449.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3607,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2887912+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40112,
+      "DisplayName": "传奇素材 2/4450 Normal",
+      "SortOrder": 20,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4450.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3436,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2897887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40113,
+      "DisplayName": "传奇素材 2/4451 Normal",
+      "SortOrder": 21,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4451.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2530,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2897887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40114,
+      "DisplayName": "传奇素材 2/4452 Normal",
+      "SortOrder": 22,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4452.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 7242,
+      "Width": 48,
+      "Height": 128,
+      "LastModifiedAt": "2026-07-24T06:21:09.290789+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -96
+      }
+    },
+    {
+      "AssetId": 40115,
+      "DisplayName": "传奇素材 2/4453 Normal",
+      "SortOrder": 23,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4453.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12951,
+      "Width": 48,
+      "Height": 168,
+      "LastModifiedAt": "2026-07-24T06:21:09.2917887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -136
+      }
+    },
+    {
+      "AssetId": 40116,
+      "DisplayName": "传奇素材 2/4454 Normal",
+      "SortOrder": 24,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4454.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 7553,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.2917887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40117,
+      "DisplayName": "传奇素材 2/4456 Normal",
+      "SortOrder": 25,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4456.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3354,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2932919+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40118,
+      "DisplayName": "传奇素材 2/4457 Normal",
+      "SortOrder": 26,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4457.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3544,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2932919+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40119,
+      "DisplayName": "传奇素材 2/4458 Normal",
+      "SortOrder": 27,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4458.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3297,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2932919+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40120,
+      "DisplayName": "传奇素材 2/4459 Normal",
+      "SortOrder": 28,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4459.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3400,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2942954+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40121,
+      "DisplayName": "传奇素材 2/4460 Normal",
+      "SortOrder": 29,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4460.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3403,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2942954+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40122,
+      "DisplayName": "传奇素材 2/4461 Normal",
+      "SortOrder": 30,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4461.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3730,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2942954+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40123,
+      "DisplayName": "传奇素材 2/4462 Normal",
+      "SortOrder": 31,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4462.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3608,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.295435+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40124,
+      "DisplayName": "传奇素材 2/4463 Normal",
+      "SortOrder": 32,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4463.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3115,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.295435+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40125,
+      "DisplayName": "传奇素材 2/4464 Normal",
+      "SortOrder": 33,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4464.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3785,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.2964342+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40126,
+      "DisplayName": "传奇素材 2/4465 Normal",
+      "SortOrder": 34,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4465.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 10172,
+      "Width": 48,
+      "Height": 210,
+      "LastModifiedAt": "2026-07-24T06:21:09.2974375+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -178
+      }
+    },
+    {
+      "AssetId": 40127,
+      "DisplayName": "传奇素材 2/4466 Normal",
+      "SortOrder": 35,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4466.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12092,
+      "Width": 48,
+      "Height": 172,
+      "LastModifiedAt": "2026-07-24T06:21:09.2984379+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -140
+      }
+    },
+    {
+      "AssetId": 40128,
+      "DisplayName": "传奇素材 2/4467 Normal",
+      "SortOrder": 36,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4467.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12346,
+      "Width": 48,
+      "Height": 172,
+      "LastModifiedAt": "2026-07-24T06:21:09.2994361+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -140
+      }
+    },
+    {
+      "AssetId": 40129,
+      "DisplayName": "传奇素材 2/4469 Normal",
+      "SortOrder": 37,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4469.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3219,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3014474+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40130,
+      "DisplayName": "传奇素材 2/4470 Normal",
+      "SortOrder": 38,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4470.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3251,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3024376+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40131,
+      "DisplayName": "传奇素材 2/4471 Normal",
+      "SortOrder": 39,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4471.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3246,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3024376+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40132,
+      "DisplayName": "传奇素材 2/4472 Normal",
+      "SortOrder": 40,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4472.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3284,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3024376+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40133,
+      "DisplayName": "传奇素材 2/4473 Normal",
+      "SortOrder": 41,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4473.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3496,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3034355+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40134,
+      "DisplayName": "传奇素材 2/4474 Normal",
+      "SortOrder": 42,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4474.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3495,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3034355+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40135,
+      "DisplayName": "传奇素材 2/4475 Normal",
+      "SortOrder": 43,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4475.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3560,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.304453+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40136,
+      "DisplayName": "传奇素材 2/4476 Normal",
+      "SortOrder": 44,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4476.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3089,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.304453+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40137,
+      "DisplayName": "传奇素材 2/4477 Normal",
+      "SortOrder": 45,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4477.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3450,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3054585+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40138,
+      "DisplayName": "传奇素材 2/4478 Normal",
+      "SortOrder": 46,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4478.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 9317,
+      "Width": 48,
+      "Height": 160,
+      "LastModifiedAt": "2026-07-24T06:21:09.306015+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -128
+      }
+    },
+    {
+      "AssetId": 40139,
+      "DisplayName": "传奇素材 2/4479 Normal",
+      "SortOrder": 47,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4479.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15521,
+      "Width": 48,
+      "Height": 193,
+      "LastModifiedAt": "2026-07-24T06:21:09.3070202+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -161
+      }
+    },
+    {
+      "AssetId": 40140,
+      "DisplayName": "传奇素材 2/4480 Normal",
+      "SortOrder": 48,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4480.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 10178,
+      "Width": 48,
+      "Height": 161,
+      "LastModifiedAt": "2026-07-24T06:21:09.3087062+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -129
+      }
+    },
+    {
+      "AssetId": 40141,
+      "DisplayName": "传奇素材 2/4482 Normal",
+      "SortOrder": 49,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4482.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3396,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3092103+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40142,
+      "DisplayName": "传奇素材 2/4483 Normal",
+      "SortOrder": 50,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4483.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3464,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3098227+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40143,
+      "DisplayName": "传奇素材 2/4484 Normal",
+      "SortOrder": 51,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4484.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3871,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.310349+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40144,
+      "DisplayName": "传奇素材 2/4485 Normal",
+      "SortOrder": 52,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4485.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3383,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3108729+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40145,
+      "DisplayName": "传奇素材 2/4486 Normal",
+      "SortOrder": 53,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4486.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3417,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3108729+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40146,
+      "DisplayName": "传奇素材 2/4487 Normal",
+      "SortOrder": 54,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4487.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3534,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3119752+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40147,
+      "DisplayName": "传奇素材 2/4488 Normal",
+      "SortOrder": 55,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4488.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3356,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3124958+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40148,
+      "DisplayName": "传奇素材 2/4489 Normal",
+      "SortOrder": 56,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4489.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3155,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3130196+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40149,
+      "DisplayName": "传奇素材 2/4490 Normal",
+      "SortOrder": 57,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4490.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3473,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3135256+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40150,
+      "DisplayName": "传奇素材 2/4491 Normal",
+      "SortOrder": 58,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4491.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12192,
+      "Width": 48,
+      "Height": 172,
+      "LastModifiedAt": "2026-07-24T06:21:09.3145613+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -140
+      }
+    },
+    {
+      "AssetId": 40151,
+      "DisplayName": "传奇素材 2/4492 Normal",
+      "SortOrder": 59,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4492.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 21577,
+      "Width": 48,
+      "Height": 235,
+      "LastModifiedAt": "2026-07-24T06:21:09.3161291+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -203
+      }
+    },
+    {
+      "AssetId": 40152,
+      "DisplayName": "传奇素材 2/4493 Normal",
+      "SortOrder": 60,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4493.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14682,
+      "Width": 48,
+      "Height": 206,
+      "LastModifiedAt": "2026-07-24T06:21:09.3171876+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -174
+      }
+    },
+    {
+      "AssetId": 40153,
+      "DisplayName": "传奇素材 2/4495 Normal",
+      "SortOrder": 61,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4495.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3527,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3182397+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40154,
+      "DisplayName": "传奇素材 2/4496 Normal",
+      "SortOrder": 62,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4496.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3408,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3182397+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40155,
+      "DisplayName": "传奇素材 2/4497 Normal",
+      "SortOrder": 63,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4497.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3416,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3187596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40156,
+      "DisplayName": "传奇素材 2/4498 Normal",
+      "SortOrder": 64,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4498.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3293,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3192798+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40157,
+      "DisplayName": "传奇素材 2/4499 Normal",
+      "SortOrder": 65,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4499.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3297,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3198002+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40158,
+      "DisplayName": "传奇素材 2/4500 Normal",
+      "SortOrder": 66,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4500.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3257,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3203202+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40159,
+      "DisplayName": "传奇素材 2/4501 Normal",
+      "SortOrder": 67,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4501.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3180,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.320841+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40160,
+      "DisplayName": "传奇素材 2/4502 Normal",
+      "SortOrder": 68,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4502.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3221,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3213655+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40161,
+      "DisplayName": "传奇素材 2/4503 Normal",
+      "SortOrder": 69,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4503.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3621,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3219484+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40162,
+      "DisplayName": "传奇素材 2/4504 Normal",
+      "SortOrder": 70,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4504.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3611,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3224534+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40163,
+      "DisplayName": "传奇素材 2/4505 Normal",
+      "SortOrder": 71,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4505.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3450,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.322975+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40164,
+      "DisplayName": "传奇素材 2/4506 Normal",
+      "SortOrder": 72,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4506.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3398,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3240364+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40165,
+      "DisplayName": "传奇素材 2/4507 Normal",
+      "SortOrder": 73,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4507.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3014,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3245741+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40166,
+      "DisplayName": "传奇素材 2/4508 Normal",
+      "SortOrder": 74,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4508.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3337,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.325098+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40167,
+      "DisplayName": "传奇素材 2/4509 Normal",
+      "SortOrder": 75,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4509.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2990,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3256238+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40168,
+      "DisplayName": "传奇素材 2/4510 Normal",
+      "SortOrder": 76,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4510.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 11477,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.3266363+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40169,
+      "DisplayName": "传奇素材 2/4511 Normal",
+      "SortOrder": 77,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4511.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 8919,
+      "Width": 48,
+      "Height": 121,
+      "LastModifiedAt": "2026-07-24T06:21:09.3286312+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -89
+      }
+    },
+    {
+      "AssetId": 40170,
+      "DisplayName": "传奇素材 2/4512 Normal",
+      "SortOrder": 78,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4512.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4063,
+      "Width": 48,
+      "Height": 96,
+      "LastModifiedAt": "2026-07-24T06:21:09.3296307+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -64
+      }
+    },
+    {
+      "AssetId": 40171,
+      "DisplayName": "传奇素材 2/4514 Normal",
+      "SortOrder": 79,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4514.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 405,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.3306293+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40172,
+      "DisplayName": "传奇素材 2/4515 Normal",
+      "SortOrder": 80,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4515.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 916,
+      "Width": 48,
+      "Height": 275,
+      "LastModifiedAt": "2026-07-24T06:21:09.3316284+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -243
+      }
+    },
+    {
+      "AssetId": 40173,
+      "DisplayName": "传奇素材 2/4516 Normal",
+      "SortOrder": 81,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4516.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 439,
+      "Width": 48,
+      "Height": 208,
+      "LastModifiedAt": "2026-07-24T06:21:09.3316284+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -176
+      }
+    },
+    {
+      "AssetId": 40174,
+      "DisplayName": "传奇素材 2/4518 Normal",
+      "SortOrder": 82,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4518.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1125,
+      "Width": 48,
+      "Height": 288,
+      "LastModifiedAt": "2026-07-24T06:21:09.3326281+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -256
+      }
+    },
+    {
+      "AssetId": 40175,
+      "DisplayName": "传奇素材 2/4519 Normal",
+      "SortOrder": 83,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4519.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 708,
+      "Width": 48,
+      "Height": 217,
+      "LastModifiedAt": "2026-07-24T06:21:09.3336278+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -185
+      }
+    },
+    {
+      "AssetId": 40176,
+      "DisplayName": "传奇素材 2/4520 Normal",
+      "SortOrder": 84,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4520.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 394,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.3341325+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40177,
+      "DisplayName": "传奇素材 2/4522 Normal",
+      "SortOrder": 85,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4522.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 391,
+      "Width": 48,
+      "Height": 201,
+      "LastModifiedAt": "2026-07-24T06:21:09.3341325+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -169
+      }
+    },
+    {
+      "AssetId": 40178,
+      "DisplayName": "传奇素材 2/4523 Normal",
+      "SortOrder": 86,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4523.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 478,
+      "Width": 48,
+      "Height": 202,
+      "LastModifiedAt": "2026-07-24T06:21:09.3356606+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -170
+      }
+    },
+    {
+      "AssetId": 40179,
+      "DisplayName": "传奇素材 2/4524 Normal",
+      "SortOrder": 87,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4524.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1985,
+      "Width": 48,
+      "Height": 257,
+      "LastModifiedAt": "2026-07-24T06:21:09.3361957+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -225
+      }
+    },
+    {
+      "AssetId": 40180,
+      "DisplayName": "传奇素材 2/4526 Normal",
+      "SortOrder": 88,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4526.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 416,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.3372012+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40181,
+      "DisplayName": "传奇素材 2/4527 Normal",
+      "SortOrder": 89,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4527.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 470,
+      "Width": 48,
+      "Height": 187,
+      "LastModifiedAt": "2026-07-24T06:21:09.3372012+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -155
+      }
+    },
+    {
+      "AssetId": 40182,
+      "DisplayName": "传奇素材 2/4528 Normal",
+      "SortOrder": 90,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4528.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2025,
+      "Width": 48,
+      "Height": 288,
+      "LastModifiedAt": "2026-07-24T06:21:09.3382043+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -256
+      }
+    },
+    {
+      "AssetId": 40183,
+      "DisplayName": "传奇素材 2/4530 Normal",
+      "SortOrder": 91,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4530.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1745,
+      "Width": 48,
+      "Height": 246,
+      "LastModifiedAt": "2026-07-24T06:21:09.3402003+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -214
+      }
+    },
+    {
+      "AssetId": 40184,
+      "DisplayName": "传奇素材 2/4531 Normal",
+      "SortOrder": 92,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4531.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 454,
+      "Width": 48,
+      "Height": 197,
+      "LastModifiedAt": "2026-07-24T06:21:09.3402003+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -165
+      }
+    },
+    {
+      "AssetId": 40185,
+      "DisplayName": "传奇素材 2/4532 Normal",
+      "SortOrder": 93,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4532.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 378,
+      "Width": 48,
+      "Height": 164,
+      "LastModifiedAt": "2026-07-24T06:21:09.3432063+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -132
+      }
+    },
+    {
+      "AssetId": 40186,
+      "DisplayName": "传奇素材 2/4534 Normal",
+      "SortOrder": 94,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4534.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 949,
+      "Width": 48,
+      "Height": 196,
+      "LastModifiedAt": "2026-07-24T06:21:09.3432063+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -164
+      }
+    },
+    {
+      "AssetId": 40187,
+      "DisplayName": "传奇素材 2/4535 Normal",
+      "SortOrder": 95,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4535.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 679,
+      "Width": 48,
+      "Height": 186,
+      "LastModifiedAt": "2026-07-24T06:21:09.3442095+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -154
+      }
+    },
+    {
+      "AssetId": 40188,
+      "DisplayName": "传奇素材 2/4536 Normal",
+      "SortOrder": 96,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4536.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 556,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-07-24T06:21:09.3442095+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 40189,
+      "DisplayName": "传奇素材 2/4538 Normal",
+      "SortOrder": 97,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4538.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3595,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3453221+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40190,
+      "DisplayName": "传奇素材 2/4539 Normal",
+      "SortOrder": 98,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4539.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3693,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3453221+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40191,
+      "DisplayName": "传奇素材 2/4540 Normal",
+      "SortOrder": 99,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4540.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3800,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3453221+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40192,
+      "DisplayName": "传奇素材 2/4541 Normal",
+      "SortOrder": 100,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4541.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3345,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3464683+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40193,
+      "DisplayName": "传奇素材 2/4542 Normal",
+      "SortOrder": 101,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4542.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3410,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3464683+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40194,
+      "DisplayName": "传奇素材 2/4543 Normal",
+      "SortOrder": 102,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4543.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3374,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3474689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40195,
+      "DisplayName": "传奇素材 2/4544 Normal",
+      "SortOrder": 103,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4544.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3301,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3474689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40196,
+      "DisplayName": "传奇素材 2/4545 Normal",
+      "SortOrder": 104,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4545.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3575,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3474689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40197,
+      "DisplayName": "传奇素材 2/4546 Normal",
+      "SortOrder": 105,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4546.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3682,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3484689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40198,
+      "DisplayName": "传奇素材 2/4547 Normal",
+      "SortOrder": 106,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4547.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3407,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3494718+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40199,
+      "DisplayName": "传奇素材 2/4548 Normal",
+      "SortOrder": 107,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4548.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3441,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3494718+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40200,
+      "DisplayName": "传奇素材 2/4549 Normal",
+      "SortOrder": 108,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4549.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3212,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3504689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40201,
+      "DisplayName": "传奇素材 2/4550 Normal",
+      "SortOrder": 109,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4550.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3442,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3504689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40202,
+      "DisplayName": "传奇素材 2/4551 Normal",
+      "SortOrder": 110,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4551.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 316,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3504689+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40203,
+      "DisplayName": "传奇素材 2/4552 Normal",
+      "SortOrder": 111,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4552.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 10246,
+      "Width": 48,
+      "Height": 322,
+      "LastModifiedAt": "2026-07-24T06:21:09.352469+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -290
+      }
+    },
+    {
+      "AssetId": 40204,
+      "DisplayName": "传奇素材 2/4553 Normal",
+      "SortOrder": 112,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4553.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15395,
+      "Width": 48,
+      "Height": 305,
+      "LastModifiedAt": "2026-07-24T06:21:09.3534688+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -273
+      }
+    },
+    {
+      "AssetId": 40205,
+      "DisplayName": "传奇素材 2/4554 Normal",
+      "SortOrder": 113,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4554.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 12463,
+      "Width": 48,
+      "Height": 202,
+      "LastModifiedAt": "2026-07-24T06:21:09.3548794+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -170
+      }
+    },
+    {
+      "AssetId": 40206,
+      "DisplayName": "传奇素材 2/4555 Normal",
+      "SortOrder": 114,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4555.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4915,
+      "Width": 36,
+      "Height": 163,
+      "LastModifiedAt": "2026-07-24T06:21:09.3558839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -131
+      }
+    },
+    {
+      "AssetId": 40207,
+      "DisplayName": "传奇素材 2/4557 Normal",
+      "SortOrder": 115,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4557.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3208,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3558839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40208,
+      "DisplayName": "传奇素材 2/4558 Normal",
+      "SortOrder": 116,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4558.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3514,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3568853+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40209,
+      "DisplayName": "传奇素材 2/4559 Normal",
+      "SortOrder": 117,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4559.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 247,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3568853+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40210,
+      "DisplayName": "传奇素材 2/4560 Normal",
+      "SortOrder": 118,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4560.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3293,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3578843+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40211,
+      "DisplayName": "传奇素材 2/4561 Normal",
+      "SortOrder": 119,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4561.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3546,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3578843+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40212,
+      "DisplayName": "传奇素材 2/4562 Normal",
+      "SortOrder": 120,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4562.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3154,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3578843+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40213,
+      "DisplayName": "传奇素材 2/4563 Normal",
+      "SortOrder": 121,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4563.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3360,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3588839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40214,
+      "DisplayName": "传奇素材 2/4564 Normal",
+      "SortOrder": 122,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4564.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3635,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3588839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40215,
+      "DisplayName": "传奇素材 2/4565 Normal",
+      "SortOrder": 123,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4565.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3427,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3598839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40216,
+      "DisplayName": "传奇素材 2/4566 Normal",
+      "SortOrder": 124,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4566.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3352,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3598839+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40217,
+      "DisplayName": "传奇素材 2/4567 Normal",
+      "SortOrder": 125,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4567.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3397,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3608834+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40218,
+      "DisplayName": "传奇素材 2/4568 Normal",
+      "SortOrder": 126,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4568.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3576,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3608834+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40219,
+      "DisplayName": "传奇素材 2/4569 Normal",
+      "SortOrder": 127,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4569.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3215,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3678963+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40220,
+      "DisplayName": "传奇素材 2/4570 Normal",
+      "SortOrder": 128,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4570.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3472,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3688945+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40221,
+      "DisplayName": "传奇素材 2/4571 Normal",
+      "SortOrder": 129,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4571.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3697,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3698954+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40222,
+      "DisplayName": "传奇素材 2/4572 Normal",
+      "SortOrder": 130,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4572.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 11126,
+      "Width": 48,
+      "Height": 321,
+      "LastModifiedAt": "2026-07-24T06:21:09.3708943+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -289
+      }
+    },
+    {
+      "AssetId": 40223,
+      "DisplayName": "传奇素材 2/4573 Normal",
+      "SortOrder": 131,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4573.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 19504,
+      "Width": 48,
+      "Height": 317,
+      "LastModifiedAt": "2026-07-24T06:21:09.3718952+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -285
+      }
+    },
+    {
+      "AssetId": 40224,
+      "DisplayName": "传奇素材 2/4574 Normal",
+      "SortOrder": 132,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4574.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 17672,
+      "Width": 48,
+      "Height": 216,
+      "LastModifiedAt": "2026-07-24T06:21:09.3733984+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -184
+      }
+    },
+    {
+      "AssetId": 40225,
+      "DisplayName": "传奇素材 2/4575 Normal",
+      "SortOrder": 133,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4575.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4226,
+      "Width": 48,
+      "Height": 152,
+      "LastModifiedAt": "2026-07-24T06:21:09.3749061+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -120
+      }
+    },
+    {
+      "AssetId": 40226,
+      "DisplayName": "传奇素材 2/4651 Normal",
+      "SortOrder": 134,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4651.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 906,
+      "Width": 48,
+      "Height": 30,
+      "LastModifiedAt": "2026-07-24T06:21:09.3749061+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 2
+      }
+    },
+    {
+      "AssetId": 40227,
+      "DisplayName": "传奇素材 2/4652 Normal",
+      "SortOrder": 135,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4652.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 679,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3757879+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40228,
+      "DisplayName": "传奇素材 2/4653 Normal",
+      "SortOrder": 136,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4653.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 767,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3762917+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40229,
+      "DisplayName": "传奇素材 2/4654 Normal",
+      "SortOrder": 137,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4654.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 984,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3768139+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40230,
+      "DisplayName": "传奇素材 2/4656 Normal",
+      "SortOrder": 138,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4656.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 592,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3768139+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40231,
+      "DisplayName": "传奇素材 2/4657 Normal",
+      "SortOrder": 139,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4657.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 950,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3851218+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40232,
+      "DisplayName": "传奇素材 2/4658 Normal",
+      "SortOrder": 140,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4658.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 779,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3861668+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40233,
+      "DisplayName": "传奇素材 2/4659 Normal",
+      "SortOrder": 141,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4659.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 942,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3866909+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40234,
+      "DisplayName": "传奇素材 2/4661 Normal",
+      "SortOrder": 142,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4661.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1251,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3872113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40235,
+      "DisplayName": "传奇素材 2/4662 Normal",
+      "SortOrder": 143,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4662.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1087,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3872113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40236,
+      "DisplayName": "传奇素材 2/4663 Normal",
+      "SortOrder": 144,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4663.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1149,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3882573+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40237,
+      "DisplayName": "传奇素材 2/4664 Normal",
+      "SortOrder": 145,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4664.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1139,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3887799+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40238,
+      "DisplayName": "传奇素材 2/4665 Normal",
+      "SortOrder": 146,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4665.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1467,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3893024+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40239,
+      "DisplayName": "传奇素材 2/4666 Normal",
+      "SortOrder": 147,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4666.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 388,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3893024+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40240,
+      "DisplayName": "传奇素材 2/4667 Normal",
+      "SortOrder": 148,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4667.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 769,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3898585+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40241,
+      "DisplayName": "传奇素材 2/4668 Normal",
+      "SortOrder": 149,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4668.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2305,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3903961+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40242,
+      "DisplayName": "传奇素材 2/4669 Normal",
+      "SortOrder": 150,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4669.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 676,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3909181+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40243,
+      "DisplayName": "传奇素材 2/4670 Normal",
+      "SortOrder": 151,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4670.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 206,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3909181+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40244,
+      "DisplayName": "传奇素材 2/4671 Normal",
+      "SortOrder": 152,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4671.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 944,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3914387+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40245,
+      "DisplayName": "传奇素材 2/4672 Normal",
+      "SortOrder": 153,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4672.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 718,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3919589+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40246,
+      "DisplayName": "传奇素材 2/4673 Normal",
+      "SortOrder": 154,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4673.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 252,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3919589+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40247,
+      "DisplayName": "传奇素材 2/4675 Normal",
+      "SortOrder": 155,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4675.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 708,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3924792+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40248,
+      "DisplayName": "传奇素材 2/4676 Normal",
+      "SortOrder": 156,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4676.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1369,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3947409+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40249,
+      "DisplayName": "传奇素材 2/4677 Normal",
+      "SortOrder": 157,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4677.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1334,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3957475+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40250,
+      "DisplayName": "传奇素材 2/4678 Normal",
+      "SortOrder": 158,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4678.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 799,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3964078+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40251,
+      "DisplayName": "传奇素材 2/4679 Normal",
+      "SortOrder": 159,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4679.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 312,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3964078+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40252,
+      "DisplayName": "传奇素材 2/4680 Normal",
+      "SortOrder": 160,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4680.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1409,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3964078+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40253,
+      "DisplayName": "传奇素材 2/4681 Normal",
+      "SortOrder": 161,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4681.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1476,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3974111+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40254,
+      "DisplayName": "传奇素材 2/4682 Normal",
+      "SortOrder": 162,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4682.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 772,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3974111+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40255,
+      "DisplayName": "传奇素材 2/4683 Normal",
+      "SortOrder": 163,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4683.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 855,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3984122+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40256,
+      "DisplayName": "传奇素材 2/4684 Normal",
+      "SortOrder": 164,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4684.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 735,
+      "Width": 48,
+      "Height": 31,
+      "LastModifiedAt": "2026-07-24T06:21:09.3984122+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 1
+      }
+    },
+    {
+      "AssetId": 40257,
+      "DisplayName": "传奇素材 2/4685 Normal",
+      "SortOrder": 165,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4685.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 367,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.3984122+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40258,
+      "DisplayName": "传奇素材 2/4686 Normal",
+      "SortOrder": 166,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4686.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 7910,
+      "Width": 48,
+      "Height": 134,
+      "LastModifiedAt": "2026-07-24T06:21:09.3994119+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -102
+      }
+    },
+    {
+      "AssetId": 40259,
+      "DisplayName": "传奇素材 2/4687 Normal",
+      "SortOrder": 167,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4687.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 7395,
+      "Width": 48,
+      "Height": 161,
+      "LastModifiedAt": "2026-07-24T06:21:09.4004145+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -129
+      }
+    },
+    {
+      "AssetId": 40260,
+      "DisplayName": "传奇素材 2/4688 Normal",
+      "SortOrder": 168,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4688.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 711,
+      "Width": 48,
+      "Height": 30,
+      "LastModifiedAt": "2026-07-24T06:21:09.401414+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 2
+      }
+    },
+    {
+      "AssetId": 40261,
+      "DisplayName": "传奇素材 2/4689 Normal",
+      "SortOrder": 169,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4689.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1982,
+      "Width": 48,
+      "Height": 94,
+      "LastModifiedAt": "2026-07-24T06:21:09.401414+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -62
+      }
+    },
+    {
+      "AssetId": 40262,
+      "DisplayName": "传奇素材 2/4691 Normal",
+      "SortOrder": 170,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4691.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 457,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4024147+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40263,
+      "DisplayName": "传奇素材 2/4692 Normal",
+      "SortOrder": 171,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4692.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2563,
+      "Width": 48,
+      "Height": 91,
+      "LastModifiedAt": "2026-07-24T06:21:09.4024147+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -59
+      }
+    },
+    {
+      "AssetId": 40264,
+      "DisplayName": "传奇素材 2/4693 Normal",
+      "SortOrder": 172,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4693.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1773,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4144424+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40265,
+      "DisplayName": "传奇素材 2/4694 Normal",
+      "SortOrder": 173,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4694.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 6591,
+      "Width": 48,
+      "Height": 118,
+      "LastModifiedAt": "2026-07-24T06:21:09.4160536+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -86
+      }
+    },
+    {
+      "AssetId": 40266,
+      "DisplayName": "传奇素材 2/4695 Normal",
+      "SortOrder": 174,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4695.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1347,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4160536+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40267,
+      "DisplayName": "传奇素材 2/4696 Normal",
+      "SortOrder": 175,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4696.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 5074,
+      "Width": 48,
+      "Height": 93,
+      "LastModifiedAt": "2026-07-24T06:21:09.4175626+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -61
+      }
+    },
+    {
+      "AssetId": 40268,
+      "DisplayName": "传奇素材 2/4697 Normal",
+      "SortOrder": 176,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4697.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 364,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4175626+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40269,
+      "DisplayName": "传奇素材 2/4698 Normal",
+      "SortOrder": 177,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4698.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2129,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4175626+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40270,
+      "DisplayName": "传奇素材 2/4699 Normal",
+      "SortOrder": 178,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4699.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1219,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4225663+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40271,
+      "DisplayName": "传奇素材 2/4700 Normal",
+      "SortOrder": 179,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4700.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 537,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4235667+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40272,
+      "DisplayName": "传奇素材 2/4701 Normal",
+      "SortOrder": 180,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4701.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1519,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4240696+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40273,
+      "DisplayName": "传奇素材 2/4702 Normal",
+      "SortOrder": 181,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4702.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1706,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4240696+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40274,
+      "DisplayName": "传奇素材 2/4703 Normal",
+      "SortOrder": 182,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4703.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1232,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4250737+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40275,
+      "DisplayName": "传奇素材 2/4704 Normal",
+      "SortOrder": 183,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4704.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 792,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4250737+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40276,
+      "DisplayName": "传奇素材 2/4761 Normal",
+      "SortOrder": 184,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4761.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 554,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4250737+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40277,
+      "DisplayName": "传奇素材 2/4762 Normal",
+      "SortOrder": 185,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4762.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 960,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4260727+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40278,
+      "DisplayName": "传奇素材 2/4763 Normal",
+      "SortOrder": 186,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4763.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1186,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4260727+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40279,
+      "DisplayName": "传奇素材 2/4764 Normal",
+      "SortOrder": 187,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4764.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1576,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4268039+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40280,
+      "DisplayName": "传奇素材 2/4765 Normal",
+      "SortOrder": 188,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4765.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1392,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4268039+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40281,
+      "DisplayName": "传奇素材 2/4766 Normal",
+      "SortOrder": 189,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4766.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 350,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4273069+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40282,
+      "DisplayName": "传奇素材 2/4767 Normal",
+      "SortOrder": 190,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4767.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 392,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4273069+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40283,
+      "DisplayName": "传奇素材 2/4768 Normal",
+      "SortOrder": 191,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4768.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1170,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4273069+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40284,
+      "DisplayName": "传奇素材 2/4769 Normal",
+      "SortOrder": 192,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4769.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 412,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4283098+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40285,
+      "DisplayName": "传奇素材 2/4777 Normal",
+      "SortOrder": 193,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4777.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 548,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4283098+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40286,
+      "DisplayName": "传奇素材 2/4778 Normal",
+      "SortOrder": 194,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4778.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1299,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4293109+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40287,
+      "DisplayName": "传奇素材 2/4779 Normal",
+      "SortOrder": 195,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4779.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 565,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4293109+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40288,
+      "DisplayName": "传奇素材 2/4781 Normal",
+      "SortOrder": 196,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4781.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 955,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4303113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40289,
+      "DisplayName": "传奇素材 2/4782 Normal",
+      "SortOrder": 197,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4782.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 842,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4303113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40290,
+      "DisplayName": "传奇素材 2/4783 Normal",
+      "SortOrder": 198,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4783.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 783,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4303113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40291,
+      "DisplayName": "传奇素材 2/4785 Normal",
+      "SortOrder": 199,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4785.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 765,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4313107+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40292,
+      "DisplayName": "传奇素材 2/4786 Normal",
+      "SortOrder": 200,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4786.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 864,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4313107+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40293,
+      "DisplayName": "传奇素材 2/4787 Normal",
+      "SortOrder": 201,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4787.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 975,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4323104+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40294,
+      "DisplayName": "传奇素材 2/4789 Normal",
+      "SortOrder": 202,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4789.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1221,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4323104+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40295,
+      "DisplayName": "传奇素材 2/4790 Normal",
+      "SortOrder": 203,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4790.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 528,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4333101+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 40296,
+      "DisplayName": "传奇素材 2/4791 Normal",
+      "SortOrder": 204,
+      "Category": "地图",
+      "Subcategory": "Objects",
+      "RelativePath": "Client/Assets/地图/Objects/img_4791.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 755,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-07-24T06:21:09.4333101+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library2",
+        "Objects"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}

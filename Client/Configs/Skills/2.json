@@ -144,6 +144,7 @@
         }
       ]
     },
+    "AttackFollowUpEffectFollowsAttacker": false,
     "CastEffect": {
       "IsEffectMode": true,
       "DirectionSet": "Eight",

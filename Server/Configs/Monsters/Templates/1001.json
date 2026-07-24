@@ -6,7 +6,11 @@
     1
   ],
   "AiProfileId": 1,
-  "FixedAffixRules": [],
+  "FixedAffixRules": [
+    {
+      "AffixId": 9
+    }
+  ],
   "Combat": {
     "MaxHealth": 90000,
     "MaxMana": 0,
@@ -25,10 +29,10 @@
     "Dodge": 0,
     "AttackType": "SingleTarget",
     "AttackDistanceCells": 1,
-    "AttackAreaShape": "AroundSelf",
+    "AttackAreaShape": "ForwardRectangle",
     "AttackAreaRadiusCells": 1,
     "AttackAreaHalfWidthCells": 0,
-    "AttackAreaAngleDegrees": 90,
+    "AttackAreaAngleDegrees": 180,
     "AttackSpeed": 1000,
     "CastSpeed": 1000
   },

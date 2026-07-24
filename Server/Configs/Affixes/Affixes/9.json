@@ -1,0 +1,36 @@
+{
+  "AffixId": 9,
+  "DisplayName": "怪物-释放火球术",
+  "CategoryIds": [
+    0,
+    3,
+    4
+  ],
+  "AffixType": "NormalPrefix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Monster",
+    "Weapon"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnAttack",
+      "ScriptId": "affix/9/OnAttack",
+      "Priority": 0,
+      "IsEnabled": true
+    },
+    {
+      "Event": "OnMoveCell",
+      "ScriptId": "affix/9/OnMoveCell",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    9
+  ]
+}
