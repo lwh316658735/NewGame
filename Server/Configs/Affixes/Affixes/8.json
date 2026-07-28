@@ -21,6 +21,18 @@
       "ScriptId": "affix/8/OnAttack",
       "Priority": 0,
       "IsEnabled": true
+    },
+    {
+      "Event": "OnMoveCell",
+      "ScriptId": "affix/8/OnMoveCell",
+      "Priority": 0,
+      "IsEnabled": true
+    },
+    {
+      "Event": "OnRelease",
+      "ScriptId": "affix/8/OnRelease",
+      "Priority": 0,
+      "IsEnabled": true
     }
   ],
   "TierSetIds": [

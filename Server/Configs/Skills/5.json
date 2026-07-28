@@ -1,0 +1,42 @@
+{
+  "SkillId": 5,
+  "DisplayName": "流星火雨",
+  "Category": "Active",
+  "SkillType": "Release",
+  "TriggerPriority": 2,
+  "TargetType": "MousePointer",
+  "Range": {
+    "RangeType": "Rectangle",
+    "CastRangeCells": 12,
+    "LengthCells": 0,
+    "WidthCells": 0,
+    "RadiusCells": 3,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 50,
+  "PostSwingMilliseconds": 20,
+  "CooldownMilliseconds": 0,
+  "CooldownGroupId": 0,
+  "ManaCost": 300,
+  "HealthCost": 0,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      50000,
+      10000
+    ],
+    "MaxExpLevel": 3,
+    "MaxLevel": 5,
+    "KillExperiencePercent": 10
+  },
+  "ActiveEffects": [
+    {
+      "AffixId": 10
+    }
+  ],
+  "PassiveEffects": [],
+  "ComboNextSkillId": null,
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": null
+}

@@ -13,9 +13,9 @@
     "RadiusCells": 0,
     "AngleDegrees": 0
   },
-  "PreSwingMilliseconds": 200,
+  "PreSwingMilliseconds": 500,
   "PostSwingMilliseconds": 100,
-  "CooldownMilliseconds": 1000,
+  "CooldownMilliseconds": 500,
   "CooldownGroupId": 0,
   "ManaCost": 50,
   "HealthCost": 0,

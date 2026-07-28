@@ -1,0 +1,118 @@
+{
+  "TierSetId": 10,
+  "DisplayName": "技能_流星火雨伤害",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "附加伤害",
+      "Description": "附加伤害",
+      "ValueKind": "Integer",
+      "ValueStep": 100
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "百分比伤害",
+      "Description": "百分比伤害",
+      "ValueKind": "Percent",
+      "ValueStep": 10000
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 1,
+      "MaxItemLevel": 1,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 100,
+          "MaxValue": 100
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 10000,
+          "MaxValue": 10000
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 2,
+      "MaxItemLevel": 2,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 200,
+          "MaxValue": 200
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 20000,
+          "MaxValue": 20000
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 3,
+      "MaxItemLevel": 3,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 300,
+          "MaxValue": 300
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 30000,
+          "MaxValue": 30000
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 4,
+      "MaxItemLevel": 4,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 400,
+          "MaxValue": 400
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 40000,
+          "MaxValue": 40000
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 5,
+      "MaxItemLevel": 5,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 500,
+          "MaxValue": 500
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 50000,
+          "MaxValue": 50000
+        }
+      ]
+    }
+  ]
+}

@@ -1081,7 +1081,7 @@
       "MinLightningDamage": "9223372036854775807",
       "MaxLightningDamage": "9223372036854775807",
       "AttackSpeed": 20000,
-      "CastSpeed": 20000,
+      "CastSpeedPercent": 10000,
       "CriticalDamage": "9223372036854775807",
       "CriticalResistance": "9223372036854775807",
       "PhysicalPenetration": "9223372036854775807",

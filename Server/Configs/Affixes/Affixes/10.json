@@ -1,0 +1,29 @@
+{
+  "AffixId": 10,
+  "DisplayName": "技能-流星火雨",
+  "CategoryIds": [
+    0,
+    3,
+    4
+  ],
+  "AffixType": "NormalPrefix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/10/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    10
+  ]
+}
