@@ -35,7 +35,7 @@
     "MaxMagicDefense": 0,
     "Hit": 10000,
     "Dodge": 300,
-    "BaseAttackSpeed": 2000,
+    "BaseAttackSpeed": 5000,
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {

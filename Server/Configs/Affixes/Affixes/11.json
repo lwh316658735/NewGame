@@ -1,0 +1,27 @@
+{
+  "AffixId": 11,
+  "DisplayName": "技能-吸星大法",
+  "CategoryIds": [
+    3
+  ],
+  "AffixType": "Special",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/11/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    11
+  ]
+}

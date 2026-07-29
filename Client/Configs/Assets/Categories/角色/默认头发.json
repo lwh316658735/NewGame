@@ -5059,7 +5059,7 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": -9,
+        "OffsetX": -10,
         "OffsetY": -34
       }
     },
@@ -9399,8 +9399,8 @@
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
-        "OffsetX": 0,
-        "OffsetY": -29
+        "OffsetX": 3,
+        "OffsetY": -44
       }
     },
     {

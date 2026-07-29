@@ -2362,6 +2362,42 @@
           "Placement": "InFrontOfCharacter"
         },
         {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 1,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 2,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 3,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 4,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 5,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
+          "Action": "Attack",
+          "Direction": "Left",
+          "FrameNumber": 6,
+          "Placement": "InFrontOfCharacter"
+        },
+        {
           "Action": "Cast",
           "Direction": "Up",
           "FrameNumber": 1,
