@@ -1,6 +1,6 @@
 {
   "ItemId": 3,
-  "DisplayName": "圣战手镯",
+  "DisplayName": "\u5723\u6218\u624B\u956F",
   "Kind": "AttributeItem",
   "MaxStack": 1,
   "Price": {
@@ -175,17 +175,17 @@
       {
         "AttributeId": "MovementSpeed",
         "Operation": "Add",
-        "Value": 100
+        "Value": 1000
       },
       {
         "AttributeId": "AttackSpeed",
         "Operation": "Add",
-        "Value": 100
+        "Value": 1000
       },
       {
         "AttributeId": "CastSpeed",
         "Operation": "Add",
-        "Value": -100
+        "Value": -1000
       },
       {
         "AttributeId": "Lucky",
@@ -285,7 +285,7 @@
       {
         "AttributeId": "DropRate",
         "Operation": "Add",
-        "Value": 1000
+        "Value": 10
       },
       {
         "AttributeId": "Strength",

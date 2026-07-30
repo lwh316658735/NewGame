@@ -348,7 +348,7 @@
   "CharacterCreation": {
     "DefaultLevel": 71,
     "DefaultRebirthLevel": 0,
-    "DefaultMapId": "0",
+    "DefaultMapId": 1,
     "DefaultSpawnColumn": 300,
     "DefaultSpawnRow": 300,
     "DefaultAttackMode": "Peace"
@@ -357,7 +357,7 @@
     "HealthRestoreMode": "Percent",
     "HealthRestorePercent": 10000,
     "HealthRestoreValue": 1,
-    "RespawnMapId": "0",
+    "RespawnMapId": 1,
     "RespawnSafeZoneId": "SafeZone0001"
   },
   "LeechRecoveryDefaults": {
@@ -383,21 +383,21 @@
       "Gold": {
         "CustomCurrencyId": 0,
         "IsEnabled": true,
-        "Alias": "金币",
+        "Alias": "\u91D1\u5E01",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "Yuanbao": {
         "CustomCurrencyId": 0,
         "IsEnabled": true,
-        "Alias": "元宝",
+        "Alias": "\u5143\u5B9D",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
       "CustomCurrency01": {
         "CustomCurrencyId": 1,
         "IsEnabled": true,
-        "Alias": "钻石",
+        "Alias": "\u94BB\u77F3",
         "InitialBalance": 0,
         "CarryLimit": 0
       },
@@ -541,22 +541,22 @@
       {
         "SlotId": 1,
         "IsEnabled": true,
-        "DisplayName": "核心"
+        "DisplayName": "\u6838\u5FC3"
       },
       {
         "SlotId": 2,
         "IsEnabled": true,
-        "DisplayName": "宝石"
+        "DisplayName": "\u5B9D\u77F3"
       },
       {
         "SlotId": 3,
         "IsEnabled": true,
-        "DisplayName": "战鼓"
+        "DisplayName": "\u6218\u9F13"
       },
       {
         "SlotId": 4,
         "IsEnabled": true,
-        "DisplayName": "符咒"
+        "DisplayName": "\u7B26\u5492"
       },
       {
         "SlotId": 5,
@@ -1080,7 +1080,7 @@
       "MaxFireDamage": "9223372036854775807",
       "MinLightningDamage": "9223372036854775807",
       "MaxLightningDamage": "9223372036854775807",
-      "AttackSpeed": 20000,
+      "AttackSpeed": 200000,
       "CastSpeedPercent": 10000,
       "CriticalDamage": "9223372036854775807",
       "CriticalResistance": "9223372036854775807",

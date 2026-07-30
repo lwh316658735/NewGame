@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "MapId": "0",
+  "MapId": 1,
   "SpawnGroups": [
     {
       "SpawnGroupId": "Spawn0001",
-      "DisplayName": "新刷怪组",
+      "DisplayName": "\u65B0\u5237\u602A\u7EC4",
       "IsEnabled": true,
       "Mode": "TimedWave",
       "Area": {
@@ -25,7 +25,7 @@
     },
     {
       "SpawnGroupId": "Spawn0002",
-      "DisplayName": "新刷怪组_Spawn0002",
+      "DisplayName": "\u65B0\u5237\u602A\u7EC4_Spawn0002",
       "IsEnabled": true,
       "Mode": "MaintainPopulation",
       "Area": {

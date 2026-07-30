@@ -1,6 +1,6 @@
 {
   "SkillId": 6,
-  "DisplayName": "吸星大法",
+  "DisplayName": "\u5438\u661F\u5927\u6CD5",
   "Category": "Active",
   "SkillType": "Release",
   "TriggerPriority": 0,
@@ -28,7 +28,7 @@
     ],
     "MaxExpLevel": 3,
     "MaxLevel": 5,
-    "KillExperiencePercent": 1
+    "KillExperiencePercent": 100
   },
   "ActiveEffects": [],
   "PassiveEffects": [],

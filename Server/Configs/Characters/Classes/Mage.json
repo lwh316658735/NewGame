@@ -1,6 +1,6 @@
 {
   "ClassId": "Mage",
-  "DisplayName": "法师",
+  "DisplayName": "\u6CD5\u5E08",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -35,7 +35,7 @@
     "MaxMagicDefense": 0,
     "Hit": 10000,
     "Dodge": 300,
-    "BaseAttackSpeed": 5000,
+    "BaseAttackSpeed": 50000,
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {

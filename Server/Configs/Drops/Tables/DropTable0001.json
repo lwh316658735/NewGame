@@ -1,71 +1,71 @@
 {
   "DropTableId": "DropTable0001",
-  "DisplayName": "新掉落表",
-  "Description": "填写该掉落表的用途、适用场景和维护边界。",
+  "DisplayName": "\u65B0\u6389\u843D\u8868",
+  "Description": "\u586B\u5199\u8BE5\u6389\u843D\u8868\u7684\u7528\u9014\u3001\u9002\u7528\u573A\u666F\u548C\u7EF4\u62A4\u8FB9\u754C\u3002",
   "Items": [
     {
       "ItemId": 5,
-      "BaseDropChance": 100000,
+      "BaseDropChance": 1000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 6,
-      "BaseDropChance": 100000,
+      "BaseDropChance": 1000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 7,
-      "BaseDropChance": 100000,
+      "BaseDropChance": 1000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 8,
-      "BaseDropChance": 100000,
+      "BaseDropChance": 1000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 9,
-      "BaseDropChance": 100000,
+      "BaseDropChance": 1000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 10,
-      "BaseDropChance": 200000,
+      "BaseDropChance": 2000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 3,
-      "BaseDropChance": 200000,
+      "BaseDropChance": 2000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 11,
-      "BaseDropChance": 1000000,
+      "BaseDropChance": 10000,
       "MinQuantity": 5,
       "MaxQuantity": 5
     },
     {
       "ItemId": 2012,
-      "BaseDropChance": 1000000,
+      "BaseDropChance": 10000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 2013,
-      "BaseDropChance": 1000000,
+      "BaseDropChance": 10000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     },
     {
       "ItemId": 2014,
-      "BaseDropChance": 1000000,
+      "BaseDropChance": 10000,
       "MinQuantity": 1,
       "MaxQuantity": 1
     }
@@ -73,7 +73,7 @@
   "ReferencedDropTables": [
     {
       "DropTableId": "DropTable0002",
-      "BaseDropChance": 10000,
+      "BaseDropChance": 100,
       "MutualExclusionGroupId": "",
       "ItemPickMode": "Normal"
     }

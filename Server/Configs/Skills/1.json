@@ -1,6 +1,6 @@
 {
   "SkillId": 1,
-  "DisplayName": "火球术",
+  "DisplayName": "\u706B\u7403\u672F",
   "Category": "Active",
   "SkillType": "Release",
   "TriggerPriority": 0,
@@ -28,7 +28,7 @@
     ],
     "MaxExpLevel": 3,
     "MaxLevel": 4,
-    "KillExperiencePercent": 10
+    "KillExperiencePercent": 1000
   },
   "ActiveEffects": [
     {

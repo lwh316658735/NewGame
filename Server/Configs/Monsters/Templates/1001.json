@@ -1,6 +1,6 @@
 {
   "MonsterId": 1001,
-  "DisplayName": "地狱守卫#1",
+  "DisplayName": "\u5730\u72F1\u5B88\u536B#1",
   "Level": 51,
   "MonsterTypeIds": [
     1
@@ -33,7 +33,7 @@
     "AttackAreaRadiusCells": 1,
     "AttackAreaHalfWidthCells": 0,
     "AttackAreaAngleDegrees": 180,
-    "BaseAttackSpeed": 1000,
+    "BaseAttackSpeed": 10000,
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {

@@ -1,6 +1,6 @@
 {
   "SkillId": 4,
-  "DisplayName": "开天斩",
+  "DisplayName": "\u5F00\u5929\u65A9",
   "Category": "Active",
   "SkillType": "Attack",
   "TriggerPriority": 1,
@@ -27,7 +27,7 @@
     ],
     "MaxExpLevel": 2,
     "MaxLevel": 4,
-    "KillExperiencePercent": 20
+    "KillExperiencePercent": 2000
   },
   "ActiveEffects": [],
   "PassiveEffects": [],

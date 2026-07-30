@@ -1,0 +1,230 @@
+{
+  "FormatVersion": 1,
+  "State": "ScriptDependenciesRepaired",
+  "CreatedAtUtc": "2026-07-30T13:50:52.7657505+00:00",
+  "WorkspacePath": "E:\\NewGame",
+  "DatabasePath": "E:\\NewGame\\Server\\Data\\zone001\\nngame.db",
+  "MapIdMapping": [],
+  "ScriptFiles": [],
+  "RewrittenFiles": [
+    "Server/Configs/Affixes/Affixes/1.json"
+  ],
+  "RenamedFiles": [],
+  "RatioPrecisionChanges": [],
+  "RemovedScriptBindings": [
+    {
+      "RelativePath": "Server/Configs/Affixes/Affixes/1.json",
+      "JsonPath": "$.ScriptBindings[1].Event",
+      "EventName": "OnPhysicalDamageDealt",
+      "ScriptId": "affix/1/OnPhysicalDamageDealt"
+    }
+  ],
+  "ScriptTemplatesToCreate": [
+    {
+      "ScriptId": "affix/0/OnItemEquipped",
+      "RelativePath": "Server/Scripts/affix/0/OnItemEquipped.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "0",
+      "EventName": "OnItemEquipped"
+    },
+    {
+      "ScriptId": "affix/1/OnItemEquipped",
+      "RelativePath": "Server/Scripts/affix/1/OnItemEquipped.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "1",
+      "EventName": "OnItemEquipped"
+    },
+    {
+      "ScriptId": "affix/10/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/affix/10/OnSkillInitialize.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "10",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "affix/11/OnMoveCell",
+      "RelativePath": "Server/Scripts/affix/11/OnMoveCell.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "11",
+      "EventName": "OnMoveCell"
+    },
+    {
+      "ScriptId": "affix/11/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/affix/11/OnSkillInitialize.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "11",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "affix/2/OnItemEquipped",
+      "RelativePath": "Server/Scripts/affix/2/OnItemEquipped.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "2",
+      "EventName": "OnItemEquipped"
+    },
+    {
+      "ScriptId": "affix/3/OnItemEquipped",
+      "RelativePath": "Server/Scripts/affix/3/OnItemEquipped.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "3",
+      "EventName": "OnItemEquipped"
+    },
+    {
+      "ScriptId": "affix/4/OnDamageDealt",
+      "RelativePath": "Server/Scripts/affix/4/OnDamageDealt.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "4",
+      "EventName": "OnDamageDealt"
+    },
+    {
+      "ScriptId": "affix/5/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/affix/5/OnSkillInitialize.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "5",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "affix/6/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/affix/6/OnSkillInitialize.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "6",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "affix/7/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/affix/7/OnSkillInitialize.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "7",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "affix/8/OnAttack",
+      "RelativePath": "Server/Scripts/affix/8/OnAttack.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "8",
+      "EventName": "OnAttack"
+    },
+    {
+      "ScriptId": "affix/8/OnMoveCell",
+      "RelativePath": "Server/Scripts/affix/8/OnMoveCell.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "8",
+      "EventName": "OnMoveCell"
+    },
+    {
+      "ScriptId": "affix/8/OnRelease",
+      "RelativePath": "Server/Scripts/affix/8/OnRelease.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "8",
+      "EventName": "OnRelease"
+    },
+    {
+      "ScriptId": "affix/9/OnAttack",
+      "RelativePath": "Server/Scripts/affix/9/OnAttack.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "9",
+      "EventName": "OnAttack"
+    },
+    {
+      "ScriptId": "affix/9/OnMoveCell",
+      "RelativePath": "Server/Scripts/affix/9/OnMoveCell.nns",
+      "OwnerKind": "\u8BCD\u7F00",
+      "OwnerId": "9",
+      "EventName": "OnMoveCell"
+    },
+    {
+      "ScriptId": "skill/1/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/1/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "1",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/2/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/2/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "2",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/3/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/3/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "3",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/4/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/4/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "4",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/5/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/5/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "5",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/6/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/6/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "6",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "skill/7/OnSkillInitialize",
+      "RelativePath": "Server/Scripts/skill/7/OnSkillInitialize.nns",
+      "OwnerKind": "\u6280\u80FD",
+      "OwnerId": "7",
+      "EventName": "OnSkillInitialize"
+    },
+    {
+      "ScriptId": "system/events/OnCharacterCreated",
+      "RelativePath": "Server/Scripts/system/events/OnCharacterCreated.nns",
+      "OwnerKind": "\u7CFB\u7EDF\u4E8B\u4EF6",
+      "OwnerId": "OnCharacterCreated",
+      "EventName": "OnCharacterCreated"
+    },
+    {
+      "ScriptId": "system/events/OnLogin",
+      "RelativePath": "Server/Scripts/system/events/OnLogin.nns",
+      "OwnerKind": "\u7CFB\u7EDF\u4E8B\u4EF6",
+      "OwnerId": "OnLogin",
+      "EventName": "OnLogin"
+    },
+    {
+      "ScriptId": "system/events/OnLogout",
+      "RelativePath": "Server/Scripts/system/events/OnLogout.nns",
+      "OwnerKind": "\u7CFB\u7EDF\u4E8B\u4EF6",
+      "OwnerId": "OnLogout",
+      "EventName": "OnLogout"
+    },
+    {
+      "ScriptId": "system/global/g_player_defaults",
+      "RelativePath": "Server/Scripts/system/global/g_player_defaults.nns",
+      "OwnerKind": "\u7CFB\u7EDF\u5168\u5C40",
+      "OwnerId": "g_player_defaults",
+      "EventName": ""
+    },
+    {
+      "ScriptId": "system/ui/fixed/Equipment",
+      "RelativePath": "Server/Scripts/system/ui/fixed/Equipment.nns",
+      "OwnerKind": "\u56FA\u5B9A UI",
+      "OwnerId": "Equipment",
+      "EventName": "OnPageOpen"
+    },
+    {
+      "ScriptId": "system/ui/fixed/MainHud",
+      "RelativePath": "Server/Scripts/system/ui/fixed/MainHud.nns",
+      "OwnerKind": "\u56FA\u5B9A UI",
+      "OwnerId": "MainHud",
+      "EventName": "OnPageOpen"
+    }
+  ],
+  "CharacterRowsToUpdate": 0,
+  "ScriptGlobalsWillBeCleared": false,
+  "BackupPath": "E:\\NewGame.script-dependency-backup"
+}

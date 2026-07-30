@@ -1,6 +1,6 @@
 {
   "ClassId": "Warrior",
-  "DisplayName": "战士",
+  "DisplayName": "\u6218\u58EB",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -35,7 +35,7 @@
     "MaxMagicDefense": 0,
     "Hit": 10000,
     "Dodge": 1000,
-    "BaseAttackSpeed": 5000,
+    "BaseAttackSpeed": 50000,
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {
