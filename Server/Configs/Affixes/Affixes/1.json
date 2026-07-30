@@ -19,6 +19,12 @@
       "ScriptId": "affix/1/OnItemEquipped",
       "Priority": 0,
       "IsEnabled": true
+    },
+    {
+      "Event": "OnPhysicalDamageDealt",
+      "ScriptId": "affix/1/OnPhysicalDamageDealt",
+      "Priority": 0,
+      "IsEnabled": true
     }
   ],
   "TierSetIds": [
