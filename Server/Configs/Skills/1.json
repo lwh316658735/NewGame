@@ -1,6 +1,6 @@
 {
   "SkillId": 1,
-  "DisplayName": "\u706B\u7403\u672F",
+  "DisplayName": "火球术",
   "Category": "Active",
   "SkillType": "Release",
   "TriggerPriority": 0,
@@ -13,7 +13,7 @@
     "RadiusCells": 0,
     "AngleDegrees": 0
   },
-  "PreSwingMilliseconds": 500,
+  "PreSwingMilliseconds": 5000,
   "PostSwingMilliseconds": 100,
   "CooldownMilliseconds": 500,
   "CooldownGroupId": 0,

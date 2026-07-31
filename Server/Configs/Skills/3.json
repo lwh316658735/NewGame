@@ -1,6 +1,6 @@
 {
   "SkillId": 3,
-  "DisplayName": "\u70C8\u706B\u5251\u6CD5",
+  "DisplayName": "烈火剑法",
   "Category": "Active",
   "SkillType": "Attack",
   "TriggerPriority": 0,
@@ -15,7 +15,7 @@
   },
   "PreSwingMilliseconds": 0,
   "PostSwingMilliseconds": 0,
-  "CooldownMilliseconds": 0,
+  "CooldownMilliseconds": 100,
   "CooldownGroupId": 0,
   "ManaCost": 0,
   "HealthCost": 0,
