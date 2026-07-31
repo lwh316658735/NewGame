@@ -8,7 +8,7 @@
   "Controls": [
     {
       "ControlId": "image",
-      "DisplayName": "图片 5",
+      "DisplayName": "图片5",
       "Kind": "Image",
       "X": 12,
       "Y": 14,
@@ -294,7 +294,7 @@
     },
     {
       "ControlId": "text",
-      "DisplayName": "文本 6",
+      "DisplayName": "文本6",
       "Kind": "Text",
       "X": 68,
       "Y": 334,
@@ -578,7 +578,7 @@
     },
     {
       "ControlId": "dragHandle",
-      "DisplayName": "拖动控件 8",
+      "DisplayName": "拖动控件8",
       "Kind": "DragHandle",
       "X": 16,
       "Y": 24,
@@ -2018,7 +2018,7 @@
     },
     {
       "ControlId": "text2",
-      "DisplayName": "文本 6 副本",
+      "DisplayName": "文本",
       "Kind": "Text",
       "X": 232,
       "Y": 334,

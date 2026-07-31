@@ -3,19 +3,23 @@
   "ScreenId": "CharacterCreate",
   "DisplayName": "创建角色",
   "BackgroundMusicAssetId": 0,
+  "PresentationScriptId": "system/ui/fixed/CharacterCreate",
+  "HasPresentationScript": false,
   "Controls": [
     {
       "ControlId": "image",
-      "DisplayName": "图片 9",
+      "DisplayName": "图片9",
       "Kind": "Image",
       "X": 0,
       "Y": 0,
       "Width": 1920,
       "Height": 1080,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 0,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -47,10 +51,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -90,7 +110,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -101,7 +124,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -112,17 +138,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -131,6 +168,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -141,6 +179,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -155,6 +196,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -169,6 +213,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -179,21 +226,86 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "image4",
-      "DisplayName": "图片 13",
+      "DisplayName": "图片3",
       "Kind": "Image",
       "X": 1261,
       "Y": 258,
       "Width": 659,
       "Height": 737,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 3,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -225,10 +337,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -268,7 +396,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -279,7 +410,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -290,17 +424,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -309,6 +454,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -319,6 +465,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -333,6 +482,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -347,6 +499,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -357,21 +512,86 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "image2",
-      "DisplayName": "图片 11",
+      "DisplayName": "图片1",
       "Kind": "Image",
       "X": 16,
       "Y": 138,
       "Width": 488,
       "Height": 767,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 4,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -403,10 +623,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -446,7 +682,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -457,7 +696,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -468,17 +710,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -487,6 +740,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -497,6 +751,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -511,6 +768,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -525,6 +785,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -535,8 +798,71 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateProfessionWarriorButton",
@@ -547,9 +873,11 @@
       "Width": 392,
       "Height": 166,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 10,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -579,10 +907,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -622,7 +966,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -633,7 +980,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -644,17 +994,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -663,6 +1024,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 27542,
         "NineSlice": {
@@ -673,6 +1035,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "#223344",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -687,6 +1052,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -701,6 +1069,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -711,8 +1082,71 @@
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateProfessionMageButton",
@@ -723,9 +1157,11 @@
       "Width": 392,
       "Height": 166,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 11,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -755,10 +1191,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -798,7 +1250,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -809,7 +1264,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -820,17 +1278,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -839,6 +1308,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 27545,
         "NineSlice": {
@@ -849,6 +1319,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -863,6 +1336,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -877,6 +1353,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -887,8 +1366,71 @@
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateProfessionTaoistButton",
@@ -899,9 +1441,11 @@
       "Width": 392,
       "Height": 166,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 12,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -931,10 +1475,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -974,7 +1534,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -985,7 +1548,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -996,17 +1562,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1015,6 +1592,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 27543,
         "NineSlice": {
@@ -1025,6 +1603,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1039,6 +1620,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1053,6 +1637,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1063,21 +1650,86 @@
       "ButtonClickAreaHeight": 166,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "image3",
-      "DisplayName": "图片 12",
+      "DisplayName": "图片12",
       "Kind": "Image",
       "X": 632,
       "Y": 0,
       "Width": 657,
       "Height": 179,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 12,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1109,10 +1761,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -1152,7 +1820,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -1163,7 +1834,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -1174,17 +1848,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1193,6 +1878,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -1203,6 +1889,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1217,6 +1906,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1231,6 +1923,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1241,8 +1936,71 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateGenderMaleButton",
@@ -1253,9 +2011,11 @@
       "Width": 192,
       "Height": 54,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 13,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1285,10 +2045,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -1328,7 +2104,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -1339,7 +2118,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -1350,17 +2132,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1369,6 +2162,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 27529,
         "NineSlice": {
@@ -1379,6 +2173,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1393,6 +2190,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1407,6 +2207,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1417,8 +2220,71 @@
       "ButtonClickAreaHeight": 54,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateGenderFemaleButton",
@@ -1429,9 +2295,11 @@
       "Width": 191,
       "Height": 56,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 14,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1461,10 +2329,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -1504,7 +2388,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -1515,7 +2402,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -1526,17 +2416,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1545,6 +2446,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 27528,
         "NineSlice": {
@@ -1555,6 +2457,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1569,6 +2474,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1583,6 +2491,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1593,21 +2504,86 @@
       "ButtonClickAreaHeight": 56,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "image5",
-      "DisplayName": "图片 14",
+      "DisplayName": "图片14",
       "Kind": "Image",
       "X": 661,
       "Y": 12,
       "Width": 599,
       "Height": 163,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": false,
       "ZIndex": 14,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1639,10 +2615,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "",
+      "ProgressMaximumValue": "",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "",
       "InputBorderWidth": 0,
       "InputCornerRadius": 0,
@@ -1682,7 +2674,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -1693,7 +2688,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -1704,17 +2702,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1723,6 +2732,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -1733,6 +2743,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1747,6 +2760,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1761,6 +2777,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1771,8 +2790,71 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateNameInput",
@@ -1783,9 +2865,11 @@
       "Width": 349,
       "Height": 59,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 15,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1815,10 +2899,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "#10182099",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -1858,7 +2958,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -1869,7 +2972,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -1880,17 +2986,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -1899,6 +3016,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -1909,6 +3027,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1923,6 +3044,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1937,6 +3061,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -1947,8 +3074,71 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateSubmitButton",
@@ -1959,9 +3149,11 @@
       "Width": 336,
       "Height": 88,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 16,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -1991,10 +3183,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -2034,7 +3242,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -2045,7 +3256,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -2056,17 +3270,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -2075,6 +3300,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -2085,6 +3311,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2099,6 +3328,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
         "HotAreaFeedbackFeatherRadius": null
@@ -2113,6 +3345,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2123,8 +3358,71 @@
       "ButtonClickAreaHeight": 88,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateBackButton",
@@ -2135,9 +3433,11 @@
       "Width": 319,
       "Height": 79,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 17,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -2167,10 +3467,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -2210,7 +3526,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -2221,7 +3540,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -2232,17 +3554,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -2251,6 +3584,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -2261,6 +3595,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2275,6 +3612,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
         "HotAreaFeedbackFeatherRadius": null
@@ -2289,6 +3629,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2299,8 +3642,71 @@
       "ButtonClickAreaHeight": 79,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     },
     {
       "ControlId": "characterCreateCharacterPreview",
@@ -2311,9 +3717,11 @@
       "Width": 360,
       "Height": 612,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": true,
       "ZIndex": 999,
       "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
       "MinimapLocalRangeScale": 1,
       "MinimapCompanionControlIds": [],
       "Text": "",
@@ -2343,10 +3751,26 @@
         "Right": 0,
         "Bottom": 0
       },
-      "ResourceValueKind": "None",
-      "ResourceFillMode": "VerticalOrb",
-      "ResourcePreviewRatio": 0.75,
+      "ProgressCurrentValuePlaceholder": "{{Player.CurrentHealth}}",
+      "ProgressMaximumValue": "{{Player.MaxHealth}}",
+      "ProgressFillMode": "LeftToRight",
+      "ProgressClipBorderWithContent": false,
       "BackgroundColor": "",
+      "ImageBorderColor": "",
+      "ImageBorderWidth": 0,
+      "ImageCornerRadius": 0,
+      "SlotKind": "Display",
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "AllowedSlotLocations": [],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [],
+      "AllowedItemIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "InputFocusedBackgroundColor": "",
       "InputBorderColor": "#7A8994",
       "InputBorderWidth": 1,
       "InputCornerRadius": 6,
@@ -2435,7 +3859,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
         "AssetId": 0,
@@ -2446,7 +3873,10 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
         "AssetId": 0,
@@ -2457,17 +3887,28 @@
           "Top": 0,
           "Right": 0,
           "Bottom": 0
-        }
+        },
+        "BorderColor": "",
+        "BorderWidth": 0,
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
       "InventoryGridCellHeight": 0,
-      "InventoryGridColumnSpacing": 0,
-      "InventoryGridRowSpacing": 0,
+      "InventoryGridColumnCount": 0,
+      "InventoryGridRowCount": 0,
+      "InventoryGridColumnSpacings": [],
+      "InventoryGridRowSpacings": [],
       "InventoryGridPaddingLeft": 0,
       "InventoryGridPaddingTop": 0,
       "InventoryGridPaddingRight": 0,
       "InventoryGridPaddingBottom": 0,
+      "BuffGridCellWidth": 0,
+      "BuffGridCellHeight": 0,
+      "BuffGridColumnSpacing": 0,
+      "BuffGridRowSpacing": 0,
+      "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
       "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
@@ -2476,6 +3917,7 @@
       "ButtonTargetTemplateId": 0,
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -2486,6 +3928,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2500,6 +3945,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2514,6 +3962,9 @@
           "Bottom": 0
         },
         "BackgroundColor": "",
+        "ImageBorderColor": "",
+        "ImageBorderWidth": 0,
+        "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
         "HotAreaFeedbackFeatherRadius": null
@@ -2524,8 +3975,71 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
-      "IsEquipmentAppearanceVisible": false,
-      "IsHiddenInEditor": false
+      "EditorPreviewItemId": 0,
+      "CanConfigureSkillShortcuts": false,
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      },
+      "SkillSlotIndex": 0
     }
   ]
 }

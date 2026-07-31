@@ -14,6 +14,7 @@
       "Width": 223,
       "Height": 548,
       "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
       "IsLockedInEditor": false,
       "ZIndex": 0,
       "DragTargetControlIds": [],
@@ -212,7 +213,73 @@
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
       "SlotId": "",
-      "IsHiddenInEditor": false
+      "ItemSlotResourceWidth": 0,
+      "ItemSlotResourceHeight": 0,
+      "ItemSlotResourceOffsetX": 0,
+      "ItemSlotResourceOffsetY": 0,
+      "ItemSlotResourceFillMode": "Fit",
+      "SkillList": {
+        "ItemWidth": 568,
+        "ItemHeight": 104,
+        "RowCount": 5,
+        "ColumnCount": 1,
+        "ColumnSpacing": 16,
+        "RowSpacing": 16,
+        "PaddingLeft": 16,
+        "PaddingTop": 16,
+        "PaddingRight": 16,
+        "PaddingBottom": 16,
+        "Icon": {
+          "X": 16,
+          "Y": 20,
+          "Width": 64,
+          "Height": 64,
+          "FillMode": "Fit",
+          "PreviewAssetId": 0
+        },
+        "InformationModule": {
+          "X": 96,
+          "Y": 8,
+          "MaxWidth": 456,
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "TopLeft",
+          "IsTextWrapEnabled": true,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "BackgroundColor": "#10182099",
+          "AssetId": 0,
+          "AssetIds": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "PaddingX": 12,
+          "PaddingY": 8,
+          "BorderColor": "#E2E8F096",
+          "BorderWidth": 1,
+          "CornerRadius": 0,
+          "DecorationInsetLeft": 0,
+          "DecorationInsetTop": 0,
+          "DecorationInsetRight": 0,
+          "DecorationInsetBottom": 0
+        }
+      }
     }
   ]
 }

@@ -3,5 +3,7 @@
   "ScreenId": "ShortcutBar",
   "DisplayName": "快捷栏",
   "BackgroundMusicAssetId": 0,
+  "PresentationScriptId": "system/ui/fixed/ShortcutBar",
+  "HasPresentationScript": false,
   "Controls": []
 }

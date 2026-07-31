@@ -8,7 +8,7 @@
   "Controls": [
     {
       "ControlId": "image",
-      "DisplayName": "图片 3",
+      "DisplayName": "图片3",
       "Kind": "Image",
       "X": 0,
       "Y": 866,
@@ -294,7 +294,7 @@
     },
     {
       "ControlId": "image5",
-      "DisplayName": "图片 7",
+      "DisplayName": "图片7",
       "Kind": "Image",
       "X": 1686,
       "Y": 924,
@@ -580,7 +580,7 @@
     },
     {
       "ControlId": "image2",
-      "DisplayName": "图片 4",
+      "DisplayName": "图片4",
       "Kind": "Image",
       "X": 1727,
       "Y": 891,
@@ -866,7 +866,7 @@
     },
     {
       "ControlId": "image4",
-      "DisplayName": "图片 6",
+      "DisplayName": "图片6",
       "Kind": "Image",
       "X": 228,
       "Y": 924,
@@ -1436,7 +1436,7 @@
     },
     {
       "ControlId": "image3",
-      "DisplayName": "图片 5",
+      "DisplayName": "图片5",
       "Kind": "Image",
       "X": 189,
       "Y": 924,
@@ -1722,7 +1722,7 @@
     },
     {
       "ControlId": "image6",
-      "DisplayName": "图片 8",
+      "DisplayName": "图片8",
       "Kind": "Image",
       "X": 189,
       "Y": 967,
@@ -2008,7 +2008,7 @@
     },
     {
       "ControlId": "image7",
-      "DisplayName": "图片 9",
+      "DisplayName": "图片9",
       "Kind": "Image",
       "X": 189,
       "Y": 1038,
@@ -2294,7 +2294,7 @@
     },
     {
       "ControlId": "image9",
-      "DisplayName": "图片 11",
+      "DisplayName": "图片11",
       "Kind": "Image",
       "X": 1686,
       "Y": 1038,
@@ -2580,7 +2580,7 @@
     },
     {
       "ControlId": "image10",
-      "DisplayName": "图片 12",
+      "DisplayName": "图片12",
       "Kind": "Image",
       "X": 739,
       "Y": 871,
@@ -2866,7 +2866,7 @@
     },
     {
       "ControlId": "image11",
-      "DisplayName": "图片 13",
+      "DisplayName": "图片13",
       "Kind": "Image",
       "X": 1686,
       "Y": 952,
@@ -6857,7 +6857,7 @@
     },
     {
       "ControlId": "link",
-      "DisplayName": "透明点击区域按钮 27",
+      "DisplayName": "透明点击区域按钮27",
       "Kind": "Link",
       "X": 1756,
       "Y": 834,

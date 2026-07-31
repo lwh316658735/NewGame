@@ -7,7 +7,7 @@
   "Controls": [
     {
       "ControlId": "buffBackground",
-      "DisplayName": "Buff 说明框背景",
+      "DisplayName": "Buff说明框背景",
       "Kind": "Image",
       "X": 0,
       "Y": 0,
@@ -233,7 +233,7 @@
     },
     {
       "ControlId": "buffDescriptionText",
-      "DisplayName": "Buff 说明文本",
+      "DisplayName": "Buff说明文本",
       "Kind": "Text",
       "X": 0,
       "Y": 0,

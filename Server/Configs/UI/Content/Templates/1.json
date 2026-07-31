@@ -2,6 +2,8 @@
   "Version": 2,
   "TemplateId": 1,
   "DisplayName": "系统确认弹窗",
+  "PresentationScriptId": "system/ui/content/1",
+  "HasPresentationScript": false,
   "Actions": [
     {
       "ActionId": "cancel",

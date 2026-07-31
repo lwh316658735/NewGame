@@ -1,51 +1,45 @@
 {
   "MonsterId": 1001,
-  "DisplayName": "\u5730\u72F1\u5B88\u536B#1",
-  "Level": 51,
+  "DisplayName": "地狱守卫#2",
+  "Level": 1,
   "MonsterTypeIds": [
     1
   ],
   "AiProfileId": 1,
-  "FixedAffixRules": [
-    {
-      "AffixId": 9
-    }
-  ],
+  "FixedAffixRules": [],
   "Combat": {
-    "MaxHealth": 90000,
+    "MaxHealth": 100,
     "MaxMana": 0,
-    "MinPhysicalAttack": 200,
-    "MaxPhysicalAttack": 300,
+    "MinPhysicalAttack": 1,
+    "MaxPhysicalAttack": 3,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTrueDamage": 0,
     "MaxTrueDamage": 0,
     "DamageTakenLimit": 0,
     "MinPhysicalDefense": 0,
-    "MaxPhysicalDefense": 0,
+    "MaxPhysicalDefense": 1,
     "MinMagicDefense": 0,
     "MaxMagicDefense": 1,
     "Hit": 10000,
     "Dodge": 0,
     "AttackType": "SingleTarget",
-    "AttackDistanceCells": 6,
-    "AttackAreaShape": "ForwardRectangle",
+    "AttackDistanceCells": 1,
+    "AttackAreaShape": "AroundSelf",
     "AttackAreaRadiusCells": 1,
     "AttackAreaHalfWidthCells": 0,
-    "AttackAreaAngleDegrees": 180,
+    "AttackAreaAngleDegrees": 90,
     "BaseAttackSpeed": 10000,
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {
     "MoveActionMilliseconds": 600,
-    "MoveIntervalMilliseconds": 0
+    "MoveIntervalMilliseconds": 1200
   },
   "Reward": {
     "IsRewardDisabled": false,
-    "Experience": 50000,
-    "DropTableIds": [
-      "DropTable0001"
-    ],
+    "Experience": 0,
+    "DropTableIds": [],
     "DropRateBonus": {
       "IsEnabled": false,
       "Mode": "Add",
