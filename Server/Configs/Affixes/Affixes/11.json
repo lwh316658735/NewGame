@@ -15,12 +15,6 @@
   "MaxStacks": 1,
   "ScriptBindings": [
     {
-      "Event": "OnMoveCell",
-      "ScriptId": "affix/11/OnMoveCell",
-      "Priority": 0,
-      "IsEnabled": true
-    },
-    {
       "Event": "OnSkillInitialize",
       "ScriptId": "affix/11/OnSkillInitialize",
       "Priority": 0,
