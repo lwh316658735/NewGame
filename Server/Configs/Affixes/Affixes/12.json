@@ -1,13 +1,13 @@
 {
-  "AffixId": 3,
-  "DisplayName": "戒指-附加伤害",
+  "AffixId": 12,
+  "DisplayName": "技能_鬼影步",
   "CategoryIds": [
-    0
+    3
   ],
   "AffixType": "NormalPrefix",
   "Weight": 100,
   "AllowedLocations": [
-    "Ring"
+    "Skill"
   ],
   "Tags": [],
   "ConflictGroup": 0,
@@ -15,13 +15,19 @@
   "MaxStacks": 1,
   "ScriptBindings": [
     {
-      "Event": "OnItemEquipped",
-      "ScriptId": "affix/3/OnItemEquipped",
+      "Event": "OnMoveCell",
+      "ScriptId": "affix/12/OnMoveCell",
+      "Priority": 0,
+      "IsEnabled": true
+    },
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/12/OnSkillInitialize",
       "Priority": 0,
       "IsEnabled": true
     }
   ],
   "TierSetIds": [
-    1
+    12
   ]
 }

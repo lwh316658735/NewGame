@@ -6,7 +6,7 @@
     {
       "AssetId": 14,
       "DisplayName": "000000",
-      "SortOrder": 25565,
+      "SortOrder": 25564,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000000.png",
@@ -15,7 +15,7 @@
       "FileSizeBytes": 6264,
       "Width": 50,
       "Height": 164,
-      "LastModifiedAt": "2026-07-15T03:53:42.6196106+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9696469+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -26,7 +26,7 @@
     {
       "AssetId": 27,
       "DisplayName": "000001",
-      "SortOrder": 25566,
+      "SortOrder": 25565,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000001.png",
@@ -35,7 +35,7 @@
       "FileSizeBytes": 4476,
       "Width": 45,
       "Height": 142,
-      "LastModifiedAt": "2026-07-15T03:53:42.6216137+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9696469+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -46,7 +46,7 @@
     {
       "AssetId": 40,
       "DisplayName": "000002",
-      "SortOrder": 25567,
+      "SortOrder": 25566,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000002.png",
@@ -55,7 +55,7 @@
       "FileSizeBytes": 4374,
       "Width": 64,
       "Height": 117,
-      "LastModifiedAt": "2026-07-15T03:53:42.6226126+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9701463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -66,7 +66,7 @@
     {
       "AssetId": 53,
       "DisplayName": "000003",
-      "SortOrder": 25568,
+      "SortOrder": 25567,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000003.png",
@@ -75,7 +75,7 @@
       "FileSizeBytes": 6869,
       "Width": 45,
       "Height": 156,
-      "LastModifiedAt": "2026-07-15T03:53:42.6256129+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9701463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -86,7 +86,7 @@
     {
       "AssetId": 64,
       "DisplayName": "000004",
-      "SortOrder": 25569,
+      "SortOrder": 25568,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000004.png",
@@ -95,7 +95,7 @@
       "FileSizeBytes": 7340,
       "Width": 65,
       "Height": 215,
-      "LastModifiedAt": "2026-07-15T03:53:42.6276136+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9701463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -106,7 +106,7 @@
     {
       "AssetId": 76,
       "DisplayName": "000005",
-      "SortOrder": 25570,
+      "SortOrder": 25569,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000005.png",
@@ -115,7 +115,7 @@
       "FileSizeBytes": 5236,
       "Width": 36,
       "Height": 137,
-      "LastModifiedAt": "2026-07-15T03:53:42.6306128+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9701463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -126,7 +126,7 @@
     {
       "AssetId": 88,
       "DisplayName": "000006",
-      "SortOrder": 25571,
+      "SortOrder": 25570,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000006.png",
@@ -135,7 +135,7 @@
       "FileSizeBytes": 6246,
       "Width": 50,
       "Height": 149,
-      "LastModifiedAt": "2026-07-15T03:53:42.634622+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9706463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -146,7 +146,7 @@
     {
       "AssetId": 100,
       "DisplayName": "000007",
-      "SortOrder": 25572,
+      "SortOrder": 25571,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000007.png",
@@ -155,7 +155,7 @@
       "FileSizeBytes": 6784,
       "Width": 55,
       "Height": 230,
-      "LastModifiedAt": "2026-07-15T03:53:42.6376211+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9706463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -166,7 +166,7 @@
     {
       "AssetId": 112,
       "DisplayName": "000008",
-      "SortOrder": 25573,
+      "SortOrder": 25572,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000008.png",
@@ -175,7 +175,7 @@
       "FileSizeBytes": 5768,
       "Width": 48,
       "Height": 148,
-      "LastModifiedAt": "2026-07-15T03:53:42.639621+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9711463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -186,7 +186,7 @@
     {
       "AssetId": 124,
       "DisplayName": "000009",
-      "SortOrder": 25574,
+      "SortOrder": 25573,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000009.png",
@@ -195,7 +195,7 @@
       "FileSizeBytes": 10800,
       "Width": 70,
       "Height": 181,
-      "LastModifiedAt": "2026-07-15T03:53:42.6426227+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9711463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -206,7 +206,7 @@
     {
       "AssetId": 138,
       "DisplayName": "000010",
-      "SortOrder": 25575,
+      "SortOrder": 25574,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000010.png",
@@ -215,7 +215,7 @@
       "FileSizeBytes": 8740,
       "Width": 90,
       "Height": 188,
-      "LastModifiedAt": "2026-07-15T03:53:42.6456214+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9711463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -226,7 +226,7 @@
     {
       "AssetId": 151,
       "DisplayName": "000011",
-      "SortOrder": 25576,
+      "SortOrder": 25575,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000011.png",
@@ -235,7 +235,7 @@
       "FileSizeBytes": 6057,
       "Width": 47,
       "Height": 161,
-      "LastModifiedAt": "2026-07-15T03:53:42.6476236+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9716463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -246,7 +246,7 @@
     {
       "AssetId": 162,
       "DisplayName": "000012",
-      "SortOrder": 25577,
+      "SortOrder": 25576,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000012.png",
@@ -255,7 +255,7 @@
       "FileSizeBytes": 8793,
       "Width": 55,
       "Height": 179,
-      "LastModifiedAt": "2026-07-15T03:53:42.6513019+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9716463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -266,7 +266,7 @@
     {
       "AssetId": 174,
       "DisplayName": "000013",
-      "SortOrder": 25578,
+      "SortOrder": 25577,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000013.png",
@@ -275,7 +275,7 @@
       "FileSizeBytes": 7769,
       "Width": 65,
       "Height": 171,
-      "LastModifiedAt": "2026-07-15T03:53:42.6630681+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9716463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -286,7 +286,7 @@
     {
       "AssetId": 186,
       "DisplayName": "000014",
-      "SortOrder": 25579,
+      "SortOrder": 25578,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000014.png",
@@ -295,7 +295,7 @@
       "FileSizeBytes": 6567,
       "Width": 50,
       "Height": 180,
-      "LastModifiedAt": "2026-07-15T03:53:42.6652033+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9721477+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -306,7 +306,7 @@
     {
       "AssetId": 198,
       "DisplayName": "000015",
-      "SortOrder": 25580,
+      "SortOrder": 25579,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000015.png",
@@ -315,7 +315,7 @@
       "FileSizeBytes": 11986,
       "Width": 92,
       "Height": 223,
-      "LastModifiedAt": "2026-07-15T03:53:42.6683732+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9726467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -326,7 +326,7 @@
     {
       "AssetId": 210,
       "DisplayName": "000016",
-      "SortOrder": 25581,
+      "SortOrder": 25580,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000016.png",
@@ -335,7 +335,7 @@
       "FileSizeBytes": 9843,
       "Width": 75,
       "Height": 253,
-      "LastModifiedAt": "2026-07-15T03:53:42.6710874+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9726467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -346,7 +346,7 @@
     {
       "AssetId": 222,
       "DisplayName": "000017",
-      "SortOrder": 25582,
+      "SortOrder": 25581,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000017.png",
@@ -355,7 +355,7 @@
       "FileSizeBytes": 6393,
       "Width": 54,
       "Height": 229,
-      "LastModifiedAt": "2026-07-15T03:53:42.673131+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9731467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -366,7 +366,7 @@
     {
       "AssetId": 232,
       "DisplayName": "000018",
-      "SortOrder": 25583,
+      "SortOrder": 25582,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000018.png",
@@ -375,7 +375,7 @@
       "FileSizeBytes": 7855,
       "Width": 59,
       "Height": 184,
-      "LastModifiedAt": "2026-07-15T03:53:42.6761307+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9731467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -386,7 +386,7 @@
     {
       "AssetId": 243,
       "DisplayName": "000019",
-      "SortOrder": 25584,
+      "SortOrder": 25583,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000019.png",
@@ -395,7 +395,7 @@
       "FileSizeBytes": 15565,
       "Width": 111,
       "Height": 217,
-      "LastModifiedAt": "2026-07-15T03:53:42.6801454+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9731467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -406,7 +406,7 @@
     {
       "AssetId": 254,
       "DisplayName": "000020",
-      "SortOrder": 25585,
+      "SortOrder": 25584,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000020.png",
@@ -415,7 +415,7 @@
       "FileSizeBytes": 12823,
       "Width": 81,
       "Height": 112,
-      "LastModifiedAt": "2026-07-15T03:53:42.6831449+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9736464+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -426,7 +426,7 @@
     {
       "AssetId": 265,
       "DisplayName": "000021",
-      "SortOrder": 25586,
+      "SortOrder": 25585,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000021.png",
@@ -435,7 +435,7 @@
       "FileSizeBytes": 14856,
       "Width": 146,
       "Height": 265,
-      "LastModifiedAt": "2026-07-15T03:53:42.6871467+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9736464+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -446,7 +446,7 @@
     {
       "AssetId": 278,
       "DisplayName": "000022",
-      "SortOrder": 25587,
+      "SortOrder": 25586,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000022.png",
@@ -455,7 +455,7 @@
       "FileSizeBytes": 10422,
       "Width": 53,
       "Height": 241,
-      "LastModifiedAt": "2026-07-15T03:53:42.6901474+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9741467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -466,7 +466,7 @@
     {
       "AssetId": 288,
       "DisplayName": "000023",
-      "SortOrder": 25588,
+      "SortOrder": 25587,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000023.png",
@@ -475,7 +475,7 @@
       "FileSizeBytes": 10303,
       "Width": 68,
       "Height": 105,
-      "LastModifiedAt": "2026-07-15T03:53:42.6921475+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9741467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -486,7 +486,7 @@
     {
       "AssetId": 299,
       "DisplayName": "000024",
-      "SortOrder": 25589,
+      "SortOrder": 25588,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000024.png",
@@ -495,7 +495,7 @@
       "FileSizeBytes": 16030,
       "Width": 66,
       "Height": 216,
-      "LastModifiedAt": "2026-07-15T03:53:42.6968346+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9741467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -506,7 +506,7 @@
     {
       "AssetId": 312,
       "DisplayName": "000025",
-      "SortOrder": 25590,
+      "SortOrder": 25589,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000025.png",
@@ -515,7 +515,7 @@
       "FileSizeBytes": 11628,
       "Width": 70,
       "Height": 228,
-      "LastModifiedAt": "2026-07-15T03:53:42.6999732+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9746466+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -526,7 +526,7 @@
     {
       "AssetId": 322,
       "DisplayName": "000026",
-      "SortOrder": 25591,
+      "SortOrder": 25590,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000026.png",
@@ -535,7 +535,7 @@
       "FileSizeBytes": 9792,
       "Width": 50,
       "Height": 217,
-      "LastModifiedAt": "2026-07-15T03:53:42.7020869+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9746466+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -546,7 +546,7 @@
     {
       "AssetId": 333,
       "DisplayName": "000027",
-      "SortOrder": 25592,
+      "SortOrder": 25591,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000027.png",
@@ -555,7 +555,7 @@
       "FileSizeBytes": 12768,
       "Width": 73,
       "Height": 217,
-      "LastModifiedAt": "2026-07-15T03:53:42.7051823+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9746466+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -566,7 +566,7 @@
     {
       "AssetId": 344,
       "DisplayName": "000028",
-      "SortOrder": 25593,
+      "SortOrder": 25592,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000028.png",
@@ -575,7 +575,7 @@
       "FileSizeBytes": 15959,
       "Width": 110,
       "Height": 283,
-      "LastModifiedAt": "2026-07-15T03:53:42.7096907+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9751463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -586,7 +586,7 @@
     {
       "AssetId": 355,
       "DisplayName": "000029",
-      "SortOrder": 25594,
+      "SortOrder": 25593,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000029.png",
@@ -595,7 +595,7 @@
       "FileSizeBytes": 8488,
       "Width": 77,
       "Height": 200,
-      "LastModifiedAt": "2026-07-15T03:53:42.7127158+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9751463+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -606,7 +606,7 @@
     {
       "AssetId": 366,
       "DisplayName": "000030",
-      "SortOrder": 25595,
+      "SortOrder": 25594,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000030.png",
@@ -615,7 +615,7 @@
       "FileSizeBytes": 23019,
       "Width": 105,
       "Height": 205,
-      "LastModifiedAt": "2026-07-15T03:53:42.7157158+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9756467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -626,7 +626,7 @@
     {
       "AssetId": 377,
       "DisplayName": "000031",
-      "SortOrder": 25596,
+      "SortOrder": 25595,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000031.png",
@@ -635,7 +635,7 @@
       "FileSizeBytes": 15946,
       "Width": 113,
       "Height": 242,
-      "LastModifiedAt": "2026-07-15T03:53:42.7187149+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9756467+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -646,7 +646,7 @@
     {
       "AssetId": 388,
       "DisplayName": "000032",
-      "SortOrder": 25597,
+      "SortOrder": 25596,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000032.png",
@@ -655,7 +655,7 @@
       "FileSizeBytes": 33350,
       "Width": 140,
       "Height": 124,
-      "LastModifiedAt": "2026-07-15T03:53:42.7217146+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9761474+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -666,7 +666,7 @@
     {
       "AssetId": 399,
       "DisplayName": "000033",
-      "SortOrder": 25598,
+      "SortOrder": 25597,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000033.png",
@@ -675,7 +675,7 @@
       "FileSizeBytes": 31281,
       "Width": 135,
       "Height": 220,
-      "LastModifiedAt": "2026-07-15T03:53:42.7257169+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9761474+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -686,7 +686,7 @@
     {
       "AssetId": 410,
       "DisplayName": "000034",
-      "SortOrder": 25599,
+      "SortOrder": 25598,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000034.png",
@@ -695,7 +695,7 @@
       "FileSizeBytes": 16611,
       "Width": 105,
       "Height": 298,
-      "LastModifiedAt": "2026-07-15T03:53:42.7287146+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.976646+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -706,7 +706,7 @@
     {
       "AssetId": 421,
       "DisplayName": "000035",
-      "SortOrder": 25600,
+      "SortOrder": 25599,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000035.png",
@@ -715,7 +715,7 @@
       "FileSizeBytes": 15715,
       "Width": 89,
       "Height": 131,
-      "LastModifiedAt": "2026-07-15T03:53:42.7327171+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.976646+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -726,7 +726,7 @@
     {
       "AssetId": 432,
       "DisplayName": "000036",
-      "SortOrder": 25601,
+      "SortOrder": 25600,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000036.png",
@@ -735,7 +735,7 @@
       "FileSizeBytes": 21629,
       "Width": 97,
       "Height": 231,
-      "LastModifiedAt": "2026-07-15T03:53:42.7367147+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9771656+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -746,7 +746,7 @@
     {
       "AssetId": 443,
       "DisplayName": "000037",
-      "SortOrder": 25602,
+      "SortOrder": 25601,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000037.png",
@@ -755,7 +755,7 @@
       "FileSizeBytes": 27346,
       "Width": 113,
       "Height": 294,
-      "LastModifiedAt": "2026-07-15T03:53:42.7417177+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9771656+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -766,7 +766,7 @@
     {
       "AssetId": 454,
       "DisplayName": "000038",
-      "SortOrder": 25603,
+      "SortOrder": 25602,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000038.png",
@@ -775,7 +775,7 @@
       "FileSizeBytes": 16912,
       "Width": 100,
       "Height": 234,
-      "LastModifiedAt": "2026-07-15T03:53:42.7457198+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9776685+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -786,7 +786,7 @@
     {
       "AssetId": 463,
       "DisplayName": "000039",
-      "SortOrder": 25604,
+      "SortOrder": 25603,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000039.png",
@@ -795,7 +795,7 @@
       "FileSizeBytes": 19283,
       "Width": 105,
       "Height": 237,
-      "LastModifiedAt": "2026-07-15T03:53:42.7507192+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9776685+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -806,7 +806,7 @@
     {
       "AssetId": 475,
       "DisplayName": "000040",
-      "SortOrder": 25605,
+      "SortOrder": 25604,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000040.png",
@@ -815,7 +815,7 @@
       "FileSizeBytes": 13718,
       "Width": 72,
       "Height": 233,
-      "LastModifiedAt": "2026-07-15T03:53:42.7532269+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.978169+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -826,7 +826,7 @@
     {
       "AssetId": 486,
       "DisplayName": "000041",
-      "SortOrder": 25606,
+      "SortOrder": 25605,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000041.png",
@@ -835,7 +835,7 @@
       "FileSizeBytes": 12218,
       "Width": 77,
       "Height": 232,
-      "LastModifiedAt": "2026-07-15T03:53:42.7567318+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.978169+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -846,7 +846,7 @@
     {
       "AssetId": 497,
       "DisplayName": "000042",
-      "SortOrder": 25607,
+      "SortOrder": 25606,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000042.png",
@@ -855,7 +855,7 @@
       "FileSizeBytes": 22956,
       "Width": 112,
       "Height": 242,
-      "LastModifiedAt": "2026-07-15T03:53:42.7617354+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9786688+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -866,7 +866,7 @@
     {
       "AssetId": 507,
       "DisplayName": "000043",
-      "SortOrder": 25608,
+      "SortOrder": 25607,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000043.png",
@@ -875,7 +875,7 @@
       "FileSizeBytes": 18574,
       "Width": 126,
       "Height": 281,
-      "LastModifiedAt": "2026-07-15T03:53:42.766111+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9786688+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -886,7 +886,7 @@
     {
       "AssetId": 517,
       "DisplayName": "000044",
-      "SortOrder": 25609,
+      "SortOrder": 25608,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000044.png",
@@ -895,7 +895,7 @@
       "FileSizeBytes": 16509,
       "Width": 86,
       "Height": 222,
-      "LastModifiedAt": "2026-07-15T03:53:42.7691096+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9791686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -906,7 +906,7 @@
     {
       "AssetId": 527,
       "DisplayName": "000045",
-      "SortOrder": 25610,
+      "SortOrder": 25609,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000045.png",
@@ -915,7 +915,7 @@
       "FileSizeBytes": 77918,
       "Width": 327,
       "Height": 435,
-      "LastModifiedAt": "2026-07-15T03:53:42.7781139+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9796678+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -926,7 +926,7 @@
     {
       "AssetId": 537,
       "DisplayName": "000046",
-      "SortOrder": 25611,
+      "SortOrder": 25610,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000046.png",
@@ -935,7 +935,7 @@
       "FileSizeBytes": 30379,
       "Width": 140,
       "Height": 244,
-      "LastModifiedAt": "2026-07-15T03:53:42.7821139+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9796678+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -946,7 +946,7 @@
     {
       "AssetId": 549,
       "DisplayName": "000047",
-      "SortOrder": 25612,
+      "SortOrder": 25611,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000047.png",
@@ -955,7 +955,7 @@
       "FileSizeBytes": 57801,
       "Width": 176,
       "Height": 296,
-      "LastModifiedAt": "2026-07-15T03:53:42.7886234+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9801686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -966,7 +966,7 @@
     {
       "AssetId": 558,
       "DisplayName": "000048",
-      "SortOrder": 25613,
+      "SortOrder": 25612,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000048.png",
@@ -975,7 +975,7 @@
       "FileSizeBytes": 35160,
       "Width": 122,
       "Height": 272,
-      "LastModifiedAt": "2026-07-15T03:53:42.7936223+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9801686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -986,7 +986,7 @@
     {
       "AssetId": 568,
       "DisplayName": "000049",
-      "SortOrder": 25614,
+      "SortOrder": 25613,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000049.png",
@@ -995,7 +995,7 @@
       "FileSizeBytes": 23278,
       "Width": 171,
       "Height": 293,
-      "LastModifiedAt": "2026-07-15T03:53:42.8056275+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9806685+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1006,7 +1006,7 @@
     {
       "AssetId": 578,
       "DisplayName": "000050",
-      "SortOrder": 25615,
+      "SortOrder": 25614,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000050.png",
@@ -1015,7 +1015,7 @@
       "FileSizeBytes": 29765,
       "Width": 135,
       "Height": 260,
-      "LastModifiedAt": "2026-07-15T03:53:42.8096277+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9811686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1026,7 +1026,7 @@
     {
       "AssetId": 588,
       "DisplayName": "000051",
-      "SortOrder": 25616,
+      "SortOrder": 25615,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000051.png",
@@ -1035,7 +1035,7 @@
       "FileSizeBytes": 17010,
       "Width": 92,
       "Height": 235,
-      "LastModifiedAt": "2026-07-15T03:53:42.8131403+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9811686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1046,7 +1046,7 @@
     {
       "AssetId": 616,
       "DisplayName": "000054",
-      "SortOrder": 25617,
+      "SortOrder": 25616,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000054.png",
@@ -1055,7 +1055,7 @@
       "FileSizeBytes": 23365,
       "Width": 82,
       "Height": 248,
-      "LastModifiedAt": "2026-07-15T03:53:42.81914+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9811686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1066,7 +1066,7 @@
     {
       "AssetId": 626,
       "DisplayName": "000055",
-      "SortOrder": 25618,
+      "SortOrder": 25617,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000055.png",
@@ -1075,7 +1075,7 @@
       "FileSizeBytes": 21816,
       "Width": 118,
       "Height": 287,
-      "LastModifiedAt": "2026-07-15T03:53:42.8241432+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9816686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1086,7 +1086,7 @@
     {
       "AssetId": 636,
       "DisplayName": "000056",
-      "SortOrder": 25619,
+      "SortOrder": 25618,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000056.png",
@@ -1095,7 +1095,7 @@
       "FileSizeBytes": 21945,
       "Width": 123,
       "Height": 129,
-      "LastModifiedAt": "2026-07-15T03:53:42.8281431+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9816686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1106,7 +1106,7 @@
     {
       "AssetId": 646,
       "DisplayName": "000057",
-      "SortOrder": 25620,
+      "SortOrder": 25619,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000057.png",
@@ -1115,7 +1115,7 @@
       "FileSizeBytes": 84612,
       "Width": 195,
       "Height": 353,
-      "LastModifiedAt": "2026-07-15T03:53:42.8376556+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9821687+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1126,7 +1126,7 @@
     {
       "AssetId": 656,
       "DisplayName": "000058",
-      "SortOrder": 25621,
+      "SortOrder": 25620,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000058.png",
@@ -1135,7 +1135,7 @@
       "FileSizeBytes": 7799,
       "Width": 77,
       "Height": 89,
-      "LastModifiedAt": "2026-07-15T03:53:42.8396559+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9821687+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1146,7 +1146,7 @@
     {
       "AssetId": 666,
       "DisplayName": "000059",
-      "SortOrder": 25622,
+      "SortOrder": 25621,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000059.png",
@@ -1155,7 +1155,7 @@
       "FileSizeBytes": 7143,
       "Width": 62,
       "Height": 83,
-      "LastModifiedAt": "2026-07-15T03:53:42.8426583+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9826695+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1166,7 +1166,7 @@
     {
       "AssetId": 676,
       "DisplayName": "000060",
-      "SortOrder": 25623,
+      "SortOrder": 25622,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000060.png",
@@ -1175,7 +1175,7 @@
       "FileSizeBytes": 5343,
       "Width": 49,
       "Height": 159,
-      "LastModifiedAt": "2026-07-15T03:53:42.8446567+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9826695+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1186,7 +1186,7 @@
     {
       "AssetId": 686,
       "DisplayName": "000061",
-      "SortOrder": 25624,
+      "SortOrder": 25623,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000061.png",
@@ -1195,7 +1195,7 @@
       "FileSizeBytes": 3518,
       "Width": 35,
       "Height": 88,
-      "LastModifiedAt": "2026-07-15T03:53:42.8466577+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9831683+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1206,7 +1206,7 @@
     {
       "AssetId": 694,
       "DisplayName": "000062",
-      "SortOrder": 25625,
+      "SortOrder": 25624,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000062.png",
@@ -1215,7 +1215,7 @@
       "FileSizeBytes": 35017,
       "Width": 161,
       "Height": 295,
-      "LastModifiedAt": "2026-07-15T03:53:42.8516553+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9831683+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1226,7 +1226,7 @@
     {
       "AssetId": 703,
       "DisplayName": "000063",
-      "SortOrder": 25626,
+      "SortOrder": 25625,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000063.png",
@@ -1235,7 +1235,7 @@
       "FileSizeBytes": 7732,
       "Width": 97,
       "Height": 150,
-      "LastModifiedAt": "2026-07-15T03:53:42.8546559+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9836687+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1246,7 +1246,7 @@
     {
       "AssetId": 712,
       "DisplayName": "000064",
-      "SortOrder": 25627,
+      "SortOrder": 25626,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000064.png",
@@ -1255,7 +1255,7 @@
       "FileSizeBytes": 11074,
       "Width": 70,
       "Height": 181,
-      "LastModifiedAt": "2026-07-15T03:53:42.8576556+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9836687+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1266,7 +1266,7 @@
     {
       "AssetId": 721,
       "DisplayName": "000065",
-      "SortOrder": 25628,
+      "SortOrder": 25627,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000065.png",
@@ -1275,7 +1275,7 @@
       "FileSizeBytes": 8497,
       "Width": 90,
       "Height": 188,
-      "LastModifiedAt": "2026-07-15T03:53:42.8596557+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9841686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1286,7 +1286,7 @@
     {
       "AssetId": 730,
       "DisplayName": "000066",
-      "SortOrder": 25629,
+      "SortOrder": 25628,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000066.png",
@@ -1295,7 +1295,7 @@
       "FileSizeBytes": 5688,
       "Width": 47,
       "Height": 161,
-      "LastModifiedAt": "2026-07-15T03:53:42.862658+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9841686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1306,7 +1306,7 @@
     {
       "AssetId": 739,
       "DisplayName": "000067",
-      "SortOrder": 25630,
+      "SortOrder": 25629,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000067.png",
@@ -1315,7 +1315,7 @@
       "FileSizeBytes": 8779,
       "Width": 55,
       "Height": 179,
-      "LastModifiedAt": "2026-07-15T03:53:42.8656578+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9841686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1326,7 +1326,7 @@
     {
       "AssetId": 748,
       "DisplayName": "000068",
-      "SortOrder": 25631,
+      "SortOrder": 25630,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000068.png",
@@ -1335,7 +1335,7 @@
       "FileSizeBytes": 7977,
       "Width": 65,
       "Height": 171,
-      "LastModifiedAt": "2026-07-15T03:53:42.8676567+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9846687+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1346,7 +1346,7 @@
     {
       "AssetId": 757,
       "DisplayName": "000069",
-      "SortOrder": 25632,
+      "SortOrder": 25631,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000069.png",
@@ -1355,7 +1355,7 @@
       "FileSizeBytes": 8866,
       "Width": 77,
       "Height": 200,
-      "LastModifiedAt": "2026-07-15T03:53:42.8706577+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9851686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1366,7 +1366,7 @@
     {
       "AssetId": 768,
       "DisplayName": "000070",
-      "SortOrder": 25633,
+      "SortOrder": 25632,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000070.png",
@@ -1375,7 +1375,7 @@
       "FileSizeBytes": 11725,
       "Width": 88,
       "Height": 223,
-      "LastModifiedAt": "2026-07-15T03:53:42.8736627+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9851686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1386,7 +1386,7 @@
     {
       "AssetId": 778,
       "DisplayName": "000071",
-      "SortOrder": 25634,
+      "SortOrder": 25633,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000071.png",
@@ -1395,7 +1395,7 @@
       "FileSizeBytes": 9447,
       "Width": 75,
       "Height": 253,
-      "LastModifiedAt": "2026-07-15T03:53:42.8756622+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9851686+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1406,7 +1406,7 @@
     {
       "AssetId": 788,
       "DisplayName": "000072",
-      "SortOrder": 25635,
+      "SortOrder": 25634,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000072.png",
@@ -1415,7 +1415,7 @@
       "FileSizeBytes": 6476,
       "Width": 54,
       "Height": 229,
-      "LastModifiedAt": "2026-07-15T03:53:42.878661+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9856683+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1426,7 +1426,7 @@
     {
       "AssetId": 798,
       "DisplayName": "000073",
-      "SortOrder": 25636,
+      "SortOrder": 25635,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000073.png",
@@ -1435,7 +1435,7 @@
       "FileSizeBytes": 15047,
       "Width": 145,
       "Height": 267,
-      "LastModifiedAt": "2026-07-15T03:53:42.8816601+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9856683+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1446,7 +1446,7 @@
     {
       "AssetId": 808,
       "DisplayName": "000074",
-      "SortOrder": 25637,
+      "SortOrder": 25636,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000074.png",
@@ -1455,7 +1455,7 @@
       "FileSizeBytes": 10242,
       "Width": 54,
       "Height": 241,
-      "LastModifiedAt": "2026-07-15T03:53:42.8856603+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9861708+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1466,7 +1466,7 @@
     {
       "AssetId": 815,
       "DisplayName": "000075",
-      "SortOrder": 25638,
+      "SortOrder": 25637,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000075.png",
@@ -1475,7 +1475,7 @@
       "FileSizeBytes": 9244,
       "Width": 68,
       "Height": 105,
-      "LastModifiedAt": "2026-07-15T03:53:42.8892827+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9861708+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1486,7 +1486,7 @@
     {
       "AssetId": 823,
       "DisplayName": "000076",
-      "SortOrder": 25639,
+      "SortOrder": 25638,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000076.png",
@@ -1495,7 +1495,7 @@
       "FileSizeBytes": 16312,
       "Width": 66,
       "Height": 216,
-      "LastModifiedAt": "2026-07-15T03:53:42.8946565+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9866694+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1506,7 +1506,7 @@
     {
       "AssetId": 831,
       "DisplayName": "000077",
-      "SortOrder": 25640,
+      "SortOrder": 25639,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000077.png",
@@ -1515,7 +1515,7 @@
       "FileSizeBytes": 11038,
       "Width": 70,
       "Height": 228,
-      "LastModifiedAt": "2026-07-15T03:53:42.8979702+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9866694+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1526,7 +1526,7 @@
     {
       "AssetId": 839,
       "DisplayName": "000078",
-      "SortOrder": 25641,
+      "SortOrder": 25640,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000078.png",
@@ -1535,7 +1535,7 @@
       "FileSizeBytes": 9273,
       "Width": 50,
       "Height": 217,
-      "LastModifiedAt": "2026-07-15T03:53:42.9001817+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9866694+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1546,7 +1546,7 @@
     {
       "AssetId": 847,
       "DisplayName": "000079",
-      "SortOrder": 25642,
+      "SortOrder": 25641,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000079.png",
@@ -1555,7 +1555,7 @@
       "FileSizeBytes": 18707,
       "Width": 105,
       "Height": 236,
-      "LastModifiedAt": "2026-07-15T03:53:42.9071814+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9871681+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1566,7 +1566,7 @@
     {
       "AssetId": 858,
       "DisplayName": "000080",
-      "SortOrder": 25643,
+      "SortOrder": 25642,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000080.png",
@@ -1575,7 +1575,7 @@
       "FileSizeBytes": 12997,
       "Width": 72,
       "Height": 233,
-      "LastModifiedAt": "2026-07-15T03:53:42.9111816+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9871681+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1586,7 +1586,7 @@
     {
       "AssetId": 868,
       "DisplayName": "000081",
-      "SortOrder": 25644,
+      "SortOrder": 25643,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000081.png",
@@ -1595,7 +1595,7 @@
       "FileSizeBytes": 10974,
       "Width": 74,
       "Height": 231,
-      "LastModifiedAt": "2026-07-15T03:53:42.9144657+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9871681+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1606,7 +1606,7 @@
     {
       "AssetId": 876,
       "DisplayName": "000082",
-      "SortOrder": 25645,
+      "SortOrder": 25644,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000082.png",
@@ -1615,7 +1615,7 @@
       "FileSizeBytes": 3863,
       "Width": 41,
       "Height": 127,
-      "LastModifiedAt": "2026-07-15T03:53:42.9164662+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9871681+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1626,7 +1626,7 @@
     {
       "AssetId": 885,
       "DisplayName": "000083",
-      "SortOrder": 25646,
+      "SortOrder": 25645,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000083.png",
@@ -1635,7 +1635,7 @@
       "FileSizeBytes": 2236,
       "Width": 30,
       "Height": 79,
-      "LastModifiedAt": "2026-07-15T03:53:42.9184664+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9881714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1646,7 +1646,7 @@
     {
       "AssetId": 894,
       "DisplayName": "000084",
-      "SortOrder": 25647,
+      "SortOrder": 25646,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000084.png",
@@ -1655,7 +1655,7 @@
       "FileSizeBytes": 3766,
       "Width": 45,
       "Height": 114,
-      "LastModifiedAt": "2026-07-15T03:53:42.9204666+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9881714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1666,7 +1666,7 @@
     {
       "AssetId": 903,
       "DisplayName": "000085",
-      "SortOrder": 25648,
+      "SortOrder": 25647,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000085.png",
@@ -1675,7 +1675,7 @@
       "FileSizeBytes": 4411,
       "Width": 39,
       "Height": 131,
-      "LastModifiedAt": "2026-07-15T03:53:42.9224676+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9881714+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1686,7 +1686,7 @@
     {
       "AssetId": 912,
       "DisplayName": "000086",
-      "SortOrder": 25649,
+      "SortOrder": 25648,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000086.png",
@@ -1695,7 +1695,7 @@
       "FileSizeBytes": 7392,
       "Width": 73,
       "Height": 143,
-      "LastModifiedAt": "2026-07-15T03:53:42.9244679+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9886748+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {
@@ -1706,7 +1706,7 @@
     {
       "AssetId": 921,
       "DisplayName": "000087",
-      "SortOrder": 25650,
+      "SortOrder": 25649,
       "Category": "角色",
       "Subcategory": "武器内观1",
       "RelativePath": "Client/Assets/角色/武器内观1/000087.png",
@@ -1715,7 +1715,7 @@
       "FileSizeBytes": 9647,
       "Width": 62,
       "Height": 175,
-      "LastModifiedAt": "2026-07-15T03:53:42.9274655+00:00",
+      "LastModifiedAt": "2026-07-15T12:46:37.9886748+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

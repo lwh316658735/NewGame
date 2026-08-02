@@ -23,8 +23,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 1,
-          "MaxValue": 1
+          "MinValue": 10,
+          "MaxValue": 10
         }
       ]
     },
@@ -36,8 +36,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 2,
-          "MaxValue": 2
+          "MinValue": 11,
+          "MaxValue": 11
         }
       ]
     },
@@ -49,8 +49,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 3,
-          "MaxValue": 3
+          "MinValue": 12,
+          "MaxValue": 12
         }
       ]
     },
@@ -62,8 +62,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 4,
-          "MaxValue": 4
+          "MinValue": 13,
+          "MaxValue": 13
         }
       ]
     },
@@ -75,8 +75,8 @@
       "RangeValues": [
         {
           "RangeId": 0,
-          "MinValue": 5,
-          "MaxValue": 5
+          "MinValue": 14,
+          "MaxValue": 14
         }
       ]
     }

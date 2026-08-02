@@ -16,43 +16,7 @@
     "EquipRequirements": [
       {
         "RequirementType": "RequiredCharacterLevel",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredRebirthLevel",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredStrength",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredIntelligence",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredAgility",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredConstitution",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredSpirit",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredPhysicalAttack",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredMagicAttack",
-        "RequiredValue": 1
-      },
-      {
-        "RequirementType": "RequiredTaoismAttack",
-        "RequiredValue": 1
+        "RequiredValue": 30
       }
     ],
     "MaxDurability": 0,

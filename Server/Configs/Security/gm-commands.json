@@ -171,16 +171,6 @@
       "IsEnabled": true
     },
     {
-      "CommandId": "monster.set_attribute",
-      "DisplayName": "设置怪物属性",
-      "Aliases": [
-        "@设置怪物属性"
-      ],
-      "MinimumPermissionLevel": 2,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
       "CommandId": "gm.invisible",
       "DisplayName": "隐身",
       "Aliases": [
@@ -245,16 +235,6 @@
       "DisplayName": "设置转生",
       "Aliases": [
         "@设置转生"
-      ],
-      "MinimumPermissionLevel": 3,
-      "AuditLevel": "Sensitive",
-      "IsEnabled": true
-    },
-    {
-      "CommandId": "character.set_attribute",
-      "DisplayName": "设置属性",
-      "Aliases": [
-        "@设置属性"
       ],
       "MinimumPermissionLevel": 3,
       "AuditLevel": "Sensitive",

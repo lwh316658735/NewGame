@@ -1,8 +1,8 @@
 {
   "SkillId": 7,
-  "DisplayName": "测试技能",
-  "Category": "Active",
-  "SkillType": "Attack",
+  "DisplayName": "鬼影步",
+  "Category": "Passive",
+  "SkillType": null,
   "TriggerPriority": 0,
   "TargetType": "Target",
   "Range": {
@@ -26,11 +26,15 @@
       100
     ],
     "MaxExpLevel": 2,
-    "MaxLevel": 3,
+    "MaxLevel": 5,
     "KillExperiencePercent": 0
   },
   "ActiveEffects": [],
-  "PassiveEffects": [],
+  "PassiveEffects": [
+    {
+      "AffixId": 12
+    }
+  ],
   "ComboNextSkillId": null,
   "ComboWindowMilliseconds": 0,
   "ReferenceSkillId": null

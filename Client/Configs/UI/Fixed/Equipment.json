@@ -4,7 +4,7 @@
   "DisplayName": "装备穿戴",
   "BackgroundMusicAssetId": 0,
   "PresentationScriptId": "system/ui/fixed/Equipment",
-  "HasPresentationScript": false,
+  "HasPresentationScript": true,
   "Controls": [
     {
       "ControlId": "dragHandle",

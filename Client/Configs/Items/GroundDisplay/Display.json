@@ -1,14 +1,14 @@
 {
   "Version": 1,
   "NameTextStyle": {
-    "FontFamily": "NSimSun",
-    "FontSize": 12,
+    "FontFamily": "SimSun",
+    "FontSize": 14,
     "TextEffect": {
       "IsOutlineEnabled": true,
-      "OutlineColor": "#00000057",
+      "OutlineColor": "#000000",
       "OutlineWidth": 1,
-      "IsShadowEnabled": false,
-      "ShadowColor": "#00000082",
+      "IsShadowEnabled": true,
+      "ShadowColor": "#000000",
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
       "ShadowBlur": 0

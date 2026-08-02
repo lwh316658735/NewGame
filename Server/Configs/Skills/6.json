@@ -30,7 +30,11 @@
     "MaxLevel": 5,
     "KillExperiencePercent": 100
   },
-  "ActiveEffects": [],
+  "ActiveEffects": [
+    {
+      "AffixId": 11
+    }
+  ],
   "PassiveEffects": [],
   "ComboNextSkillId": null,
   "ComboWindowMilliseconds": 0,

@@ -1,8 +1,8 @@
 {
   "SkillId": 7,
-  "DisplayName": "测试技能",
-  "Description": "填写技能用途、释放方式和客户端展示说明。",
-  "IconAssetId": 0,
+  "DisplayName": "鬼影步",
+  "Description": "跑动的时候有几率隐身.",
+  "IconAssetId": 40402,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": false,
   "Visual": {

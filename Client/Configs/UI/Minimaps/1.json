@@ -1,14 +1,14 @@
 {
   "Version": 4,
   "ScreenId": "Minimap",
-  "DisplayName": "\u5C0F\u5730\u56FE",
+  "DisplayName": "小地图",
   "BackgroundMusicAssetId": 0,
   "PresentationScriptId": "system/ui/fixed/Minimap",
   "HasPresentationScript": false,
   "Controls": [
     {
       "ControlId": "minimapLargeFullMapImage",
-      "DisplayName": "\u5927\u5730\u56FE\u5168\u56FE",
+      "DisplayName": "大地图全图",
       "Kind": "Image",
       "X": 550,
       "Y": 276,
@@ -40,9 +40,9 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 40078,
+      "AssetId": 40401,
       "AssetIds": [
-        40078
+        40401
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Stretch",
@@ -253,7 +253,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
@@ -296,7 +296,7 @@
     },
     {
       "ControlId": "text",
-      "DisplayName": "\u5927\u5730\u56FE\u5750\u6807",
+      "DisplayName": "大地图坐标",
       "Kind": "Text",
       "X": 1304,
       "Y": 790,
@@ -537,7 +537,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
@@ -580,7 +580,7 @@
     },
     {
       "ControlId": "minimapSmallFullMapImage",
-      "DisplayName": "\u5C0F\u5730\u56FE\u5168\u56FE",
+      "DisplayName": "小地图全图",
       "Kind": "Image",
       "X": 1720,
       "Y": 0,
@@ -612,9 +612,9 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 40078,
+      "AssetId": 40401,
       "AssetIds": [
-        40078
+        40401
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Stretch",
@@ -825,7 +825,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
@@ -868,7 +868,7 @@
     },
     {
       "ControlId": "minimapLocalMapImage",
-      "DisplayName": "\u5C40\u90E8\u5730\u56FE",
+      "DisplayName": "局部地图",
       "Kind": "Image",
       "X": 1800,
       "Y": 0,
@@ -900,9 +900,9 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 40078,
+      "AssetId": 40401,
       "AssetIds": [
-        40078
+        40401
       ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
@@ -1113,7 +1113,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
@@ -1156,7 +1156,7 @@
     },
     {
       "ControlId": "text2",
-      "DisplayName": "\u4E2D\u5730\u56FE\u5750\u6807",
+      "DisplayName": "中地图坐标",
       "Kind": "Text",
       "X": 1870,
       "Y": 187,
@@ -1397,7 +1397,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
@@ -1440,7 +1440,7 @@
     },
     {
       "ControlId": "text22",
-      "DisplayName": "\u5C0F\u5730\u56FE\u5750\u6807",
+      "DisplayName": "小地图坐标",
       "Kind": "Text",
       "X": 1873,
       "Y": 107,
@@ -1681,7 +1681,7 @@
           "X": 96,
           "Y": 8,
           "MaxWidth": 456,
-          "Text": "{{Skill.DisplayName}}\n\u5F53\u524D\u7B49\u7EA7\uFF1A{{Skill.CurrentLevel}}\n[\u6280\u80FD\u6807\u7B7E\uFF1A{{Skill.Tags}}]",
+          "Text": "{{Skill.DisplayName}}\n当前等级：{{Skill.CurrentLevel}}\n[技能标签：{{Skill.Tags}}]",
           "FontFamily": "NSimSun",
           "FontSize": 16,
           "TextColor": "#FFFFFF",
