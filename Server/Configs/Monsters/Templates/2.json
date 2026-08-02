@@ -5,7 +5,6 @@
   "MonsterTypeIds": [
     1
   ],
-  "AiProfileId": 1,
   "FixedAffixRules": [],
   "Combat": {
     "MaxHealth": 3000,
