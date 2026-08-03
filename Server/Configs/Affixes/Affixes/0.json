@@ -1,0 +1,27 @@
+{
+  "AffixId": 0,
+  "DisplayName": "圣战套装",
+  "CategoryIds": [
+    7
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Set"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSetBonusChanged",
+      "ScriptId": "affix/0/OnSetBonusChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    13
+  ]
+}

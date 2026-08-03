@@ -1,0 +1,27 @@
+{
+  "AffixId": 1,
+  "DisplayName": "圣装套装_附加物理攻击力",
+  "CategoryIds": [
+    7
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Set"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSetBonusChanged",
+      "ScriptId": "affix/1/OnSetBonusChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    13
+  ]
+}

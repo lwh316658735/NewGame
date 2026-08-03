@@ -27,6 +27,10 @@
     {
       "CategoryId": 6,
       "DisplayName": "<c:BC9A9A>近战</>"
+    },
+    {
+      "CategoryId": 7,
+      "DisplayName": "套装"
     }
   ]
 }

@@ -181,18 +181,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            2351,
-            2360,
-            2369,
-            2378,
-            2387,
-            2396,
-            2405,
-            2414,
-            2423,
-            2432
-          ]
+          "FrameAssetIds": []
         }
       ]
     },

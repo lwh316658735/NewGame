@@ -2,7 +2,9 @@
   "TierSetId": 11,
   "DisplayName": "技能_吸星大法",
   "Description": "首版装备词缀T阶。",
-  "AllowedLocations": [],
+  "AllowedLocations": [
+    "Skill"
+  ],
   "IsFixedTierMode": true,
   "ItemLevelStep": 1,
   "RangeDefinitions": [

@@ -1,0 +1,46 @@
+{
+  "TierSetId": 13,
+  "DisplayName": "套装_圣战套装",
+  "Description": "",
+  "AllowedLocations": [
+    "Set"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "物理攻击力增加",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Percent",
+      "ValueStep": 5000
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "物理攻击附加",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Integer",
+      "ValueStep": 1
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 5000,
+          "MaxValue": 5000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 100,
+          "MaxValue": 100
+        }
+      ]
+    }
+  ]
+}

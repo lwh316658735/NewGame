@@ -17,10 +17,6 @@
       {
         "RequirementType": "RequiredCharacterLevel",
         "RequiredValue": 30
-      },
-      {
-        "RequirementType": "RequiredPhysicalAttack",
-        "RequiredValue": 500
       }
     ],
     "MaxDurability": 0,
