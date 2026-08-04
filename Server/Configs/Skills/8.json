@@ -1,0 +1,42 @@
+{
+  "SkillId": 8,
+  "DisplayName": "雷电术",
+  "Category": "Active",
+  "SkillType": "Release",
+  "TriggerPriority": 0,
+  "TargetType": "Target",
+  "Range": {
+    "RangeType": "SingleTarget",
+    "CastRangeCells": 15,
+    "LengthCells": 0,
+    "WidthCells": 0,
+    "RadiusCells": 0,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 500,
+  "PostSwingMilliseconds": 100,
+  "CooldownMilliseconds": 1000,
+  "CooldownGroupId": 0,
+  "ManaCost": 60,
+  "HealthCost": 0,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      50000,
+      50000
+    ],
+    "MaxExpLevel": 3,
+    "MaxLevel": 5,
+    "KillExperiencePercent": 1000
+  },
+  "ActiveEffects": [
+    {
+      "AffixId": 2
+    }
+  ],
+  "PassiveEffects": [],
+  "ComboNextSkillId": null,
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": null
+}

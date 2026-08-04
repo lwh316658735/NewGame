@@ -31,6 +31,14 @@
     {
       "CategoryId": 7,
       "DisplayName": "套装"
+    },
+    {
+      "CategoryId": 8,
+      "DisplayName": "<c:0091FF>闪电</>"
+    },
+    {
+      "CategoryId": 9,
+      "DisplayName": "<c:F9B8B8>远程</>"
     }
   ]
 }

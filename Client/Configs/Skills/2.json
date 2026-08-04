@@ -2,7 +2,7 @@
   "SkillId": 2,
   "DisplayName": "刺杀剑法",
   "Description": "这是一个近战技能",
-  "IconAssetId": 27585,
+  "IconAssetId": 41864,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {

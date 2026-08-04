@@ -1,0 +1,29 @@
+{
+  "AffixId": 2,
+  "DisplayName": "技能_雷电术_基础",
+  "CategoryIds": [
+    3,
+    8,
+    9
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/2/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    14
+  ]
+}

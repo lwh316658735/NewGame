@@ -26,6 +26,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -312,6 +314,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -598,6 +602,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -884,6 +890,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -1170,6 +1178,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -1454,6 +1464,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -1740,6 +1752,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -2026,6 +2040,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -2312,6 +2328,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -2598,6 +2616,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -2884,6 +2904,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -3170,6 +3192,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -3454,6 +3478,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -3738,6 +3764,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 12,
       "TextColor": "#000000",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -4022,6 +4050,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -4306,6 +4336,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 14,
       "TextColor": "#000000",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": false,
       "TextEffect": {
@@ -4590,6 +4622,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -4874,6 +4908,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 12,
       "TextColor": "#FFDD00",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -5158,6 +5194,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 12,
       "TextColor": "#37FF00",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -5442,6 +5480,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 14,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -5726,6 +5766,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -6010,6 +6052,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 14,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -6294,6 +6338,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 20,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "MiddleCenter",
       "IsTextWrapEnabled": false,
       "TextEffect": {
@@ -6578,6 +6624,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -6875,6 +6923,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "#E36363",
+      "LinkPressedTextColor": "#F5F5F1",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -7159,6 +7209,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {
@@ -7443,6 +7495,8 @@
       "FontFamily": "NSimSun",
       "FontSize": 16,
       "TextColor": "#FFFFFF",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
       "TextEffect": {

@@ -2,7 +2,7 @@
   "SkillId": 4,
   "DisplayName": "开天斩",
   "Description": "填写技能用途、释放方式和客户端展示说明。",
-  "IconAssetId": 0,
+  "IconAssetId": 41867,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {

@@ -1,0 +1,150 @@
+{
+  "TierSetId": 14,
+  "DisplayName": "技能_各种技能",
+  "Description": "",
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "雷电术_百分比",
+      "Description": "",
+      "ValueKind": "Percent",
+      "ValueStep": 1000
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "雷电术_固定伤害1",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Integer",
+      "ValueStep": 10
+    },
+    {
+      "RangeId": 2,
+      "DisplayName": "雷电术_固定伤害2",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Integer",
+      "ValueStep": 10
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 1,
+      "MaxItemLevel": 1,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 1000,
+          "MaxValue": 1000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 10,
+          "MaxValue": 10
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 20,
+          "MaxValue": 20
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 2,
+      "MaxItemLevel": 2,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 2000,
+          "MaxValue": 2000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 20,
+          "MaxValue": 20
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 30,
+          "MaxValue": 30
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 3,
+      "MaxItemLevel": 3,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 3000,
+          "MaxValue": 3000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 30,
+          "MaxValue": 30
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 40,
+          "MaxValue": 40
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 4,
+      "MaxItemLevel": 4,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 4000,
+          "MaxValue": 4000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 40,
+          "MaxValue": 40
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 50,
+          "MaxValue": 50
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 5,
+      "MaxItemLevel": 5,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 5000,
+          "MaxValue": 5000
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 50,
+          "MaxValue": 50
+        },
+        {
+          "RangeId": 2,
+          "MinValue": 60,
+          "MaxValue": 60
+        }
+      ]
+    }
+  ]
+}

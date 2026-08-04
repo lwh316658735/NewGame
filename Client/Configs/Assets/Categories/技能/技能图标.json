@@ -14182,6 +14182,206 @@
         "OffsetX": 0,
         "OffsetY": 0
       }
+    },
+    {
+      "AssetId": 41863,
+      "DisplayName": "冰咆哮_技能图标_125x125",
+      "SortOrder": 41859,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/冰咆哮_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 39313,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.3782355+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41864,
+      "DisplayName": "刺杀剑法_技能图标_125x125",
+      "SortOrder": 41860,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/刺杀剑法_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 22983,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.4107331+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41865,
+      "DisplayName": "半月弯刀_技能图标_125x125",
+      "SortOrder": 41861,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/半月弯刀_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 29214,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.343912+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41866,
+      "DisplayName": "吸星大法_技能图标_125x125",
+      "SortOrder": 41862,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/吸星大法_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 34510,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.595986+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41867,
+      "DisplayName": "开天斩_技能图标_125x125",
+      "SortOrder": 41863,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/开天斩_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24567,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.4678908+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41868,
+      "DisplayName": "火球术_技能图标_125x125",
+      "SortOrder": 41864,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/火球术_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 28519,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.4386092+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41869,
+      "DisplayName": "烈火剑法_技能图标_125x125",
+      "SortOrder": 41865,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/烈火剑法_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 28368,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.5628649+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41870,
+      "DisplayName": "逐日剑法_技能图标_125x125",
+      "SortOrder": 41866,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/逐日剑法_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 31087,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.6308972+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41871,
+      "DisplayName": "雷电术_技能图标_125x125",
+      "SortOrder": 41867,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/雷电术_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 37429,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.5009508+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 41872,
+      "DisplayName": "雷霆剑法_技能图标_125x125",
+      "SortOrder": 41868,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/雷霆剑法_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24886,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-04T07:02:32.5328405+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
     }
   ]
 }
