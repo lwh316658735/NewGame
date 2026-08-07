@@ -8,6 +8,48 @@
   "TeamItemRowSpacing": 8,
   "Controls": [
     {
+      "ControlId": "teamMemberListGroup",
+      "DisplayName": "组队信息列表分组",
+      "Kind": "Group",
+      "X": 10,
+      "Y": 103,
+      "Width": 255,
+      "Height": 88,
+      "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
+      "IsLockedInEditor": false,
+      "ZIndex": 0,
+      "DragTargetControlIds": [],
+      "GroupMemberControlIds": [
+        "teamItemBackground",
+        "dragHandle",
+        "progressBar",
+        "teamMemberHealth",
+        "teamMemberLevel",
+        "teamMemberMana",
+        "teamMemberName"
+      ],
+      "IsEquipmentAppearanceVisible": false,
+      "IsVisibleByDefault": true
+    },
+    {
+      "ControlId": "teamContextMenuGroup",
+      "DisplayName": "组队右键菜单分组",
+      "Kind": "Group",
+      "X": 289,
+      "Y": 103,
+      "Width": 240,
+      "Height": 160,
+      "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
+      "IsLockedInEditor": false,
+      "ZIndex": 0,
+      "DragTargetControlIds": [],
+      "GroupMemberControlIds": [],
+      "IsEquipmentAppearanceVisible": false,
+      "IsVisibleByDefault": true
+    },
+    {
       "ControlId": "teamItemBackground",
       "DisplayName": "队友信息背景",
       "Kind": "Image",
