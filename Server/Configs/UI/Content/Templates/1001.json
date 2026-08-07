@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "TemplateId": 1001,
+  "DisplayName": "NPC _传送小姐姐",
+  "PresentationScriptId": "npc/ui/content/1001",
+  "HasPresentationScript": false,
+  "Actions": [
+    {
+      "ActionId": "action",
+      "DisplayName": "链接2动作",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1001",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

@@ -6,7 +6,7 @@
     {
       "AssetId": 40401,
       "DisplayName": "1 小地图",
-      "SortOrder": 40397,
+      "SortOrder": 40648,
       "Category": "小地图",
       "Subcategory": "LegacyMinimap",
       "RelativePath": "Client/Assets/小地图/LegacyMinimap/1/1_generated.png",
@@ -15,11 +15,57 @@
       "FileSizeBytes": 4844307,
       "Width": 2100,
       "Height": 1400,
-      "LastModifiedAt": "2026-07-31T15:40:29.2147108+00:00",
+      "LastModifiedAt": "2026-08-03T00:59:48.5120881+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMinimap",
         "MapId.1"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42124,
+      "DisplayName": "2 小地图",
+      "SortOrder": 42120,
+      "Category": "小地图",
+      "Subcategory": "LegacyMinimap",
+      "RelativePath": "Client/Assets/小地图/LegacyMinimap/2/2_generated.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 77620,
+      "Width": 450,
+      "Height": 300,
+      "LastModifiedAt": "2026-08-05T04:21:49.0657366+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMinimap",
+        "MapId.2"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42125,
+      "DisplayName": "3 小地图",
+      "SortOrder": 42121,
+      "Category": "小地图",
+      "Subcategory": "LegacyMinimap",
+      "RelativePath": "Client/Assets/小地图/LegacyMinimap/3/3_generated.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 11233,
+      "Width": 150,
+      "Height": 100,
+      "LastModifiedAt": "2026-08-05T04:21:54.6811685+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMinimap",
+        "MapId.3"
       ],
       "Transform": {
         "OffsetX": 0,

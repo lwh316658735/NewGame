@@ -1,0 +1,25 @@
+{
+  "NpcModelId": "NpcModel0001",
+  "DisplayName": "传送小姐姐",
+  "FrameAssetIds": [
+    39032,
+    39033,
+    39034,
+    39035,
+    39036,
+    39037,
+    39038,
+    39039,
+    39040,
+    39041
+  ],
+  "FramesPerSecond": 5,
+  "DefaultScaleX": 1,
+  "DefaultScaleY": 1,
+  "HitBox": {
+    "OffsetX": -3,
+    "OffsetY": -51,
+    "Width": 52,
+    "Height": 81
+  }
+}

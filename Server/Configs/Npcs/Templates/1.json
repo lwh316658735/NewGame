@@ -1,0 +1,9 @@
+{
+  "NpcId": 1,
+  "DisplayName": "传送小姐姐008",
+  "InteractionKind": "ContentTemplate",
+  "InteractionDistanceCells": 15,
+  "ContentTemplate": {
+    "TemplateId": 1001
+  }
+}

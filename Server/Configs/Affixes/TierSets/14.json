@@ -28,6 +28,13 @@
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Integer",
       "ValueStep": 10
+    },
+    {
+      "RangeId": 3,
+      "DisplayName": "分身术继承百分比",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Percent",
+      "ValueStep": 5000
     }
   ],
   "Tiers": [
@@ -51,6 +58,11 @@
           "RangeId": 2,
           "MinValue": 20,
           "MaxValue": 20
+        },
+        {
+          "RangeId": 3,
+          "MinValue": 10000,
+          "MaxValue": 10000
         }
       ]
     },
@@ -74,6 +86,11 @@
           "RangeId": 2,
           "MinValue": 30,
           "MaxValue": 30
+        },
+        {
+          "RangeId": 3,
+          "MinValue": 15000,
+          "MaxValue": 15000
         }
       ]
     },
@@ -97,6 +114,11 @@
           "RangeId": 2,
           "MinValue": 40,
           "MaxValue": 40
+        },
+        {
+          "RangeId": 3,
+          "MinValue": 20000,
+          "MaxValue": 20000
         }
       ]
     },
@@ -120,6 +142,11 @@
           "RangeId": 2,
           "MinValue": 50,
           "MaxValue": 50
+        },
+        {
+          "RangeId": 3,
+          "MinValue": 30000,
+          "MaxValue": 30000
         }
       ]
     },
@@ -143,6 +170,11 @@
           "RangeId": 2,
           "MinValue": 60,
           "MaxValue": 60
+        },
+        {
+          "RangeId": 3,
+          "MinValue": 40000,
+          "MaxValue": 40000
         }
       ]
     }

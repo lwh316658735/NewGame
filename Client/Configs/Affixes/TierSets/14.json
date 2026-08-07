@@ -24,6 +24,12 @@
           "ValueKind": "Integer",
           "MinValue": 20,
           "MaxValue": 20
+        },
+        {
+          "RangeId": 3,
+          "ValueKind": "Percent",
+          "MinValue": 1,
+          "MaxValue": 1
         }
       ]
     },
@@ -50,6 +56,12 @@
           "ValueKind": "Integer",
           "MinValue": 30,
           "MaxValue": 30
+        },
+        {
+          "RangeId": 3,
+          "ValueKind": "Percent",
+          "MinValue": 1.5,
+          "MaxValue": 1.5
         }
       ]
     },
@@ -76,6 +88,12 @@
           "ValueKind": "Integer",
           "MinValue": 40,
           "MaxValue": 40
+        },
+        {
+          "RangeId": 3,
+          "ValueKind": "Percent",
+          "MinValue": 2,
+          "MaxValue": 2
         }
       ]
     },
@@ -102,6 +120,12 @@
           "ValueKind": "Integer",
           "MinValue": 50,
           "MaxValue": 50
+        },
+        {
+          "RangeId": 3,
+          "ValueKind": "Percent",
+          "MinValue": 3,
+          "MaxValue": 3
         }
       ]
     },
@@ -128,6 +152,12 @@
           "ValueKind": "Integer",
           "MinValue": 60,
           "MaxValue": 60
+        },
+        {
+          "RangeId": 3,
+          "ValueKind": "Percent",
+          "MinValue": 4,
+          "MaxValue": 4
         }
       ]
     }

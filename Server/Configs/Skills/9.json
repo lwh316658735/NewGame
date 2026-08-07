@@ -1,0 +1,41 @@
+{
+  "SkillId": 9,
+  "DisplayName": "分身术",
+  "Category": "Active",
+  "SkillType": "Release",
+  "TriggerPriority": 0,
+  "TargetType": "Self",
+  "Range": {
+    "RangeType": "SingleTarget",
+    "CastRangeCells": 0,
+    "LengthCells": 0,
+    "WidthCells": 0,
+    "RadiusCells": 0,
+    "AngleDegrees": 0
+  },
+  "PreSwingMilliseconds": 500,
+  "PostSwingMilliseconds": 100,
+  "CooldownMilliseconds": 5000,
+  "CooldownGroupId": 0,
+  "ManaCost": 100,
+  "HealthCost": 5000,
+  "DurationMilliseconds": 0,
+  "TickIntervalMilliseconds": 0,
+  "Leveling": {
+    "ExpPerLevel": [
+      100
+    ],
+    "MaxExpLevel": 2,
+    "MaxLevel": 3,
+    "KillExperiencePercent": 0
+  },
+  "ActiveEffects": [
+    {
+      "AffixId": 3
+    }
+  ],
+  "PassiveEffects": [],
+  "ComboNextSkillId": null,
+  "ComboWindowMilliseconds": 0,
+  "ReferenceSkillId": null
+}

@@ -1,0 +1,33 @@
+{
+  "AffixId": 3,
+  "DisplayName": "技能_分身术",
+  "CategoryIds": [
+    3
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnRelease",
+      "ScriptId": "affix/3/OnRelease",
+      "Priority": 0,
+      "IsEnabled": true
+    },
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/3/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    14
+  ]
+}

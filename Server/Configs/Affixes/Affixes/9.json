@@ -9,8 +9,7 @@
   "AffixType": "NormalPrefix",
   "Weight": 100,
   "AllowedLocations": [
-    "Monster",
-    "Weapon"
+    "Monster"
   ],
   "Tags": [],
   "ConflictGroup": 0,

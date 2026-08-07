@@ -1,6 +1,6 @@
 {
   "ClassId": "Mage",
-  "DisplayName": "\u6CD5\u5E08",
+  "DisplayName": "法师",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -23,8 +23,8 @@
   "BaseCombatAttributes": {
     "MaxHealth": 300000000,
     "MaxMana": 80000,
-    "MinPhysicalAttack": 100,
-    "MaxPhysicalAttack": 100,
+    "MinPhysicalAttack": 100000,
+    "MaxPhysicalAttack": 100000,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,

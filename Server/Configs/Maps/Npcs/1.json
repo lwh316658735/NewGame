@@ -1,0 +1,26 @@
+{
+  "Version": 2,
+  "MapId": 1,
+  "NpcPlacements": [
+    {
+      "DisplayName": "NPC放置点1",
+      "PlacementId": "MapNpc0001",
+      "NpcId": 1,
+      "IsEnabled": true,
+      "Column": 355,
+      "Row": 292,
+      "OffsetX": 24,
+      "OffsetY": 32
+    },
+    {
+      "DisplayName": "NPC放置点2",
+      "PlacementId": "MapNpc0002",
+      "NpcId": 2,
+      "IsEnabled": true,
+      "Column": 302,
+      "Row": 292,
+      "OffsetX": 24,
+      "OffsetY": 32
+    }
+  ]
+}

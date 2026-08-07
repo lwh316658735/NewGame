@@ -1,0 +1,24 @@
+{
+  "NpcId": 2,
+  "DisplayName": "红娘",
+  "NpcModelId": "NpcModel0002",
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 12,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#ffffff",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": true,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": true,
+      "ShadowColor": "#00000080",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  }
+}

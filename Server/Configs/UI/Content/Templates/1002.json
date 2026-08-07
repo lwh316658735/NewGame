@@ -1,0 +1,19 @@
+{
+  "Version": 2,
+  "TemplateId": 1002,
+  "DisplayName": "NPC_红娘",
+  "PresentationScriptId": "npc/ui/content/1002",
+  "HasPresentationScript": false,
+  "Actions": [],
+  "Inputs": [
+    {
+      "InputId": "input",
+      "DisplayName": "对象名称",
+      "ValueKind": "Text",
+      "IsRequired": false,
+      "MinLength": 0,
+      "MaxLength": 20
+    }
+  ],
+  "ItemSlots": []
+}
