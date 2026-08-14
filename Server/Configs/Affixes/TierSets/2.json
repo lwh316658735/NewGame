@@ -13,6 +13,7 @@
       "DisplayName": "攻击力",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Integer",
+      "InitialValue": 10,
       "ValueStep": 10
     }
   ],

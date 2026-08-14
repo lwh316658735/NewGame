@@ -6,7 +6,7 @@
     {
       "AssetId": 27555,
       "DisplayName": "霸体",
-      "SortOrder": 18183,
+      "SortOrder": 18180,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/霸体.png",
@@ -26,7 +26,7 @@
     {
       "AssetId": 27556,
       "DisplayName": "赤手空拳",
-      "SortOrder": 18184,
+      "SortOrder": 18181,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/赤手空拳.png",
@@ -46,7 +46,7 @@
     {
       "AssetId": 27557,
       "DisplayName": "穿云",
-      "SortOrder": 18185,
+      "SortOrder": 18182,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/穿云.png",
@@ -66,7 +66,7 @@
     {
       "AssetId": 27558,
       "DisplayName": "摧城",
-      "SortOrder": 18186,
+      "SortOrder": 18183,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/摧城.png",
@@ -86,7 +86,7 @@
     {
       "AssetId": 27559,
       "DisplayName": "断浪",
-      "SortOrder": 18187,
+      "SortOrder": 18184,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/断浪.png",
@@ -106,7 +106,7 @@
     {
       "AssetId": 27560,
       "DisplayName": "焚心",
-      "SortOrder": 18188,
+      "SortOrder": 18185,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/焚心.png",
@@ -126,7 +126,7 @@
     {
       "AssetId": 27561,
       "DisplayName": "归元",
-      "SortOrder": 18189,
+      "SortOrder": 18186,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/归元.png",
@@ -146,7 +146,7 @@
     {
       "AssetId": 27563,
       "DisplayName": "弧光",
-      "SortOrder": 18190,
+      "SortOrder": 18187,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/弧光.png",
@@ -166,7 +166,7 @@
     {
       "AssetId": 27564,
       "DisplayName": "虎跑",
-      "SortOrder": 18191,
+      "SortOrder": 18188,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/虎跑.PNG",
@@ -186,7 +186,7 @@
     {
       "AssetId": 27565,
       "DisplayName": "剑鸣",
-      "SortOrder": 18192,
+      "SortOrder": 18189,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/剑鸣.png",
@@ -206,7 +206,7 @@
     {
       "AssetId": 27566,
       "DisplayName": "剑气护体",
-      "SortOrder": 18193,
+      "SortOrder": 18190,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/剑气护体.png",
@@ -226,7 +226,7 @@
     {
       "AssetId": 27567,
       "DisplayName": "狂击",
-      "SortOrder": 18194,
+      "SortOrder": 18191,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/狂击.png",
@@ -246,7 +246,7 @@
     {
       "AssetId": 27568,
       "DisplayName": "裂空",
-      "SortOrder": 18195,
+      "SortOrder": 18192,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/裂空.png",
@@ -266,7 +266,7 @@
     {
       "AssetId": 27569,
       "DisplayName": "灭杀",
-      "SortOrder": 18196,
+      "SortOrder": 18193,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/灭杀.png",
@@ -286,7 +286,7 @@
     {
       "AssetId": 27570,
       "DisplayName": "蔑世",
-      "SortOrder": 18197,
+      "SortOrder": 18194,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/蔑世.png",
@@ -306,7 +306,7 @@
     {
       "AssetId": 27571,
       "DisplayName": "怒斩",
-      "SortOrder": 18198,
+      "SortOrder": 18195,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/怒斩.png",
@@ -326,7 +326,7 @@
     {
       "AssetId": 27572,
       "DisplayName": "人剑合一",
-      "SortOrder": 18199,
+      "SortOrder": 18196,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/人剑合一.png",
@@ -346,7 +346,7 @@
     {
       "AssetId": 27574,
       "DisplayName": "万剑归宗",
-      "SortOrder": 18200,
+      "SortOrder": 18197,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/万剑归宗.png",
@@ -366,7 +366,7 @@
     {
       "AssetId": 27575,
       "DisplayName": "燕返",
-      "SortOrder": 18201,
+      "SortOrder": 18198,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/燕返.png",
@@ -386,7 +386,7 @@
     {
       "AssetId": 27576,
       "DisplayName": "斩影",
-      "SortOrder": 18202,
+      "SortOrder": 18199,
       "Category": "界面",
       "Subcategory": "buff",
       "RelativePath": "Client/Assets/界面/buff/斩影.png",

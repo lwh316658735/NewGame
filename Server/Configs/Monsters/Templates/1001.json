@@ -5,6 +5,7 @@
   "MonsterTypeIds": [
     1
   ],
+  "ViewRangeCells": 7,
   "FixedAffixRules": [],
   "Combat": {
     "MaxHealth": 1000000,

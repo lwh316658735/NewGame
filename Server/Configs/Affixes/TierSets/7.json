@@ -13,6 +13,7 @@
       "DisplayName": "附加火焰伤害1",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Integer",
+      "InitialValue": 50,
       "ValueStep": 50
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "物理伤害百分比",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Percent",
+      "InitialValue": 10000,
       "ValueStep": 10000
     },
     {
@@ -27,6 +29,7 @@
       "DisplayName": "附加火焰伤害2",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Integer",
+      "InitialValue": 100,
       "ValueStep": 100
     }
   ],

@@ -13,6 +13,7 @@
       "DisplayName": "恢复数值",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Integer",
+      "InitialValue": 100,
       "ValueStep": 100
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "攻击恢复几率",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Percent",
+      "InitialValue": 1000,
       "ValueStep": 1
     }
   ],

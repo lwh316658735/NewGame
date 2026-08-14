@@ -1,7 +1,7 @@
 {
   "ItemId": 6,
-  "DisplayName": "<c:FF0000,00FF00,0000FF#g>物品2</>",
+  "DisplayName": "<c:FF0000,00FF00,0000FF#g>生命药剂</>",
   "Alias": "",
-  "Description": "这是物品2",
+  "Description": "恢复生命",
   "LightPillarId": ""
 }

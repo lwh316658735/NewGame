@@ -1,0 +1,64 @@
+{
+  "Version": 2,
+  "TemplateId": 9,
+  "DisplayName": "物品拆分弹窗",
+  "PresentationScriptId": "system/ui/content/9",
+  "HasPresentationScript": false,
+  "Actions": [
+    {
+      "ActionId": "cancel",
+      "DisplayName": "取消拆分动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "confirm",
+      "DisplayName": "确认拆分动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "decrease",
+      "DisplayName": "减少数量动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "increase",
+      "DisplayName": "增加数量动作",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [
+    {
+      "InputId": "quantity",
+      "DisplayName": "拆分数量",
+      "ValueKind": "Integer",
+      "IsRequired": true,
+      "MinLength": 1,
+      "MaxLength": 10
+    }
+  ],
+  "ItemSlots": []
+}

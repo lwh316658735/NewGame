@@ -13,6 +13,7 @@
       "DisplayName": "几率",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Percent",
+      "InitialValue": 400,
       "ValueStep": 1000
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "暴击伤害",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Percent",
+      "InitialValue": 100,
       "ValueStep": 5000
     }
   ],

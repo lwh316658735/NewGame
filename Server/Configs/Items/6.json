@@ -1,17 +1,28 @@
 {
   "ItemId": 6,
-  "DisplayName": "<c:FF0000,00FF00,0000FF#g>物品2</>",
-  "Kind": "Material",
+  "DisplayName": "<c:FF0000,00FF00,0000FF#g>生命药剂</>",
+  "Kind": "Consumable",
   "MaxStack": 99,
   "Price": {
     "CurrencyId": "Gold",
-    "BuyPrice": 0,
-    "SellPrice": 0,
+    "BuyPrice": 1000,
+    "SellPrice": 500,
     "CanSellToNpc": true
   },
-  "Weight": 2,
+  "Weight": 1,
   "IsCharacterBound": false,
   "AttributeItem": null,
-  "ConsumableItem": null,
-  "MaterialItem": {}
+  "ConsumableItem": {
+    "DefaultItemLevel": 1,
+    "UseCooldownGroupId": "1",
+    "UseCooldownMilliseconds": 5000,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 13
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
 }

@@ -13,6 +13,7 @@
       "DisplayName": "范围",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Integer",
+      "InitialValue": 10,
       "ValueStep": 1
     }
   ],

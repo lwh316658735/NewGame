@@ -13,6 +13,7 @@
       "DisplayName": "伤害",
       "Description": "",
       "ValueKind": "Percent",
+      "InitialValue": 1000,
       "ValueStep": 1000
     }
   ],

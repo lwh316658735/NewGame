@@ -1,0 +1,9 @@
+{
+  "MonsterId": 1002,
+  "AttackType": "SingleTarget",
+  "AttackDistanceCells": 1,
+  "AttackAreaShape": "AroundSelf",
+  "AttackAreaRadiusCells": 1,
+  "AttackAreaHalfWidthCells": 0,
+  "AttackAreaAngleDegrees": 90
+}

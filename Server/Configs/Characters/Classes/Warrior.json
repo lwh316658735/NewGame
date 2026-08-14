@@ -1,6 +1,6 @@
 {
   "ClassId": "Warrior",
-  "DisplayName": "\u6218\u58EB",
+  "DisplayName": "战士",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -21,7 +21,7 @@
     "MaxCarryWeight": 0
   },
   "BaseCombatAttributes": {
-    "MaxHealth": 10000000,
+    "MaxHealth": 20000000000,
     "MaxMana": 20,
     "MinPhysicalAttack": 0,
     "MaxPhysicalAttack": 0,

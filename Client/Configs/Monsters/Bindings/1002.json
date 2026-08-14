@@ -1,0 +1,29 @@
+{
+  "MonsterId": 1002,
+  "DisplayName": "刀卫",
+  "MonsterModelId": "MonsterModel0001",
+  "MoveIntervalMilliseconds": 1200,
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 16,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#ffffff",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": false,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": false,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  },
+  "MonsterTypeIds": [
+    2
+  ],
+  "HealthBarConfigId": 0
+}

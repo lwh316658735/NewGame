@@ -5,6 +5,12 @@
       "DisplayName": "Boss",
       "TypeLevel": 4,
       "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 2,
+      "DisplayName": "召唤物",
+      "TypeLevel": 0,
+      "HealthBarConfigId": 1001
     }
   ]
 }

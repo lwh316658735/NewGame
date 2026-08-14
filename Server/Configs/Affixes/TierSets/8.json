@@ -13,6 +13,7 @@
       "DisplayName": "触发几率",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Percent",
+      "InitialValue": 6000,
       "ValueStep": 6000
     }
   ],

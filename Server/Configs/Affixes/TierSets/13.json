@@ -13,6 +13,7 @@
       "DisplayName": "物理攻击力增加",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Percent",
+      "InitialValue": 5000,
       "ValueStep": 5000
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "物理攻击附加",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Integer",
+      "InitialValue": 100,
       "ValueStep": 1
     }
   ],

@@ -2,7 +2,7 @@
   "SkillId": 9,
   "DisplayName": "分身术",
   "Description": "填写技能用途、释放方式和客户端展示说明。",
-  "IconAssetId": 0,
+  "IconAssetId": 42133,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": false,
   "Visual": {
@@ -93,40 +93,128 @@
       "IsEffectMode": true,
       "DirectionSet": "Eight",
       "FramesPerSecond": 8,
-      "FramesPerDirection": 4,
+      "FramesPerDirection": 10,
       "RetainedDirectionArchive": null,
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            130,
+            143,
+            155,
+            167,
+            179,
+            191,
+            203,
+            215,
+            226,
+            237
+          ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            248,
+            259,
+            271,
+            282,
+            293,
+            305,
+            316,
+            327,
+            338,
+            349
+          ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            360,
+            371,
+            382,
+            393,
+            404,
+            415,
+            426,
+            437,
+            448,
+            458
+          ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            469,
+            480,
+            491,
+            501,
+            511,
+            521,
+            531,
+            542,
+            552,
+            562
+          ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            572,
+            582,
+            599,
+            608,
+            610,
+            620,
+            630,
+            640,
+            650,
+            660
+          ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            670,
+            680,
+            697,
+            706,
+            715,
+            724,
+            733,
+            742,
+            751,
+            760
+          ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            762,
+            772,
+            782,
+            792,
+            802,
+            818,
+            826,
+            834,
+            842,
+            850
+          ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetIds": [
+            852,
+            862,
+            879,
+            888,
+            897,
+            906,
+            915,
+            924,
+            932,
+            940
+          ]
         }
       ]
     },

@@ -13584,29 +13584,9 @@
       }
     },
     {
-      "AssetId": 28263,
-      "DisplayName": "MagIcon/0679",
-      "SortOrder": 10761,
-      "Category": "技能",
-      "Subcategory": "技能图标",
-      "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0679.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 120,
-      "Width": 1,
-      "Height": 1,
-      "LastModifiedAt": "2026-06-22T00:58:01.363076+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
       "AssetId": 28264,
       "DisplayName": "MagIcon/0680",
-      "SortOrder": 10762,
+      "SortOrder": 10761,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0680.png",
@@ -13626,7 +13606,7 @@
     {
       "AssetId": 28265,
       "DisplayName": "MagIcon/0681",
-      "SortOrder": 10763,
+      "SortOrder": 10762,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0681.png",
@@ -13646,7 +13626,7 @@
     {
       "AssetId": 28266,
       "DisplayName": "MagIcon/0682",
-      "SortOrder": 10764,
+      "SortOrder": 10763,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0682.png",
@@ -13666,7 +13646,7 @@
     {
       "AssetId": 28267,
       "DisplayName": "MagIcon/0683",
-      "SortOrder": 10765,
+      "SortOrder": 10764,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0683.png",
@@ -13686,7 +13666,7 @@
     {
       "AssetId": 28268,
       "DisplayName": "MagIcon/0684",
-      "SortOrder": 10766,
+      "SortOrder": 10765,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0684.png",
@@ -13706,7 +13686,7 @@
     {
       "AssetId": 28269,
       "DisplayName": "MagIcon/0685",
-      "SortOrder": 10767,
+      "SortOrder": 10766,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0685.png",
@@ -13726,7 +13706,7 @@
     {
       "AssetId": 28270,
       "DisplayName": "MagIcon/0686",
-      "SortOrder": 10768,
+      "SortOrder": 10767,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0686.png",
@@ -13746,7 +13726,7 @@
     {
       "AssetId": 28271,
       "DisplayName": "MagIcon/0687",
-      "SortOrder": 10769,
+      "SortOrder": 10768,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0687.png",
@@ -13764,49 +13744,9 @@
       }
     },
     {
-      "AssetId": 28272,
-      "DisplayName": "MagIcon/0688",
-      "SortOrder": 10770,
-      "Category": "技能",
-      "Subcategory": "技能图标",
-      "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0688.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 120,
-      "Width": 1,
-      "Height": 1,
-      "LastModifiedAt": "2026-06-22T00:58:01.3669667+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
-      "AssetId": 28273,
-      "DisplayName": "MagIcon/0689",
-      "SortOrder": 10771,
-      "Category": "技能",
-      "Subcategory": "技能图标",
-      "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0689.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 120,
-      "Width": 1,
-      "Height": 1,
-      "LastModifiedAt": "2026-06-22T00:58:01.3669667+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
       "AssetId": 28274,
       "DisplayName": "MagIcon/0690",
-      "SortOrder": 10772,
+      "SortOrder": 10769,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0690.png",
@@ -13826,7 +13766,7 @@
     {
       "AssetId": 28275,
       "DisplayName": "MagIcon/0691",
-      "SortOrder": 10773,
+      "SortOrder": 10770,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0691.png",
@@ -13846,7 +13786,7 @@
     {
       "AssetId": 28276,
       "DisplayName": "MagIcon/0692",
-      "SortOrder": 10774,
+      "SortOrder": 10771,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0692.png",
@@ -13866,7 +13806,7 @@
     {
       "AssetId": 28277,
       "DisplayName": "MagIcon/0693",
-      "SortOrder": 10775,
+      "SortOrder": 10772,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0693.png",
@@ -13886,7 +13826,7 @@
     {
       "AssetId": 28278,
       "DisplayName": "MagIcon/0694",
-      "SortOrder": 10776,
+      "SortOrder": 10773,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0694.png",
@@ -13906,7 +13846,7 @@
     {
       "AssetId": 28279,
       "DisplayName": "MagIcon/0695",
-      "SortOrder": 10777,
+      "SortOrder": 10774,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0695.png",
@@ -13926,7 +13866,7 @@
     {
       "AssetId": 28280,
       "DisplayName": "MagIcon/0696",
-      "SortOrder": 10778,
+      "SortOrder": 10775,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0696.png",
@@ -13946,7 +13886,7 @@
     {
       "AssetId": 28281,
       "DisplayName": "MagIcon/0697",
-      "SortOrder": 10779,
+      "SortOrder": 10776,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0697.png",
@@ -13964,49 +13904,9 @@
       }
     },
     {
-      "AssetId": 28282,
-      "DisplayName": "MagIcon/0698",
-      "SortOrder": 10780,
-      "Category": "技能",
-      "Subcategory": "技能图标",
-      "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0698.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 120,
-      "Width": 1,
-      "Height": 1,
-      "LastModifiedAt": "2026-06-22T00:58:01.3705946+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
-      "AssetId": 28283,
-      "DisplayName": "MagIcon/0699",
-      "SortOrder": 10781,
-      "Category": "技能",
-      "Subcategory": "技能图标",
-      "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0699.png",
-      "FileExtension": ".png",
-      "AudioUsage": null,
-      "FileSizeBytes": 120,
-      "Width": 1,
-      "Height": 1,
-      "LastModifiedAt": "2026-06-22T00:58:01.3716035+00:00",
-      "ExistsOnDisk": true,
-      "Tags": [],
-      "Transform": {
-        "OffsetX": 0,
-        "OffsetY": 0
-      }
-    },
-    {
       "AssetId": 28284,
       "DisplayName": "MagIcon/0700",
-      "SortOrder": 10782,
+      "SortOrder": 10779,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0700.png",
@@ -14026,7 +13926,7 @@
     {
       "AssetId": 28285,
       "DisplayName": "MagIcon/0701",
-      "SortOrder": 10783,
+      "SortOrder": 10780,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0701.png",
@@ -14046,7 +13946,7 @@
     {
       "AssetId": 28286,
       "DisplayName": "MagIcon/0702",
-      "SortOrder": 10784,
+      "SortOrder": 10781,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0702.png",
@@ -14066,7 +13966,7 @@
     {
       "AssetId": 28287,
       "DisplayName": "MagIcon/0703",
-      "SortOrder": 10785,
+      "SortOrder": 10782,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0703.png",
@@ -14086,7 +13986,7 @@
     {
       "AssetId": 28288,
       "DisplayName": "MagIcon/0704",
-      "SortOrder": 10786,
+      "SortOrder": 10783,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0704.png",
@@ -14106,7 +14006,7 @@
     {
       "AssetId": 28289,
       "DisplayName": "MagIcon/0705",
-      "SortOrder": 10787,
+      "SortOrder": 10784,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0705.png",
@@ -14126,7 +14026,7 @@
     {
       "AssetId": 28290,
       "DisplayName": "MagIcon/0706",
-      "SortOrder": 10788,
+      "SortOrder": 10785,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0706.png",
@@ -14146,7 +14046,7 @@
     {
       "AssetId": 28291,
       "DisplayName": "MagIcon/0707",
-      "SortOrder": 10789,
+      "SortOrder": 10786,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/MagIcon/0707.png",
@@ -14166,7 +14066,7 @@
     {
       "AssetId": 40402,
       "DisplayName": "1",
-      "SortOrder": 40649,
+      "SortOrder": 40646,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/1.png",
@@ -14186,7 +14086,7 @@
     {
       "AssetId": 41863,
       "DisplayName": "冰咆哮_技能图标_125x125",
-      "SortOrder": 42110,
+      "SortOrder": 42107,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/冰咆哮_技能图标_125x125.png",
@@ -14206,7 +14106,7 @@
     {
       "AssetId": 41864,
       "DisplayName": "刺杀剑法_技能图标_125x125",
-      "SortOrder": 42111,
+      "SortOrder": 42108,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/刺杀剑法_技能图标_125x125.png",
@@ -14226,7 +14126,7 @@
     {
       "AssetId": 41865,
       "DisplayName": "半月弯刀_技能图标_125x125",
-      "SortOrder": 42112,
+      "SortOrder": 42109,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/半月弯刀_技能图标_125x125.png",
@@ -14246,7 +14146,7 @@
     {
       "AssetId": 41866,
       "DisplayName": "吸星大法_技能图标_125x125",
-      "SortOrder": 42113,
+      "SortOrder": 42110,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/吸星大法_技能图标_125x125.png",
@@ -14266,7 +14166,7 @@
     {
       "AssetId": 41867,
       "DisplayName": "开天斩_技能图标_125x125",
-      "SortOrder": 42114,
+      "SortOrder": 42111,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/开天斩_技能图标_125x125.png",
@@ -14286,7 +14186,7 @@
     {
       "AssetId": 41868,
       "DisplayName": "火球术_技能图标_125x125",
-      "SortOrder": 42115,
+      "SortOrder": 42112,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/火球术_技能图标_125x125.png",
@@ -14306,7 +14206,7 @@
     {
       "AssetId": 41869,
       "DisplayName": "烈火剑法_技能图标_125x125",
-      "SortOrder": 42116,
+      "SortOrder": 42113,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/烈火剑法_技能图标_125x125.png",
@@ -14326,7 +14226,7 @@
     {
       "AssetId": 41870,
       "DisplayName": "逐日剑法_技能图标_125x125",
-      "SortOrder": 42117,
+      "SortOrder": 42114,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/逐日剑法_技能图标_125x125.png",
@@ -14346,7 +14246,7 @@
     {
       "AssetId": 41871,
       "DisplayName": "雷电术_技能图标_125x125",
-      "SortOrder": 42118,
+      "SortOrder": 42115,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/雷电术_技能图标_125x125.png",
@@ -14366,7 +14266,7 @@
     {
       "AssetId": 41872,
       "DisplayName": "雷霆剑法_技能图标_125x125",
-      "SortOrder": 42119,
+      "SortOrder": 42116,
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/雷霆剑法_技能图标_125x125.png",
@@ -14376,6 +14276,66 @@
       "Width": 125,
       "Height": 125,
       "LastModifiedAt": "2026-08-04T07:02:32.5328405+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42132,
+      "DisplayName": "exec-8829af8a-54a3-4612-8c3d-c8a54c8022cf",
+      "SortOrder": 42125,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/exec-8829af8a-54a3-4612-8c3d-c8a54c8022cf.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2710755,
+      "Width": 1254,
+      "Height": 1254,
+      "LastModifiedAt": "2026-08-12T02:12:12.6630083+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42133,
+      "DisplayName": "exec-c9d32066-bdfd-415c-bbef-0cc914f7930f",
+      "SortOrder": 42126,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/exec-c9d32066-bdfd-415c-bbef-0cc914f7930f.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2534060,
+      "Width": 1254,
+      "Height": 1254,
+      "LastModifiedAt": "2026-08-12T02:11:47.9541402+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42134,
+      "DisplayName": "龙抓手_技能图标_125x125",
+      "SortOrder": 42127,
+      "Category": "技能",
+      "Subcategory": "技能图标",
+      "RelativePath": "Client/Assets/技能/技能图标/龙抓手_技能图标_125x125.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 30775,
+      "Width": 125,
+      "Height": 125,
+      "LastModifiedAt": "2026-08-12T06:23:22.5817276+00:00",
       "ExistsOnDisk": true,
       "Tags": [],
       "Transform": {

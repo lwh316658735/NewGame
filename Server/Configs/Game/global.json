@@ -2,8 +2,12 @@
   "GameRules": {
     "MaxCharacterLevel": 80,
     "MaxRebirthLevel": 12,
+    "MapAoiRadiusCells": 48,
     "AllowRunThroughPlayers": false,
     "AllowRunThroughMonsters": true,
+    "HitReactionMode": "Enabled",
+    "HitReactionDurationMilliseconds": 500,
+    "HitReactionIntervalMilliseconds": 500,
     "MonsterCorpseDurationSeconds": 5,
     "MaxMeleeMonsterAttackersPerPlayer": 50,
     "MaxTotalMonsterAttackersPerPlayer": 50

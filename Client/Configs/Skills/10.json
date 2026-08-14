@@ -1,0 +1,284 @@
+{
+  "SkillId": 10,
+  "DisplayName": "召唤刀卫",
+  "Description": "填写技能用途、释放方式和客户端展示说明。",
+  "IconAssetId": 42132,
+  "ReplacesBasicAttack": false,
+  "IsProjectileSkill": false,
+  "Visual": {
+    "AttackEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "AttackFollowUpEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "AttackFollowUpEffectFollowsAttacker": false,
+    "CastEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ProjectileTravelMillisecondsPerCell": 100,
+    "HitEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "AreaEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ContinuousEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "ReceivedHitEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "Eight",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 1,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 2,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 3,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 4,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 5,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 6,
+          "FrameAssetIds": []
+        },
+        {
+          "DirectionIndex": 7,
+          "FrameAssetIds": []
+        }
+      ]
+    }
+  }
+}

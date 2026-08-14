@@ -39,6 +39,10 @@
     {
       "CategoryId": 9,
       "DisplayName": "<c:F9B8B8>远程</>"
+    },
+    {
+      "CategoryId": 10,
+      "DisplayName": "药剂"
     }
   ]
 }

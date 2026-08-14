@@ -6,7 +6,7 @@
     {
       "AssetId": 27573,
       "DisplayName": "男道士_展示待机_正面_静态展示",
-      "SortOrder": 10890,
+      "SortOrder": 10887,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/男道士_展示待机_正面_静态展示.png",
@@ -26,7 +26,7 @@
     {
       "AssetId": 27579,
       "DisplayName": "男法师_展示待机_正面_静态展示",
-      "SortOrder": 10891,
+      "SortOrder": 10888,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/男法师_展示待机_正面_静态展示.png",
@@ -46,7 +46,7 @@
     {
       "AssetId": 27580,
       "DisplayName": "男战士_展示待机_正面_静态展示",
-      "SortOrder": 10892,
+      "SortOrder": 10889,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/男战士_展示待机_正面_静态展示.png",
@@ -66,7 +66,7 @@
     {
       "AssetId": 27581,
       "DisplayName": "女道士_展示待机_正面_静态展示",
-      "SortOrder": 10893,
+      "SortOrder": 10890,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/女道士_展示待机_正面_静态展示.png",
@@ -86,7 +86,7 @@
     {
       "AssetId": 27582,
       "DisplayName": "女法师_展示待机_正面_静态展示",
-      "SortOrder": 10894,
+      "SortOrder": 10891,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/女法师_展示待机_正面_静态展示.png",
@@ -106,7 +106,7 @@
     {
       "AssetId": 27583,
       "DisplayName": "女战士_展示待机_正面_静态展示",
-      "SortOrder": 10895,
+      "SortOrder": 10892,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/女战士_展示待机_正面_静态展示.png",
@@ -126,7 +126,7 @@
     {
       "AssetId": 27527,
       "DisplayName": "图层 12",
-      "SortOrder": 10896,
+      "SortOrder": 10893,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/图层 12.png",
@@ -146,7 +146,7 @@
     {
       "AssetId": 1,
       "DisplayName": "图层 0",
-      "SortOrder": 10897,
+      "SortOrder": 10894,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/图层 0.png",
@@ -166,7 +166,7 @@
     {
       "AssetId": 27528,
       "DisplayName": "图层 13",
-      "SortOrder": 10898,
+      "SortOrder": 10895,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/图层 13.png",
@@ -186,7 +186,7 @@
     {
       "AssetId": 27529,
       "DisplayName": "图层1-2",
-      "SortOrder": 10899,
+      "SortOrder": 10896,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/图层1-2.png",
@@ -206,7 +206,7 @@
     {
       "AssetId": 27547,
       "DisplayName": "职业_战士_选中",
-      "SortOrder": 10900,
+      "SortOrder": 10897,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_战士_选中.png",
@@ -226,7 +226,7 @@
     {
       "AssetId": 27542,
       "DisplayName": "职业_战士_默认",
-      "SortOrder": 10901,
+      "SortOrder": 10898,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_战士_默认.png",
@@ -246,7 +246,7 @@
     {
       "AssetId": 27543,
       "DisplayName": "职业_道士_默认",
-      "SortOrder": 10902,
+      "SortOrder": 10899,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_道士_默认.png",
@@ -266,7 +266,7 @@
     {
       "AssetId": 27544,
       "DisplayName": "职业_道士_选中",
-      "SortOrder": 10903,
+      "SortOrder": 10900,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_道士_选中.png",
@@ -286,7 +286,7 @@
     {
       "AssetId": 27545,
       "DisplayName": "职业_法师_默认",
-      "SortOrder": 10904,
+      "SortOrder": 10901,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_法师_默认.png",
@@ -306,7 +306,7 @@
     {
       "AssetId": 27546,
       "DisplayName": "职业_法师_选中",
-      "SortOrder": 10905,
+      "SortOrder": 10902,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/职业_法师_选中.png",
@@ -326,7 +326,7 @@
     {
       "AssetId": 27538,
       "DisplayName": "角色选择_纯背景_无斑点_清晰优化版_3840x2160",
-      "SortOrder": 10918,
+      "SortOrder": 10915,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_纯背景_无斑点_清晰优化版_3840x2160.png",
@@ -346,7 +346,7 @@
     {
       "AssetId": 27562,
       "DisplayName": "角色选择_右侧按钮栏_无斑点_高清设计",
-      "SortOrder": 10919,
+      "SortOrder": 10916,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_右侧按钮栏_无斑点_高清设计.png",
@@ -366,7 +366,7 @@
     {
       "AssetId": 27518,
       "DisplayName": "图层 0-2",
-      "SortOrder": 10920,
+      "SortOrder": 10917,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/图层 0-2.png",
@@ -386,7 +386,7 @@
     {
       "AssetId": 27530,
       "DisplayName": "2",
-      "SortOrder": 10921,
+      "SortOrder": 10918,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/2.png",
@@ -406,7 +406,7 @@
     {
       "AssetId": 27532,
       "DisplayName": "3",
-      "SortOrder": 10922,
+      "SortOrder": 10919,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/3.png",
@@ -426,7 +426,7 @@
     {
       "AssetId": 27541,
       "DisplayName": "角色选择_标题文案_创建角色_透明",
-      "SortOrder": 10923,
+      "SortOrder": 10920,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_标题文案_创建角色_透明.png",
@@ -446,7 +446,7 @@
     {
       "AssetId": 27552,
       "DisplayName": "角色选择_标题文案_选择角色_透明",
-      "SortOrder": 10924,
+      "SortOrder": 10921,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_标题文案_选择角色_透明.png",
@@ -466,7 +466,7 @@
     {
       "AssetId": 27553,
       "DisplayName": "角色选择_顶部标题牌_无斑点_无文字_高清设计",
-      "SortOrder": 10925,
+      "SortOrder": 10922,
       "Category": "界面",
       "Subcategory": "角色选择界面",
       "RelativePath": "Client/Assets/界面/角色选择界面/角色选择_顶部标题牌_无斑点_无文字_高清设计.png",

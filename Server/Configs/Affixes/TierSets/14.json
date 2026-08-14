@@ -13,6 +13,7 @@
       "DisplayName": "雷电术_百分比",
       "Description": "",
       "ValueKind": "Percent",
+      "InitialValue": 1000,
       "ValueStep": 1000
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "雷电术_固定伤害1",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Integer",
+      "InitialValue": 10,
       "ValueStep": 10
     },
     {
@@ -27,6 +29,7 @@
       "DisplayName": "雷电术_固定伤害2",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Integer",
+      "InitialValue": 20,
       "ValueStep": 10
     },
     {
@@ -34,6 +37,7 @@
       "DisplayName": "分身术继承百分比",
       "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
       "ValueKind": "Percent",
+      "InitialValue": 10000,
       "ValueStep": 5000
     }
   ],

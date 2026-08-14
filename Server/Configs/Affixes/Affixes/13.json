@@ -1,0 +1,28 @@
+{
+  "AffixId": 13,
+  "DisplayName": "药剂_生命恢复",
+  "CategoryIds": [
+    1,
+    10
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Consumable"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemUsed",
+      "ScriptId": "affix/13/OnItemUsed",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    15
+  ]
+}

@@ -13,6 +13,7 @@
       "DisplayName": "附加伤害",
       "Description": "附加伤害",
       "ValueKind": "Integer",
+      "InitialValue": 100,
       "ValueStep": 100
     },
     {
@@ -20,6 +21,7 @@
       "DisplayName": "百分比伤害",
       "Description": "百分比伤害",
       "ValueKind": "Percent",
+      "InitialValue": 10000,
       "ValueStep": 10000
     }
   ],

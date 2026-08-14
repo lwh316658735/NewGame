@@ -13,6 +13,7 @@
       "DisplayName": "暴击几率",
       "Description": "默认词缀数值范围",
       "ValueKind": "Percent",
+      "InitialValue": 100,
       "ValueStep": 500
     }
   ],

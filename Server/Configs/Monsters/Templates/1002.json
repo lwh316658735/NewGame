@@ -1,0 +1,49 @@
+{
+  "MonsterId": 1002,
+  "DisplayName": "刀卫",
+  "Level": 1,
+  "MonsterTypeIds": [
+    2
+  ],
+  "ViewRangeCells": 7,
+  "FixedAffixRules": [],
+  "Combat": {
+    "MaxHealth": 100,
+    "MaxMana": 0,
+    "MinPhysicalAttack": 10,
+    "MaxPhysicalAttack": 20,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
+    "MinTrueDamage": 0,
+    "MaxTrueDamage": 0,
+    "DamageTakenLimit": 0,
+    "MinPhysicalDefense": 10,
+    "MaxPhysicalDefense": 20,
+    "MinMagicDefense": 0,
+    "MaxMagicDefense": 1,
+    "Hit": 10000,
+    "Dodge": 1000,
+    "AttackType": "SingleTarget",
+    "AttackDistanceCells": 1,
+    "AttackAreaShape": "AroundSelf",
+    "AttackAreaRadiusCells": 1,
+    "AttackAreaHalfWidthCells": 0,
+    "AttackAreaAngleDegrees": 90,
+    "BaseAttackSpeed": 20000,
+    "BaseCastSpeedPercent": 1000
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 600,
+    "MoveIntervalMilliseconds": 1200
+  },
+  "Reward": {
+    "IsRewardDisabled": true,
+    "Experience": 0,
+    "DropTableIds": [],
+    "DropRateBonus": {
+      "IsEnabled": false,
+      "Mode": "Add",
+      "Value": 0
+    }
+  }
+}

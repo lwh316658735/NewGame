@@ -1,0 +1,31 @@
+{
+  "AffixId": 15,
+  "DisplayName": "技能_龙爪手",
+  "CategoryIds": [
+    9
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Skill"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnRelease",
+      "ScriptId": "affix/15/OnRelease",
+      "Priority": 0,
+      "IsEnabled": true
+    },
+    {
+      "Event": "OnSkillInitialize",
+      "ScriptId": "affix/15/OnSkillInitialize",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}
