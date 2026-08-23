@@ -4,9 +4,5601 @@
   "Subcategory": "Tiles",
   "Assets": [
     {
+      "AssetId": 42136,
+      "DisplayName": "传奇素材 0/0 Normal",
+      "SortOrder": 9626,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_0.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14015,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.745163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42137,
+      "DisplayName": "传奇素材 0/1 Normal",
+      "SortOrder": 9627,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14507,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7471885+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42138,
+      "DisplayName": "传奇素材 0/2 Normal",
+      "SortOrder": 9628,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7481927+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42139,
+      "DisplayName": "传奇素材 0/3 Normal",
+      "SortOrder": 9629,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_3.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13984,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7486996+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42140,
+      "DisplayName": "传奇素材 0/4 Normal",
+      "SortOrder": 9630,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_4.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14408,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7496981+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42141,
+      "DisplayName": "传奇素材 0/200 Normal",
+      "SortOrder": 9631,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_200.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14015,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7506978+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42142,
+      "DisplayName": "传奇素材 0/201 Normal",
+      "SortOrder": 9632,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_201.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14507,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.751698+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42143,
+      "DisplayName": "传奇素材 0/202 Normal",
+      "SortOrder": 9633,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_202.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7532127+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42144,
+      "DisplayName": "传奇素材 0/203 Normal",
+      "SortOrder": 9634,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_203.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13984,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7542137+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42145,
+      "DisplayName": "传奇素材 0/204 Normal",
+      "SortOrder": 9635,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_204.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14408,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7552121+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42146,
+      "DisplayName": "传奇素材 0/205 Normal",
+      "SortOrder": 9636,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_205.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14000,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7562127+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42147,
+      "DisplayName": "传奇素材 0/206 Normal",
+      "SortOrder": 9637,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_206.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14091,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7577131+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42148,
+      "DisplayName": "传奇素材 0/207 Normal",
+      "SortOrder": 9638,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_207.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13905,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7587127+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42149,
+      "DisplayName": "传奇素材 0/208 Normal",
+      "SortOrder": 9639,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_208.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13951,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7597134+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42150,
+      "DisplayName": "传奇素材 0/210 Normal",
+      "SortOrder": 9640,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_210.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14435,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7612121+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42151,
+      "DisplayName": "传奇素材 0/211 Normal",
+      "SortOrder": 9641,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_211.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14422,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7622125+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42152,
+      "DisplayName": "传奇素材 0/212 Normal",
+      "SortOrder": 9642,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_212.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14122,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7632126+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42153,
+      "DisplayName": "传奇素材 0/213 Normal",
+      "SortOrder": 9643,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_213.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14104,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7642147+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42154,
+      "DisplayName": "传奇素材 0/215 Normal",
+      "SortOrder": 9644,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_215.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13574,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7652128+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42155,
+      "DisplayName": "传奇素材 0/216 Normal",
+      "SortOrder": 9645,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_216.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13684,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7662126+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42156,
+      "DisplayName": "传奇素材 0/217 Normal",
+      "SortOrder": 9646,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_217.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13740,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7667137+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42157,
+      "DisplayName": "传奇素材 0/218 Normal",
+      "SortOrder": 9647,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_218.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13701,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7677128+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42158,
+      "DisplayName": "传奇素材 0/220 Normal",
+      "SortOrder": 9648,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_220.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14296,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7687124+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42159,
+      "DisplayName": "传奇素材 0/221 Normal",
+      "SortOrder": 9649,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_221.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14421,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7697133+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42160,
+      "DisplayName": "传奇素材 0/222 Normal",
+      "SortOrder": 9650,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_222.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14271,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7707138+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42161,
+      "DisplayName": "传奇素材 0/223 Normal",
+      "SortOrder": 9651,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_223.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14353,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7717124+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42162,
+      "DisplayName": "传奇素材 0/230 Normal",
+      "SortOrder": 9652,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_230.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14507,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7727124+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42163,
+      "DisplayName": "传奇素材 0/231 Normal",
+      "SortOrder": 9653,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_231.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14015,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7737181+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42164,
+      "DisplayName": "传奇素材 0/232 Normal",
+      "SortOrder": 9654,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_232.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14118,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.774718+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42165,
+      "DisplayName": "传奇素材 0/233 Normal",
+      "SortOrder": 9655,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_233.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7757183+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42166,
+      "DisplayName": "传奇素材 0/235 Normal",
+      "SortOrder": 9656,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_235.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14550,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7767177+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42167,
+      "DisplayName": "传奇素材 0/236 Normal",
+      "SortOrder": 9657,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_236.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14522,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7777188+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42168,
+      "DisplayName": "传奇素材 0/237 Normal",
+      "SortOrder": 9658,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_237.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15151,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.779219+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42169,
+      "DisplayName": "传奇素材 0/238 Normal",
+      "SortOrder": 9659,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_238.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14111,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7802182+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42170,
+      "DisplayName": "传奇素材 0/240 Normal",
+      "SortOrder": 9660,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_240.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13996,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7812169+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42171,
+      "DisplayName": "传奇素材 0/241 Normal",
+      "SortOrder": 9661,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_241.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14403,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7822173+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42172,
+      "DisplayName": "传奇素材 0/242 Normal",
+      "SortOrder": 9662,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_242.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14320,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7832199+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42173,
+      "DisplayName": "传奇素材 0/243 Normal",
+      "SortOrder": 9663,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_243.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14673,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7842182+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42174,
+      "DisplayName": "传奇素材 0/280 Normal",
+      "SortOrder": 9664,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_280.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14316,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7852174+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42175,
+      "DisplayName": "传奇素材 0/281 Normal",
+      "SortOrder": 9665,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_281.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14007,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.78622+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42176,
+      "DisplayName": "传奇素材 0/282 Normal",
+      "SortOrder": 9666,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_282.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15073,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7872242+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42177,
+      "DisplayName": "传奇素材 0/283 Normal",
+      "SortOrder": 9667,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_283.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14895,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7882287+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42178,
+      "DisplayName": "传奇素材 0/300 Normal",
+      "SortOrder": 9668,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_300.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14015,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7892287+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42179,
+      "DisplayName": "传奇素材 0/301 Normal",
+      "SortOrder": 9669,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_301.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14507,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7902292+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42180,
+      "DisplayName": "传奇素材 0/302 Normal",
+      "SortOrder": 9670,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_302.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7917281+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42181,
+      "DisplayName": "传奇素材 0/303 Normal",
+      "SortOrder": 9671,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_303.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13984,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7922291+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42182,
+      "DisplayName": "传奇素材 0/304 Normal",
+      "SortOrder": 9672,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_304.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14408,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.793728+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42183,
+      "DisplayName": "传奇素材 0/306 Normal",
+      "SortOrder": 9673,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_306.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14735,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7942298+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42184,
+      "DisplayName": "传奇素材 0/307 Normal",
+      "SortOrder": 9674,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_307.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14531,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7957293+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42185,
+      "DisplayName": "传奇素材 0/308 Normal",
+      "SortOrder": 9675,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_308.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14589,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7967291+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42186,
+      "DisplayName": "传奇素材 0/311 Normal",
+      "SortOrder": 9676,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_311.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14720,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7977284+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42187,
+      "DisplayName": "传奇素材 0/312 Normal",
+      "SortOrder": 9677,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_312.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14422,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7987285+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42188,
+      "DisplayName": "传奇素材 0/313 Normal",
+      "SortOrder": 9678,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_313.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14508,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.7997284+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42189,
+      "DisplayName": "传奇素材 0/315 Normal",
+      "SortOrder": 9679,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_315.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14488,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8007288+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42190,
+      "DisplayName": "传奇素材 0/316 Normal",
+      "SortOrder": 9680,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_316.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14555,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.804228+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42191,
+      "DisplayName": "传奇素材 0/317 Normal",
+      "SortOrder": 9681,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_317.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14640,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8052292+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42192,
+      "DisplayName": "传奇素材 0/318 Normal",
+      "SortOrder": 9682,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_318.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14493,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.806229+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42193,
+      "DisplayName": "传奇素材 0/321 Normal",
+      "SortOrder": 9683,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_321.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14907,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8072286+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42194,
+      "DisplayName": "传奇素材 0/323 Normal",
+      "SortOrder": 9684,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_323.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14920,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8082298+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42195,
+      "DisplayName": "传奇素材 0/330 Normal",
+      "SortOrder": 9685,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_330.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13718,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8092303+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42196,
+      "DisplayName": "传奇素材 0/331 Normal",
+      "SortOrder": 9686,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_331.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14610,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8102284+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42197,
+      "DisplayName": "传奇素材 0/332 Normal",
+      "SortOrder": 9687,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_332.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14583,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.810733+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42198,
+      "DisplayName": "传奇素材 0/333 Normal",
+      "SortOrder": 9688,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_333.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14054,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8112325+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42199,
+      "DisplayName": "传奇素材 0/335 Normal",
+      "SortOrder": 9689,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_335.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14225,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.812742+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42200,
+      "DisplayName": "传奇素材 0/336 Normal",
+      "SortOrder": 9690,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_336.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15075,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8137438+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42201,
+      "DisplayName": "传奇素材 0/337 Normal",
+      "SortOrder": 9691,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_337.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14726,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8147426+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42202,
+      "DisplayName": "传奇素材 0/338 Normal",
+      "SortOrder": 9692,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_338.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14040,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8157488+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42203,
+      "DisplayName": "传奇素材 0/340 Normal",
+      "SortOrder": 9693,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_340.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14232,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8167532+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42204,
+      "DisplayName": "传奇素材 0/341 Normal",
+      "SortOrder": 9694,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_341.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14639,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8172528+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42205,
+      "DisplayName": "传奇素材 0/342 Normal",
+      "SortOrder": 9695,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_342.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14954,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8187535+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42206,
+      "DisplayName": "传奇素材 0/343 Normal",
+      "SortOrder": 9696,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_343.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13869,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8202588+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42207,
+      "DisplayName": "传奇素材 0/345 Normal",
+      "SortOrder": 9697,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_345.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13817,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8212609+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42208,
+      "DisplayName": "传奇素材 0/346 Normal",
+      "SortOrder": 9698,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_346.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14352,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8222593+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42209,
+      "DisplayName": "传奇素材 0/347 Normal",
+      "SortOrder": 9699,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_347.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14017,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8232597+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42210,
+      "DisplayName": "传奇素材 0/348 Normal",
+      "SortOrder": 9700,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_348.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14187,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8242596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42211,
+      "DisplayName": "传奇素材 0/350 Normal",
+      "SortOrder": 9701,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_350.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14461,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8257629+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42212,
+      "DisplayName": "传奇素材 0/351 Normal",
+      "SortOrder": 9702,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_351.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14627,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8267664+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42213,
+      "DisplayName": "传奇素材 0/352 Normal",
+      "SortOrder": 9703,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_352.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14578,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8272685+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42214,
+      "DisplayName": "传奇素材 0/353 Normal",
+      "SortOrder": 9704,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_353.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14958,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8282664+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42215,
+      "DisplayName": "传奇素材 0/354 Normal",
+      "SortOrder": 9705,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_354.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14853,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8292688+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42216,
+      "DisplayName": "传奇素材 0/355 Normal",
+      "SortOrder": 9706,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_355.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14508,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8302679+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42217,
+      "DisplayName": "传奇素材 0/356 Normal",
+      "SortOrder": 9707,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_356.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14422,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8312665+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42218,
+      "DisplayName": "传奇素材 0/357 Normal",
+      "SortOrder": 9708,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_357.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14720,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8322686+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42219,
+      "DisplayName": "传奇素材 0/358 Normal",
+      "SortOrder": 9709,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_358.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14584,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8332664+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42220,
+      "DisplayName": "传奇素材 0/360 Normal",
+      "SortOrder": 9710,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_360.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14589,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8342665+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42221,
+      "DisplayName": "传奇素材 0/361 Normal",
+      "SortOrder": 9711,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_361.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14531,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8347675+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42222,
+      "DisplayName": "传奇素材 0/362 Normal",
+      "SortOrder": 9712,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_362.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14735,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8367771+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42223,
+      "DisplayName": "传奇素材 0/363 Normal",
+      "SortOrder": 9713,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_363.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14843,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8377832+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42224,
+      "DisplayName": "传奇素材 0/365 Normal",
+      "SortOrder": 9714,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_365.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14640,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.838789+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42225,
+      "DisplayName": "传奇素材 0/366 Normal",
+      "SortOrder": 9715,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_366.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14493,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8397915+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42226,
+      "DisplayName": "传奇素材 0/367 Normal",
+      "SortOrder": 9716,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_367.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14488,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8412896+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42227,
+      "DisplayName": "传奇素材 0/368 Normal",
+      "SortOrder": 9717,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_368.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14555,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.842291+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42228,
+      "DisplayName": "传奇素材 0/370 Normal",
+      "SortOrder": 9718,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_370.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14920,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8432892+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42229,
+      "DisplayName": "传奇素材 0/371 Normal",
+      "SortOrder": 9719,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_371.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14496,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.844289+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42230,
+      "DisplayName": "传奇素材 0/372 Normal",
+      "SortOrder": 9720,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_372.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14907,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8452889+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42231,
+      "DisplayName": "传奇素材 0/373 Normal",
+      "SortOrder": 9721,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_373.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14855,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8462891+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42232,
+      "DisplayName": "传奇素材 0/402 Normal",
+      "SortOrder": 9722,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_402.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8472905+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42233,
+      "DisplayName": "传奇素材 0/403 Normal",
+      "SortOrder": 9723,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_403.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13984,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8482897+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42234,
+      "DisplayName": "传奇素材 0/404 Normal",
+      "SortOrder": 9724,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_404.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14408,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8492956+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42235,
+      "DisplayName": "传奇素材 0/425 Normal",
+      "SortOrder": 9725,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_425.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14286,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8502956+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42236,
+      "DisplayName": "传奇素材 0/428 Normal",
+      "SortOrder": 9726,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_428.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14356,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8512948+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42237,
+      "DisplayName": "传奇素材 0/433 Normal",
+      "SortOrder": 9727,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_433.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14099,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8517968+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42238,
+      "DisplayName": "传奇素材 0/438 Normal",
+      "SortOrder": 9728,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_438.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14414,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8527949+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42239,
+      "DisplayName": "传奇素材 0/440 Normal",
+      "SortOrder": 9729,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_440.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14235,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8537958+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42240,
+      "DisplayName": "传奇素材 0/443 Normal",
+      "SortOrder": 9730,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_443.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14194,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.854796+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42241,
+      "DisplayName": "传奇素材 0/525 Normal",
+      "SortOrder": 9731,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_525.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14057,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8558013+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42242,
+      "DisplayName": "传奇素材 0/526 Normal",
+      "SortOrder": 9732,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_526.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14559,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8568256+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42243,
+      "DisplayName": "传奇素材 0/527 Normal",
+      "SortOrder": 9733,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_527.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14684,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8578356+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42244,
+      "DisplayName": "传奇素材 0/528 Normal",
+      "SortOrder": 9734,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_528.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14323,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8588352+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42245,
+      "DisplayName": "传奇素材 0/530 Normal",
+      "SortOrder": 9735,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_530.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14847,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8598374+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42246,
+      "DisplayName": "传奇素材 0/531 Normal",
+      "SortOrder": 9736,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_531.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14919,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.860836+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42247,
+      "DisplayName": "传奇素材 0/532 Normal",
+      "SortOrder": 9737,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_532.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14965,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8618345+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42248,
+      "DisplayName": "传奇素材 0/533 Normal",
+      "SortOrder": 9738,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_533.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14647,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8628374+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42249,
+      "DisplayName": "传奇素材 0/535 Normal",
+      "SortOrder": 9739,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_535.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14538,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8638345+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42250,
+      "DisplayName": "传奇素材 0/536 Normal",
+      "SortOrder": 9740,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_536.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15466,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8648361+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42251,
+      "DisplayName": "传奇素材 0/537 Normal",
+      "SortOrder": 9741,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_537.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15250,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8658424+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42252,
+      "DisplayName": "传奇素材 0/538 Normal",
+      "SortOrder": 9742,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_538.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14510,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.86685+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42253,
+      "DisplayName": "传奇素材 0/540 Normal",
+      "SortOrder": 9743,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_540.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14611,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8678497+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42254,
+      "DisplayName": "传奇素材 0/541 Normal",
+      "SortOrder": 9744,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_541.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15441,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8688474+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42255,
+      "DisplayName": "传奇素材 0/542 Normal",
+      "SortOrder": 9745,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_542.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15557,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8698481+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42256,
+      "DisplayName": "传奇素材 0/543 Normal",
+      "SortOrder": 9746,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_543.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14614,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8708476+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42257,
+      "DisplayName": "传奇素材 0/575 Normal",
+      "SortOrder": 9747,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_575.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13300,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8718467+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42258,
+      "DisplayName": "传奇素材 0/576 Normal",
+      "SortOrder": 9748,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_576.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14495,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8728474+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42259,
+      "DisplayName": "传奇素材 0/577 Normal",
+      "SortOrder": 9749,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_577.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14114,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8738478+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42260,
+      "DisplayName": "传奇素材 0/578 Normal",
+      "SortOrder": 9750,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_578.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13668,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8748479+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42261,
+      "DisplayName": "传奇素材 0/580 Normal",
+      "SortOrder": 9751,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_580.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14505,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8758538+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42262,
+      "DisplayName": "传奇素材 0/581 Normal",
+      "SortOrder": 9752,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_581.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15729,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8768603+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42263,
+      "DisplayName": "传奇素材 0/582 Normal",
+      "SortOrder": 9753,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_582.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14672,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8778603+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42264,
+      "DisplayName": "传奇素材 0/583 Normal",
+      "SortOrder": 9754,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_583.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14243,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8788578+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42265,
+      "DisplayName": "传奇素材 0/585 Normal",
+      "SortOrder": 9755,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_585.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13904,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8798613+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42266,
+      "DisplayName": "传奇素材 0/586 Normal",
+      "SortOrder": 9756,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_586.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15558,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8808583+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42267,
+      "DisplayName": "传奇素材 0/587 Normal",
+      "SortOrder": 9757,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_587.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15466,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8828604+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42268,
+      "DisplayName": "传奇素材 0/588 Normal",
+      "SortOrder": 9758,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_588.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14078,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8838599+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42269,
+      "DisplayName": "传奇素材 0/590 Normal",
+      "SortOrder": 9759,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_590.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13648,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8848609+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42270,
+      "DisplayName": "传奇素材 0/591 Normal",
+      "SortOrder": 9760,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_591.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15000,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8858586+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42271,
+      "DisplayName": "传奇素材 0/592 Normal",
+      "SortOrder": 9761,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_592.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15024,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8868594+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42272,
+      "DisplayName": "传奇素材 0/593 Normal",
+      "SortOrder": 9762,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_593.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13904,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8878588+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42273,
+      "DisplayName": "传奇素材 0/755 Normal",
+      "SortOrder": 9763,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_755.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14659,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8888587+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42274,
+      "DisplayName": "传奇素材 0/756 Normal",
+      "SortOrder": 9764,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_756.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14647,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8898585+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42275,
+      "DisplayName": "传奇素材 0/757 Normal",
+      "SortOrder": 9765,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_757.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15073,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8908594+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42276,
+      "DisplayName": "传奇素材 0/758 Normal",
+      "SortOrder": 9766,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_758.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15071,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8918602+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42277,
+      "DisplayName": "传奇素材 0/760 Normal",
+      "SortOrder": 9767,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_760.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14256,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.89286+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42278,
+      "DisplayName": "传奇素材 0/765 Normal",
+      "SortOrder": 9768,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_765.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14529,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8938585+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42279,
+      "DisplayName": "传奇素材 0/766 Normal",
+      "SortOrder": 9769,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_766.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14457,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8948583+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42280,
+      "DisplayName": "传奇素材 0/767 Normal",
+      "SortOrder": 9770,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_767.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14646,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8958648+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42281,
+      "DisplayName": "传奇素材 0/768 Normal",
+      "SortOrder": 9771,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_768.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14223,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8963716+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42282,
+      "DisplayName": "传奇素材 0/770 Normal",
+      "SortOrder": 9772,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_770.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15125,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8978694+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42283,
+      "DisplayName": "传奇素材 0/771 Normal",
+      "SortOrder": 9773,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_771.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14934,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8988071+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42284,
+      "DisplayName": "传奇素材 0/772 Normal",
+      "SortOrder": 9774,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_772.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15119,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.8998723+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42285,
+      "DisplayName": "传奇素材 0/773 Normal",
+      "SortOrder": 9775,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_773.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14905,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.900877+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42286,
+      "DisplayName": "传奇素材 0/900 Normal",
+      "SortOrder": 9776,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_900.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14015,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9018778+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42287,
+      "DisplayName": "传奇素材 0/901 Normal",
+      "SortOrder": 9777,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_901.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14507,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9028776+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42288,
+      "DisplayName": "传奇素材 0/902 Normal",
+      "SortOrder": 9778,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_902.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14342,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9038778+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42289,
+      "DisplayName": "传奇素材 0/903 Normal",
+      "SortOrder": 9779,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_903.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13984,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9048805+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42290,
+      "DisplayName": "传奇素材 0/904 Normal",
+      "SortOrder": 9780,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_904.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14408,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9058814+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42291,
+      "DisplayName": "传奇素材 0/905 Normal",
+      "SortOrder": 9781,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_905.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14275,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9068816+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42292,
+      "DisplayName": "传奇素材 0/906 Normal",
+      "SortOrder": 9782,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_906.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14243,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9078805+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42293,
+      "DisplayName": "传奇素材 0/907 Normal",
+      "SortOrder": 9783,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_907.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13751,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9088804+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42294,
+      "DisplayName": "传奇素材 0/908 Normal",
+      "SortOrder": 9784,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_908.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13947,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9098803+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42295,
+      "DisplayName": "传奇素材 0/910 Normal",
+      "SortOrder": 9785,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_910.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14792,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9108809+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42296,
+      "DisplayName": "传奇素材 0/912 Normal",
+      "SortOrder": 9786,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_912.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14382,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9118825+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42297,
+      "DisplayName": "传奇素材 0/913 Normal",
+      "SortOrder": 9787,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_913.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14287,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9128817+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42298,
+      "DisplayName": "传奇素材 0/915 Normal",
+      "SortOrder": 9788,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_915.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14291,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9138817+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42299,
+      "DisplayName": "传奇素材 0/916 Normal",
+      "SortOrder": 9789,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_916.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14319,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9148825+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42300,
+      "DisplayName": "传奇素材 0/917 Normal",
+      "SortOrder": 9790,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_917.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14451,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9158827+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42301,
+      "DisplayName": "传奇素材 0/918 Normal",
+      "SortOrder": 9791,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_918.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14261,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9168865+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42302,
+      "DisplayName": "传奇素材 0/920 Normal",
+      "SortOrder": 9792,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_920.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14576,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9178868+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42303,
+      "DisplayName": "传奇素材 0/921 Normal",
+      "SortOrder": 9793,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_921.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14818,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9193864+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42304,
+      "DisplayName": "传奇素材 0/922 Normal",
+      "SortOrder": 9794,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_922.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14278,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9198859+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42305,
+      "DisplayName": "传奇素材 0/923 Normal",
+      "SortOrder": 9795,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_923.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14790,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9208867+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42306,
+      "DisplayName": "传奇素材 0/950 Normal",
+      "SortOrder": 9796,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_950.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13820,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.921887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42307,
+      "DisplayName": "传奇素材 0/951 Normal",
+      "SortOrder": 9797,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_951.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14271,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9228892+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42308,
+      "DisplayName": "传奇素材 0/952 Normal",
+      "SortOrder": 9798,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_952.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13781,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9238886+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42309,
+      "DisplayName": "传奇素材 0/953 Normal",
+      "SortOrder": 9799,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_953.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14269,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9248883+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42310,
+      "DisplayName": "传奇素材 0/954 Normal",
+      "SortOrder": 9800,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_954.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14446,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9258885+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42311,
+      "DisplayName": "传奇素材 0/955 Normal",
+      "SortOrder": 9801,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_955.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14287,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9268872+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42312,
+      "DisplayName": "传奇素材 0/956 Normal",
+      "SortOrder": 9802,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_956.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14382,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9278871+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42313,
+      "DisplayName": "传奇素材 0/957 Normal",
+      "SortOrder": 9803,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_957.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14748,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9293886+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42314,
+      "DisplayName": "传奇素材 0/958 Normal",
+      "SortOrder": 9804,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_958.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14792,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.930887+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42315,
+      "DisplayName": "传奇素材 0/960 Normal",
+      "SortOrder": 9805,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_960.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13947,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9318861+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42316,
+      "DisplayName": "传奇素材 0/961 Normal",
+      "SortOrder": 9806,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_961.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13751,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9328868+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42317,
+      "DisplayName": "传奇素材 0/962 Normal",
+      "SortOrder": 9807,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_962.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14243,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9338864+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42318,
+      "DisplayName": "传奇素材 0/963 Normal",
+      "SortOrder": 9808,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_963.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14275,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.934889+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42319,
+      "DisplayName": "传奇素材 0/965 Normal",
+      "SortOrder": 9809,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_965.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14451,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.936899+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42320,
+      "DisplayName": "传奇素材 0/966 Normal",
+      "SortOrder": 9810,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_966.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14261,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9374052+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42321,
+      "DisplayName": "传奇素材 0/967 Normal",
+      "SortOrder": 9811,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_967.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14291,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9384061+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42322,
+      "DisplayName": "传奇素材 0/968 Normal",
+      "SortOrder": 9812,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_968.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14319,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9394051+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42323,
+      "DisplayName": "传奇素材 0/970 Normal",
+      "SortOrder": 9813,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_970.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14790,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9409054+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42324,
+      "DisplayName": "传奇素材 0/971 Normal",
+      "SortOrder": 9814,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_971.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14278,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.941405+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42325,
+      "DisplayName": "传奇素材 0/972 Normal",
+      "SortOrder": 9815,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_972.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14818,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9424059+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42326,
+      "DisplayName": "传奇素材 0/973 Normal",
+      "SortOrder": 9816,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_973.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14576,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9434043+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42327,
+      "DisplayName": "传奇素材 0/1450 Normal",
+      "SortOrder": 9817,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1450.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14228,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9444042+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42328,
+      "DisplayName": "传奇素材 0/1451 Normal",
+      "SortOrder": 9818,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1451.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14208,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9459097+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42329,
+      "DisplayName": "传奇素材 0/1452 Normal",
+      "SortOrder": 9819,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1452.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14330,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9464157+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42330,
+      "DisplayName": "传奇素材 0/1453 Normal",
+      "SortOrder": 9820,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1453.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14428,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9479225+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42331,
+      "DisplayName": "传奇素材 0/1454 Normal",
+      "SortOrder": 9821,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1454.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14302,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9484218+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42332,
+      "DisplayName": "传奇素材 0/1455 Normal",
+      "SortOrder": 9822,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1455.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14035,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9494215+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42333,
+      "DisplayName": "传奇素材 0/1456 Normal",
+      "SortOrder": 9823,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1456.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14010,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.950422+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42334,
+      "DisplayName": "传奇素材 0/1457 Normal",
+      "SortOrder": 9824,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1457.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13688,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9514225+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42335,
+      "DisplayName": "传奇素材 0/1458 Normal",
+      "SortOrder": 9825,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1458.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13570,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9529216+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42336,
+      "DisplayName": "传奇素材 0/1460 Normal",
+      "SortOrder": 9826,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1460.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13734,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9539197+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42337,
+      "DisplayName": "传奇素材 0/1461 Normal",
+      "SortOrder": 9827,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1461.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13875,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.954421+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42338,
+      "DisplayName": "传奇素材 0/1462 Normal",
+      "SortOrder": 9828,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1462.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14081,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9559469+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42339,
+      "DisplayName": "传奇素材 0/1463 Normal",
+      "SortOrder": 9829,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1463.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14177,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9569486+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42340,
+      "DisplayName": "传奇素材 0/1465 Normal",
+      "SortOrder": 9830,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1465.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13639,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9579467+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42341,
+      "DisplayName": "传奇素材 0/1466 Normal",
+      "SortOrder": 9831,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1466.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13628,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9589471+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42342,
+      "DisplayName": "传奇素材 0/1467 Normal",
+      "SortOrder": 9832,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1467.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13473,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9599493+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42343,
+      "DisplayName": "传奇素材 0/1468 Normal",
+      "SortOrder": 9833,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1468.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13873,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9624657+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42344,
+      "DisplayName": "传奇素材 0/1470 Normal",
+      "SortOrder": 9834,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1470.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14111,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9644664+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42345,
+      "DisplayName": "传奇素材 0/1471 Normal",
+      "SortOrder": 9835,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1471.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14141,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9649654+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42346,
+      "DisplayName": "传奇素材 0/1472 Normal",
+      "SortOrder": 9836,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1472.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14379,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9664764+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42347,
+      "DisplayName": "传奇素材 0/1473 Normal",
+      "SortOrder": 9837,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_1473.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14213,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9679762+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42348,
+      "DisplayName": "传奇素材 0/2050 Normal",
+      "SortOrder": 9838,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2050.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15492,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9694763+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42349,
+      "DisplayName": "传奇素材 0/2051 Normal",
+      "SortOrder": 9839,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2051.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15339,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9704774+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42350,
+      "DisplayName": "传奇素材 0/2052 Normal",
+      "SortOrder": 9840,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2052.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15596,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9719768+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42351,
+      "DisplayName": "传奇素材 0/2053 Normal",
+      "SortOrder": 9841,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2053.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15855,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9724765+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42352,
+      "DisplayName": "传奇素材 0/2054 Normal",
+      "SortOrder": 9842,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2054.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15477,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9739762+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42353,
+      "DisplayName": "传奇素材 0/2055 Normal",
+      "SortOrder": 9843,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2055.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13694,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9749759+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42354,
+      "DisplayName": "传奇素材 0/2056 Normal",
+      "SortOrder": 9844,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2056.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13683,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9765046+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42355,
+      "DisplayName": "传奇素材 0/2057 Normal",
+      "SortOrder": 9845,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2057.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13946,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9775033+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42356,
+      "DisplayName": "传奇素材 0/2058 Normal",
+      "SortOrder": 9846,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2058.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13910,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9785033+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42357,
+      "DisplayName": "传奇素材 0/2060 Normal",
+      "SortOrder": 9847,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2060.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14819,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9795044+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42358,
+      "DisplayName": "传奇素材 0/2061 Normal",
+      "SortOrder": 9848,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2061.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14909,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9805034+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42359,
+      "DisplayName": "传奇素材 0/2062 Normal",
+      "SortOrder": 9849,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2062.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14948,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9815032+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42360,
+      "DisplayName": "传奇素材 0/2063 Normal",
+      "SortOrder": 9850,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2063.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 15084,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9825038+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42361,
+      "DisplayName": "传奇素材 0/2065 Normal",
+      "SortOrder": 9851,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2065.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14153,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9835046+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42362,
+      "DisplayName": "传奇素材 0/2066 Normal",
+      "SortOrder": 9852,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2066.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13551,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.985005+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42363,
+      "DisplayName": "传奇素材 0/2067 Normal",
+      "SortOrder": 9853,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2067.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14351,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9865044+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42364,
+      "DisplayName": "传奇素材 0/2068 Normal",
+      "SortOrder": 9854,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2068.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 13948,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9880029+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42365,
+      "DisplayName": "传奇素材 0/2070 Normal",
+      "SortOrder": 9855,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2070.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14312,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9889208+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42366,
+      "DisplayName": "传奇素材 0/2071 Normal",
+      "SortOrder": 9856,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2071.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14424,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9899265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42367,
+      "DisplayName": "传奇素材 0/2072 Normal",
+      "SortOrder": 9857,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2072.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14433,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9914261+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 42368,
+      "DisplayName": "传奇素材 0/2073 Normal",
+      "SortOrder": 9858,
+      "Category": "地图",
+      "Subcategory": "Tiles",
+      "RelativePath": "Client/Assets/地图/Tiles/img_2073.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 14344,
+      "Width": 96,
+      "Height": 64,
+      "LastModifiedAt": "2026-08-23T13:28:43.9924255+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library0",
+        "Tiles"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
       "AssetId": 41873,
       "DisplayName": "传奇素材 0/2400 Normal",
-      "SortOrder": 242,
+      "SortOrder": 10100,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2400.png",
@@ -15,7 +5607,7 @@
       "FileSizeBytes": 13833,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0397897+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6839818+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -30,7 +5622,7 @@
     {
       "AssetId": 41874,
       "DisplayName": "传奇素材 0/2401 Normal",
-      "SortOrder": 243,
+      "SortOrder": 10101,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2401.png",
@@ -39,7 +5631,7 @@
       "FileSizeBytes": 13429,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0407916+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6839818+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -54,7 +5646,7 @@
     {
       "AssetId": 41875,
       "DisplayName": "传奇素材 0/2402 Normal",
-      "SortOrder": 244,
+      "SortOrder": 10102,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2402.png",
@@ -63,7 +5655,7 @@
       "FileSizeBytes": 13065,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0606312+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6844861+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -78,7 +5670,7 @@
     {
       "AssetId": 41876,
       "DisplayName": "传奇素材 0/2403 Normal",
-      "SortOrder": 245,
+      "SortOrder": 10103,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2403.png",
@@ -87,7 +5679,7 @@
       "FileSizeBytes": 13612,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0616333+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6850074+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -102,7 +5694,7 @@
     {
       "AssetId": 41877,
       "DisplayName": "传奇素材 0/2404 Normal",
-      "SortOrder": 246,
+      "SortOrder": 10104,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2404.png",
@@ -111,7 +5703,7 @@
       "FileSizeBytes": 13833,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0631377+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6850074+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -126,7 +5718,7 @@
     {
       "AssetId": 41878,
       "DisplayName": "传奇素材 0/2411 Normal",
-      "SortOrder": 247,
+      "SortOrder": 10105,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2411.png",
@@ -135,7 +5727,7 @@
       "FileSizeBytes": 13065,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0636433+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6856869+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -150,7 +5742,7 @@
     {
       "AssetId": 41879,
       "DisplayName": "传奇素材 0/2413 Normal",
-      "SortOrder": 248,
+      "SortOrder": 10106,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2413.png",
@@ -159,7 +5751,7 @@
       "FileSizeBytes": 13833,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0646473+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6856869+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -174,7 +5766,7 @@
     {
       "AssetId": 41880,
       "DisplayName": "传奇素材 0/2416 Normal",
-      "SortOrder": 249,
+      "SortOrder": 10107,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2416.png",
@@ -183,7 +5775,7 @@
       "FileSizeBytes": 13065,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0656472+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6856869+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -198,7 +5790,7 @@
     {
       "AssetId": 41881,
       "DisplayName": "传奇素材 0/2417 Normal",
-      "SortOrder": 250,
+      "SortOrder": 10108,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2417.png",
@@ -207,7 +5799,7 @@
       "FileSizeBytes": 13612,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0666465+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6862857+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -222,7 +5814,7 @@
     {
       "AssetId": 41882,
       "DisplayName": "传奇素材 0/2422 Normal",
-      "SortOrder": 251,
+      "SortOrder": 10109,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_2422.png",
@@ -231,7 +5823,7 @@
       "FileSizeBytes": 13612,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-08-05T04:18:59.0676481+00:00",
+      "LastModifiedAt": "2026-08-07T13:19:45.6862857+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -246,7 +5838,7 @@
     {
       "AssetId": 40079,
       "DisplayName": "传奇素材 0/41 Normal",
-      "SortOrder": 509,
+      "SortOrder": 10367,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_41.png",
@@ -255,7 +5847,7 @@
       "FileSizeBytes": 6258,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2665278+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4021877+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -270,7 +5862,7 @@
     {
       "AssetId": 40080,
       "DisplayName": "传奇素材 0/44 Normal",
-      "SortOrder": 510,
+      "SortOrder": 10368,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_44.png",
@@ -279,7 +5871,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2681349+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4021877+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -294,7 +5886,7 @@
     {
       "AssetId": 40081,
       "DisplayName": "传奇素材 0/47 Normal",
-      "SortOrder": 511,
+      "SortOrder": 10369,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_47.png",
@@ -303,7 +5895,7 @@
       "FileSizeBytes": 6929,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2691588+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4027035+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -318,7 +5910,7 @@
     {
       "AssetId": 40082,
       "DisplayName": "传奇素材 0/48 Normal",
-      "SortOrder": 512,
+      "SortOrder": 10370,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_48.png",
@@ -327,7 +5919,7 @@
       "FileSizeBytes": 6449,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2696697+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4027035+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -342,7 +5934,7 @@
     {
       "AssetId": 40083,
       "DisplayName": "传奇素材 0/1900 Normal",
-      "SortOrder": 513,
+      "SortOrder": 10371,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1900.png",
@@ -351,7 +5943,7 @@
       "FileSizeBytes": 11482,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2707381+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4002169+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -366,7 +5958,7 @@
     {
       "AssetId": 40084,
       "DisplayName": "传奇素材 0/1901 Normal",
-      "SortOrder": 514,
+      "SortOrder": 10372,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1901.png",
@@ -375,7 +5967,7 @@
       "FileSizeBytes": 11519,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2717885+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4007313+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -390,7 +5982,7 @@
     {
       "AssetId": 40085,
       "DisplayName": "传奇素材 0/1902 Normal",
-      "SortOrder": 515,
+      "SortOrder": 10373,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1902.png",
@@ -399,7 +5991,7 @@
       "FileSizeBytes": 11448,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2728344+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4007313+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -414,7 +6006,7 @@
     {
       "AssetId": 40086,
       "DisplayName": "传奇素材 0/1903 Normal",
-      "SortOrder": 516,
+      "SortOrder": 10374,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1903.png",
@@ -423,7 +6015,7 @@
       "FileSizeBytes": 11830,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2733467+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4010833+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -438,7 +6030,7 @@
     {
       "AssetId": 40087,
       "DisplayName": "传奇素材 0/1904 Normal",
-      "SortOrder": 517,
+      "SortOrder": 10375,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1904.png",
@@ -447,7 +6039,7 @@
       "FileSizeBytes": 11554,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2743772+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4010833+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -462,7 +6054,7 @@
     {
       "AssetId": 40088,
       "DisplayName": "传奇素材 0/1950 Normal",
-      "SortOrder": 518,
+      "SortOrder": 10376,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1950.png",
@@ -471,7 +6063,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2748952+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4010833+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -486,7 +6078,7 @@
     {
       "AssetId": 40089,
       "DisplayName": "传奇素材 0/1951 Normal",
-      "SortOrder": 519,
+      "SortOrder": 10377,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1951.png",
@@ -495,7 +6087,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2748952+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4015975+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -510,7 +6102,7 @@
     {
       "AssetId": 40090,
       "DisplayName": "传奇素材 0/1952 Normal",
-      "SortOrder": 520,
+      "SortOrder": 10378,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1952.png",
@@ -519,7 +6111,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2755428+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4015975+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -534,7 +6126,7 @@
     {
       "AssetId": 40091,
       "DisplayName": "传奇素材 0/1953 Normal",
-      "SortOrder": 521,
+      "SortOrder": 10379,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1953.png",
@@ -543,7 +6135,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2760672+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4015975+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",
@@ -558,7 +6150,7 @@
     {
       "AssetId": 40092,
       "DisplayName": "传奇素材 0/1954 Normal",
-      "SortOrder": 522,
+      "SortOrder": 10380,
       "Category": "地图",
       "Subcategory": "Tiles",
       "RelativePath": "Client/Assets/地图/Tiles/img_1954.png",
@@ -567,7 +6159,7 @@
       "FileSizeBytes": 274,
       "Width": 96,
       "Height": 64,
-      "LastModifiedAt": "2026-07-24T06:21:09.2765926+00:00",
+      "LastModifiedAt": "2026-07-24T14:39:47.4015975+00:00",
       "ExistsOnDisk": true,
       "Tags": [
         "LegacyMap",

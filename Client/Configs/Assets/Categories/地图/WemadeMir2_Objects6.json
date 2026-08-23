@@ -1,0 +1,4707 @@
+{
+  "Version": 7,
+  "Category": "地图",
+  "Subcategory": "WemadeMir2_Objects6",
+  "Assets": [
+    {
+      "AssetId": 47660,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/996 Normal",
+      "SortOrder": 7950,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_996.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 490,
+      "Width": 48,
+      "Height": 128,
+      "LastModifiedAt": "2026-08-23T14:49:48.6640298+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -96
+      }
+    },
+    {
+      "AssetId": 47661,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1056 Normal",
+      "SortOrder": 7951,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1056.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 41425,
+      "Width": 48,
+      "Height": 532,
+      "LastModifiedAt": "2026-08-23T14:49:48.668563+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -500
+      }
+    },
+    {
+      "AssetId": 47662,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1057 Normal",
+      "SortOrder": 7952,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1057.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 45771,
+      "Width": 48,
+      "Height": 535,
+      "LastModifiedAt": "2026-08-23T14:49:48.6715609+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -503
+      }
+    },
+    {
+      "AssetId": 47663,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1061 Normal",
+      "SortOrder": 7953,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1061.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24987,
+      "Width": 48,
+      "Height": 224,
+      "LastModifiedAt": "2026-08-23T14:49:48.6735611+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -192
+      }
+    },
+    {
+      "AssetId": 47664,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1063 Normal",
+      "SortOrder": 7954,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1063.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 25607,
+      "Width": 48,
+      "Height": 480,
+      "LastModifiedAt": "2026-08-23T14:49:48.6750619+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -448
+      }
+    },
+    {
+      "AssetId": 47665,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1064 Normal",
+      "SortOrder": 7955,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1064.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 495,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.675562+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47666,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1065 Normal",
+      "SortOrder": 7956,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1065.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2912,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6765643+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47667,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1066 Normal",
+      "SortOrder": 7957,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1066.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 30155,
+      "Width": 48,
+      "Height": 448,
+      "LastModifiedAt": "2026-08-23T14:49:48.6785671+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -416
+      }
+    },
+    {
+      "AssetId": 47668,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1067 Normal",
+      "SortOrder": 7958,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1067.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 478,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6795645+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47669,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1068 Normal",
+      "SortOrder": 7959,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1068.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2813,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6800625+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47670,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1069 Normal",
+      "SortOrder": 7960,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1069.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 42985,
+      "Width": 48,
+      "Height": 448,
+      "LastModifiedAt": "2026-08-23T14:49:48.6825649+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -416
+      }
+    },
+    {
+      "AssetId": 47671,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1070 Normal",
+      "SortOrder": 7961,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1070.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 473,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6830643+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47672,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1071 Normal",
+      "SortOrder": 7962,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1071.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3046,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6835637+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47673,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1072 Normal",
+      "SortOrder": 7963,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1072.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 47042,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.6855625+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47674,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1073 Normal",
+      "SortOrder": 7964,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1073.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 468,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6865664+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47675,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1074 Normal",
+      "SortOrder": 7965,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1074.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1252,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6870719+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47676,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1075 Normal",
+      "SortOrder": 7966,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1075.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2533,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6880726+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47677,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1076 Normal",
+      "SortOrder": 7967,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1076.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 38891,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.6915714+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47678,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1077 Normal",
+      "SortOrder": 7968,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1077.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 30933,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.6940708+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47679,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1078 Normal",
+      "SortOrder": 7969,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1078.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 29787,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.696071+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47680,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1079 Normal",
+      "SortOrder": 7970,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1079.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 331,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6965719+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47681,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1080 Normal",
+      "SortOrder": 7971,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1080.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 20058,
+      "Width": 48,
+      "Height": 288,
+      "LastModifiedAt": "2026-08-23T14:49:48.6980713+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -256
+      }
+    },
+    {
+      "AssetId": 47682,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1081 Normal",
+      "SortOrder": 7972,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1081.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 977,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6985713+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47683,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1082 Normal",
+      "SortOrder": 7973,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1082.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3676,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.6990713+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47684,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1083 Normal",
+      "SortOrder": 7974,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1083.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 20970,
+      "Width": 48,
+      "Height": 224,
+      "LastModifiedAt": "2026-08-23T14:49:48.7005732+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -192
+      }
+    },
+    {
+      "AssetId": 47685,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1084 Normal",
+      "SortOrder": 7975,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1084.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 290,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7010784+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47686,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1085 Normal",
+      "SortOrder": 7976,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1085.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2907,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7015818+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47687,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1086 Normal",
+      "SortOrder": 7977,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1086.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24951,
+      "Width": 48,
+      "Height": 224,
+      "LastModifiedAt": "2026-08-23T14:49:48.7030783+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -192
+      }
+    },
+    {
+      "AssetId": 47688,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1088 Normal",
+      "SortOrder": 7978,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1088.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2741,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7035798+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47689,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1089 Normal",
+      "SortOrder": 7979,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1089.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 492,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7040783+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47690,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1091 Normal",
+      "SortOrder": 7980,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1091.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 16440,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-08-23T14:49:48.7055836+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 47691,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1092 Normal",
+      "SortOrder": 7981,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1092.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 17954,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-08-23T14:49:48.7066757+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 47692,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1093 Normal",
+      "SortOrder": 7982,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1093.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 876,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7076949+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47693,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1094 Normal",
+      "SortOrder": 7983,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1094.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2872,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7082002+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47694,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1095 Normal",
+      "SortOrder": 7984,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1095.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 18855,
+      "Width": 48,
+      "Height": 320,
+      "LastModifiedAt": "2026-08-23T14:49:48.7102002+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -288
+      }
+    },
+    {
+      "AssetId": 47695,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1097 Normal",
+      "SortOrder": 7985,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1097.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1060,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7107026+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47696,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1098 Normal",
+      "SortOrder": 7986,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1098.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24703,
+      "Width": 48,
+      "Height": 284,
+      "LastModifiedAt": "2026-08-23T14:49:48.7127023+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -252
+      }
+    },
+    {
+      "AssetId": 47697,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1099 Normal",
+      "SortOrder": 7987,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1099.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 747,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7127023+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47698,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1100 Normal",
+      "SortOrder": 7988,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1100.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24642,
+      "Width": 48,
+      "Height": 295,
+      "LastModifiedAt": "2026-08-23T14:49:48.7142017+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -263
+      }
+    },
+    {
+      "AssetId": 47699,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1101 Normal",
+      "SortOrder": 7989,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1101.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 448,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.714701+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47700,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1102 Normal",
+      "SortOrder": 7990,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1102.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 25363,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.716712+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47701,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1103 Normal",
+      "SortOrder": 7991,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1103.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 33137,
+      "Width": 48,
+      "Height": 480,
+      "LastModifiedAt": "2026-08-23T14:49:48.7192152+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -448
+      }
+    },
+    {
+      "AssetId": 47702,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1104 Normal",
+      "SortOrder": 7992,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1104.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 29292,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.7212122+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47703,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1105 Normal",
+      "SortOrder": 7993,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1105.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 24420,
+      "Width": 48,
+      "Height": 416,
+      "LastModifiedAt": "2026-08-23T14:49:48.7227113+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -384
+      }
+    },
+    {
+      "AssetId": 47704,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1106 Normal",
+      "SortOrder": 7994,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1106.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 26554,
+      "Width": 48,
+      "Height": 352,
+      "LastModifiedAt": "2026-08-23T14:49:48.7247115+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -320
+      }
+    },
+    {
+      "AssetId": 47705,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1107 Normal",
+      "SortOrder": 7995,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1107.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 20838,
+      "Width": 48,
+      "Height": 320,
+      "LastModifiedAt": "2026-08-23T14:49:48.7252144+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -288
+      }
+    },
+    {
+      "AssetId": 47706,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1108 Normal",
+      "SortOrder": 7996,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1108.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 469,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7262223+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47707,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1109 Normal",
+      "SortOrder": 7997,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1109.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 4109,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7267294+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47708,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1110 Normal",
+      "SortOrder": 7998,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1110.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 17318,
+      "Width": 48,
+      "Height": 192,
+      "LastModifiedAt": "2026-08-23T14:49:48.7282289+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": -160
+      }
+    },
+    {
+      "AssetId": 47709,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1111 Normal",
+      "SortOrder": 7999,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1111.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 772,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7297383+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47710,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1112 Normal",
+      "SortOrder": 8000,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1112.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2859,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7307425+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47711,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1113 Normal",
+      "SortOrder": 8001,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1113.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1938,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7317463+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47712,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1571 Normal",
+      "SortOrder": 8002,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1571.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 390,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7322482+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47713,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1572 Normal",
+      "SortOrder": 8003,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1572.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2960,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7332512+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47714,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1573 Normal",
+      "SortOrder": 8004,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1573.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 780,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.734247+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47715,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1574 Normal",
+      "SortOrder": 8005,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1574.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1388,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7347483+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47716,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1575 Normal",
+      "SortOrder": 8006,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1575.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3145,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7356364+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47717,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1576 Normal",
+      "SortOrder": 8007,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1576.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 716,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7361423+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47718,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1577 Normal",
+      "SortOrder": 8008,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1577.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1268,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7366485+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47719,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1578 Normal",
+      "SortOrder": 8009,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1578.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3152,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7376481+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47720,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1579 Normal",
+      "SortOrder": 8010,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1579.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 762,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7386553+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47721,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1580 Normal",
+      "SortOrder": 8011,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1580.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1307,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7391548+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47722,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1581 Normal",
+      "SortOrder": 8012,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1581.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3000,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7401535+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47723,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1582 Normal",
+      "SortOrder": 8013,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1582.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 713,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7411549+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47724,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1583 Normal",
+      "SortOrder": 8014,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1583.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1397,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7416543+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47725,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1584 Normal",
+      "SortOrder": 8015,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1584.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2826,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7431538+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47726,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1585 Normal",
+      "SortOrder": 8016,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1585.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 742,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.743653+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47727,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1624 Normal",
+      "SortOrder": 8017,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1624.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2031,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7441537+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47728,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1625 Normal",
+      "SortOrder": 8018,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1625.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3184,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7451525+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47729,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1626 Normal",
+      "SortOrder": 8019,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1626.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 808,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7456546+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47730,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1627 Normal",
+      "SortOrder": 8020,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1627.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1962,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7466536+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47731,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1628 Normal",
+      "SortOrder": 8021,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1628.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2844,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7471528+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47732,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1629 Normal",
+      "SortOrder": 8022,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1629.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1193,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7481534+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47733,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1630 Normal",
+      "SortOrder": 8023,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1630.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1828,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7486537+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47734,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1631 Normal",
+      "SortOrder": 8024,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1631.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3144,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7496541+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47735,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1632 Normal",
+      "SortOrder": 8025,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1632.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 618,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7501557+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47736,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1633 Normal",
+      "SortOrder": 8026,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1633.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2014,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7511533+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47737,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1634 Normal",
+      "SortOrder": 8027,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1634.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2999,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7516537+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47738,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1635 Normal",
+      "SortOrder": 8028,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1635.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 728,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.752155+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47739,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1636 Normal",
+      "SortOrder": 8029,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1636.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1923,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7526545+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47740,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1637 Normal",
+      "SortOrder": 8030,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1637.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2881,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7536534+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47741,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1638 Normal",
+      "SortOrder": 8031,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1638.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 994,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7541568+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47742,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1640 Normal",
+      "SortOrder": 8032,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1640.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1644,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7551552+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47743,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1641 Normal",
+      "SortOrder": 8033,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1641.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 869,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7561541+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47744,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1642 Normal",
+      "SortOrder": 8034,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1642.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1678,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7566528+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47745,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1643 Normal",
+      "SortOrder": 8035,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1643.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 768,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7571541+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47746,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1644 Normal",
+      "SortOrder": 8036,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1644.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1634,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7581539+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47747,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1645 Normal",
+      "SortOrder": 8037,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1645.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 871,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7586599+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47748,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1651 Normal",
+      "SortOrder": 8038,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1651.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 818,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7591604+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47749,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1652 Normal",
+      "SortOrder": 8039,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1652.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2024,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7596606+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47750,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1653 Normal",
+      "SortOrder": 8040,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1653.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3838,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7601588+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47751,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1654 Normal",
+      "SortOrder": 8041,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1654.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3723,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7611595+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47752,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1655 Normal",
+      "SortOrder": 8042,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1655.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1244,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7621591+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47753,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1656 Normal",
+      "SortOrder": 8043,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1656.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1972,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7626614+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47754,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1657 Normal",
+      "SortOrder": 8044,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1657.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3618,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7636677+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47755,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1658 Normal",
+      "SortOrder": 8045,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1658.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3446,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7645879+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47756,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1659 Normal",
+      "SortOrder": 8046,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1659.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1389,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7655946+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47757,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1660 Normal",
+      "SortOrder": 8047,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1660.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2021,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7655946+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47758,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1661 Normal",
+      "SortOrder": 8048,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1661.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3651,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7671058+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47759,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1662 Normal",
+      "SortOrder": 8049,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1662.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3743,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7676073+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47760,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1663 Normal",
+      "SortOrder": 8050,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1663.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1493,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7686125+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47761,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1664 Normal",
+      "SortOrder": 8051,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1664.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1967,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7691141+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47762,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1665 Normal",
+      "SortOrder": 8052,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1665.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3807,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7696156+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47763,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1666 Normal",
+      "SortOrder": 8053,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1666.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3547,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7705431+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47764,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1667 Normal",
+      "SortOrder": 8054,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1667.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1530,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7711125+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47765,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1668 Normal",
+      "SortOrder": 8055,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1668.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1948,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.772121+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47766,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1669 Normal",
+      "SortOrder": 8056,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1669.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3656,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7726181+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47767,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1670 Normal",
+      "SortOrder": 8057,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1670.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2184,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7736178+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47768,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1672 Normal",
+      "SortOrder": 8058,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1672.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1948,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7741184+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47769,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1673 Normal",
+      "SortOrder": 8059,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1673.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 899,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7746187+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47770,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1674 Normal",
+      "SortOrder": 8060,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1674.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1812,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7751183+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47771,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1675 Normal",
+      "SortOrder": 8061,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1675.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 881,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7756183+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47772,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1676 Normal",
+      "SortOrder": 8062,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1676.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1872,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7756183+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47773,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1677 Normal",
+      "SortOrder": 8063,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1677.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 918,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7766265+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47774,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1678 Normal",
+      "SortOrder": 8064,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1678.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1811,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.777634+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47775,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1679 Normal",
+      "SortOrder": 8065,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1679.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 838,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7781364+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47776,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1680 Normal",
+      "SortOrder": 8066,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1680.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1877,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7786328+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47777,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1681 Normal",
+      "SortOrder": 8067,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1681.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1036,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7796329+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47778,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1685 Normal",
+      "SortOrder": 8068,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1685.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2031,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7801327+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47779,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1686 Normal",
+      "SortOrder": 8069,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1686.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3184,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7806326+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47780,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1687 Normal",
+      "SortOrder": 8070,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1687.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 808,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7811327+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47781,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1690 Normal",
+      "SortOrder": 8071,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1690.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1962,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7821326+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47782,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1691 Normal",
+      "SortOrder": 8072,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1691.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2844,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7831324+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47783,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1692 Normal",
+      "SortOrder": 8073,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1692.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1193,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7841365+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47784,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1693 Normal",
+      "SortOrder": 8074,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1693.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1634,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7846326+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47785,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1694 Normal",
+      "SortOrder": 8075,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1694.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 871,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7856317+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47786,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1695 Normal",
+      "SortOrder": 8076,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1695.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1828,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7866357+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47787,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1696 Normal",
+      "SortOrder": 8077,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1696.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3144,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7871397+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47788,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1697 Normal",
+      "SortOrder": 8078,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1697.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 618,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7876395+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47789,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1698 Normal",
+      "SortOrder": 8079,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1698.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1560,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7881401+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47790,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1699 Normal",
+      "SortOrder": 8080,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1699.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 774,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7886433+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47791,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1700 Normal",
+      "SortOrder": 8081,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1700.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2014,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7891435+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47792,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1701 Normal",
+      "SortOrder": 8082,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1701.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2999,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.789643+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47793,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1702 Normal",
+      "SortOrder": 8083,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1702.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 728,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7901431+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47794,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1703 Normal",
+      "SortOrder": 8084,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1703.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1593,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7911431+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47795,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1704 Normal",
+      "SortOrder": 8085,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1704.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2162,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7916427+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47796,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1705 Normal",
+      "SortOrder": 8086,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1705.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2883,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7921441+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47797,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1706 Normal",
+      "SortOrder": 8087,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1706.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 994,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7926443+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47798,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1707 Normal",
+      "SortOrder": 8088,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1707.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 718,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7931442+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47799,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1708 Normal",
+      "SortOrder": 8089,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1708.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 436,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7936447+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47800,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1710 Normal",
+      "SortOrder": 8090,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1710.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 696,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7941438+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47801,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1711 Normal",
+      "SortOrder": 8091,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1711.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 311,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.794644+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47802,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1712 Normal",
+      "SortOrder": 8092,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1712.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1948,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7951453+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47803,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1713 Normal",
+      "SortOrder": 8093,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1713.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2219,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7951453+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47804,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1714 Normal",
+      "SortOrder": 8094,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1714.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3453,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7961531+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47805,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1715 Normal",
+      "SortOrder": 8095,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1715.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 805,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7966604+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47806,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1716 Normal",
+      "SortOrder": 8096,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1716.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1812,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7976593+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47807,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1717 Normal",
+      "SortOrder": 8097,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1717.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 881,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7976593+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47808,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1718 Normal",
+      "SortOrder": 8098,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1718.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2037,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.798659+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47809,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1719 Normal",
+      "SortOrder": 8099,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1719.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3647,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7991603+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47810,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1720 Normal",
+      "SortOrder": 8100,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1720.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1109,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.7996604+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47811,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1721 Normal",
+      "SortOrder": 8101,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1721.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1872,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8001601+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47812,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1722 Normal",
+      "SortOrder": 8102,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1722.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 918,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8006594+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47813,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1723 Normal",
+      "SortOrder": 8103,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1723.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1959,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8011599+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47814,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1724 Normal",
+      "SortOrder": 8104,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1724.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3076,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8021606+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47815,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1725 Normal",
+      "SortOrder": 8105,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1725.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 653,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8026589+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47816,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1726 Normal",
+      "SortOrder": 8106,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1726.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1811,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8036616+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47817,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1727 Normal",
+      "SortOrder": 8107,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1727.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 838,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8041625+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47818,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1731 Normal",
+      "SortOrder": 8108,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1731.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1877,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8046589+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47819,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1732 Normal",
+      "SortOrder": 8109,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1732.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1036,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8051601+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47820,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1743 Normal",
+      "SortOrder": 8110,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1743.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1968,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.80566+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47821,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1744 Normal",
+      "SortOrder": 8111,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1744.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3242,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8061642+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47822,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1745 Normal",
+      "SortOrder": 8112,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1745.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 859,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8066623+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47823,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1746 Normal",
+      "SortOrder": 8113,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1746.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1822,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8071596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47824,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1747 Normal",
+      "SortOrder": 8114,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1747.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3722,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8076611+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47825,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1748 Normal",
+      "SortOrder": 8115,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1748.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 659,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8081644+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47826,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1749 Normal",
+      "SortOrder": 8116,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1749.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1884,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8086631+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47827,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1750 Normal",
+      "SortOrder": 8117,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1750.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3492,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8096623+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47828,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1751 Normal",
+      "SortOrder": 8118,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1751.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 925,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8101596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47829,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1752 Normal",
+      "SortOrder": 8119,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1752.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1852,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.81116+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47830,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1753 Normal",
+      "SortOrder": 8120,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1753.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3061,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8121595+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47831,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1754 Normal",
+      "SortOrder": 8121,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1754.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 758,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8126598+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47832,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1755 Normal",
+      "SortOrder": 8122,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1755.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1969,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.81366+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47833,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1756 Normal",
+      "SortOrder": 8123,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1756.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3106,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8141598+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47834,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1757 Normal",
+      "SortOrder": 8124,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1757.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1214,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8151611+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47835,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1758 Normal",
+      "SortOrder": 8125,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1758.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1925,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8156608+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47836,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1759 Normal",
+      "SortOrder": 8126,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1759.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2949,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8166618+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47837,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1760 Normal",
+      "SortOrder": 8127,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1760.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1194,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.817163+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47838,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1761 Normal",
+      "SortOrder": 8128,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1761.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2014,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8186596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47839,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1762 Normal",
+      "SortOrder": 8129,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1762.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 3029,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8196591+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47840,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1763 Normal",
+      "SortOrder": 8130,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1763.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 726,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8206588+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47841,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1764 Normal",
+      "SortOrder": 8131,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1764.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1923,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8211593+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47842,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1765 Normal",
+      "SortOrder": 8132,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1765.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 2881,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8226588+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47843,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1766 Normal",
+      "SortOrder": 8133,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1766.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 994,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8231605+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47844,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1768 Normal",
+      "SortOrder": 8134,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1768.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1948,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.82366+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47845,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1769 Normal",
+      "SortOrder": 8135,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1769.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 899,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8241596+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47846,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1770 Normal",
+      "SortOrder": 8136,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1770.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 1805,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8246605+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    },
+    {
+      "AssetId": 47847,
+      "DisplayName": "传奇素材 WemadeMir2/Objects6 #7/1771 Normal",
+      "SortOrder": 8137,
+      "Category": "地图",
+      "Subcategory": "WemadeMir2_Objects6",
+      "RelativePath": "Client/Assets/地图/WemadeMir2_Objects6/img_1771.png",
+      "FileExtension": ".png",
+      "AudioUsage": null,
+      "FileSizeBytes": 881,
+      "Width": 48,
+      "Height": 32,
+      "LastModifiedAt": "2026-08-23T14:49:48.8251603+00:00",
+      "ExistsOnDisk": true,
+      "Tags": [
+        "LegacyMap",
+        "Library7",
+        "Objects6",
+        "WemadeMir2/Objects6"
+      ],
+      "Transform": {
+        "OffsetX": 0,
+        "OffsetY": 0
+      }
+    }
+  ]
+}
