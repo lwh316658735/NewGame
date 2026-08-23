@@ -249,6 +249,16 @@
       "MaxPrefixCount": 4,
       "MinSuffixCount": 3,
       "MaxSuffixCount": 4
+    },
+    {
+      "Rarity": 5,
+      "IsEnabled": true,
+      "Weight": 0,
+      "AttributeBonuses": [],
+      "MinPrefixCount": 0,
+      "MaxPrefixCount": 0,
+      "MinSuffixCount": 0,
+      "MaxSuffixCount": 0
     }
   ]
 }

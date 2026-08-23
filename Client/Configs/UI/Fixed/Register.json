@@ -289,8 +289,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image2",
@@ -575,8 +574,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerPasswordInput",
@@ -859,8 +857,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerConfirmPasswordInput",
@@ -1143,8 +1140,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerAccountInput",
@@ -1427,8 +1423,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerQuestion1Input",
@@ -1711,8 +1706,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerAnswer1Input",
@@ -1995,8 +1989,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerQuestion2Input",
@@ -2279,8 +2272,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerAnswer2Input",
@@ -2563,8 +2555,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerSubmitButton",
@@ -2847,8 +2838,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "registerBackButton",
@@ -3131,8 +3121,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     }
   ]
 }

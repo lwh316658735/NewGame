@@ -39,7 +39,7 @@
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 600
+    "MoveActionMilliseconds": 500
   },
   "GrowthPerLevel": {
     "MaxHealth": 10,

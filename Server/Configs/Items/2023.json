@@ -1,0 +1,28 @@
+{
+  "ItemId": 2023,
+  "DisplayName": "随机传送卷",
+  "Kind": "Consumable",
+  "MaxStack": 999,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 0,
+  "IsCharacterBound": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 0,
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 500,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 16
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

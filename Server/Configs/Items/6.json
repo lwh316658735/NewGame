@@ -16,7 +16,7 @@
     "DefaultItemLevel": 1,
     "UseCooldownGroupId": "1",
     "UseCooldownMilliseconds": 5000,
-    "UseQuantity": 1,
+    "UseQuantity": 0,
     "FixedAffixRules": [
       {
         "AffixId": 13

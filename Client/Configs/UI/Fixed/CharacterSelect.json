@@ -289,8 +289,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image2",
@@ -575,8 +574,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image3",
@@ -861,8 +859,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectCharacterSlot1",
@@ -1206,8 +1203,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectCharacterSlot2",
@@ -1551,8 +1547,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectCharacterSlot3",
@@ -1896,8 +1891,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectStartGameButton",
@@ -2180,8 +2174,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectCreateCharacterButton",
@@ -2464,8 +2457,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectCharacterPreview",
@@ -2797,8 +2789,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectDeleteCharacterButton",
@@ -3081,8 +3072,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image4",
@@ -3367,8 +3357,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "characterSelectExitGameButton",
@@ -3651,8 +3640,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image5",
@@ -3937,8 +3925,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     }
   ]
 }

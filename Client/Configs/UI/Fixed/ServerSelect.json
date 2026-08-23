@@ -289,8 +289,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "image2",
@@ -575,8 +574,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "serverSelectServerList",
@@ -942,8 +940,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "serverSelectEnterGameButton",
@@ -1226,8 +1223,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "serverSelectRefreshListButton",
@@ -1510,8 +1506,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "serverSelectExitGameButton",
@@ -1794,8 +1789,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     }
   ]
 }

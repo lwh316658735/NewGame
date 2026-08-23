@@ -382,6 +382,14 @@
       "All"
     ]
   },
+  "PvpKillRules": {
+    "KillValuePerPlayerKill": 200,
+    "YellowNameKillValueThreshold": 200,
+    "RedNameKillValueThreshold": 300,
+    "AggressionDurationSeconds": 10,
+    "KillValueDecayPerOnlineMinute": 100,
+    "KillValueDecayIntervalSeconds": 30
+  },
   "CurrencyRules": {
     "Currencies": {
       "Gold": {

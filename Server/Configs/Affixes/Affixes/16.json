@@ -1,0 +1,25 @@
+{
+  "AffixId": 16,
+  "DisplayName": "消耗品_随机传送卷",
+  "CategoryIds": [
+    11
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Consumable"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemUsed",
+      "ScriptId": "affix/16/OnItemUsed",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

@@ -294,8 +294,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "text",
@@ -581,8 +580,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "minimapSmallFullMapImage",
@@ -872,8 +870,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "minimapLocalMapImage",
@@ -1163,8 +1160,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "text2",
@@ -1450,8 +1446,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "text22",
@@ -1737,8 +1732,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "Version": 2,
+  "TemplateId": 1003,
+  "DisplayName": "测试面板",
+  "PresentationScriptId": "npc/ui/content/1003",
+  "HasPresentationScript": false,
+  "Actions": [
+    {
+      "ActionId": "action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "action2",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

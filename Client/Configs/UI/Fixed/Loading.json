@@ -289,8 +289,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     },
     {
       "ControlId": "loadingProgressImage",
@@ -674,8 +673,7 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      },
-      "SkillSlotIndex": 0
+      }
     }
   ]
 }

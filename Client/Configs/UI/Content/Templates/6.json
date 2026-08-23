@@ -61,8 +61,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 8,
       "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -229,7 +227,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 8,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 8
     },
     {
       "ControlId": "skillIcon",
@@ -287,8 +289,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 8,
       "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -455,7 +455,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 8,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 8
     },
     {
       "ControlId": "skillNameText",
@@ -511,8 +515,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 8,
       "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -679,7 +681,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 8,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 8
     },
     {
       "ControlId": "skillLevelText",
@@ -735,8 +741,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 8,
       "ItemInfoTooltipModuleBorderColor": "#E2E8F096",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -903,7 +907,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 8,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 8
     },
     {
       "ControlId": "skillBasicInfoModule",
@@ -959,8 +967,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 360,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 0,
       "ItemInfoTooltipModuleBorderColor": "",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -1127,7 +1133,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 0,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 0
     },
     {
       "ControlId": "skillRangeInfoModule",
@@ -1183,8 +1193,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 360,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 5,
       "ItemInfoTooltipModuleBorderColor": "",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -1351,7 +1359,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 5,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 5
     },
     {
       "ControlId": "skillAffixDescriptionModule",
@@ -1407,8 +1419,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 360,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 0,
       "ItemInfoTooltipModuleBorderColor": "",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -1575,7 +1585,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 0,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 0
     },
     {
       "ControlId": "skillExperienceModule",
@@ -1631,8 +1645,6 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "ItemInfoTooltipModuleMaxWidth": 360,
-      "ItemInfoTooltipModulePaddingX": 12,
-      "ItemInfoTooltipModulePaddingY": 5,
       "ItemInfoTooltipModuleBorderColor": "",
       "ItemInfoTooltipModuleBorderWidth": 1,
       "ItemInfoTooltipModuleCornerRadius": 0,
@@ -1799,7 +1811,11 @@
           "DecorationInsetRight": 0,
           "DecorationInsetBottom": 0
         }
-      }
+      },
+      "ItemInfoTooltipModulePaddingLeft": 12,
+      "ItemInfoTooltipModulePaddingTop": 5,
+      "ItemInfoTooltipModulePaddingRight": 12,
+      "ItemInfoTooltipModulePaddingBottom": 5
     }
   ]
 }

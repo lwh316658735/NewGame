@@ -1,0 +1,31 @@
+{
+  "Version": 2,
+  "TemplateId": 10,
+  "DisplayName": "系统输入弹窗",
+  "PresentationScriptId": "system/ui/content/10",
+  "HasPresentationScript": false,
+  "Actions": [
+    {
+      "ActionId": "cancel",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "confirm",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

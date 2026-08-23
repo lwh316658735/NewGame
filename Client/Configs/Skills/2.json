@@ -241,6 +241,20 @@
         }
       ]
     },
+    "EmptyReleaseEffect": {
+      "IsEffectMode": true,
+      "DirectionSet": "None",
+      "FramesPerSecond": 8,
+      "FramesPerDirection": 4,
+      "RetainedDirectionArchive": null,
+      "Directions": [
+        {
+          "DirectionIndex": 0,
+          "FrameAssetIds": []
+        }
+      ]
+    },
+    "EmptyReleaseEffectUsesHitEffect": true,
     "AreaEffect": {
       "IsEffectMode": true,
       "DirectionSet": "None",

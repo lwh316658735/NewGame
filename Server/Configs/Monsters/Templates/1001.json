@@ -33,8 +33,8 @@
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 600,
-    "MoveIntervalMilliseconds": 1200
+    "MoveActionMilliseconds": 200,
+    "MoveIntervalMilliseconds": 200
   },
   "Reward": {
     "IsRewardDisabled": false,

@@ -43,6 +43,10 @@
     {
       "CategoryId": 10,
       "DisplayName": "药剂"
+    },
+    {
+      "CategoryId": 11,
+      "DisplayName": "消耗品"
     }
   ]
 }
