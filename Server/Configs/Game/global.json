@@ -350,11 +350,11 @@
     "DroppedItemLevelPercentRange": 0
   },
   "CharacterCreation": {
-    "DefaultLevel": 71,
+    "DefaultLevel": 1,
     "DefaultRebirthLevel": 0,
-    "DefaultMapId": 1,
-    "DefaultSpawnColumn": 300,
-    "DefaultSpawnRow": 300,
+    "DefaultMapId": 7,
+    "DefaultSpawnColumn": 71,
+    "DefaultSpawnRow": 73,
     "DefaultAttackMode": "Peace"
   },
   "DeathRespawnRules": {

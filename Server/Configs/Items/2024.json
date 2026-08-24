@@ -1,0 +1,31 @@
+{
+  "ItemId": 2024,
+  "DisplayName": "回城卷",
+  "Kind": "Consumable",
+  "MaxStack": 99,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0,
+    "CanSellToNpc": true
+  },
+  "Weight": 1,
+  "IsCharacterBound": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 0,
+    "UseTargetType": "Self",
+    "TargetItemFilters": [],
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 0,
+    "MaxUseCount": 0,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 17
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

@@ -14,9 +14,11 @@
   "AttributeItem": null,
   "ConsumableItem": {
     "DefaultItemLevel": 0,
-    "UseTargetType": "OtherInventoryItem",
+    "UseTargetType": "Self",
+    "TargetItemFilters": [],
     "UseCooldownGroupId": "",
-    "UseCooldownMilliseconds": 500,
+    "UseCooldownMilliseconds": 100,
+    "MaxUseCount": 999,
     "UseQuantity": 1,
     "FixedAffixRules": [
       {

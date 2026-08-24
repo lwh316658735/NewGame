@@ -1,6 +1,6 @@
 {
   "Version": 7,
-  "NextAssetId": 51994,
+  "NextAssetId": 52015,
   "Categories": [
     "角色",
     "NPC",
@@ -68,303 +68,309 @@
       "AssetCount": 9600
     },
     {
+      "Category": "角色",
+      "Name": "升级特效",
+      "SortOrder": 9,
+      "AssetCount": 20
+    },
+    {
       "Category": "NPC",
       "Name": "npc2",
-      "SortOrder": 9,
+      "SortOrder": 10,
       "AssetCount": 1075
     },
     {
       "Category": "怪物",
       "Name": "Mon1",
-      "SortOrder": 10,
+      "SortOrder": 11,
       "AssetCount": 1086
     },
     {
       "Category": "怪物",
       "Name": "测试",
-      "SortOrder": 11,
+      "SortOrder": 12,
       "AssetCount": 30
     },
     {
       "Category": "技能",
       "Name": "技能图标",
-      "SortOrder": 12,
+      "SortOrder": 13,
       "AssetCount": 717
     },
     {
       "Category": "技能",
       "Name": "技能特效1",
-      "SortOrder": 13,
+      "SortOrder": 14,
       "AssetCount": 28
     },
     {
       "Category": "技能",
       "Name": "技能特效2",
-      "SortOrder": 14,
+      "SortOrder": 15,
       "AssetCount": 4010
     },
     {
       "Category": "技能",
       "Name": "技能特效3",
-      "SortOrder": 15,
+      "SortOrder": 16,
       "AssetCount": 810
     },
     {
       "Category": "技能",
       "Name": "技能特效4",
-      "SortOrder": 16,
+      "SortOrder": 17,
       "AssetCount": 50
     },
     {
       "Category": "技能",
       "Name": "技能特效5",
-      "SortOrder": 17,
+      "SortOrder": 18,
       "AssetCount": 1460
     },
     {
       "Category": "物品",
       "Name": "物品堆叠框动画",
-      "SortOrder": 18,
+      "SortOrder": 19,
       "AssetCount": 30
     },
     {
       "Category": "物品",
       "Name": "地上物品图标",
-      "SortOrder": 19,
+      "SortOrder": 20,
       "AssetCount": 2473
     },
     {
       "Category": "物品",
       "Name": "背包物品图标",
-      "SortOrder": 20,
+      "SortOrder": 21,
       "AssetCount": 2545
     },
     {
       "Category": "物品",
       "Name": "光柱1",
-      "SortOrder": 21,
+      "SortOrder": 22,
       "AssetCount": 12
     },
     {
       "Category": "物品",
       "Name": "其他",
-      "SortOrder": 22,
+      "SortOrder": 23,
       "AssetCount": 2
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects10",
-      "SortOrder": 23,
+      "SortOrder": 24,
       "AssetCount": 438
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects14",
-      "SortOrder": 24,
+      "SortOrder": 25,
       "AssetCount": 322
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects2",
-      "SortOrder": 25,
+      "SortOrder": 26,
       "AssetCount": 1255
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects",
-      "SortOrder": 26,
+      "SortOrder": 27,
       "AssetCount": 3945
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects4",
-      "SortOrder": 27,
+      "SortOrder": 28,
       "AssetCount": 1227
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects5",
-      "SortOrder": 28,
+      "SortOrder": 29,
       "AssetCount": 77
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Objects6",
-      "SortOrder": 29,
+      "SortOrder": 30,
       "AssetCount": 188
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Smtiles",
-      "SortOrder": 30,
+      "SortOrder": 31,
       "AssetCount": 168
     },
     {
       "Category": "地图",
       "Name": "WemadeMir2_Tiles",
-      "SortOrder": 31,
+      "SortOrder": 32,
       "AssetCount": 1291
     },
     {
       "Category": "地图",
       "Name": "Smtiles",
-      "SortOrder": 32,
+      "SortOrder": 33,
       "AssetCount": 56
     },
     {
       "Category": "地图",
       "Name": "Objects6",
-      "SortOrder": 33,
+      "SortOrder": 34,
       "AssetCount": 225
     },
     {
       "Category": "地图",
       "Name": "Objects",
-      "SortOrder": 34,
+      "SortOrder": 35,
       "AssetCount": 862
     },
     {
       "Category": "地图",
       "Name": "Objects2",
-      "SortOrder": 35,
+      "SortOrder": 36,
       "AssetCount": 69
     },
     {
       "Category": "地图",
       "Name": "Tiles",
-      "SortOrder": 36,
+      "SortOrder": 37,
       "AssetCount": 257
     },
     {
       "Category": "地图",
       "Name": "Legacy",
-      "SortOrder": 37,
+      "SortOrder": 38,
       "AssetCount": 2398
     },
     {
       "Category": "地图",
       "Name": "Cliffsc",
-      "SortOrder": 38,
+      "SortOrder": 39,
       "AssetCount": 0
     },
     {
       "Category": "地图",
       "Name": "Housesc",
-      "SortOrder": 39,
+      "SortOrder": 40,
       "AssetCount": 916
     },
     {
       "Category": "地图",
       "Name": "Object2c",
-      "SortOrder": 40,
+      "SortOrder": 41,
       "AssetCount": 12
     },
     {
       "Category": "地图",
       "Name": "Tiles30c",
-      "SortOrder": 41,
+      "SortOrder": 42,
       "AssetCount": 118
     },
     {
       "Category": "地图",
       "Name": "Tilesc",
-      "SortOrder": 42,
+      "SortOrder": 43,
       "AssetCount": 477
     },
     {
       "Category": "地图",
       "Name": "smObjectsc",
-      "SortOrder": 43,
+      "SortOrder": 44,
       "AssetCount": 631
     },
     {
       "Category": "地图",
       "Name": "wood_Cliffsc",
-      "SortOrder": 44,
-      "AssetCount": 0
-    },
-    {
-      "Category": "地图",
-      "Name": "wood_Furnituresc",
       "SortOrder": 45,
       "AssetCount": 0
     },
     {
       "Category": "地图",
-      "Name": "wood_Housesc",
+      "Name": "wood_Furnituresc",
       "SortOrder": 46,
+      "AssetCount": 0
+    },
+    {
+      "Category": "地图",
+      "Name": "wood_Housesc",
+      "SortOrder": 47,
       "AssetCount": 56
     },
     {
       "Category": "地图",
       "Name": "wood_smObjectsc",
-      "SortOrder": 47,
+      "SortOrder": 48,
       "AssetCount": 187
     },
     {
       "Category": "地图",
       "Name": "地图瓦片",
-      "SortOrder": 48,
+      "SortOrder": 49,
       "AssetCount": 4765
     },
     {
       "Category": "界面",
       "Name": "buff",
-      "SortOrder": 49,
+      "SortOrder": 50,
       "AssetCount": 20
     },
     {
       "Category": "界面",
       "Name": "主界面",
-      "SortOrder": 50,
+      "SortOrder": 51,
       "AssetCount": 78
     },
     {
       "Category": "界面",
       "Name": "提示框",
-      "SortOrder": 51,
+      "SortOrder": 52,
       "AssetCount": 3
     },
     {
       "Category": "界面",
       "Name": "游戏加载界面",
-      "SortOrder": 52,
+      "SortOrder": 53,
       "AssetCount": 101
     },
     {
       "Category": "界面",
       "Name": "登录界面",
-      "SortOrder": 53,
+      "SortOrder": 54,
       "AssetCount": 8
     },
     {
       "Category": "界面",
       "Name": "角色选择界面",
-      "SortOrder": 54,
+      "SortOrder": 55,
       "AssetCount": 24
     },
     {
       "Category": "界面",
       "Name": "人物属性面板",
-      "SortOrder": 55,
+      "SortOrder": 56,
       "AssetCount": 1
     },
     {
       "Category": "界面",
       "Name": "新界面素材",
-      "SortOrder": 56,
+      "SortOrder": 57,
       "AssetCount": 1510
     },
     {
       "Category": "小地图",
       "Name": "LegacyMinimap",
-      "SortOrder": 57,
-      "AssetCount": 3
+      "SortOrder": 58,
+      "AssetCount": 4
     },
     {
       "Category": "音频",
       "Name": "默认",
-      "SortOrder": 58,
+      "SortOrder": 59,
       "AssetCount": 3
     }
   ],
@@ -589706,6 +589712,219 @@
       "Category": "技能",
       "Subcategory": "技能图标",
       "RelativePath": "Client/Assets/技能/技能图标/龙抓手_技能图标_125x125.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 51994,
+      "DisplayName": "7 小地图",
+      "SortOrder": 51984,
+      "Category": "小地图",
+      "Subcategory": "LegacyMinimap",
+      "RelativePath": "Client/Assets/小地图/LegacyMinimap/7/7_generated.png",
+      "AudioUsage": null,
+      "Tags": [
+        "LegacyMinimap",
+        "MapId.7"
+      ]
+    },
+    {
+      "AssetId": 51995,
+      "DisplayName": "0001",
+      "SortOrder": 51985,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0001.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 51996,
+      "DisplayName": "0002",
+      "SortOrder": 51986,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0002.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 51997,
+      "DisplayName": "0003",
+      "SortOrder": 51987,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0003.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 51998,
+      "DisplayName": "0004",
+      "SortOrder": 51988,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0004.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 51999,
+      "DisplayName": "0005",
+      "SortOrder": 51989,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0005.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52000,
+      "DisplayName": "0006",
+      "SortOrder": 51990,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0006.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52001,
+      "DisplayName": "0007",
+      "SortOrder": 51991,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0007.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52002,
+      "DisplayName": "0008",
+      "SortOrder": 51992,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0008.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52003,
+      "DisplayName": "0009",
+      "SortOrder": 51993,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0009.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52004,
+      "DisplayName": "0010",
+      "SortOrder": 51994,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0010.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52005,
+      "DisplayName": "0001-2",
+      "SortOrder": 51995,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0001-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52006,
+      "DisplayName": "0002-2",
+      "SortOrder": 51996,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0002-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52007,
+      "DisplayName": "0003-2",
+      "SortOrder": 51997,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0003-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52008,
+      "DisplayName": "0004-2",
+      "SortOrder": 51998,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0004-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52009,
+      "DisplayName": "0005-2",
+      "SortOrder": 51999,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0005-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52010,
+      "DisplayName": "0006-2",
+      "SortOrder": 52000,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0006-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52011,
+      "DisplayName": "0007-2",
+      "SortOrder": 52001,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0007-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52012,
+      "DisplayName": "0008-2",
+      "SortOrder": 52002,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0008-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52013,
+      "DisplayName": "0009-2",
+      "SortOrder": 52003,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0009-2.png",
+      "AudioUsage": null,
+      "Tags": []
+    },
+    {
+      "AssetId": 52014,
+      "DisplayName": "0010-2",
+      "SortOrder": 52004,
+      "Category": "角色",
+      "Subcategory": "升级特效",
+      "RelativePath": "Client/Assets/角色/升级特效/0010-2.png",
       "AudioUsage": null,
       "Tags": []
     }

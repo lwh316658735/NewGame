@@ -1,0 +1,25 @@
+{
+  "AffixId": 17,
+  "DisplayName": "消耗品_回城",
+  "CategoryIds": [
+    11
+  ],
+  "AffixType": "Special",
+  "Weight": 0,
+  "AllowedLocations": [
+    "Consumable"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemUsed",
+      "ScriptId": "affix/17/OnItemUsed",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

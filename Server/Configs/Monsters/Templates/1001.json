@@ -38,7 +38,7 @@
   },
   "Reward": {
     "IsRewardDisabled": false,
-    "Experience": 0,
+    "Experience": 50000,
     "DropTableIds": [],
     "DropRateBonus": {
       "IsEnabled": false,

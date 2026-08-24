@@ -204,7 +204,8 @@
       "CommandId": "character.set_level",
       "DisplayName": "调整等级",
       "Aliases": [
-        "@调整等级"
+        "@调整等级",
+        "@dj"
       ],
       "MinimumPermissionLevel": 3,
       "AuditLevel": "Sensitive",

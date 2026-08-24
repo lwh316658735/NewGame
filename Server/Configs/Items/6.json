@@ -15,6 +15,7 @@
   "ConsumableItem": {
     "DefaultItemLevel": 1,
     "UseTargetType": "Self",
+    "TargetItemFilters": [],
     "UseCooldownGroupId": "1",
     "UseCooldownMilliseconds": 5000,
     "UseQuantity": 0,

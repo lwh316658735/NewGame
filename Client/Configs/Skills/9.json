@@ -1,7 +1,7 @@
 {
   "SkillId": 9,
   "DisplayName": "分身术",
-  "Description": "填写技能用途、释放方式和客户端展示说明。",
+  "Description": "",
   "IconAssetId": 42133,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": false,
