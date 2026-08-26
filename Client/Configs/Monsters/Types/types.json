@@ -4,12 +4,21 @@
       "TypeId": 1,
       "DisplayName": "Boss",
       "TypeLevel": 4,
+      "IsHumanoid": false,
       "HealthBarConfigId": 1001
     },
     {
       "TypeId": 2,
       "DisplayName": "召唤物",
       "TypeLevel": 0,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 3,
+      "DisplayName": "人形",
+      "TypeLevel": 0,
+      "IsHumanoid": true,
       "HealthBarConfigId": 1001
     }
   ]

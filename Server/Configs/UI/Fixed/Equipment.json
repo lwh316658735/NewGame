@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Controls": [
+    {
+      "ControlId": "button",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button2",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button22",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button4",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button5",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button3",
+      "IsVisibleInTargetF10": true
+    },
+    {
+      "ControlId": "button6",
+      "IsVisibleInTargetF10": true
+    }
+  ]
+}

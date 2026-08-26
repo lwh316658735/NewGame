@@ -23,7 +23,8 @@
     }
   },
   "MonsterTypeIds": [
-    2
+    2,
+    3
   ],
   "HealthBarConfigId": 0
 }

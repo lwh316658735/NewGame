@@ -3,7 +3,8 @@
   "DisplayName": "刀卫",
   "Level": 1,
   "MonsterTypeIds": [
-    2
+    2,
+    3
   ],
   "ViewRangeCells": 7,
   "FixedAffixRules": [],

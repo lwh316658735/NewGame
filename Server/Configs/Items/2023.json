@@ -6,11 +6,11 @@
   "Price": {
     "CurrencyId": "Gold",
     "BuyPrice": 0,
-    "SellPrice": 0,
-    "CanSellToNpc": true
+    "SellPrice": 0
   },
   "Weight": 0,
-  "IsCharacterBound": false,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
   "AttributeItem": null,
   "ConsumableItem": {
     "DefaultItemLevel": 0,

@@ -102,7 +102,6 @@
       "ActionId": "",
       "ActionKind": "SystemEvent",
       "ClickSoundAssetId": 0,
-      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -328,7 +327,6 @@
       "ActionId": "",
       "ActionKind": "SystemEvent",
       "ClickSoundAssetId": 0,
-      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -554,7 +552,6 @@
       "ActionId": "",
       "ActionKind": "SystemEvent",
       "ClickSoundAssetId": 0,
-      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -780,7 +777,6 @@
       "ActionId": "",
       "ActionKind": "SystemEvent",
       "ClickSoundAssetId": 0,
-      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
@@ -1006,7 +1002,6 @@
       "ActionId": "ok",
       "ActionKind": "SystemEvent",
       "ClickSoundAssetId": 0,
-      "ButtonCloseOpenedTargetOnRepeatClick": false,
       "ButtonDefaultStateStyle": {
         "AssetId": 0,
         "NineSlice": {
