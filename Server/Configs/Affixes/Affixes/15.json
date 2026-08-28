@@ -5,14 +5,10 @@
     9
   ],
   "AffixType": "Special",
-  "Weight": 0,
   "AllowedLocations": [
     "Skill"
   ],
   "Tags": [],
-  "ConflictGroup": 0,
-  "StackPolicy": "Unique",
-  "MaxStacks": 1,
   "ScriptBindings": [
     {
       "Event": "OnRelease",

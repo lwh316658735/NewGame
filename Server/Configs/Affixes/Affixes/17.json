@@ -5,14 +5,10 @@
     11
   ],
   "AffixType": "Special",
-  "Weight": 0,
   "AllowedLocations": [
     "Consumable"
   ],
   "Tags": [],
-  "ConflictGroup": 0,
-  "StackPolicy": "Unique",
-  "MaxStacks": 1,
   "ScriptBindings": [
     {
       "Event": "OnItemUsed",

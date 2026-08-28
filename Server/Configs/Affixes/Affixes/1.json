@@ -5,14 +5,10 @@
     7
   ],
   "AffixType": "Special",
-  "Weight": 0,
   "AllowedLocations": [
     "Set"
   ],
   "Tags": [],
-  "ConflictGroup": 0,
-  "StackPolicy": "Unique",
-  "MaxStacks": 1,
   "ScriptBindings": [
     {
       "Event": "OnSetBonusChanged",

@@ -6,7 +6,7 @@
     {
       "AssetId": 40401,
       "DisplayName": "1 小地图",
-      "SortOrder": 50501,
+      "SortOrder": 48971,
       "Category": "小地图",
       "Subcategory": "LegacyMinimap",
       "RelativePath": "Client/Assets/小地图/LegacyMinimap/1/1_generated.png",
@@ -29,7 +29,7 @@
     {
       "AssetId": 42124,
       "DisplayName": "2 小地图",
-      "SortOrder": 51973,
+      "SortOrder": 50443,
       "Category": "小地图",
       "Subcategory": "LegacyMinimap",
       "RelativePath": "Client/Assets/小地图/LegacyMinimap/2/2_generated.png",
@@ -52,7 +52,7 @@
     {
       "AssetId": 42125,
       "DisplayName": "3 小地图",
-      "SortOrder": 51974,
+      "SortOrder": 50444,
       "Category": "小地图",
       "Subcategory": "LegacyMinimap",
       "RelativePath": "Client/Assets/小地图/LegacyMinimap/3/3_generated.png",
@@ -75,7 +75,7 @@
     {
       "AssetId": 51994,
       "DisplayName": "7 小地图",
-      "SortOrder": 51984,
+      "SortOrder": 50454,
       "Category": "小地图",
       "Subcategory": "LegacyMinimap",
       "RelativePath": "Client/Assets/小地图/LegacyMinimap/7/7_generated.png",

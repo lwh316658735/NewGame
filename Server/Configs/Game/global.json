@@ -815,6 +815,9 @@
   "ChatRules": {
     "DefaultChatBubbleStyleId": 1
   },
+  "CombatFeedbackRules": {
+    "DefaultPlayerHealthBarConfigId": 1
+  },
   "AttributeConversions": {
     "Strength": {
       "WristStrength": 0,

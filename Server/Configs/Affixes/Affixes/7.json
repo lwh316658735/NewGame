@@ -8,14 +8,10 @@
     6
   ],
   "AffixType": "Special",
-  "Weight": 100,
   "AllowedLocations": [
     "Skill"
   ],
   "Tags": [],
-  "ConflictGroup": 0,
-  "StackPolicy": "Unique",
-  "MaxStacks": 1,
   "ScriptBindings": [
     {
       "Event": "OnSkillInitialize",

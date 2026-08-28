@@ -124,7 +124,8 @@
       "CommandId": "map.summon_player",
       "DisplayName": "召唤",
       "Aliases": [
-        "@召唤"
+        "@召唤",
+        "@zh"
       ],
       "MinimumPermissionLevel": 2,
       "AuditLevel": "Sensitive",
@@ -305,7 +306,8 @@
       "CommandId": "item.give",
       "DisplayName": "给予物品",
       "Aliases": [
-        "@给予物品"
+        "@给予物品",
+        "@wp"
       ],
       "MinimumPermissionLevel": 4,
       "AuditLevel": "Sensitive",

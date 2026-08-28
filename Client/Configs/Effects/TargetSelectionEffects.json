@@ -1,0 +1,22 @@
+{
+  "DefaultTargetSelectionEffectId": 1,
+  "Effects": [
+    {
+      "TargetSelectionEffectId": 1,
+      "DisplayName": "默认选中配置",
+      "FramesPerSecond": 5,
+      "IsEffectMode": true,
+      "FrameAssetIds": [
+        52033,
+        52034,
+        52035,
+        52036,
+        52037,
+        52038,
+        52039
+      ],
+      "OffsetX": 0,
+      "OffsetY": 0
+    }
+  ]
+}

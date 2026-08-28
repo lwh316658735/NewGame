@@ -36,6 +36,16 @@
       "CloseWindowAfterAction": false
     },
     {
+      "ActionId": "action222",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
       "ActionId": "action3",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",

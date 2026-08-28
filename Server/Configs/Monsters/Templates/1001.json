@@ -6,7 +6,11 @@
     1
   ],
   "ViewRangeCells": 7,
-  "FixedAffixRules": [],
+  "FixedAffixRules": [
+    {
+      "AffixId": 9
+    }
+  ],
   "Combat": {
     "MaxHealth": 1000000,
     "MaxMana": 0,
@@ -24,7 +28,7 @@
     "Hit": 10000,
     "Dodge": 0,
     "AttackType": "SingleTarget",
-    "AttackDistanceCells": 1,
+    "AttackDistanceCells": 6,
     "AttackAreaShape": "AroundSelf",
     "AttackAreaRadiusCells": 1,
     "AttackAreaHalfWidthCells": 0,
@@ -33,8 +37,8 @@
     "BaseCastSpeedPercent": 1000
   },
   "MovementTiming": {
-    "MoveActionMilliseconds": 200,
-    "MoveIntervalMilliseconds": 200
+    "MoveActionMilliseconds": 400,
+    "MoveIntervalMilliseconds": 400
   },
   "Reward": {
     "IsRewardDisabled": false,

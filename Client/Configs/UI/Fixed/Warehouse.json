@@ -6,6 +6,8 @@
   "PresentationScriptId": "system/ui/fixed/Warehouse",
   "HasPresentationScript": false,
   "TeamItemRowSpacing": 0,
+  "EditorPreviewHealthBarConfigId": 0,
+  "HealthBarTemplates": [],
   "Controls": [
     {
       "ControlId": "image",
@@ -5837,7 +5839,7 @@
       "DisplayName": "仓库下一页按钮",
       "Kind": "Button",
       "X": 401,
-      "Y": 243,
+      "Y": 244,
       "Width": 16,
       "Height": 47,
       "Anchor": "TopLeft",
