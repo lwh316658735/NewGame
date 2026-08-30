@@ -9,6 +9,9 @@
   "FixedAffixRules": [
     {
       "AffixId": 9
+    },
+    {
+      "AffixId": 18
     }
   ],
   "Combat": {

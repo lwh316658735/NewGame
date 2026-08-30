@@ -349883,7 +349883,7 @@
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/log-in-long2.wav",
-      "AudioUsage": null,
+      "AudioUsage": "BackgroundMusic",
       "Tags": []
     },
     {
@@ -349893,7 +349893,7 @@
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/main_theme.wav",
-      "AudioUsage": null,
+      "AudioUsage": "BackgroundMusic",
       "Tags": []
     },
     {
@@ -349903,7 +349903,7 @@
       "Category": "音频",
       "Subcategory": "默认",
       "RelativePath": "Client/Assets/音频/默认/攻击.wav",
-      "AudioUsage": null,
+      "AudioUsage": "SoundEffect",
       "Tags": []
     },
     {

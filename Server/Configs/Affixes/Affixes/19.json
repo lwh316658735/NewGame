@@ -1,19 +1,18 @@
 {
-  "AffixId": 18,
-  "DisplayName": "狂暴之",
+  "AffixId": 19,
+  "DisplayName": "词缀偷取",
   "CategoryIds": [
     0
   ],
   "AffixType": "Special",
   "AllowedLocations": [
-    "Monster",
-    "Unit"
+    "Belt"
   ],
   "Tags": [],
   "ScriptBindings": [
     {
-      "Event": "OnAffixChanged",
-      "ScriptId": "affix/18/OnAffixChanged",
+      "Event": "OnItemEquipmentChanged",
+      "ScriptId": "affix/19/OnItemEquipmentChanged",
       "Priority": 0,
       "IsEnabled": true
     }

@@ -370,6 +370,11 @@
     "DefaultIntervalMilliseconds": 500,
     "AllowIndependentPeriodicRecoveryCycles": true
   },
+  "ManaProtectionRules": {
+    "ManaCostPoints": 1,
+    "HealthEquivalentPoints": 1,
+    "ManaReservePercent": 0
+  },
   "AttackModeRules": {
     "DefaultAttackMode": "Peace",
     "EnabledModes": [

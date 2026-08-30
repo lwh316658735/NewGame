@@ -1,0 +1,43 @@
+{
+  "ItemId": 2025,
+  "DisplayName": "猎首腰带",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 60,
+    "EquipRequirements": [
+      {
+        "RequirementType": "RequiredCharacterLevel",
+        "RequiredValue": 20
+      }
+    ],
+    "MaxDurability": 60000,
+    "EquipLocations": [
+      "Belt"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": false,
+      "DefaultRarity": 5
+    },
+    "FixedAttributes": [],
+    "FixedAffixRules": [
+      {
+        "AffixId": 19
+      }
+    ]
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}
