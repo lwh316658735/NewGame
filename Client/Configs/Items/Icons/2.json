@@ -1,11 +1,11 @@
 {
   "ItemId": 2,
-  "InventoryIconAssetId": 1053,
   "ItemSlotResource": {
     "FramesPerSecond": 5,
-    "FrameAssetIds": [
-      1060
+    "FrameAssetPaths": [
+      "角色/物品内观/000104.png"
     ]
   },
-  "GroundIconAssetId": 1055
+  "InventoryIconAssetPath": "物品/背包物品图标/000104.png",
+  "GroundIconAssetPath": "物品/地上物品图标/000104.png"
 }

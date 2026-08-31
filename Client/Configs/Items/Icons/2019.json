@@ -1,6 +1,6 @@
 {
   "ItemId": 2019,
-  "InventoryIconAssetId": 12449,
   "ItemSlotResource": null,
-  "GroundIconAssetId": 12449
+  "InventoryIconAssetPath": "角色/称号外观/001762.png",
+  "GroundIconAssetPath": "角色/称号外观/001762.png"
 }

@@ -2,7 +2,6 @@
   "SkillId": 8,
   "DisplayName": "雷电术",
   "Description": "",
-  "IconAssetId": 41871,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": false,
   "Visual": {
@@ -15,35 +14,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -56,35 +55,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -98,10 +97,10 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            40423,
-            40424,
-            40425
+          "FrameAssetPaths": [
+            "技能/技能特效5/000020.png",
+            "技能/技能特效5/000021.png",
+            "技能/技能特效5/000022.png"
           ]
         }
       ]
@@ -115,35 +114,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -157,12 +156,12 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            40413,
-            40414,
-            40415,
-            40416,
-            40417
+          "FrameAssetPaths": [
+            "技能/技能特效5/000010.png",
+            "技能/技能特效5/000011.png",
+            "技能/技能特效5/000012.png",
+            "技能/技能特效5/000013.png",
+            "技能/技能特效5/000014.png"
           ]
         }
       ]
@@ -176,7 +175,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -190,7 +189,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -203,35 +202,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -244,37 +243,38 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
-  }
+  },
+  "IconAssetPath": "技能/技能图标/雷电术_技能图标_125x125.png"
 }

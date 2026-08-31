@@ -6,37 +6,37 @@
       "ActionSounds": [
         {
           "Action": "Walk",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Run",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Attack",
-          "SoundAssetIds": [
-            27554
+          "SoundAssetPaths": [
+            "音频/默认/攻击.wav"
           ]
         },
         {
           "Action": "Cast",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Hit",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Death",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Mining",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Explore",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         }
       ]
     },
@@ -46,37 +46,37 @@
       "ActionSounds": [
         {
           "Action": "Walk",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Run",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Attack",
-          "SoundAssetIds": [
-            27554
+          "SoundAssetPaths": [
+            "音频/默认/攻击.wav"
           ]
         },
         {
           "Action": "Cast",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Hit",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Death",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Mining",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         },
         {
           "Action": "Explore",
-          "SoundAssetIds": []
+          "SoundAssetPaths": []
         }
       ]
     }

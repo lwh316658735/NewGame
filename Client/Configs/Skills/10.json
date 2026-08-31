@@ -2,7 +2,6 @@
   "SkillId": 10,
   "DisplayName": "召唤刀卫",
   "Description": "",
-  "IconAssetId": 42132,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": false,
   "Visual": {
@@ -15,35 +14,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -56,35 +55,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -98,35 +97,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -139,35 +138,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -181,7 +180,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -194,7 +193,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -208,7 +207,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -221,35 +220,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -262,37 +261,38 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
-  }
+  },
+  "IconAssetPath": "技能/技能图标/exec-8829af8a-54a3-4612-8c3d-c8a54c8022cf.png"
 }

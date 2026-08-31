@@ -1,18 +1,6 @@
 {
   "NpcModelId": "NpcModel0002",
   "DisplayName": "红娘",
-  "FrameAssetIds": [
-    39112,
-    39113,
-    39114,
-    39115,
-    39116,
-    39117,
-    39118,
-    39119,
-    39120,
-    39121
-  ],
   "FramesPerSecond": 5,
   "DefaultScaleX": 1,
   "DefaultScaleY": 1,
@@ -21,5 +9,17 @@
     "OffsetY": -52,
     "Width": 56,
     "Height": 80
-  }
+  },
+  "FrameAssetPaths": [
+    "NPC/npc2/0110.png",
+    "NPC/npc2/0111.png",
+    "NPC/npc2/0112.png",
+    "NPC/npc2/0113.png",
+    "NPC/npc2/0114.png",
+    "NPC/npc2/0115.png",
+    "NPC/npc2/0116.png",
+    "NPC/npc2/0117.png",
+    "NPC/npc2/0118.png",
+    "NPC/npc2/0119.png"
+  ]
 }

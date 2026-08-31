@@ -1,6 +1,6 @@
 {
   "ItemId": 9,
-  "InventoryIconAssetId": 66,
   "ItemSlotResource": null,
-  "GroundIconAssetId": 82
+  "InventoryIconAssetPath": "物品/背包物品图标/000005.png",
+  "GroundIconAssetPath": "物品/地上物品图标/000006.png"
 }

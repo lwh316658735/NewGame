@@ -2,7 +2,6 @@
   "Version": 4,
   "ScreenId": "Trade",
   "DisplayName": "交易",
-  "BackgroundMusicAssetId": 0,
   "PresentationScriptId": "system/ui/fixed/Trade",
   "HasPresentationScript": false,
   "TeamItemRowSpacing": 0,
@@ -45,10 +44,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 52016,
-      "AssetIds": [
-        52016
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -94,10 +89,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -110,7 +101,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -121,10 +111,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -135,10 +125,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -149,7 +139,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -167,10 +158,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -178,7 +166,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -192,10 +179,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -209,10 +196,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -226,7 +213,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -254,7 +242,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -277,8 +265,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -296,13 +282,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -315,7 +301,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -342,7 +330,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -356,10 +343,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -373,10 +360,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -390,15 +377,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -425,7 +413,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -439,10 +426,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -456,10 +443,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -473,15 +460,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -508,7 +496,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -522,10 +509,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -539,10 +526,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -556,15 +543,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -591,7 +579,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -605,10 +592,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -622,10 +609,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -639,15 +626,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -674,7 +662,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -688,10 +675,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -705,10 +692,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -722,17 +709,29 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "界面/主界面/jy.png",
+      "AssetPaths": [
+        "界面/主界面/jy.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "dragHandle",
@@ -780,8 +779,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -827,10 +824,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -843,7 +836,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -854,10 +846,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -868,10 +860,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -882,7 +874,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -900,10 +893,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -911,7 +901,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -925,10 +914,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -942,10 +931,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -959,7 +948,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -987,7 +977,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -1010,8 +1000,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1029,13 +1017,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1048,7 +1036,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -1075,7 +1065,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1089,10 +1078,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1106,10 +1095,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1123,15 +1112,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -1158,7 +1148,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1172,10 +1161,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1189,10 +1178,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1206,15 +1195,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -1241,7 +1231,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1255,10 +1244,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1272,10 +1261,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1289,15 +1278,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -1324,7 +1314,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1338,10 +1327,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1355,10 +1344,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1372,15 +1361,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -1407,7 +1397,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1421,10 +1410,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1438,10 +1427,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1455,17 +1444,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeCounterpartyNameText",
@@ -1505,8 +1504,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -1552,10 +1549,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -1568,7 +1561,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1579,10 +1571,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1593,10 +1585,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1607,7 +1599,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1625,10 +1618,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -1636,7 +1626,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1650,10 +1639,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1667,10 +1656,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1684,7 +1673,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -1712,7 +1702,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -1735,8 +1725,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1754,13 +1742,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1773,7 +1761,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -1800,7 +1790,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1814,10 +1803,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1831,10 +1820,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1848,15 +1837,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -1883,7 +1873,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1897,10 +1886,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1914,10 +1903,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1931,15 +1920,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -1966,7 +1956,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1980,10 +1969,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -1997,10 +1986,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2014,15 +2003,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -2049,7 +2039,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2063,10 +2052,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2080,10 +2069,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2097,15 +2086,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -2132,7 +2122,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2146,10 +2135,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2163,10 +2152,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2180,17 +2169,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeSelfNameText",
@@ -2230,8 +2229,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -2277,10 +2274,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -2293,7 +2286,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2304,10 +2296,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2318,10 +2310,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2332,7 +2324,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2350,10 +2343,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -2361,7 +2351,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2375,10 +2364,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2392,10 +2381,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2409,7 +2398,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -2437,7 +2427,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -2460,8 +2450,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -2479,13 +2467,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -2498,7 +2486,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -2525,7 +2515,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2539,10 +2528,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2556,10 +2545,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2573,15 +2562,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -2608,7 +2598,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2622,10 +2611,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2639,10 +2628,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2656,15 +2645,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -2691,7 +2681,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2705,10 +2694,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2722,10 +2711,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2739,15 +2728,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -2774,7 +2764,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2788,10 +2777,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2805,10 +2794,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2822,15 +2811,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -2857,7 +2847,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2871,10 +2860,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2888,10 +2877,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -2905,17 +2894,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeCounterpartyGrid",
@@ -2955,8 +2954,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -3002,10 +2999,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -3018,7 +3011,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3029,10 +3021,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3043,10 +3035,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3057,7 +3049,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 40,
@@ -3085,10 +3078,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -3096,7 +3086,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3110,10 +3099,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3127,10 +3116,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3144,7 +3133,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3172,7 +3162,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3195,8 +3185,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3214,13 +3202,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3233,7 +3221,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -3260,7 +3250,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3274,10 +3263,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3291,10 +3280,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3308,15 +3297,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -3343,7 +3333,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3357,10 +3346,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3374,10 +3363,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3391,15 +3380,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -3426,7 +3416,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3440,10 +3429,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3457,10 +3446,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3474,15 +3463,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -3509,7 +3499,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3523,10 +3512,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3540,10 +3529,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3557,15 +3546,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -3592,7 +3582,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3606,10 +3595,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3623,10 +3612,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -3640,17 +3629,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeSelfGrid",
@@ -3690,8 +3689,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -3737,10 +3734,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -3753,7 +3746,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3764,10 +3756,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3778,10 +3770,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3792,7 +3784,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 40,
@@ -3820,10 +3813,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -3831,7 +3821,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3845,10 +3834,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3862,10 +3851,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3879,7 +3868,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3907,7 +3897,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3930,8 +3920,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3949,13 +3937,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3968,7 +3956,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -3995,7 +3985,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4009,10 +3998,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4026,10 +4015,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4043,15 +4032,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -4078,7 +4068,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4092,10 +4081,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4109,10 +4098,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4126,15 +4115,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -4161,7 +4151,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4175,10 +4164,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4192,10 +4181,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4209,15 +4198,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -4244,7 +4234,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4258,10 +4247,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4275,10 +4264,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4292,15 +4281,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -4327,7 +4317,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4341,10 +4330,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4358,10 +4347,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4375,17 +4364,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeCancelButton",
@@ -4425,8 +4424,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 52023,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -4472,10 +4469,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -4488,7 +4481,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -4499,10 +4491,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -4513,10 +4505,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -4527,7 +4519,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -4545,10 +4538,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CancelTrade",
       "ButtonScriptId": "",
@@ -4556,7 +4546,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 52023,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -4570,10 +4559,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002249.png"
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 52021,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -4587,10 +4576,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002247.png"
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 52022,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -4604,7 +4593,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002248.png"
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -4632,7 +4622,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -4655,8 +4645,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -4674,13 +4662,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -4693,7 +4681,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -4720,7 +4710,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4734,10 +4723,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4751,10 +4740,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4768,15 +4757,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -4803,7 +4793,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4817,10 +4806,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4834,10 +4823,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4851,15 +4840,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -4886,7 +4876,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4900,10 +4889,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4917,10 +4906,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4934,15 +4923,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -4969,7 +4959,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -4983,10 +4972,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5000,10 +4989,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5017,15 +5006,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -5052,7 +5042,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5066,10 +5055,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5083,10 +5072,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5100,17 +5089,27 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "界面/主界面/002249.png",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     },
     {
       "ControlId": "tradeConfirmButton",
@@ -5150,8 +5149,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 52017,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -5197,10 +5194,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -5213,7 +5206,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -5224,10 +5216,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -5238,10 +5230,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -5252,7 +5244,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -5270,10 +5263,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
-      "HoverSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "ConfirmTrade",
       "ButtonScriptId": "",
@@ -5281,7 +5271,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 52017,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -5295,10 +5284,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002243.png"
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 52024,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -5312,10 +5301,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002241.png"
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 52025,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -5329,7 +5318,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/002242.png"
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -5357,7 +5347,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -5380,8 +5370,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -5399,13 +5387,13 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
       },
       "TeamContextMenu": {
         "BackgroundImage": {
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -5418,7 +5406,9 @@
           "BackgroundColor": "",
           "ImageBorderColor": "",
           "ImageBorderWidth": 0,
-          "ImageCornerRadius": 0
+          "ImageCornerRadius": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         },
         "ChatButton": {
           "FontFamily": "NSimSun",
@@ -5445,7 +5435,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5459,10 +5448,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5476,10 +5465,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5493,15 +5482,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "ViewInfoButton": {
           "FontFamily": "NSimSun",
@@ -5528,7 +5518,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5542,10 +5531,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5559,10 +5548,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5576,15 +5565,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "TransferLeaderButton": {
           "FontFamily": "NSimSun",
@@ -5611,7 +5601,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5625,10 +5614,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5642,10 +5631,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5659,15 +5648,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "LeaveTeamButton": {
           "FontFamily": "NSimSun",
@@ -5694,7 +5684,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5708,10 +5697,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5725,10 +5714,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5742,15 +5731,16 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         },
         "KickMemberButton": {
           "FontFamily": "NSimSun",
@@ -5777,7 +5767,6 @@
           "MarginRight": 0,
           "MarginBottom": 0,
           "ButtonDefaultStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5791,10 +5780,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonHoverStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5808,10 +5797,10 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonPressedStateStyle": {
-            "AssetId": 0,
             "NineSlice": {
               "IsEnabled": false,
               "Left": 0,
@@ -5825,17 +5814,28 @@
             "ImageCornerRadius": 0,
             "HotAreaFeedbackColor": "",
             "HotAreaFeedbackOpacity": null,
-            "HotAreaFeedbackFeatherRadius": null
+            "HotAreaFeedbackFeatherRadius": null,
+            "AssetPath": ""
           },
           "ButtonClickAreaX": 0,
           "ButtonClickAreaY": 0,
           "ButtonClickAreaWidth": 0,
           "ButtonClickAreaHeight": 0,
           "ButtonClickAreaCornerRadius": 0,
-          "ClickSoundAssetId": 0,
-          "HoverSoundAssetId": 0
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
         }
-      }
+      },
+      "AssetPath": "界面/主界面/002243.png",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": ""
     }
-  ]
+  ],
+  "BackgroundMusicAssetPath": ""
 }

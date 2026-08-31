@@ -8,74 +8,74 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": [
-            28292,
-            28293,
-            28294,
-            28295
+          "FrameAssetPaths": [
+            "怪物/Mon1/0000.png",
+            "怪物/Mon1/0001.png",
+            "怪物/Mon1/0002.png",
+            "怪物/Mon1/0003.png"
           ]
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": [
-            28300,
-            28301,
-            28302,
-            28303
+          "FrameAssetPaths": [
+            "怪物/Mon1/0008.png",
+            "怪物/Mon1/0009.png",
+            "怪物/Mon1/0010.png",
+            "怪物/Mon1/0011.png"
           ]
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": [
-            28308,
-            28309,
-            28310,
-            28311
+          "FrameAssetPaths": [
+            "怪物/Mon1/0016.png",
+            "怪物/Mon1/0017.png",
+            "怪物/Mon1/0018.png",
+            "怪物/Mon1/0019.png"
           ]
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": [
-            28316,
-            28317,
-            28318,
-            28319
+          "FrameAssetPaths": [
+            "怪物/Mon1/0024.png",
+            "怪物/Mon1/0025.png",
+            "怪物/Mon1/0026.png",
+            "怪物/Mon1/0027.png"
           ]
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": [
-            28324,
-            28325,
-            28326,
-            28327
+          "FrameAssetPaths": [
+            "怪物/Mon1/0032.png",
+            "怪物/Mon1/0033.png",
+            "怪物/Mon1/0034.png",
+            "怪物/Mon1/0035.png"
           ]
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": [
-            28332,
-            28333,
-            28334,
-            28335
+          "FrameAssetPaths": [
+            "怪物/Mon1/0040.png",
+            "怪物/Mon1/0041.png",
+            "怪物/Mon1/0042.png",
+            "怪物/Mon1/0043.png"
           ]
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": [
-            28340,
-            28341,
-            28342,
-            28343
+          "FrameAssetPaths": [
+            "怪物/Mon1/0048.png",
+            "怪物/Mon1/0049.png",
+            "怪物/Mon1/0050.png",
+            "怪物/Mon1/0051.png"
           ]
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": [
-            28348,
-            28349,
-            28350,
-            28351
+          "FrameAssetPaths": [
+            "怪物/Mon1/0056.png",
+            "怪物/Mon1/0057.png",
+            "怪物/Mon1/0058.png",
+            "怪物/Mon1/0059.png"
           ]
         }
       ]
@@ -86,90 +86,90 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": [
-            28356,
-            28357,
-            28358,
-            28359,
-            28360,
-            28361
+          "FrameAssetPaths": [
+            "怪物/Mon1/0064.png",
+            "怪物/Mon1/0065.png",
+            "怪物/Mon1/0066.png",
+            "怪物/Mon1/0067.png",
+            "怪物/Mon1/0068.png",
+            "怪物/Mon1/0069.png"
           ]
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": [
-            28364,
-            28365,
-            28366,
-            28367,
-            28368,
-            28369
+          "FrameAssetPaths": [
+            "怪物/Mon1/0072.png",
+            "怪物/Mon1/0073.png",
+            "怪物/Mon1/0074.png",
+            "怪物/Mon1/0075.png",
+            "怪物/Mon1/0076.png",
+            "怪物/Mon1/0077.png"
           ]
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": [
-            28372,
-            28373,
-            28374,
-            28375,
-            28376,
-            28377
+          "FrameAssetPaths": [
+            "怪物/Mon1/0080.png",
+            "怪物/Mon1/0081.png",
+            "怪物/Mon1/0082.png",
+            "怪物/Mon1/0083.png",
+            "怪物/Mon1/0084.png",
+            "怪物/Mon1/0085.png"
           ]
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": [
-            28380,
-            28381,
-            28382,
-            28383,
-            28384,
-            28385
+          "FrameAssetPaths": [
+            "怪物/Mon1/0088.png",
+            "怪物/Mon1/0089.png",
+            "怪物/Mon1/0090.png",
+            "怪物/Mon1/0091.png",
+            "怪物/Mon1/0092.png",
+            "怪物/Mon1/0093.png"
           ]
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": [
-            28388,
-            28389,
-            28390,
-            28391,
-            28392,
-            28393
+          "FrameAssetPaths": [
+            "怪物/Mon1/0096.png",
+            "怪物/Mon1/0097.png",
+            "怪物/Mon1/0098.png",
+            "怪物/Mon1/0099.png",
+            "怪物/Mon1/0100.png",
+            "怪物/Mon1/0101.png"
           ]
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": [
-            28396,
-            28397,
-            28398,
-            28399,
-            28400,
-            28401
+          "FrameAssetPaths": [
+            "怪物/Mon1/0104.png",
+            "怪物/Mon1/0105.png",
+            "怪物/Mon1/0106.png",
+            "怪物/Mon1/0107.png",
+            "怪物/Mon1/0108.png",
+            "怪物/Mon1/0109.png"
           ]
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": [
-            28404,
-            28405,
-            28406,
-            28407,
-            28408,
-            28409
+          "FrameAssetPaths": [
+            "怪物/Mon1/0112.png",
+            "怪物/Mon1/0113.png",
+            "怪物/Mon1/0114.png",
+            "怪物/Mon1/0115.png",
+            "怪物/Mon1/0116.png",
+            "怪物/Mon1/0117.png"
           ]
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": [
-            28412,
-            28413,
-            28414,
-            28415,
-            28416,
-            28417
+          "FrameAssetPaths": [
+            "怪物/Mon1/0120.png",
+            "怪物/Mon1/0121.png",
+            "怪物/Mon1/0122.png",
+            "怪物/Mon1/0123.png",
+            "怪物/Mon1/0124.png",
+            "怪物/Mon1/0125.png"
           ]
         }
       ]
@@ -180,90 +180,90 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": [
-            28420,
-            28421,
-            28422,
-            28423,
-            28424,
-            28425
+          "FrameAssetPaths": [
+            "怪物/Mon1/0128.png",
+            "怪物/Mon1/0129.png",
+            "怪物/Mon1/0130.png",
+            "怪物/Mon1/0131.png",
+            "怪物/Mon1/0132.png",
+            "怪物/Mon1/0133.png"
           ]
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": [
-            28428,
-            28429,
-            28430,
-            28431,
-            28432,
-            28433
+          "FrameAssetPaths": [
+            "怪物/Mon1/0136.png",
+            "怪物/Mon1/0137.png",
+            "怪物/Mon1/0138.png",
+            "怪物/Mon1/0139.png",
+            "怪物/Mon1/0140.png",
+            "怪物/Mon1/0141.png"
           ]
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": [
-            28436,
-            28437,
-            28438,
-            28439,
-            28440,
-            28441
+          "FrameAssetPaths": [
+            "怪物/Mon1/0144.png",
+            "怪物/Mon1/0145.png",
+            "怪物/Mon1/0146.png",
+            "怪物/Mon1/0147.png",
+            "怪物/Mon1/0148.png",
+            "怪物/Mon1/0149.png"
           ]
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": [
-            28444,
-            28445,
-            28446,
-            28447,
-            28448,
-            28449
+          "FrameAssetPaths": [
+            "怪物/Mon1/0152.png",
+            "怪物/Mon1/0153.png",
+            "怪物/Mon1/0154.png",
+            "怪物/Mon1/0155.png",
+            "怪物/Mon1/0156.png",
+            "怪物/Mon1/0157.png"
           ]
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": [
-            28452,
-            28453,
-            28454,
-            28455,
-            28456,
-            28457
+          "FrameAssetPaths": [
+            "怪物/Mon1/0160.png",
+            "怪物/Mon1/0161.png",
+            "怪物/Mon1/0162.png",
+            "怪物/Mon1/0163.png",
+            "怪物/Mon1/0164.png",
+            "怪物/Mon1/0165.png"
           ]
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": [
-            28460,
-            28461,
-            28462,
-            28463,
-            28464,
-            28465
+          "FrameAssetPaths": [
+            "怪物/Mon1/0168.png",
+            "怪物/Mon1/0169.png",
+            "怪物/Mon1/0170.png",
+            "怪物/Mon1/0171.png",
+            "怪物/Mon1/0172.png",
+            "怪物/Mon1/0173.png"
           ]
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": [
-            28468,
-            28469,
-            28470,
-            28471,
-            28472,
-            28473
+          "FrameAssetPaths": [
+            "怪物/Mon1/0176.png",
+            "怪物/Mon1/0177.png",
+            "怪物/Mon1/0178.png",
+            "怪物/Mon1/0179.png",
+            "怪物/Mon1/0180.png",
+            "怪物/Mon1/0181.png"
           ]
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": [
-            28476,
-            28477,
-            28478,
-            28479,
-            28480,
-            28481
+          "FrameAssetPaths": [
+            "怪物/Mon1/0184.png",
+            "怪物/Mon1/0185.png",
+            "怪物/Mon1/0186.png",
+            "怪物/Mon1/0187.png",
+            "怪物/Mon1/0188.png",
+            "怪物/Mon1/0189.png"
           ]
         }
       ]
@@ -274,35 +274,35 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -312,35 +312,35 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -350,35 +350,35 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -388,35 +388,35 @@
       "Directions": [
         {
           "Direction": "Up",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Right",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownRight",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Down",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "DownLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "Left",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "Direction": "UpLeft",
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
@@ -459,7 +459,7 @@
     "Width": 60,
     "Height": 95
   },
-  "AttackSoundAssetId": 0,
-  "HitSoundAssetId": 0,
-  "DeathSoundAssetId": 0
+  "AttackSoundAssetPath": "",
+  "HitSoundAssetPath": "",
+  "DeathSoundAssetPath": ""
 }

@@ -1,18 +1,6 @@
 {
   "NpcModelId": "NpcModel0001",
   "DisplayName": "传送小姐姐",
-  "FrameAssetIds": [
-    39032,
-    39033,
-    39034,
-    39035,
-    39036,
-    39037,
-    39038,
-    39039,
-    39040,
-    39041
-  ],
   "FramesPerSecond": 5,
   "DefaultScaleX": 1,
   "DefaultScaleY": 1,
@@ -21,5 +9,17 @@
     "OffsetY": -51,
     "Width": 52,
     "Height": 81
-  }
+  },
+  "FrameAssetPaths": [
+    "NPC/npc2/0030.png",
+    "NPC/npc2/0031.png",
+    "NPC/npc2/0032.png",
+    "NPC/npc2/0033.png",
+    "NPC/npc2/0034.png",
+    "NPC/npc2/0035.png",
+    "NPC/npc2/0036.png",
+    "NPC/npc2/0037.png",
+    "NPC/npc2/0038.png",
+    "NPC/npc2/0039.png"
+  ]
 }

@@ -2,7 +2,6 @@
   "Version": 4,
   "ScreenId": "Death",
   "DisplayName": "死亡页面",
-  "BackgroundMusicAssetId": 0,
   "PresentationScriptId": "system/ui/fixed/Death",
   "HasPresentationScript": false,
   "Controls": [
@@ -38,10 +37,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27577,
-      "AssetIds": [
-        27577
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -86,10 +81,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -102,7 +93,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -113,10 +103,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -127,10 +117,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -141,7 +131,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -159,9 +150,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -169,7 +158,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -183,10 +171,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -200,10 +188,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -217,7 +205,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -244,7 +233,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -267,8 +256,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -286,9 +273,21 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/主界面/死亡提示_您已经阵亡_透明初稿_修正版.png",
+      "AssetPaths": [
+        "界面/主界面/死亡提示_您已经阵亡_透明初稿_修正版.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "deathNormalRespawnButton",
@@ -322,8 +321,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27578,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -368,10 +365,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -384,7 +377,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -395,10 +387,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -409,10 +401,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -423,7 +415,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -441,9 +434,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "NormalRespawn",
       "ButtonScriptId": "",
@@ -451,7 +442,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 27578,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -465,10 +455,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": "界面/主界面/复活按钮_普通_透明.png"
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -482,10 +472,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000085",
         "HotAreaFeedbackOpacity": 0.55,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -499,7 +489,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 28,
       "ButtonClickAreaY": 7,
@@ -526,7 +517,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -549,8 +540,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -568,9 +557,20 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/主界面/复活按钮_普通_透明.png",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     }
-  ]
+  ],
+  "BackgroundMusicAssetPath": ""
 }

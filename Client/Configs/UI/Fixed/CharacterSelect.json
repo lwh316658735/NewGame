@@ -2,7 +2,6 @@
   "Version": 4,
   "ScreenId": "CharacterSelect",
   "DisplayName": "角色选择",
-  "BackgroundMusicAssetId": 34236,
   "PresentationScriptId": "system/ui/fixed/CharacterSelect",
   "HasPresentationScript": false,
   "Controls": [
@@ -38,10 +37,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27538,
-      "AssetIds": [
-        27538
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -86,10 +81,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -102,7 +93,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -113,10 +103,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -127,10 +117,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -141,7 +131,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -159,9 +150,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -169,7 +158,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -183,10 +171,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -200,10 +188,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -217,7 +205,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -244,7 +233,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -267,8 +256,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -286,9 +273,21 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/角色选择界面/角色选择_纯背景_无斑点_清晰优化版_3840x2160.png",
+      "AssetPaths": [
+        "界面/角色选择界面/角色选择_纯背景_无斑点_清晰优化版_3840x2160.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "image2",
@@ -322,10 +321,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27518,
-      "AssetIds": [
-        27518
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -370,10 +365,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -386,7 +377,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -397,10 +387,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -411,10 +401,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -425,7 +415,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -443,9 +434,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -453,7 +442,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -467,10 +455,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -484,10 +472,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -501,7 +489,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -528,7 +517,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -551,8 +540,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -570,9 +557,21 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/角色选择界面/图层 0-2.png",
+      "AssetPaths": [
+        "界面/角色选择界面/图层 0-2.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "image3",
@@ -606,10 +605,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27562,
-      "AssetIds": [
-        27562
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -654,10 +649,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -670,7 +661,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -681,10 +671,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -695,10 +685,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -709,7 +699,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -727,9 +718,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -737,7 +726,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -751,10 +739,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -768,10 +756,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -785,7 +773,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -812,7 +801,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -835,8 +824,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -854,9 +841,21 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/角色选择界面/角色选择_右侧按钮栏_无斑点_高清设计.png",
+      "AssetPaths": [
+        "界面/角色选择界面/角色选择_右侧按钮栏_无斑点_高清设计.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectCharacterSlot1",
@@ -890,8 +889,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -936,10 +933,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -1013,7 +1006,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1024,10 +1016,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1038,10 +1030,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1052,7 +1044,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1070,9 +1063,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -1080,7 +1071,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1094,10 +1084,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1111,10 +1101,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1128,7 +1118,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -1155,7 +1146,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -1178,8 +1169,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1197,9 +1186,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectCharacterSlot2",
@@ -1233,8 +1232,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -1279,10 +1276,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -1356,7 +1349,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1367,10 +1359,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1381,10 +1373,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1395,7 +1387,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1413,9 +1406,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -1423,7 +1414,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1437,10 +1427,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1454,10 +1444,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1471,7 +1461,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -1498,7 +1489,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -1521,8 +1512,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1540,9 +1529,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectCharacterSlot3",
@@ -1576,8 +1575,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -1622,10 +1619,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -1699,7 +1692,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1710,10 +1702,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1724,10 +1716,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1738,7 +1730,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -1756,9 +1749,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -1766,7 +1757,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1780,10 +1770,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1797,10 +1787,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -1814,7 +1804,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -1841,7 +1832,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -1864,8 +1855,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -1883,9 +1872,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectStartGameButton",
@@ -1919,8 +1918,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -1965,10 +1962,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -1981,7 +1974,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -1992,10 +1984,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2006,10 +1998,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2020,7 +2012,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2038,9 +2031,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "StartGame",
       "ButtonScriptId": "",
@@ -2048,7 +2039,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2062,10 +2052,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2079,10 +2069,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
-        "HotAreaFeedbackFeatherRadius": 9
+        "HotAreaFeedbackFeatherRadius": 9,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2096,7 +2086,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -2123,7 +2114,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -2146,8 +2137,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -2165,9 +2154,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectCreateCharacterButton",
@@ -2201,8 +2200,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -2247,10 +2244,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -2263,7 +2256,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2274,10 +2266,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2288,10 +2280,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2302,7 +2294,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2320,9 +2313,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CreateCharacter",
       "ButtonScriptId": "",
@@ -2330,7 +2321,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2344,10 +2334,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2361,10 +2351,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2378,7 +2368,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -2405,7 +2396,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -2428,8 +2419,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -2447,9 +2436,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectCharacterPreview",
@@ -2483,8 +2482,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -2529,10 +2526,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -2544,57 +2537,56 @@
         {
           "Profession": "Warrior",
           "Gender": "Male",
-          "AssetIds": [
-            27580
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/男战士_展示待机_正面_静态展示.png"
+          ]
         },
         {
           "Profession": "Warrior",
           "Gender": "Female",
-          "AssetIds": [
-            27583
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/女战士_展示待机_正面_静态展示.png"
+          ]
         },
         {
           "Profession": "Mage",
           "Gender": "Male",
-          "AssetIds": [
-            27579
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/男法师_展示待机_正面_静态展示.png"
+          ]
         },
         {
           "Profession": "Mage",
           "Gender": "Female",
-          "AssetIds": [
-            27582
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/女法师_展示待机_正面_静态展示.png"
+          ]
         },
         {
           "Profession": "Taoist",
           "Gender": "Male",
-          "AssetIds": [
-            27573
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/男道士_展示待机_正面_静态展示.png"
+          ]
         },
         {
           "Profession": "Taoist",
           "Gender": "Female",
-          "AssetIds": [
-            27581
-          ],
-          "FramesPerSecond": 4
+          "FramesPerSecond": 4,
+          "AssetPaths": [
+            "界面/角色选择界面/女道士_展示待机_正面_静态展示.png"
+          ]
         }
       ],
       "ServerListItemHeight": 76,
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2605,10 +2597,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2619,10 +2611,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2633,7 +2625,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2651,9 +2644,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -2661,7 +2652,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2675,10 +2665,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2692,10 +2682,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2709,7 +2699,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -2736,7 +2727,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -2759,8 +2750,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -2778,9 +2767,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectDeleteCharacterButton",
@@ -2814,8 +2813,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -2860,10 +2857,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -2876,7 +2869,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2887,10 +2879,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2901,10 +2893,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -2915,7 +2907,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -2933,9 +2926,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "DeleteCharacter",
       "ButtonScriptId": "",
@@ -2943,7 +2934,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2957,10 +2947,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2974,10 +2964,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -2991,7 +2981,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3018,7 +3009,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3041,8 +3032,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3060,9 +3049,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "image4",
@@ -3096,10 +3095,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27553,
-      "AssetIds": [
-        27553
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -3144,10 +3139,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -3160,7 +3151,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3171,10 +3161,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3185,10 +3175,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3199,7 +3189,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3217,9 +3208,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -3227,7 +3216,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3241,10 +3229,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3258,10 +3246,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3275,7 +3263,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3302,7 +3291,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3325,8 +3314,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3344,9 +3331,21 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/角色选择界面/角色选择_顶部标题牌_无斑点_无文字_高清设计.png",
+      "AssetPaths": [
+        "界面/角色选择界面/角色选择_顶部标题牌_无斑点_无文字_高清设计.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "characterSelectExitGameButton",
@@ -3380,8 +3379,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 0,
-      "AssetIds": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -3426,10 +3423,6 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -3442,7 +3435,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3453,10 +3445,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3467,10 +3459,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3481,7 +3473,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3499,9 +3492,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "BackToLogin",
       "ButtonScriptId": "",
@@ -3509,7 +3500,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3523,10 +3513,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3540,10 +3530,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "#00000080",
         "HotAreaFeedbackOpacity": 0.5,
-        "HotAreaFeedbackFeatherRadius": 11
+        "HotAreaFeedbackFeatherRadius": 11,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3557,7 +3547,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3584,7 +3575,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3607,8 +3598,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3626,9 +3615,19 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "",
+      "AssetPaths": [],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     },
     {
       "ControlId": "image5",
@@ -3662,10 +3661,6 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
-      "AssetId": 27552,
-      "AssetIds": [
-        27552
-      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -3710,10 +3705,6 @@
       "ScrollbarTrackColor": "",
       "ScrollbarThumbColor": "",
       "ScrollbarButtonColor": "",
-      "ScrollbarTrackAssetId": 0,
-      "ScrollbarThumbAssetId": 0,
-      "ScrollbarUpButtonAssetId": 0,
-      "ScrollbarDownButtonAssetId": 0,
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -3726,7 +3717,6 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3737,10 +3727,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemSelectedStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3751,10 +3741,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemDisabledStateStyle": {
-        "AssetId": 0,
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -3765,7 +3755,8 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0
+        "CornerRadius": 0,
+        "AssetPath": ""
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -3783,9 +3774,7 @@
       "BuffGridColumnSpacing": 0,
       "BuffGridRowSpacing": 0,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
-      "BuffGridPreviewIconAssetId": 0,
       "ContentTemplate": null,
-      "ClickSoundAssetId": 0,
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -3793,7 +3782,6 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3807,10 +3795,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonHoverStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3824,10 +3812,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonPressedStateStyle": {
-        "AssetId": 0,
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -3841,7 +3829,8 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null
+        "HotAreaFeedbackFeatherRadius": null,
+        "AssetPath": ""
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -3868,7 +3857,7 @@
           "Width": 64,
           "Height": 64,
           "FillMode": "Fit",
-          "PreviewAssetId": 0
+          "PreviewAssetPath": ""
         },
         "InformationModule": {
           "X": 96,
@@ -3891,8 +3880,6 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
-          "AssetId": 0,
-          "AssetIds": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -3910,9 +3897,22 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0
+          "DecorationInsetBottom": 0,
+          "AssetPath": "",
+          "AssetPaths": []
         }
-      }
+      },
+      "AssetPath": "界面/角色选择界面/角色选择_标题文案_选择角色_透明.png",
+      "AssetPaths": [
+        "界面/角色选择界面/角色选择_标题文案_选择角色_透明.png"
+      ],
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
+      "BuffGridPreviewIconAssetPath": "",
+      "ClickSoundAssetPath": ""
     }
-  ]
+  ],
+  "BackgroundMusicAssetPath": "音频/默认/main_theme.wav"
 }

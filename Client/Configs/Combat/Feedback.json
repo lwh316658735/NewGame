@@ -19,8 +19,6 @@
     "ForegroundLowPercentThreshold": 20,
     "BorderColor": "#050505",
     "BorderWidth": 1,
-    "BackgroundAssetId": 0,
-    "ForegroundAssetId": 0,
     "IsValueTextVisible": true,
     "TextFontFamily": "NSimSun",
     "TextFontSize": 12,
@@ -70,7 +68,9 @@
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
       "ShadowBlur": 0
-    }
+    },
+    "BackgroundAssetPath": "",
+    "ForegroundAssetPath": ""
   },
   "MonsterHealthBar": {
     "HealthBarConfigId": 1001,
@@ -91,8 +91,6 @@
     "ForegroundLowPercentThreshold": 20,
     "BorderColor": "#050505",
     "BorderWidth": 1,
-    "BackgroundAssetId": 0,
-    "ForegroundAssetId": 0,
     "IsValueTextVisible": true,
     "TextFontFamily": "NSimSun",
     "TextFontSize": 12,
@@ -142,7 +140,9 @@
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
       "ShadowBlur": 0
-    }
+    },
+    "BackgroundAssetPath": "",
+    "ForegroundAssetPath": ""
   },
   "CustomPlayerHealthBars": [
     {
@@ -164,8 +164,6 @@
       "ForegroundLowPercentThreshold": 20,
       "BorderColor": "#050505",
       "BorderWidth": 1,
-      "BackgroundAssetId": 0,
-      "ForegroundAssetId": 0,
       "IsValueTextVisible": true,
       "TextFontFamily": "NSimSun",
       "TextFontSize": 12,
@@ -215,7 +213,9 @@
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
-      }
+      },
+      "BackgroundAssetPath": "",
+      "ForegroundAssetPath": ""
     }
   ],
   "CustomHealthBars": [
@@ -238,8 +238,6 @@
       "ForegroundLowPercentThreshold": 20,
       "BorderColor": "#050505",
       "BorderWidth": 1,
-      "BackgroundAssetId": 0,
-      "ForegroundAssetId": 0,
       "IsValueTextVisible": true,
       "TextFontFamily": "NSimSun",
       "TextFontSize": 12,
@@ -289,7 +287,9 @@
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
-      }
+      },
+      "BackgroundAssetPath": "",
+      "ForegroundAssetPath": ""
     }
   ],
   "DamageNumbers": {

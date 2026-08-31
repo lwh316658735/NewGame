@@ -26,17 +26,6 @@
   "TextPaddingTop": 25,
   "TextPaddingRight": 36,
   "TextPaddingBottom": 25,
-  "BackgroundAssetId": 11114,
-  "BackgroundAssetIds": [
-    11114,
-    11120,
-    11126,
-    11130,
-    11134,
-    11140,
-    11146,
-    11150
-  ],
   "ImageFramesPerSecond": 10,
   "ImageFillMode": "Stretch",
   "ImageNineSlice": {
@@ -49,5 +38,16 @@
   "BackgroundColor": "",
   "BorderColor": "",
   "BorderWidth": 1,
-  "CornerRadius": 0
+  "CornerRadius": 0,
+  "BackgroundAssetPath": "界面/新界面素材/001530.png",
+  "BackgroundAssetPaths": [
+    "界面/新界面素材/001530.png",
+    "界面/新界面素材/001531.png",
+    "界面/新界面素材/001532.png",
+    "界面/新界面素材/001533.png",
+    "界面/新界面素材/001534.png",
+    "界面/新界面素材/001535.png",
+    "界面/新界面素材/001536.png",
+    "界面/新界面素材/001537.png"
+  ]
 }

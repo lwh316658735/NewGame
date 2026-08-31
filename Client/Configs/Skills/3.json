@@ -2,7 +2,6 @@
   "SkillId": 3,
   "DisplayName": "烈火剑法",
   "Description": "这是烈火剑法",
-  "IconAssetId": 41869,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {
@@ -15,90 +14,90 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            19804,
-            19807,
-            19810,
-            19813,
-            19816,
-            19819
+          "FrameAssetPaths": [
+            "技能/技能特效2/003480.png",
+            "技能/技能特效2/003481.png",
+            "技能/技能特效2/003482.png",
+            "技能/技能特效2/003483.png",
+            "技能/技能特效2/003484.png",
+            "技能/技能特效2/003485.png"
           ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": [
-            19834,
-            19837,
-            19840,
-            19843,
-            19846,
-            19849
+          "FrameAssetPaths": [
+            "技能/技能特效2/003490.png",
+            "技能/技能特效2/003491.png",
+            "技能/技能特效2/003492.png",
+            "技能/技能特效2/003493.png",
+            "技能/技能特效2/003494.png",
+            "技能/技能特效2/003495.png"
           ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": [
-            19865,
-            19868,
-            19871,
-            19874,
-            19877,
-            19880
+          "FrameAssetPaths": [
+            "技能/技能特效2/003500.png",
+            "技能/技能特效2/003501.png",
+            "技能/技能特效2/003502.png",
+            "技能/技能特效2/003503.png",
+            "技能/技能特效2/003504.png",
+            "技能/技能特效2/003505.png"
           ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": [
-            19895,
-            19898,
-            19901,
-            19904,
-            19907,
-            19910
+          "FrameAssetPaths": [
+            "技能/技能特效2/003510.png",
+            "技能/技能特效2/003511.png",
+            "技能/技能特效2/003512.png",
+            "技能/技能特效2/003513.png",
+            "技能/技能特效2/003514.png",
+            "技能/技能特效2/003515.png"
           ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": [
-            19925,
-            19928,
-            19931,
-            19934,
-            19937,
-            19940
+          "FrameAssetPaths": [
+            "技能/技能特效2/003520.png",
+            "技能/技能特效2/003521.png",
+            "技能/技能特效2/003522.png",
+            "技能/技能特效2/003523.png",
+            "技能/技能特效2/003524.png",
+            "技能/技能特效2/003525.png"
           ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": [
-            19955,
-            19958,
-            19961,
-            19964,
-            19967,
-            19970
+          "FrameAssetPaths": [
+            "技能/技能特效2/003530.png",
+            "技能/技能特效2/003531.png",
+            "技能/技能特效2/003532.png",
+            "技能/技能特效2/003533.png",
+            "技能/技能特效2/003534.png",
+            "技能/技能特效2/003535.png"
           ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": [
-            19985,
-            19988,
-            19991,
-            19994,
-            19997,
-            20000
+          "FrameAssetPaths": [
+            "技能/技能特效2/003540.png",
+            "技能/技能特效2/003541.png",
+            "技能/技能特效2/003542.png",
+            "技能/技能特效2/003543.png",
+            "技能/技能特效2/003544.png",
+            "技能/技能特效2/003545.png"
           ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": [
-            20015,
-            20018,
-            20021,
-            20024,
-            20027,
-            20030
+          "FrameAssetPaths": [
+            "技能/技能特效2/003550.png",
+            "技能/技能特效2/003551.png",
+            "技能/技能特效2/003552.png",
+            "技能/技能特效2/003553.png",
+            "技能/技能特效2/003554.png",
+            "技能/技能特效2/003555.png"
           ]
         }
       ]
@@ -112,35 +111,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -154,35 +153,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -195,35 +194,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -237,7 +236,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -250,7 +249,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -264,7 +263,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -277,35 +276,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -318,37 +317,38 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
-  }
+  },
+  "IconAssetPath": "技能/技能图标/烈火剑法_技能图标_125x125.png"
 }

@@ -2,7 +2,6 @@
   "SkillId": 1,
   "DisplayName": "火球术",
   "Description": "这是一个火球术.",
-  "IconAssetId": 41868,
   "ReplacesBasicAttack": false,
   "IsProjectileSkill": true,
   "Visual": {
@@ -15,35 +14,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -56,35 +55,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -98,16 +97,16 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            5,
-            18,
-            31,
-            44,
-            56,
-            68,
-            80,
-            92,
-            104
+          "FrameAssetPaths": [
+            "技能/技能特效2/000000.png",
+            "技能/技能特效2/000001.png",
+            "技能/技能特效2/000002.png",
+            "技能/技能特效2/000003.png",
+            "技能/技能特效2/000004.png",
+            "技能/技能特效2/000005.png",
+            "技能/技能特效2/000006.png",
+            "技能/技能特效2/000007.png",
+            "技能/技能特效2/000008.png"
           ]
         }
       ]
@@ -121,178 +120,178 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            129,
-            142,
-            154,
-            166,
-            178,
-            190
+          "FrameAssetPaths": [
+            "技能/技能特效2/000010.png",
+            "技能/技能特效2/000011.png",
+            "技能/技能特效2/000012.png",
+            "技能/技能特效2/000013.png",
+            "技能/技能特效2/000014.png",
+            "技能/技能特效2/000015.png"
           ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": [
-            247,
-            258,
-            270,
-            281,
-            292,
-            304
+          "FrameAssetPaths": [
+            "技能/技能特效2/000020.png",
+            "技能/技能特效2/000021.png",
+            "技能/技能特效2/000022.png",
+            "技能/技能特效2/000023.png",
+            "技能/技能特效2/000024.png",
+            "技能/技能特效2/000025.png"
           ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": [
-            359,
-            370,
-            381,
-            392,
-            403,
-            414
+          "FrameAssetPaths": [
+            "技能/技能特效2/000030.png",
+            "技能/技能特效2/000031.png",
+            "技能/技能特效2/000032.png",
+            "技能/技能特效2/000033.png",
+            "技能/技能特效2/000034.png",
+            "技能/技能特效2/000035.png"
           ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": [
-            468,
-            479,
-            490,
-            509,
-            519,
-            529
+          "FrameAssetPaths": [
+            "技能/技能特效2/000040.png",
+            "技能/技能特效2/000041.png",
+            "技能/技能特效2/000042.png",
+            "技能/技能特效2/000043.png",
+            "技能/技能特效2/000044.png",
+            "技能/技能特效2/000045.png"
           ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": [
-            580,
-            590,
-            598,
-            607,
-            618,
-            628
+          "FrameAssetPaths": [
+            "技能/技能特效2/000050.png",
+            "技能/技能特效2/000051.png",
+            "技能/技能特效2/000052.png",
+            "技能/技能特效2/000053.png",
+            "技能/技能特效2/000054.png",
+            "技能/技能特效2/000055.png"
           ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": [
-            678,
-            688,
-            696,
-            705,
-            714,
-            723
+          "FrameAssetPaths": [
+            "技能/技能特效2/000060.png",
+            "技能/技能特效2/000061.png",
+            "技能/技能特效2/000062.png",
+            "技能/技能特效2/000063.png",
+            "技能/技能特效2/000064.png",
+            "技能/技能特效2/000065.png"
           ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": [
-            770,
-            780,
-            790,
-            800,
-            810,
-            817
+          "FrameAssetPaths": [
+            "技能/技能特效2/000070.png",
+            "技能/技能特效2/000071.png",
+            "技能/技能特效2/000072.png",
+            "技能/技能特效2/000073.png",
+            "技能/技能特效2/000074.png",
+            "技能/技能特效2/000075.png"
           ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": [
-            860,
-            870,
-            878,
-            887,
-            896,
-            905
+          "FrameAssetPaths": [
+            "技能/技能特效2/000080.png",
+            "技能/技能特效2/000081.png",
+            "技能/技能特效2/000082.png",
+            "技能/技能特效2/000083.png",
+            "技能/技能特效2/000084.png",
+            "技能/技能特效2/000085.png"
           ]
         },
         {
           "DirectionIndex": 8,
-          "FrameAssetIds": [
-            948,
-            955,
-            962,
-            969,
-            976,
-            983
+          "FrameAssetPaths": [
+            "技能/技能特效2/000090.png",
+            "技能/技能特效2/000091.png",
+            "技能/技能特效2/000092.png",
+            "技能/技能特效2/000093.png",
+            "技能/技能特效2/000094.png",
+            "技能/技能特效2/000095.png"
           ]
         },
         {
           "DirectionIndex": 9,
-          "FrameAssetIds": [
-            1023,
-            1033,
-            1041,
-            1052,
-            1062,
-            1072
+          "FrameAssetPaths": [
+            "技能/技能特效2/000100.png",
+            "技能/技能特效2/000101.png",
+            "技能/技能特效2/000102.png",
+            "技能/技能特效2/000103.png",
+            "技能/技能特效2/000104.png",
+            "技能/技能特效2/000105.png"
           ]
         },
         {
           "DirectionIndex": 10,
-          "FrameAssetIds": [
-            1119,
-            1130,
-            1138,
-            1147,
-            1156,
-            1165
+          "FrameAssetPaths": [
+            "技能/技能特效2/000110.png",
+            "技能/技能特效2/000111.png",
+            "技能/技能特效2/000112.png",
+            "技能/技能特效2/000113.png",
+            "技能/技能特效2/000114.png",
+            "技能/技能特效2/000115.png"
           ]
         },
         {
           "DirectionIndex": 11,
-          "FrameAssetIds": [
-            1208,
-            1217,
-            1226,
-            1233,
-            1240,
-            1247
+          "FrameAssetPaths": [
+            "技能/技能特效2/000120.png",
+            "技能/技能特效2/000121.png",
+            "技能/技能特效2/000122.png",
+            "技能/技能特效2/000123.png",
+            "技能/技能特效2/000124.png",
+            "技能/技能特效2/000125.png"
           ]
         },
         {
           "DirectionIndex": 12,
-          "FrameAssetIds": [
-            1284,
-            1293,
-            1300,
-            1307,
-            1313,
-            1320
+          "FrameAssetPaths": [
+            "技能/技能特效2/000130.png",
+            "技能/技能特效2/000131.png",
+            "技能/技能特效2/000132.png",
+            "技能/技能特效2/000133.png",
+            "技能/技能特效2/000134.png",
+            "技能/技能特效2/000135.png"
           ]
         },
         {
           "DirectionIndex": 13,
-          "FrameAssetIds": [
-            1355,
-            1364,
-            1373,
-            1382,
-            1390,
-            1398
+          "FrameAssetPaths": [
+            "技能/技能特效2/000140.png",
+            "技能/技能特效2/000141.png",
+            "技能/技能特效2/000142.png",
+            "技能/技能特效2/000143.png",
+            "技能/技能特效2/000144.png",
+            "技能/技能特效2/000145.png"
           ]
         },
         {
           "DirectionIndex": 14,
-          "FrameAssetIds": [
-            1441,
-            1449,
-            1458,
-            1467,
-            1475,
-            1483
+          "FrameAssetPaths": [
+            "技能/技能特效2/000150.png",
+            "技能/技能特效2/000151.png",
+            "技能/技能特效2/000152.png",
+            "技能/技能特效2/000153.png",
+            "技能/技能特效2/000154.png",
+            "技能/技能特效2/000155.png"
           ]
         },
         {
           "DirectionIndex": 15,
-          "FrameAssetIds": [
-            1524,
-            1533,
-            1542,
-            1551,
-            1559,
-            1567
+          "FrameAssetPaths": [
+            "技能/技能特效2/000160.png",
+            "技能/技能特效2/000161.png",
+            "技能/技能特效2/000162.png",
+            "技能/技能特效2/000163.png",
+            "技能/技能特效2/000164.png",
+            "技能/技能特效2/000165.png"
           ]
         }
       ]
@@ -307,17 +306,17 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            1608,
-            1617,
-            1626,
-            1635,
-            1644,
-            1653,
-            1662,
-            1671,
-            1679,
-            1687
+          "FrameAssetPaths": [
+            "技能/技能特效2/000170.png",
+            "技能/技能特效2/000171.png",
+            "技能/技能特效2/000172.png",
+            "技能/技能特效2/000173.png",
+            "技能/技能特效2/000174.png",
+            "技能/技能特效2/000175.png",
+            "技能/技能特效2/000176.png",
+            "技能/技能特效2/000177.png",
+            "技能/技能特效2/000178.png",
+            "技能/技能特效2/000179.png"
           ]
         }
       ]
@@ -331,7 +330,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -345,7 +344,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -358,35 +357,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -399,37 +398,38 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
-  }
+  },
+  "IconAssetPath": "技能/技能图标/火球术_技能图标_125x125.png"
 }

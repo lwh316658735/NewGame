@@ -6,38 +6,38 @@
       "DisplayName": "默认升级特效",
       "FramesPerSecond": 10,
       "IsEffectMode": true,
-      "FrameAssetIds": [
-        51995,
-        51996,
-        51997,
-        51998,
-        51999,
-        52000,
-        52001,
-        52002,
-        52003,
-        52004
+      "FrameAssetPaths": [
+        "角色/升级特效/0001.png",
+        "角色/升级特效/0002.png",
+        "角色/升级特效/0003.png",
+        "角色/升级特效/0004.png",
+        "角色/升级特效/0005.png",
+        "角色/升级特效/0006.png",
+        "角色/升级特效/0007.png",
+        "角色/升级特效/0008.png",
+        "角色/升级特效/0009.png",
+        "角色/升级特效/0010.png"
       ],
-      "SoundAssetId": 0
+      "SoundAssetPath": ""
     },
     {
       "LevelUpEffectId": 2,
       "DisplayName": "升级特效 2",
       "FramesPerSecond": 10,
       "IsEffectMode": true,
-      "FrameAssetIds": [
-        52005,
-        52006,
-        52007,
-        52008,
-        52009,
-        52010,
-        52011,
-        52012,
-        52013,
-        52014
+      "FrameAssetPaths": [
+        "角色/升级特效/0001-2.png",
+        "角色/升级特效/0002-2.png",
+        "角色/升级特效/0003-2.png",
+        "角色/升级特效/0004-2.png",
+        "角色/升级特效/0005-2.png",
+        "角色/升级特效/0006-2.png",
+        "角色/升级特效/0007-2.png",
+        "角色/升级特效/0008-2.png",
+        "角色/升级特效/0009-2.png",
+        "角色/升级特效/0010-2.png"
       ],
-      "SoundAssetId": 0
+      "SoundAssetPath": ""
     }
   ]
 }

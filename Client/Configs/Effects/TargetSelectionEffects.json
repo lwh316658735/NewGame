@@ -6,17 +6,17 @@
       "DisplayName": "默认选中配置",
       "FramesPerSecond": 5,
       "IsEffectMode": true,
-      "FrameAssetIds": [
-        52033,
-        52034,
-        52035,
-        52036,
-        52037,
-        52038,
-        52039
-      ],
       "OffsetX": 0,
-      "OffsetY": 0
+      "OffsetY": 0,
+      "FrameAssetPaths": [
+        "界面/新界面素材/001190.png",
+        "界面/新界面素材/001191.png",
+        "界面/新界面素材/001192.png",
+        "界面/新界面素材/001193.png",
+        "界面/新界面素材/001194.png",
+        "界面/新界面素材/001195.png",
+        "界面/新界面素材/001196.png"
+      ]
     }
   ]
 }

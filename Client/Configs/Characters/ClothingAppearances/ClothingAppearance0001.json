@@ -13,74 +13,74 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                12,
-                25,
-                38,
-                51
+              "FrameAssetPaths": [
+                "角色/外观1/000000.png",
+                "角色/外观1/000001.png",
+                "角色/外观1/000002.png",
+                "角色/外观1/000003.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                110,
-                122,
-                136,
-                149
+              "FrameAssetPaths": [
+                "角色/外观1/000008.png",
+                "角色/外观1/000009.png",
+                "角色/外观1/000010.png",
+                "角色/外观1/000011.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                208,
-                220,
-                230,
-                241
+              "FrameAssetPaths": [
+                "角色/外观1/000016.png",
+                "角色/外观1/000017.png",
+                "角色/外观1/000018.png",
+                "角色/外观1/000019.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                297,
-                310,
-                320,
-                331
+              "FrameAssetPaths": [
+                "角色/外观1/000024.png",
+                "角色/外观1/000025.png",
+                "角色/外观1/000026.png",
+                "角色/外观1/000027.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                386,
-                397,
-                408,
-                419
+              "FrameAssetPaths": [
+                "角色/外观1/000032.png",
+                "角色/外观1/000033.png",
+                "角色/外观1/000034.png",
+                "角色/外观1/000035.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                473,
-                484,
-                495,
-                505
+              "FrameAssetPaths": [
+                "角色/外观1/000040.png",
+                "角色/外观1/000041.png",
+                "角色/外观1/000042.png",
+                "角色/外观1/000043.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                556,
-                566,
-                576,
-                586
+              "FrameAssetPaths": [
+                "角色/外观1/000048.png",
+                "角色/外观1/000049.png",
+                "角色/外观1/000050.png",
+                "角色/外观1/000051.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                634,
-                644,
-                654,
-                664
+              "FrameAssetPaths": [
+                "角色/外观1/000056.png",
+                "角色/外观1/000057.png",
+                "角色/外观1/000058.png",
+                "角色/外观1/000059.png"
               ]
             }
           ]
@@ -91,90 +91,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                710,
-                719,
-                728,
-                737,
-                746,
-                755
+              "FrameAssetPaths": [
+                "角色/外观1/000064.png",
+                "角色/外观1/000065.png",
+                "角色/外观1/000066.png",
+                "角色/外观1/000067.png",
+                "角色/外观1/000068.png",
+                "角色/外观1/000069.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                786,
-                796,
-                806,
-                813,
-                821,
-                829
+              "FrameAssetPaths": [
+                "角色/外观1/000072.png",
+                "角色/外观1/000073.png",
+                "角色/外观1/000074.png",
+                "角色/外观1/000075.png",
+                "角色/外观1/000076.png",
+                "角色/外观1/000077.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                856,
-                866,
-                874,
-                883,
-                892,
-                901
+              "FrameAssetPaths": [
+                "角色/外观1/000080.png",
+                "角色/外观1/000081.png",
+                "角色/外观1/000082.png",
+                "角色/外观1/000083.png",
+                "角色/外观1/000084.png",
+                "角色/外观1/000085.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                928,
-                936,
-                945,
-                952,
-                959,
-                966
+              "FrameAssetPaths": [
+                "角色/外观1/000088.png",
+                "角色/外观1/000089.png",
+                "角色/外观1/000090.png",
+                "角色/外观1/000091.png",
+                "角色/外观1/000092.png",
+                "角色/外观1/000093.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                987,
-                994,
-                1001,
-                1008,
-                1019,
-                1029
+              "FrameAssetPaths": [
+                "角色/外观1/000096.png",
+                "角色/外观1/000097.png",
+                "角色/外观1/000098.png",
+                "角色/外观1/000099.png",
+                "角色/外观1/000100.png",
+                "角色/外观1/000101.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                1058,
-                1068,
-                1078,
-                1088,
-                1097,
-                1107
+              "FrameAssetPaths": [
+                "角色/外观1/000104.png",
+                "角色/外观1/000105.png",
+                "角色/外观1/000106.png",
+                "角色/外观1/000107.png",
+                "角色/外观1/000108.png",
+                "角色/外观1/000109.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                1135,
-                1144,
-                1153,
-                1162,
-                1171,
-                1180
+              "FrameAssetPaths": [
+                "角色/外观1/000112.png",
+                "角色/外观1/000113.png",
+                "角色/外观1/000114.png",
+                "角色/外观1/000115.png",
+                "角色/外观1/000116.png",
+                "角色/外观1/000117.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                1205,
-                1214,
-                1223,
-                1230,
-                1237,
-                1244
+              "FrameAssetPaths": [
+                "角色/外观1/000120.png",
+                "角色/外观1/000121.png",
+                "角色/外观1/000122.png",
+                "角色/外观1/000123.png",
+                "角色/外观1/000124.png",
+                "角色/外观1/000125.png"
               ]
             }
           ]
@@ -185,90 +185,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                1265,
-                1272,
-                1281,
-                1290,
-                1297,
-                1304
+              "FrameAssetPaths": [
+                "角色/外观1/000128.png",
+                "角色/外观1/000129.png",
+                "角色/外观1/000130.png",
+                "角色/外观1/000131.png",
+                "角色/外观1/000132.png",
+                "角色/外观1/000133.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                1324,
-                1331,
-                1337,
-                1343,
-                1352,
-                1361
+              "FrameAssetPaths": [
+                "角色/外观1/000136.png",
+                "角色/外观1/000137.png",
+                "角色/外观1/000138.png",
+                "角色/外观1/000139.png",
+                "角色/外观1/000140.png",
+                "角色/外观1/000141.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                1387,
-                1395,
-                1403,
-                1411,
-                1419,
-                1427
+              "FrameAssetPaths": [
+                "角色/外观1/000144.png",
+                "角色/外观1/000145.png",
+                "角色/外观1/000146.png",
+                "角色/外观1/000147.png",
+                "角色/外观1/000148.png",
+                "角色/外观1/000149.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                1455,
-                1464,
-                1472,
-                1480,
-                1488,
-                1496
+              "FrameAssetPaths": [
+                "角色/外观1/000152.png",
+                "角色/外观1/000153.png",
+                "角色/外观1/000154.png",
+                "角色/外观1/000155.png",
+                "角色/外观1/000156.png",
+                "角色/外观1/000157.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                1521,
-                1530,
-                1539,
-                1548,
-                1556,
-                1564
+              "FrameAssetPaths": [
+                "角色/外观1/000160.png",
+                "角色/外观1/000161.png",
+                "角色/外观1/000162.png",
+                "角色/外观1/000163.png",
+                "角色/外观1/000164.png",
+                "角色/外观1/000165.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                1588,
-                1596,
-                1605,
-                1614,
-                1623,
-                1632
+              "FrameAssetPaths": [
+                "角色/外观1/000168.png",
+                "角色/外观1/000169.png",
+                "角色/外观1/000170.png",
+                "角色/外观1/000171.png",
+                "角色/外观1/000172.png",
+                "角色/外观1/000173.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                1659,
-                1668,
-                1676,
-                1684,
-                1692,
-                1700
+              "FrameAssetPaths": [
+                "角色/外观1/000176.png",
+                "角色/外观1/000177.png",
+                "角色/外观1/000178.png",
+                "角色/外观1/000179.png",
+                "角色/外观1/000180.png",
+                "角色/外观1/000181.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                1722,
-                1728,
-                1736,
-                1744,
-                1752,
-                1760
+              "FrameAssetPaths": [
+                "角色/外观1/000184.png",
+                "角色/外观1/000185.png",
+                "角色/外观1/000186.png",
+                "角色/外观1/000187.png",
+                "角色/外观1/000188.png",
+                "角色/外观1/000189.png"
               ]
             }
           ]
@@ -279,50 +279,50 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                1784
+              "FrameAssetPaths": [
+                "角色/外观1/000192.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                1792
+              "FrameAssetPaths": [
+                "角色/外观1/000193.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                1800
+              "FrameAssetPaths": [
+                "角色/外观1/000194.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                1808
+              "FrameAssetPaths": [
+                "角色/外观1/000195.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                1816
+              "FrameAssetPaths": [
+                "角色/外观1/000196.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                1824
+              "FrameAssetPaths": [
+                "角色/外观1/000197.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                1832
+              "FrameAssetPaths": [
+                "角色/外观1/000198.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                1840
+              "FrameAssetPaths": [
+                "角色/外观1/000199.png"
               ]
             }
           ]
@@ -333,90 +333,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                1850,
-                1859,
-                1868,
-                1877,
-                1886,
-                1894
+              "FrameAssetPaths": [
+                "角色/外观1/000200.png",
+                "角色/外观1/000201.png",
+                "角色/外观1/000202.png",
+                "角色/外观1/000203.png",
+                "角色/外观1/000204.png",
+                "角色/外观1/000205.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                1918,
-                1926,
-                1935,
-                1944,
-                1953,
-                1962
+              "FrameAssetPaths": [
+                "角色/外观1/000208.png",
+                "角色/外观1/000209.png",
+                "角色/外观1/000210.png",
+                "角色/外观1/000211.png",
+                "角色/外观1/000212.png",
+                "角色/外观1/000213.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                1986,
-                1992,
-                2000,
-                2008,
-                2016,
-                2024
+              "FrameAssetPaths": [
+                "角色/外观1/000216.png",
+                "角色/外观1/000217.png",
+                "角色/外观1/000218.png",
+                "角色/外观1/000219.png",
+                "角色/外观1/000220.png",
+                "角色/外观1/000221.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                2048,
-                2056,
-                2064,
-                2072,
-                2080,
-                2088
+              "FrameAssetPaths": [
+                "角色/外观1/000224.png",
+                "角色/外观1/000225.png",
+                "角色/外观1/000226.png",
+                "角色/外观1/000227.png",
+                "角色/外观1/000228.png",
+                "角色/外观1/000229.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                2113,
-                2121,
-                2130,
-                2139,
-                2147,
-                2155
+              "FrameAssetPaths": [
+                "角色/外观1/000232.png",
+                "角色/外观1/000233.png",
+                "角色/外观1/000234.png",
+                "角色/外观1/000235.png",
+                "角色/外观1/000236.png",
+                "角色/外观1/000237.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                2179,
-                2187,
-                2195,
-                2203,
-                2211,
-                2219
+              "FrameAssetPaths": [
+                "角色/外观1/000240.png",
+                "角色/外观1/000241.png",
+                "角色/外观1/000242.png",
+                "角色/外观1/000243.png",
+                "角色/外观1/000244.png",
+                "角色/外观1/000245.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                2243,
-                2251,
-                2262,
-                2272,
-                2280,
-                2289
+              "FrameAssetPaths": [
+                "角色/外观1/000248.png",
+                "角色/外观1/000249.png",
+                "角色/外观1/000250.png",
+                "角色/外观1/000251.png",
+                "角色/外观1/000252.png",
+                "角色/外观1/000253.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                2316,
-                2325,
-                2334,
-                2345,
-                2353,
-                2362
+              "FrameAssetPaths": [
+                "角色/外观1/000256.png",
+                "角色/外观1/000257.png",
+                "角色/外观1/000258.png",
+                "角色/外观1/000259.png",
+                "角色/外观1/000260.png",
+                "角色/外观1/000261.png"
               ]
             }
           ]
@@ -427,90 +427,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                2389,
-                2398,
-                2407,
-                2416,
-                2425,
-                2434
+              "FrameAssetPaths": [
+                "角色/外观1/000264.png",
+                "角色/外观1/000265.png",
+                "角色/外观1/000266.png",
+                "角色/外观1/000267.png",
+                "角色/外观1/000268.png",
+                "角色/外观1/000269.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                2458,
-                2466,
-                2474,
-                2482,
-                2490,
-                2496
+              "FrameAssetPaths": [
+                "角色/外观1/000272.png",
+                "角色/外观1/000273.png",
+                "角色/外观1/000274.png",
+                "角色/外观1/000275.png",
+                "角色/外观1/000276.png",
+                "角色/外观1/000277.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                2516,
-                2524,
-                2532,
-                2540,
-                2548,
-                2556
+              "FrameAssetPaths": [
+                "角色/外观1/000280.png",
+                "角色/外观1/000281.png",
+                "角色/外观1/000282.png",
+                "角色/外观1/000283.png",
+                "角色/外观1/000284.png",
+                "角色/外观1/000285.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                2578,
-                2586,
-                2594,
-                2600,
-                2606,
-                2612
+              "FrameAssetPaths": [
+                "角色/外观1/000288.png",
+                "角色/外观1/000289.png",
+                "角色/外观1/000290.png",
+                "角色/外观1/000291.png",
+                "角色/外观1/000292.png",
+                "角色/外观1/000293.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                2632,
-                2640,
-                2648,
-                2654,
-                2662,
-                2669
+              "FrameAssetPaths": [
+                "角色/外观1/000296.png",
+                "角色/外观1/000297.png",
+                "角色/外观1/000298.png",
+                "角色/外观1/000299.png",
+                "角色/外观1/000300.png",
+                "角色/外观1/000301.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                2689,
-                2695,
-                2701,
-                2707,
-                2713,
-                2719
+              "FrameAssetPaths": [
+                "角色/外观1/000304.png",
+                "角色/外观1/000305.png",
+                "角色/外观1/000306.png",
+                "角色/外观1/000307.png",
+                "角色/外观1/000308.png",
+                "角色/外观1/000309.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                2740,
-                2748,
-                2756,
-                2762,
-                2768,
-                2774
+              "FrameAssetPaths": [
+                "角色/外观1/000312.png",
+                "角色/外观1/000313.png",
+                "角色/外观1/000314.png",
+                "角色/外观1/000315.png",
+                "角色/外观1/000316.png",
+                "角色/外观1/000317.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                2795,
-                2802,
-                2809,
-                2816,
-                2823,
-                2830
+              "FrameAssetPaths": [
+                "角色/外观1/000320.png",
+                "角色/外观1/000321.png",
+                "角色/外观1/000322.png",
+                "角色/外观1/000323.png",
+                "角色/外观1/000324.png",
+                "角色/外观1/000325.png"
               ]
             }
           ]
@@ -521,106 +521,106 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                2853,
-                2860,
-                2867,
-                2874,
-                2881,
-                2888,
-                2894,
-                2900
+              "FrameAssetPaths": [
+                "角色/外观1/000328.png",
+                "角色/外观1/000329.png",
+                "角色/外观1/000330.png",
+                "角色/外观1/000331.png",
+                "角色/外观1/000332.png",
+                "角色/外观1/000333.png",
+                "角色/外观1/000334.png",
+                "角色/外观1/000335.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                2908,
-                2914,
-                2920,
-                2926,
-                2932,
-                2938,
-                2944,
-                2950
+              "FrameAssetPaths": [
+                "角色/外观1/000336.png",
+                "角色/外观1/000337.png",
+                "角色/外观1/000338.png",
+                "角色/外观1/000339.png",
+                "角色/外观1/000340.png",
+                "角色/外观1/000341.png",
+                "角色/外观1/000342.png",
+                "角色/外观1/000343.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                2958,
-                2964,
-                2970,
-                2976,
-                2982,
-                2988,
-                2994,
-                3000
+              "FrameAssetPaths": [
+                "角色/外观1/000344.png",
+                "角色/外观1/000345.png",
+                "角色/外观1/000346.png",
+                "角色/外观1/000347.png",
+                "角色/外观1/000348.png",
+                "角色/外观1/000349.png",
+                "角色/外观1/000350.png",
+                "角色/外观1/000351.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                3006,
-                3012,
-                3018,
-                3024,
-                3030,
-                3036,
-                3042,
-                3048
+              "FrameAssetPaths": [
+                "角色/外观1/000352.png",
+                "角色/外观1/000353.png",
+                "角色/外观1/000354.png",
+                "角色/外观1/000355.png",
+                "角色/外观1/000356.png",
+                "角色/外观1/000357.png",
+                "角色/外观1/000358.png",
+                "角色/外观1/000359.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                3056,
-                3063,
-                3070,
-                3077,
-                3084,
-                3091,
-                3097,
-                3104
+              "FrameAssetPaths": [
+                "角色/外观1/000360.png",
+                "角色/外观1/000361.png",
+                "角色/外观1/000362.png",
+                "角色/外观1/000363.png",
+                "角色/外观1/000364.png",
+                "角色/外观1/000365.png",
+                "角色/外观1/000366.png",
+                "角色/外观1/000367.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                3112,
-                3119,
-                3125,
-                3131,
-                3137,
-                3143,
-                3149,
-                3155
+              "FrameAssetPaths": [
+                "角色/外观1/000368.png",
+                "角色/外观1/000369.png",
+                "角色/外观1/000370.png",
+                "角色/外观1/000371.png",
+                "角色/外观1/000372.png",
+                "角色/外观1/000373.png",
+                "角色/外观1/000374.png",
+                "角色/外观1/000375.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                3163,
-                3171,
-                3179,
-                3187,
-                3196,
-                3205,
-                3212,
-                3220
+              "FrameAssetPaths": [
+                "角色/外观1/000376.png",
+                "角色/外观1/000377.png",
+                "角色/外观1/000378.png",
+                "角色/外观1/000379.png",
+                "角色/外观1/000380.png",
+                "角色/外观1/000381.png",
+                "角色/外观1/000382.png",
+                "角色/外观1/000383.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                3228,
-                3236,
-                3244,
-                3250,
-                3256,
-                3262,
-                3270,
-                3278
+              "FrameAssetPaths": [
+                "角色/外观1/000384.png",
+                "角色/外观1/000385.png",
+                "角色/外观1/000386.png",
+                "角色/外观1/000387.png",
+                "角色/外观1/000388.png",
+                "角色/外观1/000389.png",
+                "角色/外观1/000390.png",
+                "角色/外观1/000391.png"
               ]
             }
           ]
@@ -631,90 +631,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                3286,
-                3294,
-                3302,
-                3310,
-                3318,
-                3326
+              "FrameAssetPaths": [
+                "角色/外观1/000392.png",
+                "角色/外观1/000393.png",
+                "角色/外观1/000394.png",
+                "角色/外观1/000395.png",
+                "角色/外观1/000396.png",
+                "角色/外观1/000397.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                3352,
-                3361,
-                3370,
-                3379,
-                3388,
-                3397
+              "FrameAssetPaths": [
+                "角色/外观1/000400.png",
+                "角色/外观1/000401.png",
+                "角色/外观1/000402.png",
+                "角色/外观1/000403.png",
+                "角色/外观1/000404.png",
+                "角色/外观1/000405.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                3421,
-                3429,
-                3435,
-                3441,
-                3449,
-                3455
+              "FrameAssetPaths": [
+                "角色/外观1/000408.png",
+                "角色/外观1/000409.png",
+                "角色/外观1/000410.png",
+                "角色/外观1/000411.png",
+                "角色/外观1/000412.png",
+                "角色/外观1/000413.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                3473,
-                3479,
-                3485,
-                3491,
-                3499,
-                3507
+              "FrameAssetPaths": [
+                "角色/外观1/000416.png",
+                "角色/外观1/000417.png",
+                "角色/外观1/000418.png",
+                "角色/外观1/000419.png",
+                "角色/外观1/000420.png",
+                "角色/外观1/000421.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                3531,
-                3539,
-                3547,
-                3553,
-                3561,
-                3569
+              "FrameAssetPaths": [
+                "角色/外观1/000424.png",
+                "角色/外观1/000425.png",
+                "角色/外观1/000426.png",
+                "角色/外观1/000427.png",
+                "角色/外观1/000428.png",
+                "角色/外观1/000429.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                3591,
-                3599,
-                3607,
-                3613,
-                3621,
-                3629
+              "FrameAssetPaths": [
+                "角色/外观1/000432.png",
+                "角色/外观1/000433.png",
+                "角色/外观1/000434.png",
+                "角色/外观1/000435.png",
+                "角色/外观1/000436.png",
+                "角色/外观1/000437.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                3651,
-                3659,
-                3667,
-                3673,
-                3681,
-                3687
+              "FrameAssetPaths": [
+                "角色/外观1/000440.png",
+                "角色/外观1/000441.png",
+                "角色/外观1/000442.png",
+                "角色/外观1/000443.png",
+                "角色/外观1/000444.png",
+                "角色/外观1/000445.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                3711,
-                3717,
-                3725,
-                3733,
-                3741,
-                3747
+              "FrameAssetPaths": [
+                "角色/外观1/000448.png",
+                "角色/外观1/000449.png",
+                "角色/外观1/000450.png",
+                "角色/外观1/000451.png",
+                "角色/外观1/000452.png",
+                "角色/外观1/000453.png"
               ]
             }
           ]
@@ -725,58 +725,58 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                3765,
-                3771
+              "FrameAssetPaths": [
+                "角色/外观1/000456.png",
+                "角色/外观1/000457.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                3777,
-                3783
+              "FrameAssetPaths": [
+                "角色/外观1/000458.png",
+                "角色/外观1/000459.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                3791,
-                3800
+              "FrameAssetPaths": [
+                "角色/外观1/000460.png",
+                "角色/外观1/000461.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                3809,
-                3818
+              "FrameAssetPaths": [
+                "角色/外观1/000462.png",
+                "角色/外观1/000463.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                3827,
-                3836
+              "FrameAssetPaths": [
+                "角色/外观1/000464.png",
+                "角色/外观1/000465.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                3845,
-                3852
+              "FrameAssetPaths": [
+                "角色/外观1/000466.png",
+                "角色/外观1/000467.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                3859,
-                3866
+              "FrameAssetPaths": [
+                "角色/外观1/000468.png",
+                "角色/外观1/000469.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                3875,
-                3883
+              "FrameAssetPaths": [
+                "角色/外观1/000470.png",
+                "角色/外观1/000471.png"
               ]
             }
           ]
@@ -787,66 +787,66 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                3891,
-                3899,
-                3907
+              "FrameAssetPaths": [
+                "角色/外观1/000472.png",
+                "角色/外观1/000473.png",
+                "角色/外观1/000474.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                3955,
-                3964,
-                3973
+              "FrameAssetPaths": [
+                "角色/外观1/000480.png",
+                "角色/外观1/000481.png",
+                "角色/外观1/000482.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                4019,
-                4026,
-                4035
+              "FrameAssetPaths": [
+                "角色/外观1/000488.png",
+                "角色/外观1/000489.png",
+                "角色/外观1/000490.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                4073,
-                4079,
-                4085
+              "FrameAssetPaths": [
+                "角色/外观1/000496.png",
+                "角色/外观1/000497.png",
+                "角色/外观1/000498.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                4137,
-                4146,
-                4153
+              "FrameAssetPaths": [
+                "角色/外观1/000504.png",
+                "角色/外观1/000505.png",
+                "角色/外观1/000506.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                4199,
-                4207,
-                4215
+              "FrameAssetPaths": [
+                "角色/外观1/000512.png",
+                "角色/外观1/000513.png",
+                "角色/外观1/000514.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                4264,
-                4273,
-                4282
+              "FrameAssetPaths": [
+                "角色/外观1/000520.png",
+                "角色/外观1/000521.png",
+                "角色/外观1/000522.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                4336,
-                4345,
-                4354
+              "FrameAssetPaths": [
+                "角色/外观1/000528.png",
+                "角色/外观1/000529.png",
+                "角色/外观1/000530.png"
               ]
             }
           ]
@@ -857,74 +857,74 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                4399,
-                4405,
-                4411,
-                4417
+              "FrameAssetPaths": [
+                "角色/外观1/000536.png",
+                "角色/外观1/000537.png",
+                "角色/外观1/000538.png",
+                "角色/外观1/000539.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                4462,
-                4471,
-                4480,
-                4489
+              "FrameAssetPaths": [
+                "角色/外观1/000544.png",
+                "角色/外观1/000545.png",
+                "角色/外观1/000546.png",
+                "角色/外观1/000547.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                4532,
-                4540,
-                4548,
-                4556
+              "FrameAssetPaths": [
+                "角色/外观1/000552.png",
+                "角色/外观1/000553.png",
+                "角色/外观1/000554.png",
+                "角色/外观1/000555.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                4592,
-                4600,
-                4608,
-                4616
+              "FrameAssetPaths": [
+                "角色/外观1/000560.png",
+                "角色/外观1/000561.png",
+                "角色/外观1/000562.png",
+                "角色/外观1/000563.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                4654,
-                4660,
-                4668,
-                4676
+              "FrameAssetPaths": [
+                "角色/外观1/000568.png",
+                "角色/外观1/000569.png",
+                "角色/外观1/000570.png",
+                "角色/外观1/000571.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                4716,
-                4724,
-                4732,
-                4740
+              "FrameAssetPaths": [
+                "角色/外观1/000576.png",
+                "角色/外观1/000577.png",
+                "角色/外观1/000578.png",
+                "角色/外观1/000579.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                4780,
-                4788,
-                4796,
-                4804
+              "FrameAssetPaths": [
+                "角色/外观1/000584.png",
+                "角色/外观1/000585.png",
+                "角色/外观1/000586.png",
+                "角色/外观1/000587.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                4842,
-                4850,
-                4858,
-                4866
+              "FrameAssetPaths": [
+                "角色/外观1/000592.png",
+                "角色/外观1/000593.png",
+                "角色/外观1/000594.png",
+                "角色/外观1/000595.png"
               ]
             }
           ]
@@ -941,74 +941,74 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                4908,
-                4915,
-                4921,
-                4929
+              "FrameAssetPaths": [
+                "角色/外观1/000600.png",
+                "角色/外观1/000601.png",
+                "角色/外观1/000602.png",
+                "角色/外观1/000603.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                4965,
-                4971,
-                4979,
-                4987
+              "FrameAssetPaths": [
+                "角色/外观1/000608.png",
+                "角色/外观1/000609.png",
+                "角色/外观1/000610.png",
+                "角色/外观1/000611.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                5027,
-                5035,
-                5043,
-                5051
+              "FrameAssetPaths": [
+                "角色/外观1/000616.png",
+                "角色/外观1/000617.png",
+                "角色/外观1/000618.png",
+                "角色/外观1/000619.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                5095,
-                5101,
-                5107,
-                5113
+              "FrameAssetPaths": [
+                "角色/外观1/000624.png",
+                "角色/外观1/000625.png",
+                "角色/外观1/000626.png",
+                "角色/外观1/000627.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                5152,
-                5161,
-                5170,
-                5179
+              "FrameAssetPaths": [
+                "角色/外观1/000632.png",
+                "角色/外观1/000633.png",
+                "角色/外观1/000634.png",
+                "角色/外观1/000635.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                5220,
-                5229,
-                5238,
-                5247
+              "FrameAssetPaths": [
+                "角色/外观1/000640.png",
+                "角色/外观1/000641.png",
+                "角色/外观1/000642.png",
+                "角色/外观1/000643.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                5279,
-                5285,
-                5294,
-                5303
+              "FrameAssetPaths": [
+                "角色/外观1/000648.png",
+                "角色/外观1/000649.png",
+                "角色/外观1/000650.png",
+                "角色/外观1/000651.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                5347,
-                5355,
-                5363,
-                5371
+              "FrameAssetPaths": [
+                "角色/外观1/000656.png",
+                "角色/外观1/000657.png",
+                "角色/外观1/000658.png",
+                "角色/外观1/000659.png"
               ]
             }
           ]
@@ -1019,90 +1019,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                5411,
-                5417,
-                5423,
-                5429,
-                5435,
-                5441
+              "FrameAssetPaths": [
+                "角色/外观1/000664.png",
+                "角色/外观1/000665.png",
+                "角色/外观1/000666.png",
+                "角色/外观1/000667.png",
+                "角色/外观1/000668.png",
+                "角色/外观1/000669.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                5465,
-                5473,
-                5481,
-                5489,
-                5497,
-                5505
+              "FrameAssetPaths": [
+                "角色/外观1/000672.png",
+                "角色/外观1/000673.png",
+                "角色/外观1/000674.png",
+                "角色/外观1/000675.png",
+                "角色/外观1/000676.png",
+                "角色/外观1/000677.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                5529,
-                5537,
-                5545,
-                5553,
-                5561,
-                5567
+              "FrameAssetPaths": [
+                "角色/外观1/000680.png",
+                "角色/外观1/000681.png",
+                "角色/外观1/000682.png",
+                "角色/外观1/000683.png",
+                "角色/外观1/000684.png",
+                "角色/外观1/000685.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                5585,
-                5591,
-                5599,
-                5607,
-                5615,
-                5623
+              "FrameAssetPaths": [
+                "角色/外观1/000688.png",
+                "角色/外观1/000689.png",
+                "角色/外观1/000690.png",
+                "角色/外观1/000691.png",
+                "角色/外观1/000692.png",
+                "角色/外观1/000693.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                5647,
-                5653,
-                5659,
-                5665,
-                5674,
-                5682
+              "FrameAssetPaths": [
+                "角色/外观1/000696.png",
+                "角色/外观1/000697.png",
+                "角色/外观1/000698.png",
+                "角色/外观1/000699.png",
+                "角色/外观1/000700.png",
+                "角色/外观1/000701.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                5706,
-                5714,
-                5720,
-                5726,
-                5732,
-                5738
+              "FrameAssetPaths": [
+                "角色/外观1/000704.png",
+                "角色/外观1/000705.png",
+                "角色/外观1/000706.png",
+                "角色/外观1/000707.png",
+                "角色/外观1/000708.png",
+                "角色/外观1/000709.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                5764,
-                5773,
-                5782,
-                5791,
-                5798,
-                5805
+              "FrameAssetPaths": [
+                "角色/外观1/000712.png",
+                "角色/外观1/000713.png",
+                "角色/外观1/000714.png",
+                "角色/外观1/000715.png",
+                "角色/外观1/000716.png",
+                "角色/外观1/000717.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                5828,
-                5837,
-                5846,
-                5855,
-                5864,
-                5873
+              "FrameAssetPaths": [
+                "角色/外观1/000720.png",
+                "角色/外观1/000721.png",
+                "角色/外观1/000722.png",
+                "角色/外观1/000723.png",
+                "角色/外观1/000724.png",
+                "角色/外观1/000725.png"
               ]
             }
           ]
@@ -1113,90 +1113,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                5896,
-                5902,
-                5910,
-                5918,
-                5926,
-                5934
+              "FrameAssetPaths": [
+                "角色/外观1/000728.png",
+                "角色/外观1/000729.png",
+                "角色/外观1/000730.png",
+                "角色/外观1/000731.png",
+                "角色/外观1/000732.png",
+                "角色/外观1/000733.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                5958,
-                5964,
-                5970,
-                5976,
-                5984,
-                5992
+              "FrameAssetPaths": [
+                "角色/外观1/000736.png",
+                "角色/外观1/000737.png",
+                "角色/外观1/000738.png",
+                "角色/外观1/000739.png",
+                "角色/外观1/000740.png",
+                "角色/外观1/000741.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                6014,
-                6020,
-                6026,
-                6032,
-                6038,
-                6045
+              "FrameAssetPaths": [
+                "角色/外观1/000744.png",
+                "角色/外观1/000745.png",
+                "角色/外观1/000746.png",
+                "角色/外观1/000747.png",
+                "角色/外观1/000748.png",
+                "角色/外观1/000749.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                6072,
-                6081,
-                6090,
-                6099,
-                6108,
-                6117
+              "FrameAssetPaths": [
+                "角色/外观1/000752.png",
+                "角色/外观1/000753.png",
+                "角色/外观1/000754.png",
+                "角色/外观1/000755.png",
+                "角色/外观1/000756.png",
+                "角色/外观1/000757.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                6144,
-                6153,
-                6162,
-                6171,
-                6180,
-                6189
+              "FrameAssetPaths": [
+                "角色/外观1/000760.png",
+                "角色/外观1/000761.png",
+                "角色/外观1/000762.png",
+                "角色/外观1/000763.png",
+                "角色/外观1/000764.png",
+                "角色/外观1/000765.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                6216,
-                6225,
-                6234,
-                6243,
-                6252,
-                6261
+              "FrameAssetPaths": [
+                "角色/外观1/000768.png",
+                "角色/外观1/000769.png",
+                "角色/外观1/000770.png",
+                "角色/外观1/000771.png",
+                "角色/外观1/000772.png",
+                "角色/外观1/000773.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                6288,
-                6297,
-                6306,
-                6315,
-                6324,
-                6332
+              "FrameAssetPaths": [
+                "角色/外观1/000776.png",
+                "角色/外观1/000777.png",
+                "角色/外观1/000778.png",
+                "角色/外观1/000779.png",
+                "角色/外观1/000780.png",
+                "角色/外观1/000781.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                6356,
-                6364,
-                6372,
-                6380,
-                6388,
-                6396
+              "FrameAssetPaths": [
+                "角色/外观1/000784.png",
+                "角色/外观1/000785.png",
+                "角色/外观1/000786.png",
+                "角色/外观1/000787.png",
+                "角色/外观1/000788.png",
+                "角色/外观1/000789.png"
               ]
             }
           ]
@@ -1207,50 +1207,50 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                6420
+              "FrameAssetPaths": [
+                "角色/外观1/000792.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                6428
+              "FrameAssetPaths": [
+                "角色/外观1/000793.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                6436
+              "FrameAssetPaths": [
+                "角色/外观1/000794.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                6444
+              "FrameAssetPaths": [
+                "角色/外观1/000795.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                6452
+              "FrameAssetPaths": [
+                "角色/外观1/000796.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                6460
+              "FrameAssetPaths": [
+                "角色/外观1/000797.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                6468
+              "FrameAssetPaths": [
+                "角色/外观1/000798.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                6476
+              "FrameAssetPaths": [
+                "角色/外观1/000799.png"
               ]
             }
           ]
@@ -1261,90 +1261,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                6486,
-                6495,
-                6504,
-                6513,
-                6522,
-                6531
+              "FrameAssetPaths": [
+                "角色/外观1/000800.png",
+                "角色/外观1/000801.png",
+                "角色/外观1/000802.png",
+                "角色/外观1/000803.png",
+                "角色/外观1/000804.png",
+                "角色/外观1/000805.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                6558,
-                6566,
-                6574,
-                6581,
-                6588,
-                6595
+              "FrameAssetPaths": [
+                "角色/外观1/000808.png",
+                "角色/外观1/000809.png",
+                "角色/外观1/000810.png",
+                "角色/外观1/000811.png",
+                "角色/外观1/000812.png",
+                "角色/外观1/000813.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                6616,
-                6621,
-                6626,
-                6631,
-                6639,
-                6647
+              "FrameAssetPaths": [
+                "角色/外观1/000816.png",
+                "角色/外观1/000817.png",
+                "角色/外观1/000818.png",
+                "角色/外观1/000819.png",
+                "角色/外观1/000820.png",
+                "角色/外观1/000821.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                6671,
-                6679,
-                6687,
-                6695,
-                6703,
-                6709
+              "FrameAssetPaths": [
+                "角色/外观1/000824.png",
+                "角色/外观1/000825.png",
+                "角色/外观1/000826.png",
+                "角色/外观1/000827.png",
+                "角色/外观1/000828.png",
+                "角色/外观1/000829.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                6733,
-                6741,
-                6749,
-                6757,
-                6765,
-                6771
+              "FrameAssetPaths": [
+                "角色/外观1/000832.png",
+                "角色/外观1/000833.png",
+                "角色/外观1/000834.png",
+                "角色/外观1/000835.png",
+                "角色/外观1/000836.png",
+                "角色/外观1/000837.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                6791,
-                6799,
-                6807,
-                6815,
-                6823,
-                6831
+              "FrameAssetPaths": [
+                "角色/外观1/000840.png",
+                "角色/外观1/000841.png",
+                "角色/外观1/000842.png",
+                "角色/外观1/000843.png",
+                "角色/外观1/000844.png",
+                "角色/外观1/000845.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                6853,
-                6860,
-                6867,
-                6874,
-                6881,
-                6888
+              "FrameAssetPaths": [
+                "角色/外观1/000848.png",
+                "角色/外观1/000849.png",
+                "角色/外观1/000850.png",
+                "角色/外观1/000851.png",
+                "角色/外观1/000852.png",
+                "角色/外观1/000853.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                6909,
-                6916,
-                6923,
-                6930,
-                6937,
-                6944
+              "FrameAssetPaths": [
+                "角色/外观1/000856.png",
+                "角色/外观1/000857.png",
+                "角色/外观1/000858.png",
+                "角色/外观1/000859.png",
+                "角色/外观1/000860.png",
+                "角色/外观1/000861.png"
               ]
             }
           ]
@@ -1355,90 +1355,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                6961,
-                6966,
-                6971,
-                6976,
-                6981,
-                6988
+              "FrameAssetPaths": [
+                "角色/外观1/000864.png",
+                "角色/外观1/000865.png",
+                "角色/外观1/000866.png",
+                "角色/外观1/000867.png",
+                "角色/外观1/000868.png",
+                "角色/外观1/000869.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                7009,
-                7014,
-                7019,
-                7024,
-                7029,
-                7034
+              "FrameAssetPaths": [
+                "角色/外观1/000872.png",
+                "角色/外观1/000873.png",
+                "角色/外观1/000874.png",
+                "角色/外观1/000875.png",
+                "角色/外观1/000876.png",
+                "角色/外观1/000877.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                7051,
-                7058,
-                7065,
-                7072,
-                7079,
-                7086
+              "FrameAssetPaths": [
+                "角色/外观1/000880.png",
+                "角色/外观1/000881.png",
+                "角色/外观1/000882.png",
+                "角色/外观1/000883.png",
+                "角色/外观1/000884.png",
+                "角色/外观1/000885.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                7107,
-                7114,
-                7121,
-                7128,
-                7135,
-                7142
+              "FrameAssetPaths": [
+                "角色/外观1/000888.png",
+                "角色/外观1/000889.png",
+                "角色/外观1/000890.png",
+                "角色/外观1/000891.png",
+                "角色/外观1/000892.png",
+                "角色/外观1/000893.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                7163,
-                7170,
-                7177,
-                7184,
-                7192,
-                7199
+              "FrameAssetPaths": [
+                "角色/外观1/000896.png",
+                "角色/外观1/000897.png",
+                "角色/外观1/000898.png",
+                "角色/外观1/000899.png",
+                "角色/外观1/000900.png",
+                "角色/外观1/000901.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                7220,
-                7227,
-                7234,
-                7241,
-                7248,
-                7255
+              "FrameAssetPaths": [
+                "角色/外观1/000904.png",
+                "角色/外观1/000905.png",
+                "角色/外观1/000906.png",
+                "角色/外观1/000907.png",
+                "角色/外观1/000908.png",
+                "角色/外观1/000909.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                7276,
-                7283,
-                7290,
-                7297,
-                7304,
-                7311
+              "FrameAssetPaths": [
+                "角色/外观1/000912.png",
+                "角色/外观1/000913.png",
+                "角色/外观1/000914.png",
+                "角色/外观1/000915.png",
+                "角色/外观1/000916.png",
+                "角色/外观1/000917.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                7332,
-                7339,
-                7346,
-                7353,
-                7360,
-                7367
+              "FrameAssetPaths": [
+                "角色/外观1/000920.png",
+                "角色/外观1/000921.png",
+                "角色/外观1/000922.png",
+                "角色/外观1/000923.png",
+                "角色/外观1/000924.png",
+                "角色/外观1/000925.png"
               ]
             }
           ]
@@ -1449,106 +1449,106 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                7388,
-                7395,
-                7402,
-                7409,
-                7416,
-                7423,
-                7430,
-                7437
+              "FrameAssetPaths": [
+                "角色/外观1/000928.png",
+                "角色/外观1/000929.png",
+                "角色/外观1/000930.png",
+                "角色/外观1/000931.png",
+                "角色/外观1/000932.png",
+                "角色/外观1/000933.png",
+                "角色/外观1/000934.png",
+                "角色/外观1/000935.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                7444,
-                7451,
-                7458,
-                7465,
-                7472,
-                7479,
-                7486,
-                7493
+              "FrameAssetPaths": [
+                "角色/外观1/000936.png",
+                "角色/外观1/000937.png",
+                "角色/外观1/000938.png",
+                "角色/外观1/000939.png",
+                "角色/外观1/000940.png",
+                "角色/外观1/000941.png",
+                "角色/外观1/000942.png",
+                "角色/外观1/000943.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                7500,
-                7507,
-                7514,
-                7521,
-                7528,
-                7535,
-                7542,
-                7549
+              "FrameAssetPaths": [
+                "角色/外观1/000944.png",
+                "角色/外观1/000945.png",
+                "角色/外观1/000946.png",
+                "角色/外观1/000947.png",
+                "角色/外观1/000948.png",
+                "角色/外观1/000949.png",
+                "角色/外观1/000950.png",
+                "角色/外观1/000951.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                7556,
-                7563,
-                7570,
-                7577,
-                7584,
-                7591,
-                7598,
-                7605
+              "FrameAssetPaths": [
+                "角色/外观1/000952.png",
+                "角色/外观1/000953.png",
+                "角色/外观1/000954.png",
+                "角色/外观1/000955.png",
+                "角色/外观1/000956.png",
+                "角色/外观1/000957.png",
+                "角色/外观1/000958.png",
+                "角色/外观1/000959.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                7612,
-                7619,
-                7626,
-                7633,
-                7640,
-                7647,
-                7654,
-                7661
+              "FrameAssetPaths": [
+                "角色/外观1/000960.png",
+                "角色/外观1/000961.png",
+                "角色/外观1/000962.png",
+                "角色/外观1/000963.png",
+                "角色/外观1/000964.png",
+                "角色/外观1/000965.png",
+                "角色/外观1/000966.png",
+                "角色/外观1/000967.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                7668,
-                7675,
-                7682,
-                7689,
-                7696,
-                7703,
-                7710,
-                7717
+              "FrameAssetPaths": [
+                "角色/外观1/000968.png",
+                "角色/外观1/000969.png",
+                "角色/外观1/000970.png",
+                "角色/外观1/000971.png",
+                "角色/外观1/000972.png",
+                "角色/外观1/000973.png",
+                "角色/外观1/000974.png",
+                "角色/外观1/000975.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                7724,
-                7731,
-                7738,
-                7745,
-                7752,
-                7759,
-                7766,
-                7773
+              "FrameAssetPaths": [
+                "角色/外观1/000976.png",
+                "角色/外观1/000977.png",
+                "角色/外观1/000978.png",
+                "角色/外观1/000979.png",
+                "角色/外观1/000980.png",
+                "角色/外观1/000981.png",
+                "角色/外观1/000982.png",
+                "角色/外观1/000983.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                7780,
-                7787,
-                7794,
-                7801,
-                7806,
-                7812,
-                7819,
-                7826
+              "FrameAssetPaths": [
+                "角色/外观1/000984.png",
+                "角色/外观1/000985.png",
+                "角色/外观1/000986.png",
+                "角色/外观1/000987.png",
+                "角色/外观1/000988.png",
+                "角色/外观1/000989.png",
+                "角色/外观1/000990.png",
+                "角色/外观1/000991.png"
               ]
             }
           ]
@@ -1559,90 +1559,90 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                7833,
-                7840,
-                7847,
-                7854,
-                7861,
-                7868
+              "FrameAssetPaths": [
+                "角色/外观1/000992.png",
+                "角色/外观1/000993.png",
+                "角色/外观1/000994.png",
+                "角色/外观1/000995.png",
+                "角色/外观1/000996.png",
+                "角色/外观1/000997.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                7891,
-                7899,
-                7907,
-                7915,
-                7923,
-                7931
+              "FrameAssetPaths": [
+                "角色/外观1/001000.png",
+                "角色/外观1/001001.png",
+                "角色/外观1/001002.png",
+                "角色/外观1/001003.png",
+                "角色/外观1/001004.png",
+                "角色/外观1/001005.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                7957,
-                7965,
-                7974,
-                7983,
-                7991,
-                7999
+              "FrameAssetPaths": [
+                "角色/外观1/001008.png",
+                "角色/外观1/001009.png",
+                "角色/外观1/001010.png",
+                "角色/外观1/001011.png",
+                "角色/外观1/001012.png",
+                "角色/外观1/001013.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                8026,
-                8035,
-                8044,
-                8052,
-                8061,
-                8070
+              "FrameAssetPaths": [
+                "角色/外观1/001016.png",
+                "角色/外观1/001017.png",
+                "角色/外观1/001018.png",
+                "角色/外观1/001019.png",
+                "角色/外观1/001020.png",
+                "角色/外观1/001021.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                8093,
-                8101,
-                8108,
-                8115,
-                8122,
-                8130
+              "FrameAssetPaths": [
+                "角色/外观1/001024.png",
+                "角色/外观1/001025.png",
+                "角色/外观1/001026.png",
+                "角色/外观1/001027.png",
+                "角色/外观1/001028.png",
+                "角色/外观1/001029.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                8152,
-                8160,
-                8168,
-                8176,
-                8184,
-                8192
+              "FrameAssetPaths": [
+                "角色/外观1/001032.png",
+                "角色/外观1/001033.png",
+                "角色/外观1/001034.png",
+                "角色/外观1/001035.png",
+                "角色/外观1/001036.png",
+                "角色/外观1/001037.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                8214,
-                8221,
-                8229,
-                8237,
-                8245,
-                8251
+              "FrameAssetPaths": [
+                "角色/外观1/001040.png",
+                "角色/外观1/001041.png",
+                "角色/外观1/001042.png",
+                "角色/外观1/001043.png",
+                "角色/外观1/001044.png",
+                "角色/外观1/001045.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                8270,
-                8277,
-                8284,
-                8291,
-                8298,
-                8305
+              "FrameAssetPaths": [
+                "角色/外观1/001048.png",
+                "角色/外观1/001049.png",
+                "角色/外观1/001050.png",
+                "角色/外观1/001051.png",
+                "角色/外观1/001052.png",
+                "角色/外观1/001053.png"
               ]
             }
           ]
@@ -1653,58 +1653,58 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                8323,
-                8330
+              "FrameAssetPaths": [
+                "角色/外观1/001056.png",
+                "角色/外观1/001057.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                8337,
-                8344
+              "FrameAssetPaths": [
+                "角色/外观1/001058.png",
+                "角色/外观1/001059.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                8351,
-                8358
+              "FrameAssetPaths": [
+                "角色/外观1/001060.png",
+                "角色/外观1/001061.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                8365,
-                8372
+              "FrameAssetPaths": [
+                "角色/外观1/001062.png",
+                "角色/外观1/001063.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                8379,
-                8386
+              "FrameAssetPaths": [
+                "角色/外观1/001064.png",
+                "角色/外观1/001065.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                8393,
-                8400
+              "FrameAssetPaths": [
+                "角色/外观1/001066.png",
+                "角色/外观1/001067.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                8407,
-                8414
+              "FrameAssetPaths": [
+                "角色/外观1/001068.png",
+                "角色/外观1/001069.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                8422,
-                8430
+              "FrameAssetPaths": [
+                "角色/外观1/001070.png",
+                "角色/外观1/001071.png"
               ]
             }
           ]
@@ -1715,66 +1715,66 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                8438,
-                8446,
-                8454
+              "FrameAssetPaths": [
+                "角色/外观1/001072.png",
+                "角色/外观1/001073.png",
+                "角色/外观1/001074.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                8499,
-                8507,
-                8515
+              "FrameAssetPaths": [
+                "角色/外观1/001080.png",
+                "角色/外观1/001081.png",
+                "角色/外观1/001082.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                8561,
-                8567,
-                8575
+              "FrameAssetPaths": [
+                "角色/外观1/001088.png",
+                "角色/外观1/001089.png",
+                "角色/外观1/001090.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                8623,
-                8631,
-                8639
+              "FrameAssetPaths": [
+                "角色/外观1/001096.png",
+                "角色/外观1/001097.png",
+                "角色/外观1/001098.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                8687,
-                8695,
-                8703
+              "FrameAssetPaths": [
+                "角色/外观1/001104.png",
+                "角色/外观1/001105.png",
+                "角色/外观1/001106.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                8751,
-                8759,
-                8767
+              "FrameAssetPaths": [
+                "角色/外观1/001112.png",
+                "角色/外观1/001113.png",
+                "角色/外观1/001114.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                8812,
-                8819,
-                8826
+              "FrameAssetPaths": [
+                "角色/外观1/001120.png",
+                "角色/外观1/001121.png",
+                "角色/外观1/001122.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                8868,
-                8875,
-                8882
+              "FrameAssetPaths": [
+                "角色/外观1/001128.png",
+                "角色/外观1/001129.png",
+                "角色/外观1/001130.png"
               ]
             }
           ]
@@ -1785,74 +1785,74 @@
           "Directions": [
             {
               "Direction": "Up",
-              "FrameAssetIds": [
-                8924,
-                8931,
-                8938,
-                8945
+              "FrameAssetPaths": [
+                "角色/外观1/001136.png",
+                "角色/外观1/001137.png",
+                "角色/外观1/001138.png",
+                "角色/外观1/001139.png"
               ]
             },
             {
               "Direction": "UpRight",
-              "FrameAssetIds": [
-                8980,
-                8987,
-                8994,
-                8999
+              "FrameAssetPaths": [
+                "角色/外观1/001144.png",
+                "角色/外观1/001145.png",
+                "角色/外观1/001146.png",
+                "角色/外观1/001147.png"
               ]
             },
             {
               "Direction": "Right",
-              "FrameAssetIds": [
-                9032,
-                9039,
-                9046,
-                9053
+              "FrameAssetPaths": [
+                "角色/外观1/001152.png",
+                "角色/外观1/001153.png",
+                "角色/外观1/001154.png",
+                "角色/外观1/001155.png"
               ]
             },
             {
               "Direction": "DownRight",
-              "FrameAssetIds": [
-                9086,
-                9093,
-                9100,
-                9106
+              "FrameAssetPaths": [
+                "角色/外观1/001160.png",
+                "角色/外观1/001161.png",
+                "角色/外观1/001162.png",
+                "角色/外观1/001163.png"
               ]
             },
             {
               "Direction": "Down",
-              "FrameAssetIds": [
-                9142,
-                9149,
-                9157,
-                9165
+              "FrameAssetPaths": [
+                "角色/外观1/001168.png",
+                "角色/外观1/001169.png",
+                "角色/外观1/001170.png",
+                "角色/外观1/001171.png"
               ]
             },
             {
               "Direction": "DownLeft",
-              "FrameAssetIds": [
-                9203,
-                9210,
-                9218,
-                9224
+              "FrameAssetPaths": [
+                "角色/外观1/001176.png",
+                "角色/外观1/001177.png",
+                "角色/外观1/001178.png",
+                "角色/外观1/001179.png"
               ]
             },
             {
               "Direction": "Left",
-              "FrameAssetIds": [
-                9261,
-                9267,
-                9273,
-                9279
+              "FrameAssetPaths": [
+                "角色/外观1/001184.png",
+                "角色/外观1/001185.png",
+                "角色/外观1/001186.png",
+                "角色/外观1/001187.png"
               ]
             },
             {
               "Direction": "UpLeft",
-              "FrameAssetIds": [
-                9317,
-                9325,
-                9333,
-                9341
+              "FrameAssetPaths": [
+                "角色/外观1/001192.png",
+                "角色/外观1/001193.png",
+                "角色/外观1/001194.png",
+                "角色/外观1/001195.png"
               ]
             }
           ]

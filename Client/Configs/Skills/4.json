@@ -2,7 +2,6 @@
   "SkillId": 4,
   "DisplayName": "开天斩",
   "Description": "",
-  "IconAssetId": 41867,
   "ReplacesBasicAttack": true,
   "IsProjectileSkill": false,
   "Visual": {
@@ -15,90 +14,90 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            3879,
-            3887,
-            3895,
-            3903,
-            3911,
-            3919
+          "FrameAssetPaths": [
+            "技能/技能特效3/000470.png",
+            "技能/技能特效3/000471.png",
+            "技能/技能特效3/000472.png",
+            "技能/技能特效3/000473.png",
+            "技能/技能特效3/000474.png",
+            "技能/技能特效3/000475.png"
           ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": [
-            3960,
-            3969,
-            3978,
-            3987,
-            3996,
-            4003
+          "FrameAssetPaths": [
+            "技能/技能特效3/000480.png",
+            "技能/技能特效3/000481.png",
+            "技能/技能特效3/000482.png",
+            "技能/技能特效3/000483.png",
+            "技能/技能特效3/000484.png",
+            "技能/技能特效3/000485.png"
           ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": [
-            4039,
-            4047,
-            4053,
-            4059,
-            4065,
-            4071
+          "FrameAssetPaths": [
+            "技能/技能特效3/000490.png",
+            "技能/技能特效3/000491.png",
+            "技能/技能特效3/000492.png",
+            "技能/技能特效3/000493.png",
+            "技能/技能特效3/000494.png",
+            "技能/技能特效3/000495.png"
           ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": [
-            4105,
-            4114,
-            4123,
-            4132,
-            4141,
-            4150
+          "FrameAssetPaths": [
+            "技能/技能特效3/000500.png",
+            "技能/技能特效3/000501.png",
+            "技能/技能特效3/000502.png",
+            "技能/技能特效3/000503.png",
+            "技能/技能特效3/000504.png",
+            "技能/技能特效3/000505.png"
           ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": [
-            4187,
-            4195,
-            4203,
-            4211,
-            4219,
-            4227
+          "FrameAssetPaths": [
+            "技能/技能特效3/000510.png",
+            "技能/技能特效3/000511.png",
+            "技能/技能特效3/000512.png",
+            "技能/技能特效3/000513.png",
+            "技能/技能特效3/000514.png",
+            "技能/技能特效3/000515.png"
           ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": [
-            4268,
-            4277,
-            4286,
-            4295,
-            4304,
-            4313
+          "FrameAssetPaths": [
+            "技能/技能特效3/000520.png",
+            "技能/技能特效3/000521.png",
+            "技能/技能特效3/000522.png",
+            "技能/技能特效3/000523.png",
+            "技能/技能特效3/000524.png",
+            "技能/技能特效3/000525.png"
           ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": [
-            4358,
-            4367,
-            4375,
-            4383,
-            4391,
-            4397
+          "FrameAssetPaths": [
+            "技能/技能特效3/000530.png",
+            "技能/技能特效3/000531.png",
+            "技能/技能特效3/000532.png",
+            "技能/技能特效3/000533.png",
+            "技能/技能特效3/000534.png",
+            "技能/技能特效3/000535.png"
           ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": [
-            4430,
-            4439,
-            4448,
-            4457,
-            4466,
-            4475
+          "FrameAssetPaths": [
+            "技能/技能特效3/000540.png",
+            "技能/技能特效3/000541.png",
+            "技能/技能特效3/000542.png",
+            "技能/技能特效3/000543.png",
+            "技能/技能特效3/000544.png",
+            "技能/技能特效3/000545.png"
           ]
         }
       ]
@@ -112,82 +111,82 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": [
-            4560,
-            4568,
-            4576,
-            4582,
-            4588
+          "FrameAssetPaths": [
+            "技能/技能特效3/000555.png",
+            "技能/技能特效3/000556.png",
+            "技能/技能特效3/000557.png",
+            "技能/技能特效3/000558.png",
+            "技能/技能特效3/000559.png"
           ]
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": [
-            4636,
-            4644,
-            4652,
-            4658,
-            4664
+          "FrameAssetPaths": [
+            "技能/技能特效3/000565.png",
+            "技能/技能特效3/000566.png",
+            "技能/技能特效3/000567.png",
+            "技能/技能特效3/000568.png",
+            "技能/技能特效3/000569.png"
           ]
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": [
-            4712,
-            4720,
-            4728,
-            4736,
-            4744
+          "FrameAssetPaths": [
+            "技能/技能特效3/000575.png",
+            "技能/技能特效3/000576.png",
+            "技能/技能特效3/000577.png",
+            "技能/技能特效3/000578.png",
+            "技能/技能特效3/000579.png"
           ]
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": [
-            4792,
-            4800,
-            4808,
-            4816,
-            4824
+          "FrameAssetPaths": [
+            "技能/技能特效3/000585.png",
+            "技能/技能特效3/000586.png",
+            "技能/技能特效3/000587.png",
+            "技能/技能特效3/000588.png",
+            "技能/技能特效3/000589.png"
           ]
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": [
-            4870,
-            4878,
-            4886,
-            4894,
-            4903
+          "FrameAssetPaths": [
+            "技能/技能特效3/000595.png",
+            "技能/技能特效3/000596.png",
+            "技能/技能特效3/000597.png",
+            "技能/技能特效3/000598.png",
+            "技能/技能特效3/000599.png"
           ]
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": [
-            4949,
-            4957,
-            4963,
-            4969,
-            4975
+          "FrameAssetPaths": [
+            "技能/技能特效3/000605.png",
+            "技能/技能特效3/000606.png",
+            "技能/技能特效3/000607.png",
+            "技能/技能特效3/000608.png",
+            "技能/技能特效3/000609.png"
           ]
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": [
-            5023,
-            5031,
-            5039,
-            5047,
-            5055
+          "FrameAssetPaths": [
+            "技能/技能特效3/000615.png",
+            "技能/技能特效3/000616.png",
+            "技能/技能特效3/000617.png",
+            "技能/技能特效3/000618.png",
+            "技能/技能特效3/000619.png"
           ]
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": [
-            5105,
-            5111,
-            5117,
-            5123,
-            5129
+          "FrameAssetPaths": [
+            "技能/技能特效3/000625.png",
+            "技能/技能特效3/000626.png",
+            "技能/技能特效3/000627.png",
+            "技能/技能特效3/000628.png",
+            "技能/技能特效3/000629.png"
           ]
         }
       ]
@@ -202,35 +201,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -243,35 +242,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -285,7 +284,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -298,7 +297,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -312,7 +311,7 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -325,35 +324,35 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     },
@@ -366,37 +365,38 @@
       "Directions": [
         {
           "DirectionIndex": 0,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 1,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 2,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 3,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 4,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 5,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 6,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         },
         {
           "DirectionIndex": 7,
-          "FrameAssetIds": []
+          "FrameAssetPaths": []
         }
       ]
     }
-  }
+  },
+  "IconAssetPath": "技能/技能图标/开天斩_技能图标_125x125.png"
 }
