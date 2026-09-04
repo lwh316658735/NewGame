@@ -5,7 +5,7 @@
     "MapAoiRadiusCells": 48,
     "AllowRunThroughPlayers": false,
     "AllowRunThroughMonsters": true,
-    "HitReactionMode": "Enabled",
+    "HitReactionMode": "Disabled",
     "HitReactionDurationMilliseconds": 500,
     "HitReactionIntervalMilliseconds": 500,
     "MonsterCorpseDurationSeconds": 5,
@@ -360,7 +360,13 @@
   "DeathRespawnRules": {
     "HealthRestoreMode": "Percent",
     "HealthRestorePercent": 10000,
-    "HealthRestoreValue": 1,
+    "HealthRestoreValue": 1000,
+    "ManaRestoreMode": "Percent",
+    "ManaRestorePercent": 10000,
+    "ManaRestoreValue": 0,
+    "DeathTimeoutSeconds": 60,
+    "EquippedItemDeathDropChance": 5000,
+    "InventoryItemDeathDropChance": 5000,
     "RespawnMapId": 1,
     "RespawnSafeZoneId": "SafeZone0001"
   },
@@ -372,7 +378,8 @@
   },
   "ManaProtectionRules": {
     "ManaCostPoints": 1,
-    "HealthEquivalentPoints": 1,
+    "HealthEquivalentPoints": 5,
+    "DamageAbsorptionPercent": 10000,
     "ManaReservePercent": 0
   },
   "AttackModeRules": {

@@ -21,7 +21,7 @@
     "MaxCarryWeight": 0
   },
   "BaseCombatAttributes": {
-    "MaxHealth": 150000,
+    "MaxHealth": 5000,
     "MaxMana": 80000,
     "MinPhysicalAttack": 5000,
     "MaxPhysicalAttack": 1000000,

@@ -1,0 +1,49 @@
+{
+  "AffixId": 20,
+  "DisplayName": "护身效果",
+  "CategoryIds": [
+    2
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Armor",
+    "Belt",
+    "Boots",
+    "Bracelet",
+    "CustomEquipSlot01",
+    "CustomEquipSlot02",
+    "CustomEquipSlot03",
+    "CustomEquipSlot04",
+    "Douli",
+    "FashionArmor",
+    "FashionBelt",
+    "FashionBoots",
+    "FashionBracelet",
+    "FashionHelmet",
+    "FashionMedal",
+    "FashionNecklace",
+    "FashionRing",
+    "FashionShield",
+    "FashionWeapon",
+    "FashionWing",
+    "Helmet",
+    "Medal",
+    "Necklace",
+    "Ring",
+    "Shield",
+    "Title",
+    "Unit",
+    "Weapon",
+    "Wing"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipmentChanged",
+      "ScriptId": "affix/20/OnItemEquipmentChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

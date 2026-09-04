@@ -1,5 +1,5 @@
 {
-  "Version": 6,
+  "Version": 7,
   "PlayerHealthBar": {
     "HealthBarConfigId": 1,
     "DisplayName": "角色血条",
@@ -19,6 +19,8 @@
     "ForegroundLowPercentThreshold": 20,
     "BorderColor": "#050505",
     "BorderWidth": 1,
+    "BackgroundAssetPath": "",
+    "ForegroundAssetPath": "",
     "IsValueTextVisible": true,
     "TextFontFamily": "NSimSun",
     "TextFontSize": 12,
@@ -68,9 +70,7 @@
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
       "ShadowBlur": 0
-    },
-    "BackgroundAssetPath": "",
-    "ForegroundAssetPath": ""
+    }
   },
   "MonsterHealthBar": {
     "HealthBarConfigId": 1001,
@@ -91,6 +91,8 @@
     "ForegroundLowPercentThreshold": 20,
     "BorderColor": "#050505",
     "BorderWidth": 1,
+    "BackgroundAssetPath": "",
+    "ForegroundAssetPath": "",
     "IsValueTextVisible": true,
     "TextFontFamily": "NSimSun",
     "TextFontSize": 12,
@@ -140,9 +142,7 @@
       "ShadowOffsetX": 1,
       "ShadowOffsetY": 1,
       "ShadowBlur": 0
-    },
-    "BackgroundAssetPath": "",
-    "ForegroundAssetPath": ""
+    }
   },
   "CustomPlayerHealthBars": [
     {
@@ -164,6 +164,8 @@
       "ForegroundLowPercentThreshold": 20,
       "BorderColor": "#050505",
       "BorderWidth": 1,
+      "BackgroundAssetPath": "",
+      "ForegroundAssetPath": "",
       "IsValueTextVisible": true,
       "TextFontFamily": "NSimSun",
       "TextFontSize": 12,
@@ -213,9 +215,7 @@
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
-      },
-      "BackgroundAssetPath": "",
-      "ForegroundAssetPath": ""
+      }
     }
   ],
   "CustomHealthBars": [
@@ -238,6 +238,8 @@
       "ForegroundLowPercentThreshold": 20,
       "BorderColor": "#050505",
       "BorderWidth": 1,
+      "BackgroundAssetPath": "",
+      "ForegroundAssetPath": "",
       "IsValueTextVisible": true,
       "TextFontFamily": "NSimSun",
       "TextFontSize": 12,
@@ -287,9 +289,7 @@
         "ShadowOffsetX": 1,
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
-      },
-      "BackgroundAssetPath": "",
-      "ForegroundAssetPath": ""
+      }
     }
   ],
   "DamageNumbers": {
@@ -551,6 +551,34 @@
           "ShadowOffsetY": 1,
           "ShadowBlur": 0,
           "Prefix": "+",
+          "Suffix": "",
+          "DurationMilliseconds": 1000,
+          "StartOffsetX": 0,
+          "StartOffsetY": -42,
+          "VelocityX": 0,
+          "VelocityY": -65,
+          "AccelerationY": 0,
+          "MotionKind": "Scatter"
+        }
+      },
+      {
+        "ResultKind": "ManaConsumption",
+        "Style": {
+          "IsEnabled": true,
+          "FontFamily": "NSimSun",
+          "FontSize": 18,
+          "TextColor": "#3366FF",
+          "IsBold": false,
+          "Scale": 1,
+          "IsOutlineEnabled": true,
+          "OutlineColor": "#111111CC",
+          "OutlineWidth": 1,
+          "IsShadowEnabled": true,
+          "ShadowColor": "#00000099",
+          "ShadowOffsetX": 1,
+          "ShadowOffsetY": 1,
+          "ShadowBlur": 0,
+          "Prefix": "-",
           "Suffix": "",
           "DurationMilliseconds": 1000,
           "StartOffsetX": 0,

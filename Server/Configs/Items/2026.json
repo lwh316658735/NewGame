@@ -1,0 +1,42 @@
+{
+  "ItemId": 2026,
+  "DisplayName": "护身戒指",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [
+      {
+        "RequirementType": "RequiredCharacterLevel",
+        "RequiredValue": 16
+      }
+    ],
+    "MaxDurability": 600000,
+    "EquipLocations": [
+      "Ring"
+    ],
+    "FashionLocations": [],
+    "AllowedSlotIds": [],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [],
+    "FixedAffixRules": [
+      {
+        "AffixId": 20
+      }
+    ]
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

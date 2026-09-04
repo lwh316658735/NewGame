@@ -17,8 +17,8 @@
   "Combat": {
     "MaxHealth": 1000000,
     "MaxMana": 0,
-    "MinPhysicalAttack": 1,
-    "MaxPhysicalAttack": 3,
+    "MinPhysicalAttack": 2000,
+    "MaxPhysicalAttack": 3000,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTrueDamage": 0,
