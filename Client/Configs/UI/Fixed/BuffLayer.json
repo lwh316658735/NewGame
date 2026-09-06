@@ -2,12 +2,16 @@
   "Version": 4,
   "ScreenId": "BuffLayer",
   "DisplayName": "Buff 图层",
+  "BackgroundMusicAssetPath": "",
   "PresentationScriptId": "system/ui/fixed/BuffLayer",
   "HasPresentationScript": false,
+  "TeamItemRowSpacing": 0,
+  "EditorPreviewHealthBarConfigId": 0,
+  "HealthBarTemplates": [],
   "Controls": [
     {
       "ControlId": "buffGrid",
-      "DisplayName": "Buff 控件",
+      "DisplayName": "Buff控件",
       "Kind": "BuffGrid",
       "X": 29,
       "Y": 35,
@@ -25,8 +29,14 @@
       "FontFamily": "NSimSun",
       "FontSize": 12,
       "TextColor": "#00FF2A",
+      "LinkHoverTextColor": "",
+      "LinkPressedTextColor": "",
       "TextPosition": "TopCenter",
       "IsTextWrapEnabled": true,
+      "TextPaddingLeft": 0,
+      "TextPaddingTop": 0,
+      "TextPaddingRight": 0,
+      "TextPaddingBottom": 0,
       "TextEffect": {
         "IsOutlineEnabled": true,
         "OutlineColor": "#00000080",
@@ -37,6 +47,8 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
+      "AssetPath": "",
+      "AssetPaths": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -55,6 +67,7 @@
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
       "SlotKind": "Display",
+      "ConsumableShortcutKey": "None",
       "ItemSlotResourceWidth": 0,
       "ItemSlotResourceHeight": 0,
       "ItemSlotResourceOffsetX": 0,
@@ -81,6 +94,10 @@
       "ScrollbarTrackColor": "#0C1520CC",
       "ScrollbarThumbColor": "#7A8994",
       "ScrollbarButtonColor": "#223344CC",
+      "ScrollbarTrackAssetPath": "",
+      "ScrollbarThumbAssetPath": "",
+      "ScrollbarUpButtonAssetPath": "",
+      "ScrollbarDownButtonAssetPath": "",
       "InputValueKind": "Text",
       "IsPasswordInput": false,
       "InputLineMode": "SingleLine",
@@ -93,6 +110,7 @@
       "ServerListItemSpacing": 10,
       "ServerListPreviewItemCount": 12,
       "ServerListItemDefaultStateStyle": {
+        "AssetPath": "",
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -103,10 +121,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0,
-        "AssetPath": ""
+        "CornerRadius": 0
       },
       "ServerListItemSelectedStateStyle": {
+        "AssetPath": "",
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -117,10 +135,10 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0,
-        "AssetPath": ""
+        "CornerRadius": 0
       },
       "ServerListItemDisabledStateStyle": {
+        "AssetPath": "",
         "BackgroundColor": "",
         "NineSlice": {
           "IsEnabled": false,
@@ -131,8 +149,7 @@
         },
         "BorderColor": "",
         "BorderWidth": 0,
-        "CornerRadius": 0,
-        "AssetPath": ""
+        "CornerRadius": 0
       },
       "ServerListItemElements": [],
       "InventoryGridCellWidth": 0,
@@ -150,7 +167,12 @@
       "BuffGridColumnSpacing": 10,
       "BuffGridRowSpacing": 6,
       "BuffGridLayoutDirection": "LeftToRightTopToBottom",
+      "BuffGridPreviewIconAssetPath": "",
       "ContentTemplate": null,
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": "",
+      "IsHoverTooltipEnabled": false,
+      "HoverTooltipText": "",
       "ButtonTriggerKind": "SystemEvent",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
@@ -158,6 +180,7 @@
       "ButtonOpenTargetKind": "ContentTemplate",
       "ButtonTargetFixedScreenId": "Inventory",
       "ButtonDefaultStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -171,10 +194,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -188,10 +211,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -205,8 +228,7 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -214,6 +236,10 @@
       "ButtonClickAreaHeight": 0,
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
+      "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
+      "GuildMenuMarginTop": 0,
+      "GuildMenuMarginBottom": 0,
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -256,6 +282,8 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
+          "AssetPath": "",
+          "AssetPaths": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -273,20 +301,443 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0,
-          "AssetPath": "",
-          "AssetPaths": []
+          "DecorationInsetBottom": 0
         }
       },
-      "AssetPath": "",
-      "AssetPaths": [],
-      "ScrollbarTrackAssetPath": "",
-      "ScrollbarThumbAssetPath": "",
-      "ScrollbarUpButtonAssetPath": "",
-      "ScrollbarDownButtonAssetPath": "",
-      "BuffGridPreviewIconAssetPath": "",
-      "ClickSoundAssetPath": ""
+      "TeamContextMenu": {
+        "BackgroundImage": {
+          "AssetPath": "",
+          "AssetPaths": [],
+          "ImageFramesPerSecond": 4,
+          "ImageFillMode": "Fit",
+          "ImageNineSlice": {
+            "IsEnabled": false,
+            "Left": 0,
+            "Top": 0,
+            "Right": 0,
+            "Bottom": 0
+          },
+          "BackgroundColor": "",
+          "ImageBorderColor": "",
+          "ImageBorderWidth": 0,
+          "ImageCornerRadius": 0
+        },
+        "ChatButton": {
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleCenter",
+          "IsTextWrapEnabled": false,
+          "TextPaddingLeft": 0,
+          "TextPaddingTop": 0,
+          "TextPaddingRight": 0,
+          "TextPaddingBottom": 0,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "MarginLeft": 0,
+          "MarginTop": 0,
+          "MarginRight": 0,
+          "MarginBottom": 0,
+          "ButtonDefaultStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonHoverStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonPressedStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonClickAreaX": 0,
+          "ButtonClickAreaY": 0,
+          "ButtonClickAreaWidth": 0,
+          "ButtonClickAreaHeight": 0,
+          "ButtonClickAreaCornerRadius": 0,
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
+        },
+        "ViewInfoButton": {
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleCenter",
+          "IsTextWrapEnabled": false,
+          "TextPaddingLeft": 0,
+          "TextPaddingTop": 0,
+          "TextPaddingRight": 0,
+          "TextPaddingBottom": 0,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "MarginLeft": 0,
+          "MarginTop": 0,
+          "MarginRight": 0,
+          "MarginBottom": 0,
+          "ButtonDefaultStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonHoverStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonPressedStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonClickAreaX": 0,
+          "ButtonClickAreaY": 0,
+          "ButtonClickAreaWidth": 0,
+          "ButtonClickAreaHeight": 0,
+          "ButtonClickAreaCornerRadius": 0,
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
+        },
+        "TransferLeaderButton": {
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleCenter",
+          "IsTextWrapEnabled": false,
+          "TextPaddingLeft": 0,
+          "TextPaddingTop": 0,
+          "TextPaddingRight": 0,
+          "TextPaddingBottom": 0,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "MarginLeft": 0,
+          "MarginTop": 0,
+          "MarginRight": 0,
+          "MarginBottom": 0,
+          "ButtonDefaultStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonHoverStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonPressedStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonClickAreaX": 0,
+          "ButtonClickAreaY": 0,
+          "ButtonClickAreaWidth": 0,
+          "ButtonClickAreaHeight": 0,
+          "ButtonClickAreaCornerRadius": 0,
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
+        },
+        "LeaveTeamButton": {
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleCenter",
+          "IsTextWrapEnabled": false,
+          "TextPaddingLeft": 0,
+          "TextPaddingTop": 0,
+          "TextPaddingRight": 0,
+          "TextPaddingBottom": 0,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "MarginLeft": 0,
+          "MarginTop": 0,
+          "MarginRight": 0,
+          "MarginBottom": 0,
+          "ButtonDefaultStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonHoverStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonPressedStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonClickAreaX": 0,
+          "ButtonClickAreaY": 0,
+          "ButtonClickAreaWidth": 0,
+          "ButtonClickAreaHeight": 0,
+          "ButtonClickAreaCornerRadius": 0,
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
+        },
+        "KickMemberButton": {
+          "FontFamily": "NSimSun",
+          "FontSize": 16,
+          "TextColor": "#FFFFFF",
+          "TextPosition": "MiddleCenter",
+          "IsTextWrapEnabled": false,
+          "TextPaddingLeft": 0,
+          "TextPaddingTop": 0,
+          "TextPaddingRight": 0,
+          "TextPaddingBottom": 0,
+          "TextEffect": {
+            "IsOutlineEnabled": true,
+            "OutlineColor": "#00000080",
+            "OutlineWidth": 1,
+            "IsShadowEnabled": true,
+            "ShadowColor": "#000000",
+            "ShadowOffsetX": 1,
+            "ShadowOffsetY": 1,
+            "ShadowBlur": 0
+          },
+          "MarginLeft": 0,
+          "MarginTop": 0,
+          "MarginRight": 0,
+          "MarginBottom": 0,
+          "ButtonDefaultStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonHoverStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonPressedStateStyle": {
+            "AssetPath": "",
+            "NineSlice": {
+              "IsEnabled": false,
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "BackgroundColor": "",
+            "ImageBorderColor": "",
+            "ImageBorderWidth": 0,
+            "ImageCornerRadius": 0,
+            "HotAreaFeedbackColor": "",
+            "HotAreaFeedbackOpacity": null,
+            "HotAreaFeedbackFeatherRadius": null
+          },
+          "ButtonClickAreaX": 0,
+          "ButtonClickAreaY": 0,
+          "ButtonClickAreaWidth": 0,
+          "ButtonClickAreaHeight": 0,
+          "ButtonClickAreaCornerRadius": 0,
+          "ClickSoundAssetPath": "",
+          "HoverSoundAssetPath": ""
+        }
+      }
     }
-  ],
-  "BackgroundMusicAssetPath": ""
+  ]
 }

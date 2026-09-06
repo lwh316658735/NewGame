@@ -239,6 +239,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -968,6 +969,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -1697,6 +1699,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -2426,6 +2429,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -3153,6 +3157,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -3882,6 +3887,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -4611,6 +4617,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -5340,6 +5347,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -6069,6 +6077,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -6798,6 +6807,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -7527,6 +7537,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -8254,6 +8265,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -8981,6 +8993,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -9708,6 +9721,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -10435,6 +10449,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -11162,6 +11177,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -11889,6 +11905,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -12616,6 +12633,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -13343,6 +13361,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -14070,6 +14089,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -14797,6 +14817,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -15524,6 +15545,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -16251,6 +16273,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -16991,6 +17014,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -17720,6 +17744,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -18447,6 +18472,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -19186,6 +19212,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -19915,6 +19942,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -20644,6 +20672,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -21373,6 +21402,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -22102,6 +22132,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -22765,12 +22796,12 @@
       "HoverSoundAssetPath": "",
       "IsHoverTooltipEnabled": false,
       "HoverTooltipText": "",
-      "ButtonTriggerKind": "SystemEvent",
+      "ButtonTriggerKind": "OpenTemplate",
       "ButtonSystemEvent": "CloseWindow",
       "ButtonScriptId": "",
       "ButtonTargetTemplateId": 0,
-      "ButtonOpenTargetKind": "ContentTemplate",
-      "ButtonTargetFixedScreenId": "Inventory",
+      "ButtonOpenTargetKind": "FixedScreen",
+      "ButtonTargetFixedScreenId": "Guild",
       "ButtonDefaultStateStyle": {
         "AssetPath": "界面/主界面/2254.png",
         "NineSlice": {
@@ -22829,6 +22860,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -23558,6 +23590,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
@@ -24287,6 +24320,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "IsVisibleByDefault": true,
       "GenderImageResourceMapping": null,
+      "GuildListSource": "SearchResults",
       "EditorPreviewItemId": 0,
       "CanConfigureSkillShortcuts": false,
       "SkillList": {
