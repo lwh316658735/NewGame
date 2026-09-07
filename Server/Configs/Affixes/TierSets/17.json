@@ -1,0 +1,87 @@
+{
+  "TierSetId": 17,
+  "DisplayName": "通用武器基底词缀变量",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Weapon"
+  ],
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 10,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "物理百分比",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Percent",
+      "InitialValue": 1000,
+      "ValueStep": 1000
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 10,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 1000,
+          "MaxValue": 2000
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 11,
+      "MaxItemLevel": 20,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 2100,
+          "MaxValue": 3000
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 21,
+      "MaxItemLevel": 30,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 3100,
+          "MaxValue": 4000
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 31,
+      "MaxItemLevel": 40,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 4100,
+          "MaxValue": 5000
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 41,
+      "MaxItemLevel": 50,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 5100,
+          "MaxValue": 6000
+        }
+      ]
+    }
+  ]
+}

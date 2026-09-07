@@ -9,7 +9,7 @@
     "SellPrice": 0
   },
   "Weight": 10,
-  "IsDiscardProhibited": true,
+  "IsDiscardProhibited": false,
   "IsTradeProhibited": true,
   "AttributeItem": {
     "DefaultItemLevel": 0,
@@ -23,7 +23,7 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": true
+      "IsEnabled": false
     },
     "FixedAttributes": [
       {
@@ -42,7 +42,11 @@
         "Value": 3000
       }
     ],
-    "FixedAffixRules": []
+    "FixedAffixRules": [
+      {
+        "AffixId": 23
+      }
+    ]
   },
   "ConsumableItem": null,
   "MaterialItem": null

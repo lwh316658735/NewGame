@@ -6,7 +6,7 @@
     },
     {
       "CategoryId": 1,
-      "DisplayName": "<c:04FF00>治疗</>"
+      "DisplayName": "<c:EEF5CC>被动</>"
     },
     {
       "CategoryId": 2,
@@ -34,7 +34,7 @@
     },
     {
       "CategoryId": 8,
-      "DisplayName": "<c:0091FF>闪电</>"
+      "DisplayName": "<c:DAFF24>闪电</>"
     },
     {
       "CategoryId": 9,
@@ -47,6 +47,18 @@
     {
       "CategoryId": 11,
       "DisplayName": "消耗品"
+    },
+    {
+      "CategoryId": 12,
+      "DisplayName": "<c:009DFF>冰霜</>"
+    },
+    {
+      "CategoryId": 13,
+      "DisplayName": "<c:BB00FF>光环</>"
+    },
+    {
+      "CategoryId": 14,
+      "DisplayName": "<c:FF0000>怪物</>"
     }
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "TierSetId": 16,
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 20,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 10,
+          "MaxValue": 30
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.05,
+          "MaxValue": 0.1
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 21,
+      "MaxItemLevel": 30,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 31,
+          "MaxValue": 50
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.11,
+          "MaxValue": 0.15
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 31,
+      "MaxItemLevel": 40,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 51,
+          "MaxValue": 70
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.16,
+          "MaxValue": 0.2
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 41,
+      "MaxItemLevel": 50,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 71,
+          "MaxValue": 90
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.21,
+          "MaxValue": 0.25
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 51,
+      "MaxItemLevel": 60,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 91,
+          "MaxValue": 110
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Percent",
+          "MinValue": 0.26,
+          "MaxValue": 0.3
+        }
+      ]
+    }
+  ]
+}

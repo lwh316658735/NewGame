@@ -1,0 +1,120 @@
+{
+  "TierSetId": 16,
+  "DisplayName": "增加武器攻击力",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Weapon"
+  ],
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 10,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "固定值",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Integer",
+      "InitialValue": 10,
+      "ValueStep": 20
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "百分比",
+      "Description": "用于描述词缀数值，脚本和描述模板可按范围模板名称读取。",
+      "ValueKind": "Percent",
+      "InitialValue": 500,
+      "ValueStep": 500
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 20,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 10,
+          "MaxValue": 30
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 500,
+          "MaxValue": 1000
+        }
+      ]
+    },
+    {
+      "TierId": "T2",
+      "DisplayName": "T2",
+      "MinItemLevel": 21,
+      "MaxItemLevel": 30,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 31,
+          "MaxValue": 50
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 1100,
+          "MaxValue": 1500
+        }
+      ]
+    },
+    {
+      "TierId": "T3",
+      "DisplayName": "T3",
+      "MinItemLevel": 31,
+      "MaxItemLevel": 40,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 51,
+          "MaxValue": 70
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 1600,
+          "MaxValue": 2000
+        }
+      ]
+    },
+    {
+      "TierId": "T4",
+      "DisplayName": "T4",
+      "MinItemLevel": 41,
+      "MaxItemLevel": 50,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 71,
+          "MaxValue": 90
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 2100,
+          "MaxValue": 2500
+        }
+      ]
+    },
+    {
+      "TierId": "T5",
+      "DisplayName": "T5",
+      "MinItemLevel": 51,
+      "MaxItemLevel": 60,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 91,
+          "MaxValue": 110
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 2600,
+          "MaxValue": 3000
+        }
+      ]
+    }
+  ]
+}

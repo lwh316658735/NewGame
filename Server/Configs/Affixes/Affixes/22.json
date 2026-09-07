@@ -1,0 +1,27 @@
+{
+  "AffixId": 22,
+  "DisplayName": "增加武器百分比攻击力",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "NormalPrefix",
+  "Weight": 1000,
+  "AllowedLocations": [
+    "Weapon"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipmentChanged",
+      "ScriptId": "affix/22/OnItemEquipmentChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    16
+  ]
+}

@@ -1,1 +1,4 @@
 # 系统默认脚本：进入游戏。
+引用 "system/global/g_角色属性变量.nns"
+引用 "common/属性计算.nns"
+
