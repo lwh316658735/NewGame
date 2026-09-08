@@ -1,0 +1,24 @@
+{
+  "AffixId": 24,
+  "DisplayName": "武器基底词缀-区域",
+  "CategoryIds": [
+    0,
+    5
+  ],
+  "AffixType": "Base",
+  "AllowedLocations": [
+    "Weapon"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/24/OnAffixChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    17
+  ]
+}

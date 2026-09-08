@@ -45,6 +45,9 @@
     "FixedAffixRules": [
       {
         "AffixId": 23
+      },
+      {
+        "AffixId": 24
       }
     ]
   },

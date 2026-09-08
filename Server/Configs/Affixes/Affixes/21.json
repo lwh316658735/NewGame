@@ -19,6 +19,12 @@
       "ScriptId": "affix/21/OnItemEquipmentChanged",
       "Priority": 0,
       "IsEnabled": true
+    },
+    {
+      "Event": "OnSetBonusChanged",
+      "ScriptId": "affix/21/OnSetBonusChanged",
+      "Priority": 0,
+      "IsEnabled": true
     }
   ],
   "TierSetIds": [
