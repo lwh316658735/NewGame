@@ -2,6 +2,11 @@
   "ClassId": "Mage",
   "DisplayName": "法师",
   "IsEnabled": true,
+  "InitialAffixRules": [
+    {
+      "AffixId": 25
+    }
+  ],
   "BaseAttributes": {
     "Strength": 5,
     "WristStrength": 5,
@@ -11,22 +16,99 @@
     "Constitution": 5,
     "MaxCarryWeight": 100
   },
-  "LevelUpAttributeGrowth": {
-    "Strength": 0,
-    "WristStrength": 0,
-    "Agility": 0,
-    "Intelligence": 0,
-    "Spirit": 0,
-    "Constitution": 0,
-    "MaxCarryWeight": 0
+  "AttributeGrowth": {
+    "Strength": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "WristStrength": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Agility": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Intelligence": {
+      "LevelInterval": 1,
+      "Amount": 10
+    },
+    "Spirit": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Constitution": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxCarryWeight": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxHealth": {
+      "LevelInterval": 1,
+      "Amount": 5
+    },
+    "MaxMana": {
+      "LevelInterval": 1,
+      "Amount": 3
+    },
+    "MinPhysicalAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxPhysicalAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MinMagicAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxMagicAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MinTaoismAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxTaoismAttack": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MinPhysicalDefense": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxPhysicalDefense": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MinMagicDefense": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxMagicDefense": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Hit": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Dodge": {
+      "LevelInterval": 1,
+      "Amount": 0
+    }
   },
   "BaseCombatAttributes": {
     "MaxHealth": 5000,
     "MaxMana": 80000,
-    "MinPhysicalAttack": 5000,
-    "MaxPhysicalAttack": 1000000,
-    "MinMagicAttack": 100,
-    "MaxMagicAttack": 100,
+    "MinPhysicalAttack": 0,
+    "MaxPhysicalAttack": 0,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,
     "MaxTaoismAttack": 0,
     "MinPhysicalDefense": 0,
@@ -40,16 +122,5 @@
   },
   "MovementTiming": {
     "MoveActionMilliseconds": 300
-  },
-  "GrowthPerLevel": {
-    "MaxHealth": 5,
-    "MaxMana": 3,
-    "PhysicalAttack": 0,
-    "MagicAttack": 0,
-    "TaoismAttack": 0,
-    "PhysicalDefense": 0,
-    "MagicDefense": 0,
-    "Hit": 0,
-    "Dodge": 0
   }
 }

@@ -1,0 +1,25 @@
+{
+  "TierSetId": 18,
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Integer",
+          "MinValue": 3,
+          "MaxValue": 3
+        },
+        {
+          "RangeId": 1,
+          "ValueKind": "Integer",
+          "MinValue": 1,
+          "MaxValue": 1
+        }
+      ]
+    }
+  ]
+}

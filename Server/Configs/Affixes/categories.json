@@ -59,6 +59,10 @@
     {
       "CategoryId": 14,
       "DisplayName": "<c:FF0000>怪物</>"
+    },
+    {
+      "CategoryId": 15,
+      "DisplayName": "<c:FB24FF>属性</>"
     }
   ]
 }

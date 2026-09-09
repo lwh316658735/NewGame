@@ -1,0 +1,51 @@
+{
+  "TierSetId": 18,
+  "DisplayName": "属性转换",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "Unit",
+    "Weapon"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "魔法攻击力",
+      "Description": "",
+      "ValueKind": "Integer",
+      "PercentRandomStep": 100,
+      "InitialValue": 0,
+      "ValueStep": 1
+    },
+    {
+      "RangeId": 1,
+      "DisplayName": "智力",
+      "Description": "",
+      "ValueKind": "Integer",
+      "PercentRandomStep": 100,
+      "InitialValue": 0,
+      "ValueStep": 1
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 3,
+          "MaxValue": 3
+        },
+        {
+          "RangeId": 1,
+          "MinValue": 1,
+          "MaxValue": 1
+        }
+      ]
+    }
+  ]
+}

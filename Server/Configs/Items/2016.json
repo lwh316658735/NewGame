@@ -40,6 +40,11 @@
         "AttributeId": "Hit",
         "Operation": "Add",
         "Value": 3000
+      },
+      {
+        "AttributeId": "Intelligence",
+        "Operation": "Add",
+        "Value": 20
       }
     ],
     "FixedAffixRules": [

@@ -13,6 +13,7 @@
       "DisplayName": "物理百分比",
       "Description": "默认词缀数值范围。",
       "ValueKind": "Percent",
+      "PercentRandomStep": 100,
       "InitialValue": 1000,
       "ValueStep": 1000
     }

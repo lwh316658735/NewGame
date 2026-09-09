@@ -1,6 +1,7 @@
 {
+  "InitialAffixRules": [],
   "ClassId": "Taoist",
-  "DisplayName": "\u9053\u58EB",
+  "DisplayName": "道士",
   "IsEnabled": true,
   "BaseAttributes": {
     "Strength": 5,
@@ -10,15 +11,6 @@
     "Spirit": 5,
     "Constitution": 5,
     "MaxCarryWeight": 100
-  },
-  "LevelUpAttributeGrowth": {
-    "Strength": 0,
-    "WristStrength": 0,
-    "Agility": 0,
-    "Intelligence": 0,
-    "Spirit": 0,
-    "Constitution": 0,
-    "MaxCarryWeight": 0
   },
   "BaseCombatAttributes": {
     "MaxHealth": 30,
@@ -41,15 +33,90 @@
   "MovementTiming": {
     "MoveActionMilliseconds": 600
   },
-  "GrowthPerLevel": {
-    "MaxHealth": 5,
-    "MaxMana": 3,
-    "PhysicalAttack": 1,
-    "MagicAttack": 1,
-    "TaoismAttack": 1,
-    "PhysicalDefense": 1,
-    "MagicDefense": 1,
-    "Hit": 100,
-    "Dodge": 0
+  "AttributeGrowth": {
+    "Strength": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "WristStrength": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Agility": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Intelligence": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Spirit": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "Constitution": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxCarryWeight": {
+      "LevelInterval": 1,
+      "Amount": 0
+    },
+    "MaxHealth": {
+      "LevelInterval": 1,
+      "Amount": 5
+    },
+    "MaxMana": {
+      "LevelInterval": 1,
+      "Amount": 3
+    },
+    "MinPhysicalAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MaxPhysicalAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MinMagicAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MaxMagicAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MinTaoismAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MaxTaoismAttack": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MinPhysicalDefense": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MaxPhysicalDefense": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MinMagicDefense": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "MaxMagicDefense": {
+      "LevelInterval": 1,
+      "Amount": 1
+    },
+    "Hit": {
+      "LevelInterval": 1,
+      "Amount": 100
+    },
+    "Dodge": {
+      "LevelInterval": 1,
+      "Amount": 0
+    }
   }
 }

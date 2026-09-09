@@ -1,0 +1,23 @@
+{
+  "AffixId": 25,
+  "DisplayName": "智力转换",
+  "CategoryIds": [
+    15
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Unit"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/25/OnAffixChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    18
+  ]
+}
