@@ -76,37 +76,7 @@
       "CloseWindowAfterAction": false
     },
     {
-      "ActionId": "guildOpen",
-      "Kind": "OpenTemplate",
-      "SystemEvent": "CloseWindow",
-      "ScriptId": "",
-      "TargetTemplateId": 0,
-      "OpenTargetKind": "FixedScreen",
-      "TargetFixedScreenId": "Guild",
-      "CloseWindowAfterAction": true
-    },
-    {
-      "ActionId": "guildCreate",
-      "Kind": "Script",
-      "SystemEvent": "CloseWindow",
-      "ScriptId": "npc/ui/content/1003",
-      "TargetTemplateId": 0,
-      "OpenTargetKind": "ContentTemplate",
-      "TargetFixedScreenId": "Inventory",
-      "CloseWindowAfterAction": false
-    },
-    {
-      "ActionId": "guildInfo",
-      "Kind": "Script",
-      "SystemEvent": "CloseWindow",
-      "ScriptId": "npc/ui/content/1003",
-      "TargetTemplateId": 0,
-      "OpenTargetKind": "ContentTemplate",
-      "TargetFixedScreenId": "Inventory",
-      "CloseWindowAfterAction": false
-    },
-    {
-      "ActionId": "guildDescription",
+      "ActionId": "guildApprovalOff",
       "Kind": "Script",
       "SystemEvent": "CloseWindow",
       "ScriptId": "npc/ui/content/1003",
@@ -126,7 +96,7 @@
       "CloseWindowAfterAction": false
     },
     {
-      "ActionId": "guildApprovalOff",
+      "ActionId": "guildCreate",
       "Kind": "Script",
       "SystemEvent": "CloseWindow",
       "ScriptId": "npc/ui/content/1003",
@@ -146,7 +116,27 @@
       "CloseWindowAfterAction": false
     },
     {
+      "ActionId": "guildDescription",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
       "ActionId": "guildElder",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "guildInfo",
       "Kind": "Script",
       "SystemEvent": "CloseWindow",
       "ScriptId": "npc/ui/content/1003",
@@ -164,6 +154,16 @@
       "OpenTargetKind": "ContentTemplate",
       "TargetFixedScreenId": "Inventory",
       "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "guildOpen",
+      "Kind": "OpenTemplate",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "FixedScreen",
+      "TargetFixedScreenId": "Guild",
+      "CloseWindowAfterAction": true
     }
   ],
   "Inputs": [],
