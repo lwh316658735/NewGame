@@ -1,0 +1,6 @@
+PROBE round=1 role=Auth state=Running elapsedMs=3850
+PROBE round=1 role=World state=Running elapsedMs=3792
+PROBE round=1 role=Chat state=Running elapsedMs=3123
+PROBE round=1 role=MapServer state=Running elapsedMs=3910
+PROBE round=1 role=Gateway state=Running elapsedMs=3343
+PROBE SUCCESS

@@ -1,0 +1,15 @@
+声明更新残留修复与恢复记录
+
+恢复对象：E:/NewGame/data/调试版本/新区服 1/nngame.db
+操作前确认五服务均已停止，使用 SQLite backup 生成 nngame.before.db。
+已核验事务：47aadd178e1d408fb18c6fef3302936d。
+已核验指纹：3B40C792A8E05B8D303AE8DD3AB03A37A8859A006102CD7F095469F40177A8C4。
+暂存的 PreviousMarkers、AddedNames、PreviousCharacterDeclarations 均为空，当前共享变量和角色占位声明表为空。
+先在 nngame.verified-copy.db 删除匹配的单条暂存，确认其余 34 张表的行数及完整行摘要均未改变，integrity_check 通过。
+副本五服务就绪，四类配置重载成功，强制中断后五服务重新就绪；账号、角色、背包、货币、仓库、经济记录摘要未改变。
+原库在 BEGIN IMMEDIATE 中重新逐表核对与备份一致，仅删除 Singleton=1 且 Payload 完全匹配的一条记录；其余 34 张表未变。
+原库使用本次正常 x64 构建再次完成五服务就绪检查，随后正常停止全部服务。启动会正常递增运行代次并登记地图进程实例；账号、角色、背包和经济记录未改。
+
+自动化验证：最终相关 x64 测试 137 项通过、1 项整组运行失败。失败用例 CombatReload_ActualScopesPreserveAndRebuildAffixInputsWithoutAccumulation 在登录脚本处触发默认 50 毫秒执行预算；单独复测通过。未删除测试、未放宽预算。详见两个 trx 文件。
+
+本次残留由哪次历史操作产生仍未知。此次清理只适用于上述已核验的空记录，不可推广为启动自动清表或真实声明变更的恢复方法。

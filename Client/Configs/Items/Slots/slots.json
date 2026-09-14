@@ -22,8 +22,8 @@
     },
     {
       "SlotId": 5,
-      "IsEnabled": false,
-      "DisplayName": ""
+      "IsEnabled": true,
+      "DisplayName": "护符"
     },
     {
       "SlotId": 6,

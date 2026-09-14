@@ -1,0 +1,213 @@
+2026-09-14 22:08:21.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:08:21.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:08:21.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway 实时业务监听未启用。
+2026-09-14 22:08:21.140 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54156
+2026-09-14 22:08:21.140 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54158
+2026-09-14 22:08:21.140 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:08:21.140 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Hosting environment: Production
+2026-09-14 22:08:21.140 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:08:24.674 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:08:24.676 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=Chat, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:08:24.677 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=Chat, 健康端口=54156
+2026-09-14 22:08:29.323 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54158/nngame.chat.ChatInternal/SubscribeScriptMessages - application/grpc null
+2026-09-14 22:08:29.324 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:08:33.186 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Service method 'SubscribeScriptMessages' canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.Channels.AsyncOperation`2.GetResult(Int16 token)
+   at System.Threading.Channels.ChannelReader`1.ReadAllAsync(CancellationToken cancellationToken)+MoveNext()
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerStreamingServerCallHandler`3.HandleCallAsyncCore(HttpContext httpContext, HttpContextServerCallContext serverCallContext)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerCallHandlerBase`3.<HandleCallAsync>g__AwaitHandleCall|8_0(HttpContextServerCallContext serverCallContext, Method`2 method, Task handleCall)
+2026-09-14 22:08:33.187 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:08:33.187 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54158/nngame.chat.ChatInternal/SubscribeScriptMessages - 499 null application/grpc 3863.7787ms
+2026-09-14 22:08:33.415 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/1.1 POST http://127.0.0.1:54156/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:08:33.415 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.418 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:08:33.419 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.419 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/1.1 POST http://127.0.0.1:54156/shutdown - 200 null application/json; charset=utf-8 4.4822ms
+2026-09-14 22:08:33.522 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application is shutting down...
+2026-09-14 22:08:33.529 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:08:33.529 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:08:33.530 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程正在停止。
+2026-09-14 22:08:33.530 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已停止。
+2026-09-14 22:08:59.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:08:59.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway 实时业务监听未启用。
+2026-09-14 22:08:59.127 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:08:59.141 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54344
+2026-09-14 22:08:59.142 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54346
+2026-09-14 22:08:59.142 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:08:59.142 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Hosting environment: Production
+2026-09-14 22:08:59.142 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:09:02.268 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:09:02.269 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=Chat, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:09:02.270 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=Chat, 健康端口=54344
+2026-09-14 22:09:06.378 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.chat.ChatInternal/SubscribeScriptMessages - application/grpc null
+2026-09-14 22:09:06.379 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:09:11.667 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:11.667 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.073 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=Chat，版本=config-79bff86ba5db9b2a，读取=1000.6706毫秒，校验=1364.8759毫秒，指令生成=20.4596毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:14.074 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.087 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.088 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2420.875ms
+2026-09-14 22:09:14.414 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:14.414 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.417 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "Chat"，请求阶段 "Stage"。
+2026-09-14 22:09:14.418 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.533 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.533 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 119.006ms
+2026-09-14 22:09:14.587 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:14.587 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.589 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "Chat"，请求阶段 "Commit"。
+2026-09-14 22:09:14.590 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.590 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 2.8702ms
+2026-09-14 22:09:16.395 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:16.395 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.437 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=Chat，版本=config-79bff86ba5db9b2a，读取=878.8379毫秒，校验=1135.7595毫秒，指令生成=26.3491毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:18.437 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.438 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.438 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2043.0593ms
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "Chat"，请求阶段 "Stage"。
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.504 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.504 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 1.1089ms
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "Chat"，请求阶段 "Commit"。
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.2717ms
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:20.100 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.063 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=Chat，版本=config-79bff86ba5db9b2a，读取=833.0566毫秒，校验=1122.5862毫秒，指令生成=6.3986毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:22.063 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:22.064 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.064 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 1964.1013ms
+2026-09-14 22:09:25.981 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:25.981 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:25.981 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "Chat"，请求阶段 "Stage"。
+2026-09-14 22:09:25.981 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:25.982 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时地图配置快照已替换。 地图数=8
+2026-09-14 22:09:25.982 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时地图配置快照已替换。 地图数=8
+2026-09-14 22:09:26.537 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=1, 怪物数=2
+2026-09-14 22:09:26.538 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=1, 列数=700, 行数=700
+2026-09-14 22:09:26.561 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=2, 怪物数=0
+2026-09-14 22:09:26.561 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=2, 列数=150, 行数=150
+2026-09-14 22:09:26.562 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=3, 怪物数=0
+2026-09-14 22:09:26.562 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=3, 列数=50, 行数=50
+2026-09-14 22:09:27.106 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=4, 怪物数=0
+2026-09-14 22:09:27.106 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=4, 列数=600, 行数=600
+2026-09-14 22:09:27.630 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=5, 怪物数=0
+2026-09-14 22:09:27.630 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=5, 列数=600, 行数=600
+2026-09-14 22:09:27.755 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=6, 怪物数=0
+2026-09-14 22:09:27.755 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=6, 列数=300, 行数=300
+2026-09-14 22:09:27.830 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:27.830 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:09:27.900 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 已重建地图刷怪运行时怪物。 地图=8, 怪物数=0
+2026-09-14 22:09:27.901 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 地图实例已创建。 地图=8, 列数=200, 行数=200
+2026-09-14 22:09:27.906 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:27.906 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 1925.8136ms
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "Chat"，请求阶段 "Commit"。
+2026-09-14 22:09:31.591 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.591 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.3067ms
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.166 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=Chat，版本=config-79bff86ba5db9b2a，读取=944.9762毫秒，校验=1088.9448毫秒，指令生成=16.9606毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:35.166 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.167 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.167 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2052.7172ms
+2026-09-14 22:09:35.431 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:35.431 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.431 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "Chat"，请求阶段 "Stage"。
+2026-09-14 22:09:35.431 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.433 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时 GM 权限快照已替换。 授权角色数=1
+2026-09-14 22:09:35.433 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时 GM 命令权限表快照已替换。 命令数=61
+2026-09-14 22:09:35.434 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时内容 UI 服务端模板快照已替换。 模板数=14
+2026-09-14 22:09:35.434 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时全局配置快照已替换。
+2026-09-14 22:09:35.435 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时职业配置快照已替换。 职业数=3
+2026-09-14 22:09:35.435 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时技能配置快照已替换。 技能数=11
+2026-09-14 22:09:35.438 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时全局配置快照已替换。
+2026-09-14 22:09:35.438 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时职业配置快照已替换。 职业数=3
+2026-09-14 22:09:35.438 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 运行时技能配置快照已替换。 技能数=11
+2026-09-14 22:09:35.541 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.541 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 110.5585ms
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "Chat"，请求阶段 "Commit"。
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.2939ms
+2026-09-14 22:09:43.314 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:09:43.314 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:09:43.314 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway 实时业务监听未启用。
+2026-09-14 22:09:43.329 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54344
+2026-09-14 22:09:43.329 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:54346
+2026-09-14 22:09:43.329 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:09:43.329 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Hosting environment: Production
+2026-09-14 22:09:43.329 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:09:46.433 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:09:46.434 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=Chat, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:09:46.435 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=Chat, 健康端口=54344
+2026-09-14 22:09:50.820 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:54346/nngame.chat.ChatInternal/SubscribeScriptMessages - application/grpc null
+2026-09-14 22:09:50.820 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:09:54.599 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Service method 'SubscribeScriptMessages' canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.Channels.AsyncOperation`2.GetResult(Int16 token)
+   at System.Threading.Channels.ChannelReader`1.ReadAllAsync(CancellationToken cancellationToken)+MoveNext()
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerStreamingServerCallHandler`3.HandleCallAsyncCore(HttpContext httpContext, HttpContextServerCallContext serverCallContext)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerCallHandlerBase`3.<HandleCallAsync>g__AwaitHandleCall|8_0(HttpContextServerCallContext serverCallContext, Method`2 method, Task handleCall)
+2026-09-14 22:09:54.601 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:09:54.601 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:54346/nngame.chat.ChatInternal/SubscribeScriptMessages - 499 null application/grpc 3781.0596ms
+2026-09-14 22:09:54.836 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/1.1 POST http://127.0.0.1:54344/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:09:54.836 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.839 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:09:54.840 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.840 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/1.1 POST http://127.0.0.1:54344/shutdown - 200 null application/json; charset=utf-8 4.3135ms
+2026-09-14 22:09:54.941 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application is shutting down...
+2026-09-14 22:09:54.949 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:09:54.949 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:09:54.949 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程正在停止。
+2026-09-14 22:09:54.950 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已停止。
+2026-09-14 22:14:10.474 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:14:10.474 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:14:10.474 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway 实时业务监听未启用。
+2026-09-14 22:14:10.489 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:57146
+2026-09-14 22:14:10.489 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Now listening on: http://127.0.0.1:57148
+2026-09-14 22:14:10.489 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:14:10.489 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Hosting environment: Production
+2026-09-14 22:14:10.489 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Content root path: H:\project\NNGame\src\Server\NNGame.Server.Launcher\bin\x64\Debug\net10.0-windows
+2026-09-14 22:14:13.286 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:14:13.288 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=Chat, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:14:13.289 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=Chat, 健康端口=57146
+2026-09-14 22:14:17.576 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/2 POST http://127.0.0.1:57148/nngame.chat.ChatInternal/SubscribeScriptMessages - application/grpc null
+2026-09-14 22:14:17.576 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:14:20.840 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Service method 'SubscribeScriptMessages' canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.Channels.AsyncOperation`2.GetResult(Int16 token)
+   at System.Threading.Channels.ChannelReader`1.ReadAllAsync(CancellationToken cancellationToken)+MoveNext()
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at NNGame.Server.Shared.ChatInternalGrpcService.SubscribeScriptMessages(ScriptMessageSubscribeRpcRequest request, IServerStreamWriter`1 responseStream, ServerCallContext context) in H:\project\NNGame\src\Server\NNGame.Server.Shared\ChatInternalGrpcService.cs:line 96
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.Shared.Server.ServerStreamingServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request, IServerStreamWriter`1 streamWriter)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerStreamingServerCallHandler`3.HandleCallAsyncCore(HttpContext httpContext, HttpContextServerCallContext serverCallContext)
+   at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerCallHandlerBase`3.<HandleCallAsync>g__AwaitHandleCall|8_0(HttpContextServerCallContext serverCallContext, Method`2 method, Task handleCall)
+2026-09-14 22:14:20.841 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'gRPC - /nngame.chat.ChatInternal/SubscribeScriptMessages'
+2026-09-14 22:14:20.841 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/2 POST http://127.0.0.1:57148/nngame.chat.ChatInternal/SubscribeScriptMessages - 499 null application/grpc 3265.775ms
+2026-09-14 22:14:21.058 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request starting HTTP/1.1 POST http://127.0.0.1:57146/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:14:21.058 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:21.060 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:14:21.062 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:21.062 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Request finished HTTP/1.1 POST http://127.0.0.1:57146/shutdown - 200 null application/json; charset=utf-8 4.0755ms
+2026-09-14 22:14:21.166 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Application is shutting down...
+2026-09-14 22:14:21.174 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:14:21.174 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:14:21.175 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程正在停止。
+2026-09-14 22:14:21.175 [INF] [区服:declaration-recovery-probe] [角色:聊天服务] 服务进程已停止。

@@ -1,0 +1,33 @@
+{
+  "ItemId": 2027,
+  "DisplayName": "小型护符",
+  "Kind": "AttributeItem",
+  "MaxStack": 1,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": {
+    "DefaultItemLevel": 0,
+    "EquipRequirements": [],
+    "MaxDurability": 600000,
+    "EquipLocations": [],
+    "FashionLocations": [],
+    "AllowedSlotIds": [
+      "CustomEquipSlot05"
+    ],
+    "IsSideSpecific": false,
+    "EquipSide": "None",
+    "QualityRule": {
+      "IsEnabled": true
+    },
+    "FixedAttributes": [],
+    "FixedAffixRules": []
+  },
+  "ConsumableItem": null,
+  "MaterialItem": null
+}

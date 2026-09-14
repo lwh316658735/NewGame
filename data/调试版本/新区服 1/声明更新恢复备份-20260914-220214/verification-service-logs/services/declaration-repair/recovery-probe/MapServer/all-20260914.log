@@ -1,0 +1,197 @@
+2026-09-14 22:08:25.137 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 在线库存所有权 SQLite 表结构已初始化。数据库=C:\Users\31665\AppData\Local\Temp/NNGame-declaration-startup-20260914/nngame.db
+2026-09-14 22:08:25.149 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 在线库存所有者实例已登记。ZoneId=declaration-recovery-probe OwnerInstanceId=13
+2026-09-14 22:08:25.151 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已启动。 命令队列容量=4096, Tick频率=20
+2026-09-14 22:08:25.153 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:08:25.153 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway 实时业务监听未启用。
+2026-09-14 22:08:25.154 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已启动。 TCP主机=127.0.0.1, TCP端口=54161
+2026-09-14 22:08:25.168 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54160
+2026-09-14 22:08:25.168 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54162
+2026-09-14 22:08:25.168 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:08:25.168 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Hosting environment: Production
+2026-09-14 22:08:25.168 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:08:28.304 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:08:28.305 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=MapServer, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:08:28.724 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:08:28.724 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:08:28.725 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 默认进图地图已预热。 地图=7
+2026-09-14 22:08:28.725 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=MapServer, 健康端口=54160
+2026-09-14 22:08:33.222 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/1.1 POST http://127.0.0.1:54160/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:08:33.222 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.225 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:08:33.226 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.226 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/1.1 POST http://127.0.0.1:54160/shutdown - 200 null application/json; charset=utf-8 4.2467ms
+2026-09-14 22:08:33.336 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application is shutting down...
+2026-09-14 22:08:33.362 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已停止。
+2026-09-14 22:08:33.364 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:08:33.364 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:08:33.382 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已停止。
+2026-09-14 22:08:33.384 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程正在停止。
+2026-09-14 22:08:33.384 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已停止。
+2026-09-14 22:09:02.660 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 在线库存所有权 SQLite 表结构已初始化。数据库=C:\Users\31665\AppData\Local\Temp/NNGame-declaration-startup-20260914/nngame.db
+2026-09-14 22:09:02.672 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 在线库存所有者实例已登记。ZoneId=declaration-recovery-probe OwnerInstanceId=14
+2026-09-14 22:09:02.674 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已启动。 命令队列容量=4096, Tick频率=20
+2026-09-14 22:09:02.676 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:09:02.676 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway 实时业务监听未启用。
+2026-09-14 22:09:02.677 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已启动。 TCP主机=127.0.0.1, TCP端口=54349
+2026-09-14 22:09:02.692 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54348
+2026-09-14 22:09:02.692 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54350
+2026-09-14 22:09:02.692 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:09:02.692 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Hosting environment: Production
+2026-09-14 22:09:02.692 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:09:05.759 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:09:05.760 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=MapServer, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:09:05.977 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:05.978 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:09:05.978 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 默认进图地图已预热。 地图=7
+2026-09-14 22:09:05.978 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=MapServer, 健康端口=54348
+2026-09-14 22:09:11.673 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:11.673 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.082 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=MapServer，版本=config-79bff86ba5db9b2a，读取=1035.1747毫秒，校验=1333.5982毫秒，指令生成=12.0908毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:14.083 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.123 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.123 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2450.5608ms
+2026-09-14 22:09:14.533 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:14.534 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.537 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "MapServer"，请求阶段 "Stage"。
+2026-09-14 22:09:14.548 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.551 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已刷新当前地图实例掉落表配置。 刷新地图数=1
+2026-09-14 22:09:14.555 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已刷新当前地图实例物品配置。 刷新地图数=1
+2026-09-14 22:09:14.561 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.561 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 27.4039ms
+2026-09-14 22:09:14.590 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:14.590 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.592 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "MapServer"，请求阶段 "Commit"。
+2026-09-14 22:09:14.685 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.685 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 95.0011ms
+2026-09-14 22:09:16.395 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:16.395 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.496 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=MapServer，版本=config-79bff86ba5db9b2a，读取=923.5235毫秒，校验=1158.7115毫秒，指令生成=17.5749毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:18.496 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.499 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.499 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2104.1081ms
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "MapServer"，请求阶段 "Stage"。
+2026-09-14 22:09:18.506 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.507 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:18.508 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.508 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 3.7551ms
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "MapServer"，请求阶段 "Commit"。
+2026-09-14 22:09:18.514 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.514 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 1.1729ms
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:20.100 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.043 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=MapServer，版本=config-79bff86ba5db9b2a，读取=844.4465毫秒，校验=1088.5461毫秒，指令生成=9.4867毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:22.044 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:22.046 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.046 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 1946.1381ms
+2026-09-14 22:09:27.907 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:27.907 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:27.907 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "MapServer"，请求阶段 "Stage"。
+2026-09-14 22:09:27.909 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时地图配置快照已替换。 地图数=8
+2026-09-14 22:09:27.910 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:27.927 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:28.499 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=1, 怪物数=2
+2026-09-14 22:09:28.499 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=1, 列数=700, 行数=700
+2026-09-14 22:09:28.525 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=2, 怪物数=0
+2026-09-14 22:09:28.525 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=2, 列数=150, 行数=150
+2026-09-14 22:09:28.526 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=3, 怪物数=0
+2026-09-14 22:09:28.526 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=3, 列数=50, 行数=50
+2026-09-14 22:09:29.102 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=4, 怪物数=0
+2026-09-14 22:09:29.102 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=4, 列数=600, 行数=600
+2026-09-14 22:09:29.645 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=5, 怪物数=0
+2026-09-14 22:09:29.645 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=5, 列数=600, 行数=600
+2026-09-14 22:09:29.756 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=6, 怪物数=0
+2026-09-14 22:09:29.756 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=6, 列数=300, 行数=300
+2026-09-14 22:09:29.816 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=8, 怪物数=0
+2026-09-14 22:09:29.816 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=8, 列数=200, 行数=200
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 1909.5522ms
+2026-09-14 22:09:31.591 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:31.591 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.591 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "MapServer"，请求阶段 "Commit"。
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 1.5527ms
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.236 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=MapServer，版本=config-79bff86ba5db9b2a，读取=938.8816毫秒，校验=1169.5489毫秒，指令生成=12.155毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:35.236 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.239 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.239 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2124.6461ms
+2026-09-14 22:09:35.542 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:35.542 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.542 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "MapServer"，请求阶段 "Stage"。
+2026-09-14 22:09:35.545 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时全局配置快照已替换。
+2026-09-14 22:09:35.546 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时职业配置快照已替换。 职业数=3
+2026-09-14 22:09:35.547 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时技能配置快照已替换。 技能数=11
+2026-09-14 22:09:35.547 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.550 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.550 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 8.5454ms
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:35.641 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "MapServer"，请求阶段 "Commit"。
+2026-09-14 22:09:35.644 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时 GM 权限快照已替换。 授权角色数=1
+2026-09-14 22:09:35.644 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时 GM 命令权限表快照已替换。 命令数=61
+2026-09-14 22:09:35.645 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 运行时内容 UI 服务端模板快照已替换。 模板数=14
+2026-09-14 22:09:35.724 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.724 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/2 POST http://127.0.0.1:54350/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 82.3666ms
+2026-09-14 22:09:46.861 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 在线库存所有权 SQLite 表结构已初始化。数据库=C:\Users\31665\AppData\Local\Temp/NNGame-declaration-startup-20260914/nngame.db
+2026-09-14 22:09:46.874 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 在线库存所有者实例已登记。ZoneId=declaration-recovery-probe OwnerInstanceId=15
+2026-09-14 22:09:46.876 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已启动。 命令队列容量=4096, Tick频率=20
+2026-09-14 22:09:46.878 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:09:46.879 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway 实时业务监听未启用。
+2026-09-14 22:09:46.879 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已启动。 TCP主机=127.0.0.1, TCP端口=54349
+2026-09-14 22:09:46.893 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54348
+2026-09-14 22:09:46.894 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:54350
+2026-09-14 22:09:46.894 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:09:46.894 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Hosting environment: Production
+2026-09-14 22:09:46.894 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:09:50.084 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:09:50.085 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=MapServer, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:09:50.338 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:50.338 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:09:50.338 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 默认进图地图已预热。 地图=7
+2026-09-14 22:09:50.339 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=MapServer, 健康端口=54348
+2026-09-14 22:09:54.634 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/1.1 POST http://127.0.0.1:54348/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:09:54.635 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.637 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:09:54.639 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.639 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/1.1 POST http://127.0.0.1:54348/shutdown - 200 null application/json; charset=utf-8 4.4345ms
+2026-09-14 22:09:54.740 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application is shutting down...
+2026-09-14 22:09:54.767 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已停止。
+2026-09-14 22:09:54.770 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:09:54.770 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:09:54.801 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已停止。
+2026-09-14 22:09:54.803 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程正在停止。
+2026-09-14 22:09:54.803 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已停止。
+2026-09-14 22:14:13.636 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 在线库存所有权 SQLite 表结构已初始化。数据库=E:/NewGame/data/调试版本/新区服 1/nngame.db
+2026-09-14 22:14:13.648 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 在线库存所有者实例已登记。ZoneId=declaration-recovery-probe OwnerInstanceId=13
+2026-09-14 22:14:13.650 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已启动。 命令队列容量=4096, Tick频率=20
+2026-09-14 22:14:13.652 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:14:13.652 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway 实时业务监听未启用。
+2026-09-14 22:14:13.654 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已启动。 TCP主机=127.0.0.1, TCP端口=57151
+2026-09-14 22:14:13.666 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:57150
+2026-09-14 22:14:13.667 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Now listening on: http://127.0.0.1:57152
+2026-09-14 22:14:13.667 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:14:13.667 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Hosting environment: Production
+2026-09-14 22:14:13.667 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Content root path: H:\project\NNGame\src\Server\NNGame.Server.Launcher\bin\x64\Debug\net10.0-windows
+2026-09-14 22:14:16.832 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:14:16.834 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=MapServer, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:14:17.174 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:14:17.174 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:14:17.175 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 默认进图地图已预热。 地图=7
+2026-09-14 22:14:17.175 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=MapServer, 健康端口=57150
+2026-09-14 22:14:20.871 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request starting HTTP/1.1 POST http://127.0.0.1:57150/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:14:20.871 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:20.874 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:14:20.876 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:20.876 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Request finished HTTP/1.1 POST http://127.0.0.1:57150/shutdown - 200 null application/json; charset=utf-8 4.609ms
+2026-09-14 22:14:20.977 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Application is shutting down...
+2026-09-14 22:14:21.003 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 内部 TCP 实时通道已停止。
+2026-09-14 22:14:21.008 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:14:21.008 [INF] [区服:declaration-recovery-probe] [角色:地图服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:14:21.025 [INF] [区服:declaration-recovery-probe] [角色:地图服务] MapServer 地图 Actor 已停止。
+2026-09-14 22:14:21.026 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程正在停止。
+2026-09-14 22:14:21.026 [INF] [区服:declaration-recovery-probe] [角色:地图服务] 服务进程已停止。

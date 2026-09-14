@@ -1,0 +1,373 @@
+2026-09-14 22:08:17.124 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:08:17.124 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway 实时业务监听未启用。
+2026-09-14 22:08:17.124 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:08:17.137 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54152
+2026-09-14 22:08:17.137 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54154
+2026-09-14 22:08:17.137 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:08:17.137 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Hosting environment: Production
+2026-09-14 22:08:17.137 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:08:20.455 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:08:20.457 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=World, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:08:20.635 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=World, 健康端口=54152
+2026-09-14 22:08:33.351 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54154/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:08:33.351 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:08:33.354 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:08:33.354 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54154/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 3.21ms
+2026-09-14 22:08:33.356 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54154/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:08:33.356 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:08:33.356 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:08:33.356 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54154/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.1334ms
+2026-09-14 22:08:33.560 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/1.1 POST http://127.0.0.1:54152/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:08:33.560 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.562 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:08:33.564 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:08:33.564 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/1.1 POST http://127.0.0.1:54152/shutdown - 200 null application/json; charset=utf-8 3.843ms
+2026-09-14 22:08:33.663 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application is shutting down...
+2026-09-14 22:08:33.678 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:08:33.678 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:08:33.679 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程正在停止。
+2026-09-14 22:08:33.680 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已停止。
+2026-09-14 22:08:55.610 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:08:55.610 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway 实时业务监听未启用。
+2026-09-14 22:08:55.610 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:08:55.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54340
+2026-09-14 22:08:55.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54342
+2026-09-14 22:08:55.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:08:55.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Hosting environment: Production
+2026-09-14 22:08:55.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:08:58.708 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:08:58.710 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=World, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:08:58.763 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=World, 健康端口=54340
+2026-09-14 22:09:11.626 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:11.626 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:11.629 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:11.629 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 3.1151ms
+2026-09-14 22:09:11.645 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:11.645 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:11.660 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:11.660 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:11.660 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 15.4858ms
+2026-09-14 22:09:11.666 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:11.666 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.100 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:14.101 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:14.101 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:14.101 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0963ms
+2026-09-14 22:09:14.102 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:14.102 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:14.102 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:14.102 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0736ms
+2026-09-14 22:09:14.115 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:14.115 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.116 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:14.116 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.116 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.6138ms
+2026-09-14 22:09:14.165 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=World，版本=config-79bff86ba5db9b2a，读取=1033.6176毫秒，校验=1404.8782毫秒，指令生成=37.1417毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:14.166 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.169 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:14.173 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:14.173 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2506.6281ms
+2026-09-14 22:09:14.298 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:14.299 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.301 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，请求阶段 "Stage"。
+2026-09-14 22:09:14.310 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:14.311 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:14.413 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:14.413 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 114.7584ms
+2026-09-14 22:09:14.538 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:14.538 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.538 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:14.538 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.538 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.5737ms
+2026-09-14 22:09:14.563 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:14.563 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.564 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:14.564 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.564 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.6519ms
+2026-09-14 22:09:14.583 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:14.583 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.585 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，请求阶段 "Commit"。
+2026-09-14 22:09:14.586 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:14.586 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:14.586 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 2.8738ms
+2026-09-14 22:09:14.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:14.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:14.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2764ms
+2026-09-14 22:09:14.688 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:14.688 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.688 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 bfbb610807214f78b1f4357a5211d9b9，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:14.688 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:14.688 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2841ms
+2026-09-14 22:09:16.393 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:16.393 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:16.393 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:16.393 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.1938ms
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.4551ms
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:16.394 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.481 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=World，版本=config-79bff86ba5db9b2a，读取=898.5317毫秒，校验=1177.8798毫秒，指令生成=9.2591毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:18.481 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.482 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:18.482 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:18.482 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2087.7367ms
+2026-09-14 22:09:18.497 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:18.497 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:18.497 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:18.497 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0711ms
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0358ms
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:18.498 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.499 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:18.499 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.499 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.4826ms
+2026-09-14 22:09:18.501 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:18.501 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.501 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，请求阶段 "Stage"。
+2026-09-14 22:09:18.501 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:18.501 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:18.503 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 1.7688ms
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.505 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:18.506 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.506 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.3858ms
+2026-09-14 22:09:18.509 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:18.509 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.509 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:18.509 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.509 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.3726ms
+2026-09-14 22:09:18.511 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，请求阶段 "Commit"。
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:18.512 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.267ms
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.513 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2402ms
+2026-09-14 22:09:18.514 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:18.514 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.515 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 924d34652daf40858b93b3dff4f48aac，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:18.515 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:18.515 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2447ms
+2026-09-14 22:09:20.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:20.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:20.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:20.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.1414ms
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.4748ms
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:20.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.044 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:22.044 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:22.044 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:22.044 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0552ms
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0366ms
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:22.045 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.4037ms
+2026-09-14 22:09:22.053 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=World，版本=config-79bff86ba5db9b2a，读取=861.2731毫秒，校验=1080.4261毫秒，指令生成=10.9106毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:22.053 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:22.054 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:22.054 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:22.054 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 1954.3778ms
+2026-09-14 22:09:24.024 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:24.024 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:24.024 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，请求阶段 "Stage"。
+2026-09-14 22:09:24.025 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:24.025 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:24.026 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时地图配置快照已替换。 地图数=8
+2026-09-14 22:09:24.026 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时地图配置快照已替换。 地图数=8
+2026-09-14 22:09:24.595 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=1, 怪物数=2
+2026-09-14 22:09:24.595 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=1, 列数=700, 行数=700
+2026-09-14 22:09:24.625 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=2, 怪物数=0
+2026-09-14 22:09:24.626 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=2, 列数=150, 行数=150
+2026-09-14 22:09:24.641 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=3, 怪物数=0
+2026-09-14 22:09:24.641 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=3, 列数=50, 行数=50
+2026-09-14 22:09:25.212 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=4, 怪物数=0
+2026-09-14 22:09:25.212 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=4, 列数=600, 行数=600
+2026-09-14 22:09:25.714 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=5, 怪物数=0
+2026-09-14 22:09:25.714 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=5, 列数=600, 行数=600
+2026-09-14 22:09:25.870 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=6, 怪物数=0
+2026-09-14 22:09:25.870 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=6, 列数=300, 行数=300
+2026-09-14 22:09:25.910 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=7, 怪物数=0
+2026-09-14 22:09:25.910 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=7, 列数=150, 行数=150
+2026-09-14 22:09:25.974 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 已重建地图刷怪运行时怪物。 地图=8, 怪物数=0
+2026-09-14 22:09:25.974 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 地图实例已创建。 地图=8, 列数=200, 行数=200
+2026-09-14 22:09:25.980 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:25.980 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 1956.2826ms
+2026-09-14 22:09:27.908 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:27.908 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:27.908 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:27.908 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:27.908 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.3793ms
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:29.817 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.3398ms
+2026-09-14 22:09:31.589 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:31.589 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，请求阶段 "Commit"。
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:31.590 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.2782ms
+2026-09-14 22:09:31.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:31.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:31.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:31.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:31.592 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2229ms
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 7177f2e4d7c34a96818ab9e3c8f5c897，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:31.593 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.1768ms
+2026-09-14 22:09:33.112 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:33.112 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:33.112 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:33.112 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0723ms
+2026-09-14 22:09:33.113 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:33.113 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:33.113 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:33.113 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:33.113 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.7914ms
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - application/grpc null
+2026-09-14 22:09:33.114 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本重载准备完成：区服=declaration-recovery-probe，服务=World，版本=config-79bff86ba5db9b2a，读取=914.3883毫秒，校验=1200.1159毫秒，指令生成=7.4857毫秒，脚本数=78，脚本字节数=79767，解析次数=81。
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。热重载检查完成。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/PrepareReload'
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/PrepareReload - 200 null application/grpc 2123.4905ms
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:35.237 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.4351ms
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.0388ms
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 ，角色 "World"，阶段 "Validate"，持久化暂存 false。
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.238 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.4228ms
+2026-09-14 22:09:35.334 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - application/grpc null
+2026-09-14 22:09:35.334 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.334 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，请求阶段 "Stage"。
+2026-09-14 22:09:35.335 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:35.336 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=config-79bff86ba5db9b2a
+2026-09-14 22:09:35.338 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时 GM 权限快照已替换。 授权角色数=1
+2026-09-14 22:09:35.338 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时 GM 命令权限表快照已替换。 命令数=61
+2026-09-14 22:09:35.338 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时内容 UI 服务端模板快照已替换。 模板数=14
+2026-09-14 22:09:35.339 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时全局配置快照已替换。
+2026-09-14 22:09:35.339 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时职业配置快照已替换。 职业数=3
+2026-09-14 22:09:35.340 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时技能配置快照已替换。 技能数=11
+2026-09-14 22:09:35.343 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时全局配置快照已替换。
+2026-09-14 22:09:35.343 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时职业配置快照已替换。 职业数=3
+2026-09-14 22:09:35.343 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 运行时技能配置快照已替换。 技能数=11
+2026-09-14 22:09:35.430 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/ApplyReload'
+2026-09-14 22:09:35.430 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/ApplyReload - 200 null application/grpc 96.041ms
+2026-09-14 22:09:35.542 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:35.542 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.543 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:35.543 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.543 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.3149ms
+2026-09-14 22:09:35.551 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:35.551 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.551 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Stage"，持久化暂存 false。
+2026-09-14 22:09:35.551 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.551 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2914ms
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - application/grpc null
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新参与方：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，请求阶段 "Commit"。
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.admin.ServerAdminInternal/FinalizeReload'
+2026-09-14 22:09:35.640 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.admin.ServerAdminInternal/FinalizeReload - 200 null application/grpc 0.2575ms
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.642 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.234ms
+2026-09-14 22:09:35.724 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - application/grpc null
+2026-09-14 22:09:35.724 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.725 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 声明更新：事务 c33f2b2adaa845d48a982397e767a5c2，角色 "World"，阶段 "Commit"，持久化暂存 false。
+2026-09-14 22:09:35.725 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/ChangeDeclarations'
+2026-09-14 22:09:35.725 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/ChangeDeclarations - 200 null application/grpc 0.2348ms
+2026-09-14 22:09:39.768 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:09:39.768 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:09:39.768 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway 实时业务监听未启用。
+2026-09-14 22:09:39.782 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54340
+2026-09-14 22:09:39.782 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:54342
+2026-09-14 22:09:39.782 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:09:39.782 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Hosting environment: Production
+2026-09-14 22:09:39.782 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Content root path: C:\Users\31665\AppData\Local\Temp\NNGame-declaration-repair-x64-20260914\bin\NNGame.Server.Launcher\debug
+2026-09-14 22:09:42.897 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:09:42.898 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=World, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:09:42.956 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=World, 健康端口=54340
+2026-09-14 22:09:54.757 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:54.757 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:54.760 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:54.760 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 3.2317ms
+2026-09-14 22:09:54.761 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:09:54.761 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:54.761 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:09:54.761 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:54342/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.1229ms
+2026-09-14 22:09:54.978 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/1.1 POST http://127.0.0.1:54340/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:09:54.979 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.981 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:09:54.983 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:09:54.983 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/1.1 POST http://127.0.0.1:54340/shutdown - 200 null application/json; charset=utf-8 4.0604ms
+2026-09-14 22:09:55.082 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application is shutting down...
+2026-09-14 22:09:55.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:09:55.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:09:55.098 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程正在停止。
+2026-09-14 22:09:55.099 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已停止。
+2026-09-14 22:14:06.677 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway 实时业务监听未启用。
+2026-09-14 22:14:06.677 [INF] [区服:declaration-recovery-probe] [角色:世界服务] MapServer 内部 TCP 实时通道未启用。
+2026-09-14 22:14:06.677 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 业务监听未启用。
+2026-09-14 22:14:06.692 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:57142
+2026-09-14 22:14:06.693 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Now listening on: http://127.0.0.1:57144
+2026-09-14 22:14:06.693 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application started. Press Ctrl+C to shut down.
+2026-09-14 22:14:06.693 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Hosting environment: Production
+2026-09-14 22:14:06.693 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Content root path: H:\project\NNGame\src\Server\NNGame.Server.Launcher\bin\x64\Debug\net10.0-windows
+2026-09-14 22:14:09.925 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 脚本日志。运行时快照已替换。脚本数=74, 绑定数=65, 配置版本=0.1.0
+2026-09-14 22:14:09.927 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务端数据重载基线已建立。 区服=declaration-recovery-probe, 服务角色=World, 配置文件数=244, 脚本文件数=78
+2026-09-14 22:14:10.020 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已启动。 区服=declaration-recovery-probe, 服务角色=World, 健康端口=57142
+2026-09-14 22:14:20.992 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:57144/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:14:20.992 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:14:20.996 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:14:20.996 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:57144/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 3.4154ms
+2026-09-14 22:14:20.997 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/2 POST http://127.0.0.1:57144/nngame.sharedscript.SharedScriptInternal/Flush - application/grpc null
+2026-09-14 22:14:20.997 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:14:20.997 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'gRPC - /nngame.sharedscript.SharedScriptInternal/Flush'
+2026-09-14 22:14:20.997 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/2 POST http://127.0.0.1:57144/nngame.sharedscript.SharedScriptInternal/Flush - 200 null application/grpc 0.1095ms
+2026-09-14 22:14:21.201 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request starting HTTP/1.1 POST http://127.0.0.1:57142/shutdown - application/x-www-form-urlencoded 0
+2026-09-14 22:14:21.201 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executing endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:21.204 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Writing value of type 'ServerShutdownResponse' as Json.
+2026-09-14 22:14:21.205 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Executed endpoint 'HTTP: POST /shutdown'
+2026-09-14 22:14:21.205 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Request finished HTTP/1.1 POST http://127.0.0.1:57142/shutdown - 200 null application/json; charset=utf-8 3.4723ms
+2026-09-14 22:14:21.306 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Application is shutting down...
+2026-09-14 22:14:21.324 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 正在等待活动连接完成退出保存。 活动连接=0
+2026-09-14 22:14:21.324 [INF] [区服:declaration-recovery-probe] [角色:世界服务] Gateway TCP 活动连接排空已完成。 等待连接=0
+2026-09-14 22:14:21.325 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程正在停止。
+2026-09-14 22:14:21.325 [INF] [区服:declaration-recovery-probe] [角色:世界服务] 服务进程已停止。

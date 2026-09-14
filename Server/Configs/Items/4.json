@@ -34,7 +34,7 @@
       {
         "AttributeId": "MaxPhysicalAttack",
         "Operation": "Add",
-        "Value": 6
+        "Value": 10
       }
     ],
     "FixedAffixRules": []

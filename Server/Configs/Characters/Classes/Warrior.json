@@ -1,8 +1,8 @@
 {
-  "InitialAffixRules": [],
   "ClassId": "Warrior",
   "DisplayName": "战士",
   "IsEnabled": true,
+  "InitialAffixRules": [],
   "BaseAttributes": {
     "Strength": 5,
     "WristStrength": 5,
@@ -99,7 +99,7 @@
     }
   },
   "BaseCombatAttributes": {
-    "MaxHealth": 20000000000,
+    "MaxHealth": 50000000000,
     "MaxMana": 20,
     "MinPhysicalAttack": 0,
     "MaxPhysicalAttack": 0,
