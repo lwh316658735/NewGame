@@ -1,39 +1,6 @@
 {
   "ItemId": 2027,
-  "InventoryIconAssetPath": "物品/物品堆叠框动画/image 1.png",
-  "ItemSlotResource": {
-    "FramesPerSecond": 5,
-    "FrameAssetPaths": [
-      "物品/物品堆叠框动画/image 1.png",
-      "物品/物品堆叠框动画/image 11.png",
-      "物品/物品堆叠框动画/image 13.png",
-      "物品/物品堆叠框动画/image 15.png",
-      "物品/物品堆叠框动画/image 17.png",
-      "物品/物品堆叠框动画/image 19.png",
-      "物品/物品堆叠框动画/image 21.png",
-      "物品/物品堆叠框动画/image 23.png",
-      "物品/物品堆叠框动画/image 25.png",
-      "物品/物品堆叠框动画/image 27.png",
-      "物品/物品堆叠框动画/image 29.png",
-      "物品/物品堆叠框动画/image 3.png",
-      "物品/物品堆叠框动画/image 31.png",
-      "物品/物品堆叠框动画/image 33.png",
-      "物品/物品堆叠框动画/image 35.png",
-      "物品/物品堆叠框动画/image 37.png",
-      "物品/物品堆叠框动画/image 39.png",
-      "物品/物品堆叠框动画/image 41.png",
-      "物品/物品堆叠框动画/image 43.png",
-      "物品/物品堆叠框动画/image 45.png",
-      "物品/物品堆叠框动画/image 47.png",
-      "物品/物品堆叠框动画/image 49.png",
-      "物品/物品堆叠框动画/image 5.png",
-      "物品/物品堆叠框动画/image 51.png",
-      "物品/物品堆叠框动画/image 53.png",
-      "物品/物品堆叠框动画/image 55.png",
-      "物品/物品堆叠框动画/image 57.png",
-      "物品/物品堆叠框动画/image 59.png",
-      "物品/物品堆叠框动画/image 7.png",
-      "物品/物品堆叠框动画/image 9.png"
-    ]
-  }
+  "InventoryIconAssetPath": "物品/符文/1.png",
+  "ItemSlotResource": null,
+  "GroundIconAssetPath": "物品/符文/1.png"
 }

@@ -1,0 +1,24 @@
+{
+  "AffixId": 27,
+  "DisplayName": "护符之巨大的",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "CustomEquipSlot05",
+    "Unit"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/27/OnAffixChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    20
+  ]
+}

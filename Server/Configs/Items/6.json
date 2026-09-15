@@ -18,10 +18,12 @@
     "TargetItemFilters": [],
     "UseCooldownGroupId": "1",
     "UseCooldownMilliseconds": 5000,
+    "MaxUseCount": 0,
     "UseQuantity": 0,
     "FixedAffixRules": [
       {
-        "AffixId": 13
+        "AffixId": 13,
+        "IsInactiveOnItem": false
       }
     ],
     "UseConditions": []

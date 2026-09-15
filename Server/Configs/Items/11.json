@@ -39,7 +39,12 @@
     ],
     "FixedAffixRules": [
       {
-        "AffixId": 8
+        "AffixId": 8,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 4,
+        "IsInactiveOnItem": false
       }
     ]
   },

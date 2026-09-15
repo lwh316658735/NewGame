@@ -14,7 +14,7 @@
   "AttributeItem": {
     "DefaultItemLevel": 0,
     "EquipRequirements": [],
-    "MaxDurability": 600000,
+    "MaxDurability": 60000,
     "EquipLocations": [],
     "FashionLocations": [],
     "AllowedSlotIds": [
@@ -23,10 +23,19 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": true
+      "IsEnabled": false
     },
     "FixedAttributes": [],
-    "FixedAffixRules": []
+    "FixedAffixRules": [
+      {
+        "AffixId": 26,
+        "IsInactiveOnItem": true
+      },
+      {
+        "AffixId": 27,
+        "IsInactiveOnItem": false
+      }
+    ]
   },
   "ConsumableItem": null,
   "MaterialItem": null

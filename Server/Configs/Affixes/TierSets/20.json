@@ -1,0 +1,36 @@
+{
+  "TierSetId": 20,
+  "DisplayName": "护符之巨大的",
+  "Description": "首版装备词缀T阶。",
+  "AllowedLocations": [
+    "CustomEquipSlot05"
+  ],
+  "IsFixedTierMode": false,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "力量",
+      "Description": "默认词缀数值范围。",
+      "ValueKind": "Integer",
+      "PercentRandomStep": 100,
+      "InitialValue": 0,
+      "ValueStep": 1
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 1,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 100,
+          "MaxValue": 200
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "AffixId": 26,
+  "DisplayName": "护符之力量",
+  "CategoryIds": [
+    15
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "CustomEquipSlot05"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/26/OnAffixChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    19
+  ]
+}
