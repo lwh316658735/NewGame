@@ -3,6 +3,8 @@
   "DisplayName": "圣战之刃",
   "Kind": "AttributeItem",
   "MaxStack": 1,
+  "SocketCountMin": 1,
+  "SocketCountMax": 4,
   "Price": {
     "CurrencyId": "Gold",
     "BuyPrice": 0,
@@ -49,10 +51,12 @@
     ],
     "FixedAffixRules": [
       {
-        "AffixId": 23
+        "AffixId": 23,
+        "IsInactiveOnItem": false
       },
       {
-        "AffixId": 24
+        "AffixId": 24,
+        "IsInactiveOnItem": false
       }
     ]
   },
