@@ -1,0 +1,39 @@
+{
+  "ItemId": 2028,
+  "DisplayName": "红色宝石",
+  "Kind": "Consumable",
+  "MaxStack": 1,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 0,
+    "UseTargetType": "OtherInventoryItem",
+    "TargetItemFilters": [
+      {
+        "SlotLocation": "Weapon",
+        "ItemIds": []
+      }
+    ],
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 0,
+    "MaxUseCount": 0,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 28,
+        "IsInactiveOnItem": true
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

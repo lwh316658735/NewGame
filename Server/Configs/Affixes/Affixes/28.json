@@ -1,0 +1,24 @@
+{
+  "AffixId": 28,
+  "DisplayName": "镶嵌力量之",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Consumable",
+    "Unit"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/28/OnAffixChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    21
+  ]
+}
