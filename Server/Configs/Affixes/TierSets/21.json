@@ -3,8 +3,7 @@
   "DisplayName": "镶嵌力量之",
   "Description": "首版装备词缀T阶。",
   "AllowedLocations": [
-    "Consumable",
-    "Unit"
+    "Consumable"
   ],
   "IsFixedTierMode": true,
   "ItemLevelStep": 1,

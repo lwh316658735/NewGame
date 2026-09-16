@@ -7,7 +7,7 @@
   "AffixType": "Special",
   "AllowedLocations": [
     "Consumable",
-    "Unit"
+    "Weapon"
   ],
   "Tags": [],
   "ScriptBindings": [
