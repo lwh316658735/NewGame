@@ -8,7 +8,7 @@
   "ViewRangeCells": 7,
   "FixedAffixRules": [],
   "Combat": {
-    "MaxHealth": 50000,
+    "MaxHealth": 500,
     "MaxMana": 0,
     "MinPhysicalAttack": 200,
     "MaxPhysicalAttack": 300,

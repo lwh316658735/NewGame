@@ -1,8 +1,10 @@
 {
   "ItemId": 3,
-  "DisplayName": "\u5723\u6218\u624B\u956F",
+  "DisplayName": "圣战手镯",
   "Kind": "AttributeItem",
   "MaxStack": 1,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
   "Price": {
     "CurrencyId": "Gold",
     "BuyPrice": 30000,
@@ -13,6 +15,24 @@
   "IsTradeProhibited": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
+    "Upgrade": {
+      "Enabled": false,
+      "InitialLevel": 0,
+      "InitialExperience": 0,
+      "MaxLevel": 10,
+      "ExperiencePerLevel": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ]
+    },
     "EquipRequirements": [
       {
         "RequirementType": "RequiredCharacterLevel",

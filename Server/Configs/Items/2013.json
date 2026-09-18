@@ -3,6 +3,8 @@
   "DisplayName": "天魔神甲(男)",
   "Kind": "AttributeItem",
   "MaxStack": 1,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
   "Price": {
     "CurrencyId": "Gold",
     "BuyPrice": 0,
@@ -13,6 +15,24 @@
   "IsTradeProhibited": false,
   "AttributeItem": {
     "DefaultItemLevel": 0,
+    "Upgrade": {
+      "Enabled": false,
+      "InitialLevel": 0,
+      "InitialExperience": 0,
+      "MaxLevel": 10,
+      "ExperiencePerLevel": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ]
+    },
     "EquipRequirements": [
       {
         "RequirementType": "RequiredPhysicalAttack",

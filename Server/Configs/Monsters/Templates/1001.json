@@ -8,17 +8,19 @@
   "ViewRangeCells": 7,
   "FixedAffixRules": [
     {
-      "AffixId": 9
+      "AffixId": 9,
+      "IsInactiveOnItem": false
     },
     {
-      "AffixId": 18
+      "AffixId": 18,
+      "IsInactiveOnItem": false
     }
   ],
   "Combat": {
-    "MaxHealth": 1000000,
+    "MaxHealth": 100,
     "MaxMana": 0,
-    "MinPhysicalAttack": 2000,
-    "MaxPhysicalAttack": 3000,
+    "MinPhysicalAttack": 200,
+    "MaxPhysicalAttack": 300,
     "MinMagicAttack": 0,
     "MaxMagicAttack": 0,
     "MinTrueDamage": 0,
@@ -46,7 +48,9 @@
   "Reward": {
     "IsRewardDisabled": false,
     "Experience": 50000,
-    "DropTableIds": [],
+    "DropTableIds": [
+      "DropTable0001"
+    ],
     "DropRateBonus": {
       "IsEnabled": false,
       "Mode": "Add",

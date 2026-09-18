@@ -341,6 +341,23 @@
       "MultiplierRate": 30000
     }
   },
+  "ItemUpgradeDefaults": {
+    "InitialLevel": 0,
+    "InitialExperience": 0,
+    "MaxLevel": 10,
+    "ExperiencePerLevel": [
+      200,
+      400,
+      600,
+      800,
+      1000,
+      1200,
+      1400,
+      1600,
+      1800,
+      2000
+    ]
+  },
   "DropRules": {
     "ExperienceRate": 10000,
     "GoldDropRate": 10000,

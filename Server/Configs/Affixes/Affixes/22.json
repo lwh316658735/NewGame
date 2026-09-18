@@ -15,8 +15,8 @@
   "MaxStacks": 1,
   "ScriptBindings": [
     {
-      "Event": "OnItemEquipmentChanged",
-      "ScriptId": "affix/22/OnItemEquipmentChanged",
+      "Event": "OnAffixChanged",
+      "ScriptId": "affix/22/OnAffixChanged",
       "Priority": 0,
       "IsEnabled": true
     }

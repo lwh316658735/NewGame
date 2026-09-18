@@ -15,6 +15,24 @@
   "IsTradeProhibited": true,
   "AttributeItem": {
     "DefaultItemLevel": 0,
+    "Upgrade": {
+      "Enabled": true,
+      "InitialLevel": 7,
+      "InitialExperience": 0,
+      "MaxLevel": 10,
+      "ExperiencePerLevel": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ]
+    },
     "EquipRequirements": [],
     "MaxDurability": 600000,
     "EquipLocations": [
@@ -25,7 +43,7 @@
     "IsSideSpecific": false,
     "EquipSide": "None",
     "QualityRule": {
-      "IsEnabled": false
+      "IsEnabled": true
     },
     "FixedAttributes": [
       {
