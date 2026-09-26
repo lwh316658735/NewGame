@@ -26,6 +26,8 @@
   "TextPaddingTop": 9,
   "TextPaddingRight": 16,
   "TextPaddingBottom": 5,
+  "BackgroundAssetPath": "",
+  "BackgroundAssetPaths": [],
   "ImageFramesPerSecond": 5,
   "ImageFillMode": "Fit",
   "ImageNineSlice": {
@@ -38,7 +40,5 @@
   "BackgroundColor": "#141414D2",
   "BorderColor": "#ECCA76E6",
   "BorderWidth": 1,
-  "CornerRadius": 0,
-  "BackgroundAssetPath": "",
-  "BackgroundAssetPaths": []
+  "CornerRadius": 0
 }

@@ -842,7 +842,7 @@
     "GroundItemTimeoutSeconds": 220
   },
   "ChatRules": {
-    "DefaultChatBubbleStyleId": 1
+    "DefaultChatBubbleStyleId": 2
   },
   "CombatFeedbackRules": {
     "DefaultPlayerHealthBarConfigId": 1

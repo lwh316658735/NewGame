@@ -1,0 +1,49 @@
+{
+  "MonsterId": 1003,
+  "DisplayName": "练功师",
+  "Level": 1,
+  "MonsterTypeIds": [
+    4
+  ],
+  "ViewRangeCells": 0,
+  "FixedAffixRules": [],
+  "Combat": {
+    "MaxHealth": 210000000000,
+    "MaxMana": 0,
+    "MinPhysicalAttack": 0,
+    "MaxPhysicalAttack": 0,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
+    "MinTrueDamage": 0,
+    "MaxTrueDamage": 0,
+    "DamageTakenLimit": 0,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 0,
+    "MinMagicDefense": 0,
+    "MaxMagicDefense": 0,
+    "Hit": 0,
+    "Dodge": 0,
+    "AttackType": "SingleTarget",
+    "AttackDistanceCells": 0,
+    "AttackAreaShape": "AroundSelf",
+    "AttackAreaRadiusCells": 0,
+    "AttackAreaHalfWidthCells": 0,
+    "AttackAreaAngleDegrees": 0,
+    "BaseAttackSpeed": 0,
+    "BaseCastSpeedPercent": 0
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 0,
+    "MoveIntervalMilliseconds": 0
+  },
+  "Reward": {
+    "IsRewardDisabled": true,
+    "Experience": 0,
+    "DropTableIds": [],
+    "DropRateBonus": {
+      "IsEnabled": false,
+      "Mode": "Add",
+      "Value": 0
+    }
+  }
+}

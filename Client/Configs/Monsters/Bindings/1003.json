@@ -1,0 +1,29 @@
+{
+  "MonsterId": 1003,
+  "DisplayName": "练功师",
+  "MonsterModelId": "MonsterModel0001",
+  "MoveIntervalMilliseconds": 0,
+  "NameStyle": {
+    "FontFamily": "NSimSun",
+    "FontSize": 16,
+    "ColorMode": "FixedColor",
+    "FixedColor": "#16FE25",
+    "GradientStartColor": "#ffffff",
+    "GradientMiddleColor": "#ffffff",
+    "GradientEndColor": "#ffffff",
+    "TextEffect": {
+      "IsOutlineEnabled": false,
+      "OutlineColor": "#00000080",
+      "OutlineWidth": 1,
+      "IsShadowEnabled": false,
+      "ShadowColor": "#000000",
+      "ShadowOffsetX": 1,
+      "ShadowOffsetY": 1,
+      "ShadowBlur": 0
+    }
+  },
+  "MonsterTypeIds": [
+    4
+  ],
+  "HealthBarConfigId": 0
+}
