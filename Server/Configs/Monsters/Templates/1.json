@@ -25,7 +25,7 @@
     "Hit": 10000,
     "Dodge": 0,
     "AttackType": "AreaAllTargets",
-    "AttackDistanceCells": 5,
+    "AttackDistanceCells": 1,
     "AttackAreaShape": "AroundSelf",
     "AttackAreaRadiusCells": 2,
     "AttackAreaHalfWidthCells": 0,
