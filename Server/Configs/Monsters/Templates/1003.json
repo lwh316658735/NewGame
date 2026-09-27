@@ -1,6 +1,7 @@
 {
   "MonsterId": 1003,
-  "DisplayName": "练功师",
+  "DisplayName": "<c:16FE25>练功师</>",
+  "MonsterModelId": "MonsterModel0001",
   "Level": 1,
   "MonsterTypeIds": [
     4

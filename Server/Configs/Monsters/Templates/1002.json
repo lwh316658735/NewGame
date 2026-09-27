@@ -1,6 +1,7 @@
 {
   "MonsterId": 1002,
   "DisplayName": "刀卫",
+  "MonsterModelId": "MonsterModel0001",
   "Level": 1,
   "MonsterTypeIds": [
     2,

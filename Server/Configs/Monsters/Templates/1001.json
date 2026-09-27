@@ -1,6 +1,7 @@
 {
   "MonsterId": 1001,
-  "DisplayName": "地狱守卫#2",
+  "DisplayName": "<c:7D1717>地狱守卫2</>",
+  "MonsterModelId": "MonsterModel0002",
   "Level": 1,
   "MonsterTypeIds": [
     1
@@ -17,7 +18,7 @@
     }
   ],
   "Combat": {
-    "MaxHealth": 100,
+    "MaxHealth": 10000,
     "MaxMana": 0,
     "MinPhysicalAttack": 200,
     "MaxPhysicalAttack": 300,

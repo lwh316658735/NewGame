@@ -1,6 +1,7 @@
 {
   "MonsterId": 2,
-  "DisplayName": "测试掉落怪物",
+  "DisplayName": "<c:EA3939>测试掉落怪物</>",
+  "MonsterModelId": "MonsterModel0002",
   "Level": 50,
   "MonsterTypeIds": [
     1
