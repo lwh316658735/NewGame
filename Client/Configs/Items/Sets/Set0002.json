@@ -1,0 +1,18 @@
+{
+  "SetId": "Set0002",
+  "DisplayName": "圣战套装2",
+  "Description": "",
+  "ItemIds": [
+    2,
+    4
+  ],
+  "SlotRestriction": true,
+  "BonusLevels": [
+    {
+      "RequiredCount": 2,
+      "AffixIds": [
+        1
+      ]
+    }
+  ]
+}

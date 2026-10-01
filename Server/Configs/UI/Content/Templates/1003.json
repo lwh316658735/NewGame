@@ -164,8 +164,204 @@
       "OpenTargetKind": "FixedScreen",
       "TargetFixedScreenId": "Guild",
       "CloseWindowAfterAction": true
+    },
+    {
+      "ActionId": "itemSetInspect",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetProcessOriginal",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetReturnOriginal",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetProcessModified",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetReturnModified",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetProcessEmpty",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetReturnEmpty",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetProcessRingA",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetReturnRingA",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetProcessRingB",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "itemSetReturnRingB",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1003",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
     }
   ],
   "Inputs": [],
-  "ItemSlots": []
+  "ItemSlots": [
+    {
+      "SlotId": "itemSetTest1003Original",
+      "DisplayName": "原样项链槽",
+      "SlotKind": "OperationInput",
+      "IsRequired": false,
+      "AllowedSlotLocations": [
+        "Necklace"
+      ],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [
+        "AttributeItem"
+      ],
+      "AllowedItemIds": [
+        4
+      ],
+      "IsEquipmentAppearanceVisible": false
+    },
+    {
+      "SlotId": "itemSetTest1003Modified",
+      "DisplayName": "修改项链槽",
+      "SlotKind": "OperationInput",
+      "IsRequired": false,
+      "AllowedSlotLocations": [
+        "Necklace"
+      ],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [
+        "AttributeItem"
+      ],
+      "AllowedItemIds": [
+        4
+      ],
+      "IsEquipmentAppearanceVisible": false
+    },
+    {
+      "SlotId": "itemSetTest1003Empty",
+      "DisplayName": "空套装项链槽",
+      "SlotKind": "OperationInput",
+      "IsRequired": false,
+      "AllowedSlotLocations": [
+        "Necklace"
+      ],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [
+        "AttributeItem"
+      ],
+      "AllowedItemIds": [
+        4
+      ],
+      "IsEquipmentAppearanceVisible": false
+    },
+    {
+      "SlotId": "itemSetTest1003RingA",
+      "DisplayName": "测试戒指甲槽",
+      "SlotKind": "OperationInput",
+      "IsRequired": false,
+      "AllowedSlotLocations": [
+        "Ring"
+      ],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [
+        "AttributeItem"
+      ],
+      "AllowedItemIds": [
+        1
+      ],
+      "IsEquipmentAppearanceVisible": false
+    },
+    {
+      "SlotId": "itemSetTest1003RingB",
+      "DisplayName": "测试戒指乙槽",
+      "SlotKind": "OperationInput",
+      "IsRequired": false,
+      "AllowedSlotLocations": [
+        "Ring"
+      ],
+      "AllowedEquipSides": [],
+      "AllowedItemKinds": [
+        "AttributeItem"
+      ],
+      "AllowedItemIds": [
+        1
+      ],
+      "IsEquipmentAppearanceVisible": false
+    }
+  ]
 }

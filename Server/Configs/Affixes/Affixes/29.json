@@ -1,0 +1,21 @@
+{
+  "AffixId": 29,
+  "DisplayName": "套装之",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Weapon"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnItemEquipmentChanged",
+      "ScriptId": "affix/29/OnItemEquipmentChanged",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}
