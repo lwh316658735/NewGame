@@ -21,6 +21,8 @@
   "Tiers": [
     {
       "TierId": "T1",
+
+      "Weight": 100,
       "DisplayName": "T1",
       "MinItemLevel": 0,
       "MaxItemLevel": 10,
@@ -34,6 +36,8 @@
     },
     {
       "TierId": "T2",
+
+      "Weight": 100,
       "DisplayName": "T2",
       "MinItemLevel": 11,
       "MaxItemLevel": 20,
@@ -47,6 +51,8 @@
     },
     {
       "TierId": "T3",
+
+      "Weight": 100,
       "DisplayName": "T3",
       "MinItemLevel": 21,
       "MaxItemLevel": 30,
@@ -60,6 +66,8 @@
     },
     {
       "TierId": "T4",
+
+      "Weight": 100,
       "DisplayName": "T4",
       "MinItemLevel": 31,
       "MaxItemLevel": 40,
@@ -73,6 +81,8 @@
     },
     {
       "TierId": "T5",
+
+      "Weight": 100,
       "DisplayName": "T5",
       "MinItemLevel": 41,
       "MaxItemLevel": 50,

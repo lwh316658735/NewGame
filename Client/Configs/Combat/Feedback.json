@@ -1,4 +1,336 @@
 {
+  "AbnormalStatuses": [
+    {
+      "Kind": "Paralysis",
+      "Tint": {
+        "Enabled": true,
+        "Color": "#A3A3A3",
+        "StrengthPercent": 10000,
+        "Priority": 30
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "麻痹",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Freeze",
+      "Tint": {
+        "Enabled": true,
+        "Color": "#4488FF",
+        "StrengthPercent": 10000,
+        "Priority": 40
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "冰冻",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Petrify",
+      "Tint": {
+        "Enabled": true,
+        "Color": "#A9A7A7",
+        "StrengthPercent": 10000,
+        "Priority": 50
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "石化",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Chill",
+      "Tint": {
+        "Enabled": true,
+        "Color": "#99EEFF",
+        "StrengthPercent": 10000,
+        "Priority": 10
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "冰缓",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Burn",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "燃烧",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Shock",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "感电",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Bleed",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": true,
+        "Mode": "StaticImage",
+        "AssetPath": "界面/buff/2.png",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": -23,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": true,
+        "IconAssetPath": "界面/buff/1.png",
+        "DisplayName": "流血",
+        "Description": "正在流血中",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Poison",
+      "Tint": {
+        "Enabled": true,
+        "Color": "#25A725",
+        "StrengthPercent": 10000,
+        "Priority": 20
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "中毒",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "ArmorBreak",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "破甲",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Weakness",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "虚弱",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    },
+    {
+      "Kind": "Cripple",
+      "Tint": {
+        "Enabled": false,
+        "Color": "#FFFFFF",
+        "StrengthPercent": 5000,
+        "Priority": 0
+      },
+      "World": {
+        "Enabled": false,
+        "Mode": "StaticImage",
+        "AssetPath": "",
+        "FrameAssetPaths": [],
+        "FramesPerSecond": 5,
+        "Anchor": "Head",
+        "Width": 32,
+        "Height": 32,
+        "OffsetX": 0,
+        "OffsetY": 0,
+        "Layer": "InFront"
+      },
+      "Buff": {
+        "Enabled": false,
+        "IconAssetPath": "",
+        "DisplayName": "残废",
+        "Description": "",
+        "Priority": 0,
+        "ShowRemainingTime": true
+      }
+    }
+  ],
   "Version": 7,
   "PlayerHealthBar": {
     "HealthBarConfigId": 1,

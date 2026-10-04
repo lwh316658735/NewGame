@@ -21,6 +21,8 @@
   "Tiers": [
     {
       "TierId": "T1",
+
+      "Weight": 100,
       "DisplayName": "T1",
       "MinItemLevel": 0,
       "MaxItemLevel": 0,
