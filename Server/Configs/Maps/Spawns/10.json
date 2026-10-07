@@ -6,7 +6,7 @@
       "SpawnGroupId": "InstanceTestSmall",
       "DisplayName": "副本测试三只小怪",
       "IsEnabled": true,
-      "Mode": "MaintainPopulation",
+      "Mode": "InstanceOnce",
       "Area": {
         "StartColumn": 8,
         "StartRow": 8,
@@ -27,7 +27,7 @@
       "SpawnGroupId": "InstanceTestBoss",
       "DisplayName": "副本测试首领",
       "IsEnabled": true,
-      "Mode": "MaintainPopulation",
+      "Mode": "InstanceOnce",
       "Area": {
         "StartColumn": 20,
         "StartRow": 20,
