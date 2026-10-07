@@ -1,0 +1,21 @@
+{
+  "AffixId": 30,
+  "DisplayName": "测试_攻击流血",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Unit"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnDamageDealt",
+      "ScriptId": "affix/30/OnDamageDealt",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

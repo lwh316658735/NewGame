@@ -1,0 +1,33 @@
+{
+  "AffixId": 39,
+  "DisplayName": "测试_装备_中毒",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Weapon",
+    "Shield",
+    "Armor",
+    "Helmet",
+    "Douli",
+    "Necklace",
+    "Bracelet",
+    "Ring",
+    "Belt",
+    "Boots",
+    "Medal",
+    "Title",
+    "Wing"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnDamageDealt",
+      "ScriptId": "affix/39/OnDamageDealt",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

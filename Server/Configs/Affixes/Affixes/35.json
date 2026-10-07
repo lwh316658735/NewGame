@@ -1,0 +1,33 @@
+{
+  "AffixId": 35,
+  "DisplayName": "测试_装备_冰缓",
+  "CategoryIds": [
+    0
+  ],
+  "AffixType": "Special",
+  "AllowedLocations": [
+    "Weapon",
+    "Shield",
+    "Armor",
+    "Helmet",
+    "Douli",
+    "Necklace",
+    "Bracelet",
+    "Ring",
+    "Belt",
+    "Boots",
+    "Medal",
+    "Title",
+    "Wing"
+  ],
+  "Tags": [],
+  "ScriptBindings": [
+    {
+      "Event": "OnDamageDealt",
+      "ScriptId": "affix/35/OnDamageDealt",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": []
+}

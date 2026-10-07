@@ -63,7 +63,12 @@
         "Value": 100
       }
     ],
-    "FixedAffixRules": []
+    "FixedAffixRules": [
+      {
+        "AffixId": 32,
+        "IsInactiveOnItem": false
+      }
+    ]
   },
   "ConsumableItem": null,
   "MaterialItem": null

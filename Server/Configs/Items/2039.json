@@ -1,0 +1,29 @@
+{
+  "ItemId": 2039,
+  "DisplayName": "测试_怪物_麻痹",
+  "Kind": "Consumable",
+  "MaxStack": 99,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 1000,
+    "SellPrice": 500
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 1,
+    "UseTargetType": "Self",
+    "TargetItemFilters": [],
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 0,
+    "MaxUseCount": 0,
+    "UseQuantity": 0,
+    "FixedAffixRules": [],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

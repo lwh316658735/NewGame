@@ -1,5 +1,51 @@
 {
   "AbnormalStatusRules": {
+    "ApplicationIntervals": [
+      {
+        "Kind": "Paralysis",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Freeze",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Petrify",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Chill",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Burn",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Shock",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Bleed",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Poison",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "ArmorBreak",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Weakness",
+        "IntervalMilliseconds": 1000
+      },
+      {
+        "Kind": "Cripple",
+        "IntervalMilliseconds": 1000
+      }
+    ],
     "Chill": {
       "TriggerChancePercent": 2000,
       "Curve": {
