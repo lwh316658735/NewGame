@@ -1,0 +1,48 @@
+{
+  "Version": 2,
+  "MapId": 10,
+  "SpawnGroups": [
+    {
+      "SpawnGroupId": "InstanceTestSmall",
+      "DisplayName": "副本测试三只小怪",
+      "IsEnabled": true,
+      "Mode": "MaintainPopulation",
+      "Area": {
+        "StartColumn": 8,
+        "StartRow": 8,
+        "EndColumn": 13,
+        "EndRow": 13
+      },
+      "InitialDelaySeconds": 30,
+      "IntervalSeconds": 1,
+      "Entries": [
+        {
+          "MonsterId": 1004,
+          "SpawnCount": 3,
+          "MaxAliveCount": 3
+        }
+      ]
+    },
+    {
+      "SpawnGroupId": "InstanceTestBoss",
+      "DisplayName": "副本测试首领",
+      "IsEnabled": true,
+      "Mode": "MaintainPopulation",
+      "Area": {
+        "StartColumn": 20,
+        "StartRow": 20,
+        "EndColumn": 22,
+        "EndRow": 22
+      },
+      "InitialDelaySeconds": 30,
+      "IntervalSeconds": 1,
+      "Entries": [
+        {
+          "MonsterId": 1005,
+          "SpawnCount": 1,
+          "MaxAliveCount": 1
+        }
+      ]
+    }
+  ]
+}

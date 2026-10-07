@@ -24819,6 +24819,43 @@
           "HoverSoundAssetPath": ""
         }
       }
+    },
+    {
+      "ControlId": "instanceTestMenuLink",
+      "DisplayName": "测试按钮1",
+      "Kind": "Link",
+      "X": 1833,
+      "Y": 887,
+      "Width": 78,
+      "Height": 25,
+      "Anchor": "TopLeft",
+      "IsHiddenInEditor": false,
+      "IsLockedInEditor": false,
+      "IsEquipmentAppearanceVisible": false,
+      "ZIndex": 30,
+      "Text": "<#u>测试按钮1</>",
+      "FontFamily": "NSimSun",
+      "FontSize": 16,
+      "TextColor": "#EEFF00",
+      "LinkHoverTextColor": "#FFFFFF",
+      "LinkPressedTextColor": "",
+      "TextPosition": "TopLeft",
+      "IsTextWrapEnabled": true,
+      "TextEffect": {
+        "IsOutlineEnabled": true,
+        "OutlineColor": "#00000080",
+        "OutlineWidth": 1,
+        "IsShadowEnabled": true,
+        "ShadowColor": "#000000",
+        "ShadowOffsetX": 1,
+        "ShadowOffsetY": 1,
+        "ShadowBlur": 0
+      },
+      "ButtonTriggerKind": "OpenTemplate",
+      "ButtonSystemEvent": "CloseWindow",
+      "ButtonOpenTargetKind": "ContentTemplate",
+      "ButtonTargetTemplateId": 1004,
+      "ButtonTargetFixedScreenId": "Inventory"
     }
   ]
 }
