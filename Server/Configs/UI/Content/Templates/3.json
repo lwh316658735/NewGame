@@ -7,7 +7,6 @@
   "Actions": [
     {
       "ActionId": "ok",
-      "DisplayName": "确定动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",

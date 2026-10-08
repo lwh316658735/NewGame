@@ -7,7 +7,6 @@
   "Actions": [
     {
       "ActionId": "cancel",
-      "DisplayName": "取消拆分动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
@@ -18,7 +17,6 @@
     },
     {
       "ActionId": "confirm",
-      "DisplayName": "确认拆分动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
@@ -29,7 +27,6 @@
     },
     {
       "ActionId": "decrease",
-      "DisplayName": "减少数量动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
@@ -40,7 +37,6 @@
     },
     {
       "ActionId": "increase",
-      "DisplayName": "增加数量动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",

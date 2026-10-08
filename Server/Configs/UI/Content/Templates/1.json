@@ -7,7 +7,6 @@
   "Actions": [
     {
       "ActionId": "cancel",
-      "DisplayName": "取消动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",
@@ -18,7 +17,6 @@
     },
     {
       "ActionId": "confirm",
-      "DisplayName": "确认动作",
       "Kind": "SystemEvent",
       "SystemEvent": "CloseWindow",
       "ScriptId": "",

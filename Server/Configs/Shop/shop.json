@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "Categories": [
+    {
+      "CategoryId": 1,
+      "DisplayName": "道具"
+    },
+    {
+      "CategoryId": 2,
+      "DisplayName": "材料"
+    }
+  ],
+  "Entries": [
+    {
+      "SaleEntryId": 2,
+      "ItemId": 1,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1000",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 3,
+      "ItemId": 2,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 4,
+      "ItemId": 5,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 5,
+      "ItemId": 6,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 6,
+      "ItemId": 7,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 7,
+      "ItemId": 2012,
+      "CategoryId": 2,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1000000000",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 8,
+      "ItemId": 2016,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 9,
+      "ItemId": 2024,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 99
+    },
+    {
+      "SaleEntryId": 10,
+      "ItemId": 2044,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 11,
+      "ItemId": 2049,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 12,
+      "ItemId": 2053,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 13,
+      "ItemId": 2018,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 14,
+      "ItemId": 2019,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    },
+    {
+      "SaleEntryId": 15,
+      "ItemId": 2013,
+      "CategoryId": 1,
+      "CurrencyId": "Gold",
+      "UnitPrice": "1",
+      "MaxPurchaseQuantity": 1
+    }
+  ],
+  "LastAllocatedCategoryId": 3,
+  "LastAllocatedSaleEntryId": 15
+}
