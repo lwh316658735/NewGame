@@ -99,7 +99,7 @@
     }
   },
   "BaseCombatAttributes": {
-    "MaxHealth": 50000000000,
+    "MaxHealth": 500,
     "MaxMana": 20,
     "MinPhysicalAttack": 0,
     "MaxPhysicalAttack": 0,
@@ -107,8 +107,8 @@
     "MaxMagicAttack": 0,
     "MinTaoismAttack": 0,
     "MaxTaoismAttack": 0,
-    "MinPhysicalDefense": 5000,
-    "MaxPhysicalDefense": 5000,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 0,
     "MinMagicDefense": 0,
     "MaxMagicDefense": 0,
     "Hit": 10000,

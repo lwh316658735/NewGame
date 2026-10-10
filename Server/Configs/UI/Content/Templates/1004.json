@@ -46,6 +46,16 @@
       "CloseWindowAfterAction": true
     },
     {
+      "ActionId": "instanceMapAffixLinkAction",
+      "Kind": "OpenTemplate",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 1005,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
       "ActionId": "instanceOpenLinkAction",
       "Kind": "Script",
       "SystemEvent": "CloseWindow",

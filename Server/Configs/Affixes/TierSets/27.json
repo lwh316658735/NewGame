@@ -1,0 +1,37 @@
+{
+  "TierSetId": 27,
+  "DisplayName": "地图庇护",
+  "Description": "地图词缀测试包固定T1，创建卷轴时固化数值。",
+  "AllowedLocations": [
+    "Map"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "生命加成",
+      "Description": "玩家进入地图时增加基础最大生命的{#0.}，离开地图后移除。",
+      "ValueKind": "Percent",
+      "PercentRandomStep": 100,
+      "InitialValue": 2000,
+      "ValueStep": 100
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "Weight": 100,
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 2000,
+          "MaxValue": 2000
+        }
+      ]
+    }
+  ]
+}

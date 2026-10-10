@@ -1,0 +1,51 @@
+{
+  "MonsterId": 1006,
+  "DisplayName": "地图词缀测试普通怪",
+  "MonsterModelId": "MonsterModel0002",
+  "Level": 1,
+  "MonsterTypeIds": [
+    5
+  ],
+  "ViewRangeCells": 7,
+  "FixedAffixRules": [],
+  "Combat": {
+    "MaxHealth": 5000,
+    "MaxMana": 0,
+    "MinPhysicalAttack": 1,
+    "MaxPhysicalAttack": 3,
+    "MinMagicAttack": 0,
+    "MaxMagicAttack": 0,
+    "MinTrueDamage": 0,
+    "MaxTrueDamage": 0,
+    "DamageTakenLimit": 0,
+    "MinPhysicalDefense": 0,
+    "MaxPhysicalDefense": 0,
+    "MinMagicDefense": 0,
+    "MaxMagicDefense": 0,
+    "Hit": 10000,
+    "Dodge": 0,
+    "AttackType": "SingleTarget",
+    "AttackDistanceCells": 1,
+    "AttackAreaShape": "AroundSelf",
+    "AttackAreaRadiusCells": 1,
+    "AttackAreaHalfWidthCells": 0,
+    "AttackAreaAngleDegrees": 90,
+    "BaseAttackSpeed": 10000,
+    "BaseCastSpeedPercent": 1000
+  },
+  "MovementTiming": {
+    "MoveActionMilliseconds": 600,
+    "MoveIntervalMilliseconds": 1200
+  },
+  "Reward": {
+    "IsRewardDisabled": false,
+    "Experience": 0,
+    "DropTableIds": [
+      "DropTable0002"
+    ],
+    "DropRateBonus": {
+      "IsEnabled": false,
+      "Value": 0
+    }
+  }
+}

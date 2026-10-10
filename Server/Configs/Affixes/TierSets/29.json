@@ -1,0 +1,37 @@
+{
+  "TierSetId": 29,
+  "DisplayName": "地图复苏",
+  "Description": "地图词缀测试包固定T1，创建卷轴时固化数值。",
+  "AllowedLocations": [
+    "Map"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "恢复生命",
+      "Description": "存活玩家在地图中每轮恢复{#0}点生命，不超过最大生命。至少间隔100毫秒，延迟不补跑，不复活玩家。",
+      "ValueKind": "Integer",
+      "PercentRandomStep": 100,
+      "InitialValue": 1,
+      "ValueStep": 1
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "Weight": 100,
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 1,
+          "MaxValue": 1
+        }
+      ]
+    }
+  ]
+}

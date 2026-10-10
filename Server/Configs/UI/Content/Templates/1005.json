@@ -1,0 +1,171 @@
+{
+  "Version": 2,
+  "TemplateId": 1005,
+  "DisplayName": "地图词缀测试",
+  "PresentationScriptId": "npc/ui/content/1005",
+  "HasPresentationScript": false,
+  "Actions": [
+    {
+      "ActionId": "mapAffixBackAction",
+      "Kind": "OpenTemplate",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 1004,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixBaselineAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": true
+    },
+    {
+      "ActionId": "mapAffixCloseAction",
+      "Kind": "SystemEvent",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixExitAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": true
+    },
+    {
+      "ActionId": "mapAffixGrant43Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant44Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant45Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant46Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant47Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant48Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant49Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrant50Action",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrantAllAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixGrantRandomAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixStatusAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    },
+    {
+      "ActionId": "mapAffixWoundAction",
+      "Kind": "Script",
+      "SystemEvent": "CloseWindow",
+      "ScriptId": "npc/ui/content/1005",
+      "TargetTemplateId": 0,
+      "OpenTargetKind": "ContentTemplate",
+      "TargetFixedScreenId": "Inventory",
+      "CloseWindowAfterAction": false
+    }
+  ],
+  "Inputs": [],
+  "ItemSlots": []
+}

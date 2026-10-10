@@ -1,0 +1,27 @@
+{
+  "AffixId": 50,
+  "DisplayName": "复苏",
+  "CategoryIds": [
+    16
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Map"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnMapTick",
+      "ScriptId": "affix/50/OnMapTick",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    29
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Version": 2,
+  "MapId": 11,
+  "SpawnGroups": [
+    {
+      "SpawnGroupId": "InstanceTestSmall",
+      "DisplayName": "词缀测试普通怪",
+      "IsEnabled": true,
+      "Mode": "InstanceOnce",
+      "Area": {
+        "StartColumn": 8,
+        "StartRow": 8,
+        "EndColumn": 13,
+        "EndRow": 13
+      },
+      "InitialDelaySeconds": 0,
+      "IntervalSeconds": 1,
+      "Entries": [
+        {
+          "MonsterId": 1006,
+          "SpawnCount": 3,
+          "MaxAliveCount": 3
+        }
+      ]
+    },
+    {
+      "SpawnGroupId": "InstanceTestBoss",
+      "DisplayName": "词缀测试首领",
+      "IsEnabled": true,
+      "Mode": "InstanceOnce",
+      "Area": {
+        "StartColumn": 20,
+        "StartRow": 20,
+        "EndColumn": 22,
+        "EndRow": 22
+      },
+      "InitialDelaySeconds": 0,
+      "IntervalSeconds": 1,
+      "Entries": [
+        {
+          "MonsterId": 1007,
+          "SpawnCount": 1,
+          "MaxAliveCount": 1
+        }
+      ]
+    }
+  ]
+}

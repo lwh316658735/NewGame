@@ -1,0 +1,63 @@
+{
+  "ItemId": 2062,
+  "DisplayName": "地图词缀测试卷轴_组合",
+  "Kind": "Consumable",
+  "MaxStack": 1,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 0,
+    "IsQualityEnabled": false,
+    "UseTargetType": "SelfWithConfirmation",
+    "TargetItemFilters": [],
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 0,
+    "MaxUseCount": 0,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 43,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 44,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 45,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 46,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 47,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 48,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 49,
+        "IsInactiveOnItem": false
+      },
+      {
+        "AffixId": 50,
+        "IsInactiveOnItem": false
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

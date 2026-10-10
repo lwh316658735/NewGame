@@ -1,0 +1,19 @@
+{
+  "TierSetId": 27,
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "ValueKind": "Percent",
+          "MinValue": 0.2,
+          "MaxValue": 0.2
+        }
+      ]
+    }
+  ]
+}

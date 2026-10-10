@@ -1,0 +1,37 @@
+{
+  "TierSetId": 24,
+  "DisplayName": "地图坚韧",
+  "Description": "地图词缀测试包固定T1，创建卷轴时固化数值。",
+  "AllowedLocations": [
+    "Map"
+  ],
+  "IsFixedTierMode": true,
+  "ItemLevelStep": 1,
+  "RangeDefinitions": [
+    {
+      "RangeId": 0,
+      "DisplayName": "生命加成",
+      "Description": "地图中所有刷怪组生成的怪物最大生命提高{#0.}。",
+      "ValueKind": "Percent",
+      "PercentRandomStep": 100,
+      "InitialValue": 5000,
+      "ValueStep": 100
+    }
+  ],
+  "Tiers": [
+    {
+      "TierId": "T1",
+      "Weight": 100,
+      "DisplayName": "T1",
+      "MinItemLevel": 0,
+      "MaxItemLevel": 0,
+      "RangeValues": [
+        {
+          "RangeId": 0,
+          "MinValue": 5000,
+          "MaxValue": 5000
+        }
+      ]
+    }
+  ]
+}

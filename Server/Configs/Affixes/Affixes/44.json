@@ -1,0 +1,27 @@
+{
+  "AffixId": 44,
+  "DisplayName": "兽群",
+  "CategoryIds": [
+    16
+  ],
+  "AffixType": "NormalPrefix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Map"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnMapCreated",
+      "ScriptId": "affix/44/OnMapCreated",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    23
+  ]
+}

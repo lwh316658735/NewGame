@@ -489,8 +489,13 @@
     "DeathTimeoutSeconds": 60,
     "EquippedItemDeathDropChance": 5000,
     "InventoryItemDeathDropChance": 5000,
-    "RespawnMapId": 1,
+    "RespawnMapId": 7,
     "RespawnSafeZoneId": "SafeZone0001"
+  },
+  "ReviveRules": {
+    "MaximumCount": 3,
+    "InitialCount": 1,
+    "CooldownSeconds": 30
   },
   "LeechRecoveryDefaults": {
     "DefaultMode": "Periodic",

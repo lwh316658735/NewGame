@@ -1,0 +1,35 @@
+{
+  "ItemId": 2059,
+  "DisplayName": "地图词缀测试卷轴_庇护",
+  "Kind": "Consumable",
+  "MaxStack": 1,
+  "SocketCountMin": 0,
+  "SocketCountMax": 0,
+  "Price": {
+    "CurrencyId": "Gold",
+    "BuyPrice": 0,
+    "SellPrice": 0
+  },
+  "Weight": 1,
+  "IsDiscardProhibited": false,
+  "IsTradeProhibited": false,
+  "AttributeItem": null,
+  "ConsumableItem": {
+    "DefaultItemLevel": 0,
+    "IsQualityEnabled": false,
+    "UseTargetType": "SelfWithConfirmation",
+    "TargetItemFilters": [],
+    "UseCooldownGroupId": "",
+    "UseCooldownMilliseconds": 0,
+    "MaxUseCount": 0,
+    "UseQuantity": 1,
+    "FixedAffixRules": [
+      {
+        "AffixId": 48,
+        "IsInactiveOnItem": false
+      }
+    ],
+    "UseConditions": []
+  },
+  "MaterialItem": null
+}

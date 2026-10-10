@@ -1,0 +1,27 @@
+{
+  "AffixId": 49,
+  "DisplayName": "契约",
+  "CategoryIds": [
+    16
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Map"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnMapTransition",
+      "ScriptId": "affix/49/OnMapTransition",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    28
+  ]
+}

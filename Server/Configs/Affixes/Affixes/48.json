@@ -1,0 +1,27 @@
+{
+  "AffixId": 48,
+  "DisplayName": "庇护",
+  "CategoryIds": [
+    16
+  ],
+  "AffixType": "NormalSuffix",
+  "Weight": 100,
+  "AllowedLocations": [
+    "Map"
+  ],
+  "Tags": [],
+  "ConflictGroup": 0,
+  "StackPolicy": "Unique",
+  "MaxStacks": 1,
+  "ScriptBindings": [
+    {
+      "Event": "OnMapTransition",
+      "ScriptId": "affix/48/OnMapTransition",
+      "Priority": 0,
+      "IsEnabled": true
+    }
+  ],
+  "TierSetIds": [
+    27
+  ]
+}

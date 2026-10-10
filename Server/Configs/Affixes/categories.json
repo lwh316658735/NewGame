@@ -63,6 +63,10 @@
     {
       "CategoryId": 15,
       "DisplayName": "<c:FB24FF>属性</>"
+    },
+    {
+      "CategoryId": 16,
+      "DisplayName": "地图"
     }
   ]
 }
