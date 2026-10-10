@@ -45,7 +45,6 @@
     ],
     "DropRateBonus": {
       "IsEnabled": true,
-      "Mode": "Add",
       "Value": 0
     }
   }

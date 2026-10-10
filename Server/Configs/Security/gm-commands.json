@@ -317,7 +317,8 @@
       "CommandId": "currency.give",
       "DisplayName": "给予货币",
       "Aliases": [
-        "@给予货币"
+        "@给予货币",
+        "@gq"
       ],
       "MinimumPermissionLevel": 4,
       "AuditLevel": "Sensitive",

@@ -16,6 +16,7 @@
   "AttributeItem": null,
   "ConsumableItem": {
     "DefaultItemLevel": 0,
+    "IsQualityEnabled": false,
     "UseTargetType": "OtherInventoryItem",
     "TargetItemFilters": [
       {

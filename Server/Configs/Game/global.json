@@ -108,6 +108,7 @@
     "MapAoiRadiusCells": 48,
     "AllowRunThroughPlayers": false,
     "AllowRunThroughMonsters": true,
+    "AllowDiscardInSafeZone": true,
     "AllowLowerItemAffixTiers": false,
     "HitReactionMode": "Disabled",
     "HitReactionDurationMilliseconds": 500,

@@ -45,8 +45,7 @@
     ],
     "DropRateBonus": {
       "IsEnabled": true,
-      "Mode": "Multiply",
-      "Value": 50000
+      "Value": 40000
     }
   }
 }

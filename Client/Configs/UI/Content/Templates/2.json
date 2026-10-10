@@ -505,7 +505,7 @@
       "LinkPressedTextColor": "",
       "TextPosition": "MiddleCenter",
       "IsTextWrapEnabled": true,
-      "TextLineSpacing": 0,
+      "TextLineSpacing": 10,
       "TextPaddingLeft": 0,
       "TextPaddingTop": 0,
       "TextPaddingRight": 0,
