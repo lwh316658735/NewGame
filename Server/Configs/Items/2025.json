@@ -16,6 +16,7 @@
   "AttributeItem": {
     "DefaultItemLevel": 60,
     "Upgrade": {
+      "UseCustomUpgrade": false,
       "Enabled": false,
       "InitialLevel": 0,
       "InitialExperience": 0,
