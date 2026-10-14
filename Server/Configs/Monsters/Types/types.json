@@ -2,8 +2,8 @@
   "MonsterTypes": [
     {
       "TypeId": 1,
-      "DisplayName": "Boss",
-      "TypeLevel": 4,
+      "DisplayName": "首领",
+      "TypeLevel": 5,
       "IsHumanoid": false,
       "HealthBarConfigId": 1002
     },
@@ -17,7 +17,7 @@
     {
       "TypeId": 3,
       "DisplayName": "人形",
-      "TypeLevel": 3,
+      "TypeLevel": 4,
       "IsHumanoid": true,
       "HealthBarConfigId": 1001
     },
@@ -31,6 +31,216 @@
     {
       "TypeId": 5,
       "DisplayName": "普通",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 6,
+      "DisplayName": "精英",
+      "TypeLevel": 4,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 7,
+      "DisplayName": "世界首领",
+      "TypeLevel": 6,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1002
+    },
+    {
+      "TypeId": 8,
+      "DisplayName": "动物",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 9,
+      "DisplayName": "人类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 10,
+      "DisplayName": "虫类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 11,
+      "DisplayName": "植物",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 12,
+      "DisplayName": "亡灵",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 13,
+      "DisplayName": "恶魔",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 14,
+      "DisplayName": "天使",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 15,
+      "DisplayName": "元素",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 16,
+      "DisplayName": "构装",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 17,
+      "DisplayName": "兽类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 18,
+      "DisplayName": "鸟类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 19,
+      "DisplayName": "爬行类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 20,
+      "DisplayName": "水生类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 21,
+      "DisplayName": "昆虫",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 22,
+      "DisplayName": "蛛类",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 23,
+      "DisplayName": "僵尸",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 24,
+      "DisplayName": "骷髅",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 25,
+      "DisplayName": "幽灵",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 26,
+      "DisplayName": "小恶魔",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 27,
+      "DisplayName": "魅魔",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 28,
+      "DisplayName": "恶魔兽",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 29,
+      "DisplayName": "战斗天使",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 30,
+      "DisplayName": "堕落天使",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 31,
+      "DisplayName": "火元素",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 32,
+      "DisplayName": "冰元素",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 33,
+      "DisplayName": "雷元素",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 34,
+      "DisplayName": "傀儡",
+      "TypeLevel": 1,
+      "IsHumanoid": false,
+      "HealthBarConfigId": 1001
+    },
+    {
+      "TypeId": 35,
+      "DisplayName": "机械",
       "TypeLevel": 1,
       "IsHumanoid": false,
       "HealthBarConfigId": 1001
