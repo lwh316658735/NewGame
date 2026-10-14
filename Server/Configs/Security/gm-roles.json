@@ -1,13 +1,1 @@
-{
-  "Accounts": [
-    {
-      "AccountName": "316658735",
-      "Characters": [
-        {
-          "CharacterName": "超级小霸王",
-          "PermissionLevel": 7
-        }
-      ]
-    }
-  ]
-}
+{"_":1,"a":[{"a":"316658735","b":[{"a":"超级小霸王","b":7}]}]}

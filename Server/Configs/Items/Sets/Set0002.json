@@ -1,18 +1,1 @@
-{
-  "SetId": "Set0002",
-  "DisplayName": "圣战套装2",
-  "Description": "",
-  "ItemIds": [
-    2,
-    4
-  ],
-  "SlotRestriction": true,
-  "BonusLevels": [
-    {
-      "RequiredCount": 2,
-      "AffixIds": [
-        1
-      ]
-    }
-  ]
-}
+{"_":1,"a":"Set0002","b":"圣战套装2","c":"","d":[2,4],"e":1,"f":[{"a":2,"b":[1]}]}

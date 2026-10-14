@@ -1,9 +1,1 @@
-{
-  "NpcId": 2,
-  "DisplayName": "红娘",
-  "InteractionKind": "ContentTemplate",
-  "InteractionDistanceCells": 10,
-  "ContentTemplate": {
-    "TemplateId": 1002
-  }
-}
+{"_":1,"a":2,"b":"红娘","c":2,"d":10,"e":{"a":1002}}

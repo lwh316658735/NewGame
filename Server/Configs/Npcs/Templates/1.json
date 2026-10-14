@@ -1,9 +1,1 @@
-{
-  "NpcId": 1,
-  "DisplayName": "传送小姐姐008",
-  "InteractionKind": "ContentTemplate",
-  "InteractionDistanceCells": 15,
-  "ContentTemplate": {
-    "TemplateId": 1001
-  }
-}
+{"_":1,"a":1,"b":"传送小姐姐008","c":2,"d":15,"e":{"a":1001}}

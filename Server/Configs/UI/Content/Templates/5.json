@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 5,
-  "DisplayName": "物品信息框",
-  "PresentationScriptId": "system/ui/content/5",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":5,"c":"物品信息框","d":"system/ui/content/5","e":0,"f":[],"g":[],"h":[]}

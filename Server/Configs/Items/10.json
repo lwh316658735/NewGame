@@ -1,17 +1,1 @@
-{
-  "ItemId": 10,
-  "DisplayName": "<c:FF0000,00FF00,0000FF#s:20#i#g>物品6</>",
-  "Kind": "Material",
-  "MaxStack": 99,
-  "Price": {
-    "CurrencyId": "Gold",
-    "BuyPrice": 0,
-    "SellPrice": 0
-  },
-  "Weight": 2,
-  "IsDiscardProhibited": false,
-  "IsTradeProhibited": true,
-  "AttributeItem": null,
-  "ConsumableItem": null,
-  "MaterialItem": {}
-}
+{"_":1,"a":10,"b":"<c:FF0000,00FF00,0000FF#s:20#i#g>物品6</>","c":2,"d":99,"g":{"a":"Gold","b":0,"c":0},"h":2,"i":0,"j":1,"k":null,"l":null,"m":{}}

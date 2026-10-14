@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 4,
-  "DisplayName": "物品叠加提示框",
-  "PresentationScriptId": "system/ui/content/4",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":4,"c":"物品叠加提示框","d":"system/ui/content/4","e":0,"f":[],"g":[],"h":[]}

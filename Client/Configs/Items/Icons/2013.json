@@ -1,11 +1,1 @@
-{
-  "ItemId": 2013,
-  "InventoryIconAssetPath": "物品/背包物品图标/000599.png",
-  "ItemSlotResource": {
-    "FramesPerSecond": 5,
-    "FrameAssetPaths": [
-      "角色/衣服内观/000599.png"
-    ]
-  },
-  "GroundIconAssetPath": "物品/背包物品图标/000600.png"
-}
+{"_":1,"a":2013,"b":"物品/背包物品图标/000599.png","c":{"a":5,"b":["角色/衣服内观/000599.png"]},"d":"物品/背包物品图标/000600.png"}

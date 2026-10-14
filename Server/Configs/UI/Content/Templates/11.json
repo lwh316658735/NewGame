@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 11,
-  "DisplayName": "控件悬停说明框",
-  "PresentationScriptId": "system/ui/content/11",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":11,"c":"控件悬停说明框","d":"system/ui/content/11","e":0,"f":[],"g":[],"h":[]}

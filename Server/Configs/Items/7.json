@@ -1,17 +1,1 @@
-{
-  "ItemId": 7,
-  "DisplayName": "物品3",
-  "Kind": "Material",
-  "MaxStack": 99,
-  "Price": {
-    "CurrencyId": "Gold",
-    "BuyPrice": 0,
-    "SellPrice": 0
-  },
-  "Weight": 2,
-  "IsDiscardProhibited": false,
-  "IsTradeProhibited": false,
-  "AttributeItem": null,
-  "ConsumableItem": null,
-  "MaterialItem": {}
-}
+{"_":1,"a":7,"b":"物品3","c":2,"d":99,"g":{"a":"Gold","b":0,"c":0},"h":2,"i":0,"j":0,"k":null,"l":null,"m":{}}

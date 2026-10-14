@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 6,
-  "DisplayName": "技能信息框",
-  "PresentationScriptId": "system/ui/content/6",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":6,"c":"技能信息框","d":"system/ui/content/6","e":0,"f":[],"g":[],"h":[]}

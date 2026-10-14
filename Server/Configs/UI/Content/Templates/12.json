@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 12,
-  "DisplayName": "挂机中",
-  "PresentationScriptId": "system/ui/content/12",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":12,"c":"挂机中","d":"system/ui/content/12","e":0,"f":[],"g":[],"h":[]}

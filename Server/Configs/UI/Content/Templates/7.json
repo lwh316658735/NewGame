@@ -1,10 +1,1 @@
-{
-  "Version": 2,
-  "TemplateId": 7,
-  "DisplayName": "Buff 说明框",
-  "PresentationScriptId": "system/ui/content/7",
-  "HasPresentationScript": false,
-  "Actions": [],
-  "Inputs": [],
-  "ItemSlots": []
-}
+{"_":1,"a":2,"b":7,"c":"Buff 说明框","d":"system/ui/content/7","e":0,"f":[],"g":[],"h":[]}

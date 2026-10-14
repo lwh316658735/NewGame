@@ -1,10 +1,1 @@
-{
-  "ItemId": 2017,
-  "ItemSlotResource": {
-    "FramesPerSecond": 5,
-    "FrameAssetPaths": [
-      "角色/物品内观/002080.png"
-    ]
-  },
-  "InventoryIconAssetPath": "角色/物品内观/002080.png"
-}
+{"_":1,"a":2017,"c":{"a":5,"b":["角色/物品内观/002080.png"]},"b":"角色/物品内观/002080.png"}
