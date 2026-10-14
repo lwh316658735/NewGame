@@ -103,7 +103,7 @@
     }
   },
   "GameRules": {
-    "MaxCharacterLevel": 80,
+    "MaxCharacterLevel": 100,
     "MaxRebirthLevel": 12,
     "MapAoiRadiusCells": 48,
     "AllowRunThroughPlayers": false,
@@ -409,35 +409,115 @@
       },
       {
         "Level": 72,
-        "RequiredExperience": "36500"
+        "RequiredExperience": "3650"
       },
       {
         "Level": 73,
-        "RequiredExperience": "37000"
+        "RequiredExperience": "3700"
       },
       {
         "Level": 74,
-        "RequiredExperience": "37500"
+        "RequiredExperience": "3750"
       },
       {
         "Level": 75,
-        "RequiredExperience": "38000"
+        "RequiredExperience": "3800"
       },
       {
         "Level": 76,
-        "RequiredExperience": "38500"
+        "RequiredExperience": "3850"
       },
       {
         "Level": 77,
-        "RequiredExperience": "39000"
+        "RequiredExperience": "3900"
       },
       {
         "Level": 78,
-        "RequiredExperience": "39500"
+        "RequiredExperience": "3950"
       },
       {
         "Level": 79,
-        "RequiredExperience": "40000"
+        "RequiredExperience": "4000"
+      },
+      {
+        "Level": 80,
+        "RequiredExperience": "4050"
+      },
+      {
+        "Level": 81,
+        "RequiredExperience": "4100"
+      },
+      {
+        "Level": 82,
+        "RequiredExperience": "4150"
+      },
+      {
+        "Level": 83,
+        "RequiredExperience": "4200"
+      },
+      {
+        "Level": 84,
+        "RequiredExperience": "4250"
+      },
+      {
+        "Level": 85,
+        "RequiredExperience": "4300"
+      },
+      {
+        "Level": 86,
+        "RequiredExperience": "4350"
+      },
+      {
+        "Level": 87,
+        "RequiredExperience": "4400"
+      },
+      {
+        "Level": 88,
+        "RequiredExperience": "4450"
+      },
+      {
+        "Level": 89,
+        "RequiredExperience": "4500"
+      },
+      {
+        "Level": 90,
+        "RequiredExperience": "4550"
+      },
+      {
+        "Level": 91,
+        "RequiredExperience": "4600"
+      },
+      {
+        "Level": 92,
+        "RequiredExperience": "4650"
+      },
+      {
+        "Level": 93,
+        "RequiredExperience": "4700"
+      },
+      {
+        "Level": 94,
+        "RequiredExperience": "4750"
+      },
+      {
+        "Level": 95,
+        "RequiredExperience": "4800"
+      },
+      {
+        "Level": 96,
+        "RequiredExperience": "4850"
+      },
+      {
+        "Level": 97,
+        "RequiredExperience": "4900"
+      },
+      {
+        "Level": 98,
+        "RequiredExperience": "4950"
+      },
+      {
+        "Level": 99,
+        "RequiredExperience": "5000"
       }
     ],
     "HighLevelFormula": {
@@ -474,9 +554,9 @@
   "CharacterCreation": {
     "DefaultLevel": 1,
     "DefaultRebirthLevel": 0,
-    "DefaultMapId": 7,
-    "DefaultSpawnColumn": 71,
-    "DefaultSpawnRow": 73,
+    "DefaultMapId": 313,
+    "DefaultSpawnColumn": 228,
+    "DefaultSpawnRow": 209,
     "DefaultAttackMode": "Peace"
   },
   "DeathRespawnRules": {
@@ -489,7 +569,7 @@
     "DeathTimeoutSeconds": 60,
     "EquippedItemDeathDropChance": 5000,
     "InventoryItemDeathDropChance": 5000,
-    "RespawnMapId": 7,
+    "RespawnMapId": 313,
     "RespawnSafeZoneId": "SafeZone0001"
   },
   "ReviveRules": {

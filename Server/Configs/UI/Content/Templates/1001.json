@@ -7,7 +7,6 @@
   "Actions": [
     {
       "ActionId": "action",
-      "DisplayName": "链接2动作",
       "Kind": "Script",
       "SystemEvent": "CloseWindow",
       "ScriptId": "npc/ui/content/1001",

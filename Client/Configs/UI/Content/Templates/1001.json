@@ -3,9 +3,17 @@
   "TemplateId": 1001,
   "DisplayName": "NPC _传送小姐姐",
   "DisplayMode": "FixedPosition",
+  "EditorPreviewItemKind": "AttributeItem",
+  "ItemSocketEmptyImageAssetPath": "",
+  "ItemSocketEmptyImageWidth": 0,
+  "ItemSocketEmptyImageHeight": 0,
+  "ItemSocketEmptyImageAlignment": "Middle",
+  "EditorPreviewSocketCapacity": 0,
+  "EditorPreviewSocketAffixes": [],
   "HasPresentationScript": false,
   "Controls": [
     {
+      "ItemUpgradeControls": [],
       "ControlId": "image",
       "DisplayName": "图片1",
       "Kind": "Image",
@@ -27,6 +35,7 @@
       "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextLineSpacing": 0,
       "TextPaddingLeft": 0,
       "TextPaddingTop": 0,
       "TextPaddingRight": 0,
@@ -41,6 +50,10 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
+      "AssetPath": "界面/新界面素材/002230.png",
+      "AssetPaths": [
+        "界面/新界面素材/002230.png"
+      ],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -58,6 +71,7 @@
       "ImageBorderColor": "",
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
+      "ItemInfoTooltipModulePosition": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
       "ItemInfoTooltipModulePaddingLeft": 12,
       "ItemInfoTooltipModulePaddingTop": 8,
@@ -77,6 +91,9 @@
       "GroundItemStackTooltipIconVisible": false,
       "GroundItemStackTooltipIconSize": 20,
       "GroundItemStackTooltipIconFillMode": "Fit",
+      "GroundItemStackTooltipPreviewIconAssetPath": "",
+      "GroundItemStackTooltipIconEffectAssetPath": "",
+      "GroundItemStackTooltipIconEffectAssetPaths": [],
       "GroundItemStackTooltipIconEffectFramesPerSecond": 4,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
       "GroundItemStackTooltipPaddingX": 8,
@@ -100,7 +117,12 @@
       "DefaultInputText": "",
       "ActionId": "",
       "ActionKind": "SystemEvent",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": "",
+      "IsHoverTooltipEnabled": false,
+      "HoverTooltipText": "",
       "ButtonDefaultStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -114,10 +136,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -131,10 +153,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -148,8 +170,7 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -158,6 +179,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
       "SlotId": "",
+      "ConsumableShortcutKey": "None",
       "ItemSlotResourceWidth": 0,
       "ItemSlotResourceHeight": 0,
       "ItemSlotResourceOffsetX": 0,
@@ -203,6 +225,8 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
+          "AssetPath": "",
+          "AssetPaths": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -220,22 +244,12 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0,
-          "AssetPath": "",
-          "AssetPaths": []
+          "DecorationInsetBottom": 0
         }
-      },
-      "AssetPath": "界面/新界面素材/002230.png",
-      "AssetPaths": [
-        "界面/新界面素材/002230.png"
-      ],
-      "GroundItemStackTooltipPreviewIconAssetPath": "",
-      "GroundItemStackTooltipIconEffectAssetPath": "",
-      "GroundItemStackTooltipIconEffectAssetPaths": [],
-      "ClickSoundAssetPath": "",
-      "HoverSoundAssetPath": ""
+      }
     },
     {
+      "ItemUpgradeControls": [],
       "ControlId": "link",
       "DisplayName": "传送到新地图",
       "Kind": "Link",
@@ -257,6 +271,7 @@
       "LinkPressedTextColor": "",
       "TextPosition": "TopLeft",
       "IsTextWrapEnabled": true,
+      "TextLineSpacing": 0,
       "TextPaddingLeft": 0,
       "TextPaddingTop": 0,
       "TextPaddingRight": 0,
@@ -271,6 +286,8 @@
         "ShadowOffsetY": 1,
         "ShadowBlur": 0
       },
+      "AssetPath": "",
+      "AssetPaths": [],
       "ImageFramesPerSecond": 4,
       "ImageFillMode": "Fit",
       "ImageNineSlice": {
@@ -288,6 +305,7 @@
       "ImageBorderColor": "",
       "ImageBorderWidth": 0,
       "ImageCornerRadius": 0,
+      "ItemInfoTooltipModulePosition": 0,
       "ItemInfoTooltipModuleMaxWidth": 328,
       "ItemInfoTooltipModulePaddingLeft": 12,
       "ItemInfoTooltipModulePaddingTop": 8,
@@ -307,6 +325,9 @@
       "GroundItemStackTooltipIconVisible": false,
       "GroundItemStackTooltipIconSize": 20,
       "GroundItemStackTooltipIconFillMode": "Fit",
+      "GroundItemStackTooltipPreviewIconAssetPath": "",
+      "GroundItemStackTooltipIconEffectAssetPath": "",
+      "GroundItemStackTooltipIconEffectAssetPaths": [],
       "GroundItemStackTooltipIconEffectFramesPerSecond": 4,
       "GroundItemStackTooltipIconEffectLayer": "Foreground",
       "GroundItemStackTooltipPaddingX": 8,
@@ -330,7 +351,12 @@
       "DefaultInputText": "",
       "ActionId": "action",
       "ActionKind": "Script",
+      "ClickSoundAssetPath": "",
+      "HoverSoundAssetPath": "",
+      "IsHoverTooltipEnabled": false,
+      "HoverTooltipText": "",
       "ButtonDefaultStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -344,10 +370,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonHoverStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -361,10 +387,10 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonPressedStateStyle": {
+        "AssetPath": "",
         "NineSlice": {
           "IsEnabled": false,
           "Left": 0,
@@ -378,8 +404,7 @@
         "ImageCornerRadius": 0,
         "HotAreaFeedbackColor": "",
         "HotAreaFeedbackOpacity": null,
-        "HotAreaFeedbackFeatherRadius": null,
-        "AssetPath": ""
+        "HotAreaFeedbackFeatherRadius": null
       },
       "ButtonClickAreaX": 0,
       "ButtonClickAreaY": 0,
@@ -388,6 +413,7 @@
       "ButtonClickAreaCornerRadius": 0,
       "InputId": "",
       "SlotId": "",
+      "ConsumableShortcutKey": "None",
       "ItemSlotResourceWidth": 0,
       "ItemSlotResourceHeight": 0,
       "ItemSlotResourceOffsetX": 0,
@@ -433,6 +459,8 @@
             "ShadowBlur": 0
           },
           "BackgroundColor": "#10182099",
+          "AssetPath": "",
+          "AssetPaths": [],
           "ImageFramesPerSecond": 4,
           "ImageFillMode": "Fit",
           "ImageNineSlice": {
@@ -450,18 +478,9 @@
           "DecorationInsetLeft": 0,
           "DecorationInsetTop": 0,
           "DecorationInsetRight": 0,
-          "DecorationInsetBottom": 0,
-          "AssetPath": "",
-          "AssetPaths": []
+          "DecorationInsetBottom": 0
         }
-      },
-      "AssetPath": "",
-      "AssetPaths": [],
-      "GroundItemStackTooltipPreviewIconAssetPath": "",
-      "GroundItemStackTooltipIconEffectAssetPath": "",
-      "GroundItemStackTooltipIconEffectAssetPaths": [],
-      "ClickSoundAssetPath": "",
-      "HoverSoundAssetPath": ""
+      }
     }
   ]
 }
