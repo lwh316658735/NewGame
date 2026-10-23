@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "Groups": [
+    {
+      "GroupId": 1,
+      "DisplayName": "\u5E9F\u77FF\u5C71\u53E3_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1042,
+          "Quantity": 200
+        },
+        {
+          "MonsterId": 1044,
+          "Quantity": 200
+        },
+        {
+          "MonsterId": 1048,
+          "Quantity": 200
+        }
+      ]
+    },
+    {
+      "GroupId": 2,
+      "DisplayName": "\u8352\u575F\u5761\u5730_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1043,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1045,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1046,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1047,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1050,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1063,
+          "Quantity": 300
+        }
+      ]
+    },
+    {
+      "GroupId": 3,
+      "DisplayName": "\u8352\u575F\u5761\u5730_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1065,
+          "Quantity": 12
+        }
+      ]
+    },
+    {
+      "GroupId": 4,
+      "DisplayName": "\u5E9F\u5F03\u77FF\u4E95_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1042,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1044,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1048,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1049,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1051,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1053,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1056,
+          "Quantity": 300
+        }
+      ]
+    },
+    {
+      "GroupId": 5,
+      "DisplayName": "\u5E9F\u5F03\u77FF\u4E95_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1069,
+          "Quantity": 12
+        }
+      ]
+    },
+    {
+      "GroupId": 6,
+      "DisplayName": "\u5E9F\u5F03\u77FF\u4E95_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1072,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 7,
+      "DisplayName": "\u5893\u56ED\u6DF1\u5904_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1050,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1052,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1054,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1055,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1060,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1061,
+          "Quantity": 350
+        },
+        {
+          "MonsterId": 1064,
+          "Quantity": 350
+        }
+      ]
+    },
+    {
+      "GroupId": 8,
+      "DisplayName": "\u5893\u56ED\u6DF1\u5904_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1067,
+          "Quantity": 10
+        },
+        {
+          "MonsterId": 1071,
+          "Quantity": 10
+        }
+      ]
+    },
+    {
+      "GroupId": 9,
+      "DisplayName": "\u5893\u56ED\u6DF1\u5904_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1073,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 10,
+      "DisplayName": "\u53E4\u5893\u752C\u9053_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1045,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1047,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1057,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1058,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1059,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1062,
+          "Quantity": 130
+        },
+        {
+          "MonsterId": 1064,
+          "Quantity": 130
+        }
+      ]
+    },
+    {
+      "GroupId": 11,
+      "DisplayName": "\u53E4\u5893\u752C\u9053_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1066,
+          "Quantity": 6
+        },
+        {
+          "MonsterId": 1068,
+          "Quantity": 6
+        },
+        {
+          "MonsterId": 1070,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 12,
+      "DisplayName": "\u767D\u9AA8\u5893\u5BA4_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1057,
+          "Quantity": 60
+        },
+        {
+          "MonsterId": 1058,
+          "Quantity": 60
+        },
+        {
+          "MonsterId": 1059,
+          "Quantity": 60
+        }
+      ]
+    },
+    {
+      "GroupId": 13,
+      "DisplayName": "\u767D\u9AA8\u5893\u5BA4_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1068,
+          "Quantity": 3
+        }
+      ]
+    },
+    {
+      "GroupId": 14,
+      "DisplayName": "\u767D\u9AA8\u5893\u5BA4_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1074,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 15,
+      "DisplayName": "\u8352\u91CE\u8425\u5730_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1075,
+          "Quantity": 720
+        },
+        {
+          "MonsterId": 1076,
+          "Quantity": 720
+        },
+        {
+          "MonsterId": 1077,
+          "Quantity": 720
+        },
+        {
+          "MonsterId": 1078,
+          "Quantity": 720
+        },
+        {
+          "MonsterId": 1081,
+          "Quantity": 720
+        }
+      ]
+    },
+    {
+      "GroupId": 16,
+      "DisplayName": "\u8352\u91CE\u8425\u5730_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1099,
+          "Quantity": 24
+        }
+      ]
+    },
+    {
+      "GroupId": 17,
+      "DisplayName": "\u4FEE\u9662\u5916\u5EAD_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1080,
+          "Quantity": 60
+        },
+        {
+          "MonsterId": 1085,
+          "Quantity": 60
+        },
+        {
+          "MonsterId": 1086,
+          "Quantity": 60
+        },
+        {
+          "MonsterId": 1092,
+          "Quantity": 60
+        }
+      ]
+    },
+    {
+      "GroupId": 18,
+      "DisplayName": "\u4FEE\u9662\u5916\u5EAD_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1102,
+          "Quantity": 4
+        }
+      ]
+    },
+    {
+      "GroupId": 19,
+      "DisplayName": "\u8840\u8A93\u796D\u573A_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1076,
+          "Quantity": 260
+        },
+        {
+          "MonsterId": 1079,
+          "Quantity": 260
+        },
+        {
+          "MonsterId": 1083,
+          "Quantity": 260
+        },
+        {
+          "MonsterId": 1097,
+          "Quantity": 260
+        }
+      ]
+    },
+    {
+      "GroupId": 20,
+      "DisplayName": "\u8840\u8A93\u796D\u573A_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1098,
+          "Quantity": 6
+        },
+        {
+          "MonsterId": 1100,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 21,
+      "DisplayName": "\u8840\u8A93\u796D\u573A_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1105,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 22,
+      "DisplayName": "\u5E9F\u5F03\u949F\u697C_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1084,
+          "Quantity": 30
+        },
+        {
+          "MonsterId": 1088,
+          "Quantity": 30
+        },
+        {
+          "MonsterId": 1089,
+          "Quantity": 30
+        },
+        {
+          "MonsterId": 1092,
+          "Quantity": 30
+        }
+      ]
+    },
+    {
+      "GroupId": 23,
+      "DisplayName": "\u5E9F\u5F03\u949F\u697C_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1102,
+          "Quantity": 3
+        }
+      ]
+    },
+    {
+      "GroupId": 24,
+      "DisplayName": "\u5E9F\u5F03\u949F\u697C_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1106,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 25,
+      "DisplayName": "\u4FEE\u9662\u5730\u7A96_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1082,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1087,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1090,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1091,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1093,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1094,
+          "Quantity": 20
+        },
+        {
+          "MonsterId": 1095,
+          "Quantity": 20
+        }
+      ]
+    },
+    {
+      "GroupId": 26,
+      "DisplayName": "\u4FEE\u9662\u5730\u7A96_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1103,
+          "Quantity": 3
+        },
+        {
+          "MonsterId": 1104,
+          "Quantity": 3
+        }
+      ]
+    },
+    {
+      "GroupId": 27,
+      "DisplayName": "\u88C2\u9699\u6D1E\u7A9F_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1090,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1094,
+          "Quantity": 300
+        },
+        {
+          "MonsterId": 1096,
+          "Quantity": 300
+        }
+      ]
+    },
+    {
+      "GroupId": 28,
+      "DisplayName": "\u88C2\u9699\u6D1E\u7A9F_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1101,
+          "Quantity": 6
+        },
+        {
+          "MonsterId": 1104,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 29,
+      "DisplayName": "\u88C2\u9699\u6D1E\u7A9F_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1107,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 30,
+      "DisplayName": "\u8352\u539F\u65E7\u8DEF_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1008,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1009,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1011,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1012,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1020,
+          "Quantity": 120
+        }
+      ]
+    },
+    {
+      "GroupId": 31,
+      "DisplayName": "\u8352\u539F\u65E7\u8DEF_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1033,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 32,
+      "DisplayName": "\u68D8\u6797\u6E7F\u5730_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1010,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1015,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1016,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1017,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1022,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1023,
+          "Quantity": 120
+        }
+      ]
+    },
+    {
+      "GroupId": 33,
+      "DisplayName": "\u68D8\u6797\u6E7F\u5730_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1034,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 34,
+      "DisplayName": "\u8352\u6751\u5E9F\u589F_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1013,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1029,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1030,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1031,
+          "Quantity": 150
+        }
+      ]
+    },
+    {
+      "GroupId": 35,
+      "DisplayName": "\u8352\u6751\u5E9F\u589F_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1032,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 36,
+      "DisplayName": "\u8352\u6751\u5E9F\u589F_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1038,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 37,
+      "DisplayName": "\u5C71\u8D3C\u8425\u5BE8_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1028,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1029,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1030,
+          "Quantity": 150
+        },
+        {
+          "MonsterId": 1031,
+          "Quantity": 150
+        }
+      ]
+    },
+    {
+      "GroupId": 38,
+      "DisplayName": "\u5C71\u8D3C\u8425\u5BE8_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1037,
+          "Quantity": 8
+        }
+      ]
+    },
+    {
+      "GroupId": 39,
+      "DisplayName": "\u5C71\u8D3C\u8425\u5BE8_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1039,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 40,
+      "DisplayName": "\u67AF\u6797\u86DB\u7A74_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1014,
+          "Quantity": 160
+        },
+        {
+          "MonsterId": 1018,
+          "Quantity": 160
+        },
+        {
+          "MonsterId": 1019,
+          "Quantity": 160
+        }
+      ]
+    },
+    {
+      "GroupId": 41,
+      "DisplayName": "\u67AF\u6797\u86DB\u7A74_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1035,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 42,
+      "DisplayName": "\u67AF\u6797\u86DB\u7A74_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1040,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "GroupId": 43,
+      "DisplayName": "\u53E4\u6811\u5BC6\u6797_\u666E\u901A\u602A",
+      "Members": [
+        {
+          "MonsterId": 1021,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1024,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1025,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1026,
+          "Quantity": 120
+        },
+        {
+          "MonsterId": 1027,
+          "Quantity": 120
+        }
+      ]
+    },
+    {
+      "GroupId": 44,
+      "DisplayName": "\u53E4\u6811\u5BC6\u6797_\u7CBE\u82F1",
+      "Members": [
+        {
+          "MonsterId": 1036,
+          "Quantity": 6
+        }
+      ]
+    },
+    {
+      "GroupId": 45,
+      "DisplayName": "\u53E4\u6811\u5BC6\u6797_\u9996\u9886",
+      "Members": [
+        {
+          "MonsterId": 1041,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+}
