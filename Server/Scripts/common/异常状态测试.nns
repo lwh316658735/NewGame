@@ -1,5 +1,1 @@
-# 异常状态测试公共逻辑: 仅由本组测试物品和会话词缀调用。
-# 直接施加持续 10 秒, 扣血间隔、强度、抗性和施加间隔沿用全局规则。
-# 流血在真实伤害链中延后提交, 消息只报告受理, 不预报最终生效。
-# Keywords: AbnormalStatus, Item, Affix, Authority, Validation, DamageContext.
-
+# 公共函数脚本：异常状态测试
